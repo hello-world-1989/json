@@ -1,5 +1,6 @@
-[
-    { "keyword": "事件", "frequency": 13 },
+{
+  "date": 202403,
+  "data": [
     { "keyword": "爆炸", "frequency": 7 },
     { "keyword": "总理记者会", "frequency": 4 },
     { "keyword": "十四届全国人大二次会议", "frequency": 3 },
@@ -34,4 +35,4 @@
     { "keyword": "2024国际新能源汽车展", "frequency": 1 },
     { "keyword": "常规赛", "frequency": 1 }
   ]
-  
+}

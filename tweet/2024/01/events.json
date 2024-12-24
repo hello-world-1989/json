@@ -1,7 +1,8 @@
-[
+{
+  "date": 202401,
+  "data": [
     { "keyword": "爆炸", "frequency": 2 },
     { "keyword": "广场倒计时活动", "frequency": 1 },
-    { "keyword": "活动", "frequency": 1 },
     { "keyword": "亚运会", "frequency": 1 },
     { "keyword": "坠亡事件", "frequency": 1 },
     { "keyword": "音乐会", "frequency": 1 },
@@ -22,4 +23,4 @@
     { "keyword": "总决赛", "frequency": 1 },
     { "keyword": "颁奖礼", "frequency": 1 }
   ]
-  
+}

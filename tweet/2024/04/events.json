@@ -1,5 +1,6 @@
-[
-    { "keyword": "事件", "frequency": 14 },
+{
+  "date": 202404,
+  "data": [
     { "keyword": "行人事件", "frequency": 2 },
     { "keyword": "活动", "frequency": 2 },
     { "keyword": "猫一杯", "frequency": 2 },
@@ -23,4 +24,4 @@
     { "keyword": "车祸", "frequency": 1 },
     { "keyword": "联合国人权会议", "frequency": 1 }
   ]
-  
+}
