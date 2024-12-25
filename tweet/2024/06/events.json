@@ -1,15 +1,13 @@
 {
-  "date": 202406,
+  "date": "202406",
   "data": [
     { "keyword": "悼念活动", "frequency": 6 },
+    { "keyword": "戒严部队", "frequency": 9 },
     { "keyword": "吉林美国教师遇袭案", "frequency": 5 },
     { "keyword": "外交豁免姐", "frequency": 4 },
-    { "keyword": "活动", "frequency": 3 },
     { "keyword": "交通事故", "frequency": 3 },
     { "keyword": "记者会", "frequency": 2 },
     { "keyword": "粽子活动", "frequency": 2 },
-    { "keyword": "爆炸", "frequency": 2 },
-    { "keyword": "婚礼", "frequency": 2 },
     { "keyword": "跳楼事件", "frequency": 1 },
     { "keyword": "涂鸦事件", "frequency": 1 },
     { "keyword": "香格里拉对话会", "frequency": 1 },
@@ -17,8 +15,7 @@
     { "keyword": "美国国会听证会", "frequency": 1 },
     { "keyword": "劳资纠纷案件", "frequency": 1 },
     { "keyword": "家委会", "frequency": 1 },
-    { "keyword": "研讨会", "frequency": 1 },
-    { "keyword": "游行", "frequency": 1 },
+    { "keyword": "小孩哥", "frequency": 1 },
     { "keyword": "粽子大赛", "frequency": 1 },
     { "keyword": "坍塌事故", "frequency": 1 },
     { "keyword": "袁桌会", "frequency": 1 },
@@ -31,8 +28,7 @@
     { "keyword": "开机仪式", "frequency": 1 },
     { "keyword": "升旗仪式", "frequency": 1 },
     { "keyword": "粉红队伍", "frequency": 1 },
-    { "keyword": "决赛", "frequency": 1 },
     { "keyword": "数学竞赛决赛", "frequency": 1 },
-    { "keyword": "赛事", "frequency": 1 }
+    { "keyword": "铁头", "frequency": 1 }
   ]
 }

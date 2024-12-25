@@ -1,6 +1,7 @@
 {
   "date": "202306",
   "data": [
+    { "keyword": "鼠头鸭脖", "frequency": 7 },
     { "keyword": "比赛", "frequency": 5 },
     { "keyword": "游行", "frequency": 2 },
     { "keyword": "天价烧烤", "frequency": 3 },

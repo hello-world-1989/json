@@ -6,14 +6,11 @@
     { "keyword": "核酸检测", "frequency": 2 },
     { "keyword": "健康码", "frequency": 2 },
     { "keyword": "游行", "frequency": 2 },
-    { "keyword": "活动", "frequency": 1 },
-    { "keyword": "世界杯", "frequency": 1 },
-    { "keyword": "会议", "frequency": 1 },
-    { "keyword": "比赛", "frequency": 1 },
+    { "keyword": "2022年度盘点", "frequency": 1 },
     { "keyword": "街上游行示威", "frequency": 1 },
     { "keyword": "中央政法委全体会议", "frequency": 1 },
     { "keyword": "全国新冠疫情防控工作电视电话会议", "frequency": 1 },
     { "keyword": "中超联赛", "frequency": 1 },
-    { "keyword": "卡丁车耐力赛", "frequency": 1 }
+    { "keyword": "幻想星辰大海不如活在当下", "frequency": 1 }
   ]
 }

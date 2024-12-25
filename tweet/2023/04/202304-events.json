@@ -5,7 +5,7 @@
     { "keyword": "董志民", "frequency": 5 },
     { "keyword": "招聘会", "frequency": 2 },
     {
-      "keyword": "北京广播电视台 第一届北京市中小学高尔夫球比赛",
+      "keyword": "第一届北京市中小学高尔夫球比赛",
       "frequency": 1
     },
     { "keyword": "李庄案", "frequency": 1 },
@@ -16,8 +16,6 @@
     { "keyword": "全市中小学家长会", "frequency": 1 },
     { "keyword": "学校招聘会", "frequency": 1 },
     { "keyword": "集会", "frequency": 1 },
-    { "keyword": "美团外卖员集体罢工", "frequency": 1 },
-    { "keyword": "比赛", "frequency": 1 },
-    { "keyword": "活动", "frequency": 1 }
+    { "keyword": "美团外卖员集体罢工", "frequency": 1 }
   ]
 }

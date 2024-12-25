@@ -2,10 +2,7 @@
   "date": "202305",
   "data": [
     { "keyword": "砍人事件", "frequency": 2 },
-    { "keyword": "秀事件", "frequency": 2 },
-    { "keyword": "比赛", "frequency": 2 },
-    { "keyword": "爆炸", "frequency": 2 },
-    { "keyword": "罢工", "frequency": 2 },
+    { "keyword": "十八赢", "frequency": 2 },
     { "keyword": "新闻发布会", "frequency": 2 },
     { "keyword": "国际公共卫生安全事件", "frequency": 1 },
     { "keyword": "骑手罢工", "frequency": 1 },
