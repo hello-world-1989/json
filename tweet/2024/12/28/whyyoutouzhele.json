@@ -106,5 +106,41 @@
     "retweets": 37,
     "views": 32482,
     "originVideos": ""
+  },
+  {
+    "id": "1872724322198159807",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-28 03:20:46",
+    "content": "12月27日，陕西。农民工们齐刷刷的跪在公司门外讨薪 https://t.co/7jcx8tZOTI",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/28/1872724322198159807_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 109,
+    "replies": 46,
+    "retweets": 11,
+    "views": 15703,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872723634248400896/pu/vid/avc1/720x1280/CxbSTt8AGVRd-fMR.mp4?tag=12,"
+  },
+  {
+    "id": "1872693217743065161",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-28 01:17:10",
+    "content": "曾在靖国神社前纵火的刘强，近日头戴圣诞帽，用中英文祝贺大家圣诞节快乐，遭到粉丝抨击。\n 其粉丝表示“你变了” \n“强哥你戴这个帽子不合适吧”\n“英雄肯定心里在想恨铁不成钢” https://t.co/iata3cSrXL",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_0.jpg,/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_1.jpg,/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/28/1872693217743065161_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 228,
+    "replies": 35,
+    "retweets": 20,
+    "views": 47319,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872693051510145034/pu/vid/avc1/720x1280/ROmhBCE9xTs8ksok.mp4?tag=12,"
   }
 ]
