@@ -70,5 +70,41 @@
     "retweets": 37,
     "views": 50992,
     "originVideos": "https://video.twimg.com/ext_tw_video/1877747783282917376/pu/vid/avc1/654x1280/eBtOFI-yMCjWlJHu.mp4?tag=12,"
+  },
+  {
+    "id": "1877797556820091002",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-11 03:19:59",
+    "content": "https://t.co/lxQJiy1t6I",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 121,
+    "replies": 3,
+    "retweets": 11,
+    "views": 66523,
+    "originVideos": ""
+  },
+  {
+    "id": "1877797506488340915",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-11 03:19:47",
+    "content": "中国油管博主“我是严大陆”去年赴台旅游后，经常在油管视频中称赞台湾，近日被网民发现突然关闭频道，并且国内社交平台也找不到其网络踪迹，彷佛人间蒸发一般。\n 据悉，严大路消失前，在最后一支视频里挥舞青天白日旗，祝贺中华民国113岁生日快乐，并表示认同赖清德在双十庆典中所说的祖国论，外界猜测严大路的消失可能与此有关。\n 严大路在视频中称，“中共政权就是造中华民国的反起家的”“中华民国当之无愧是中华人民共和国的老大哥”",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/11/1877797506488340915_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/11/1877797506488340915_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 443,
+    "replies": 60,
+    "retweets": 72,
+    "views": 75982,
+    "originVideos": "https://video.twimg.com/amplify_video/1877797037116456960/vid/avc1/1280x720/na-hHHjbZj01U1FW.mp4?tag=14,"
   }
 ]
