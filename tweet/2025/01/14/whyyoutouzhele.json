@@ -52,5 +52,23 @@
     "retweets": 19,
     "views": 35696,
     "originVideos": ""
+  },
+  {
+    "id": "1878878796402847767",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-14 02:56:27",
+    "content": "1月12日，上海。小孩手拿话筒高唱国歌 https://t.co/boYZIP5TBM",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/14/1878878796402847767_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 191,
+    "replies": 105,
+    "retweets": 12,
+    "views": 62854,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1878878394303315968/pu/vid/avc1/720x1280/ykdCBYqYfg8afS4G.mp4?tag=12,"
   }
 ]
