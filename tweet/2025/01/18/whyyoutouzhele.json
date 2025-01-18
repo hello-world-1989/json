@@ -70,5 +70,23 @@
     "retweets": 15,
     "views": 28176,
     "originVideos": ""
+  },
+  {
+    "id": "1880336309337878704",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-18 03:28:05",
+    "content": "1月17日(发布) 一网友在安徽消防直播间评论：“你们总队纪委电话怎么打不通啊，可以回复一下吗？”\n 该网友随即被安徽消防禁言。 https://t.co/HvE4EkqoId",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/18/1880336309337878704_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 614,
+    "replies": 52,
+    "retweets": 40,
+    "views": 91081,
+    "originVideos": ""
   }
 ]
