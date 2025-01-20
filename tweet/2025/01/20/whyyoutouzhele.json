@@ -16,5 +16,41 @@
     "retweets": 7,
     "views": 20649,
     "originVideos": ""
+  },
+  {
+    "id": "1881089580214214729",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-20 05:21:19",
+    "content": "美国众议院特设中国委员会主席致函泰国驻美大使，敦促泰国政府不要遣返其羁押的逃离中国的维吾尔人，因为他们很可能会被送进集中营；并强调，协助中共践踏人权者应面临美国制裁。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 195,
+    "replies": 39,
+    "retweets": 26,
+    "views": 63796,
+    "originVideos": ""
+  },
+  {
+    "id": "1881040230645739631",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-20 02:05:13",
+    "content": "1 月 20 日，TikTok 发布声明称：根据与我们的服务提供商达成的协议，TikTok 正在恢复服务。我们感谢特朗普总统为我们的服务提供商提供了必要的明确性和保证，确保他们在向超过 1.7 亿美国用户提供 TikTok 服务时不会面临任何处罚，同时也使得超过 700 万家小型企业得以繁荣发展。\n 这是对第一修正案的有力捍卫，也是对任意审查行为的坚决反对。我们将与特朗普总统合作，寻求一项长期解决方案，确保 TikTok 能继续留在美国。",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/20/1881040230645739631_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 460,
+    "replies": 158,
+    "retweets": 47,
+    "views": 269376,
+    "originVideos": ""
   }
 ]
