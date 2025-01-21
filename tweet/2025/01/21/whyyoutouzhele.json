@@ -70,5 +70,41 @@
     "retweets": 158,
     "views": 290507,
     "originVideos": "https://video.twimg.com/ext_tw_video/1881424823152472064/pu/vid/avc1/720x1280/O1zMqbkSvbeRFR4x.mp4?tag=12,"
+  },
+  {
+    "id": "1881623225224110577",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-21 16:41:50",
+    "content": "1月20日，特朗普在白宫签署行政命令，非法移民或持临时签证者在美出生的子女将不再自动获得美国公民身份，该行政令将在发布30天后生效。 https://t.co/2Hg8OWuQVd",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/21/1881623225224110577_0.jpg,/tweet/image/whyyoutouzhele/2025/01/21/1881623225224110577_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 160,
+    "replies": 40,
+    "retweets": 10,
+    "views": 23458,
+    "originVideos": ""
+  },
+  {
+    "id": "1881574475214590431",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-21 13:28:07",
+    "content": "1月18日，浙江湖州。博主“凡不拉几”在高铁站采访返乡的工人在这一年里有什么收获。\n 受访者：“疫情后活少了很多，我们的钱到现在都没结清呢，”\n “我是快递员没有假期，忙着在外挣钱，小孩出生都没见到”\n “我做服装行业，不仅没赚钱还亏了钱，不是说我不想给老人孩子买礼物，是口袋里没钱” https://t.co/nRdMHsOtfy",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/21/1881574475214590431_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 444,
+    "replies": 99,
+    "retweets": 56,
+    "views": 104902,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1881573826586402817/pu/vid/avc1/408x724/3XTxoA9rbFLtTjnJ.mp4?tag=12,"
   }
 ]
