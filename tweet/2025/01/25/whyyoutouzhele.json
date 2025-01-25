@@ -70,5 +70,41 @@
     "retweets": 13,
     "views": 20295,
     "originVideos": ""
+  },
+  {
+    "id": "1882874333221249140",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-25 03:33:17",
+    "content": "1月24日，辽宁。等绿灯的间隙，一名外卖员崩溃大哭：我都被堵一天了 https://pbs.twimg.com/ext_tw_video_thumb/1882873637734342656/pu/img/RADq-tcUPheq8wKi.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/25/1882874333221249140_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 322,
+    "replies": 39,
+    "retweets": 24,
+    "views": 63594,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1882873637734342656/pu/vid/avc1/720x1280/tPJNMjBeiLgkFAjV.mp4?tag=12,"
+  },
+  {
+    "id": "1882846145690603544",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-25 01:41:17",
+    "content": "抖音博主巴博斯，发布了九百多条朝鲜的剪辑视频，贡献了数月的将军梗，短短几月便吸粉上百万。谁曾想他在1月1日发布一段天安门的视频，并配文：“麦子熟了五千次，人民万岁是第一次” 史称为了一碟醋包了九百个饺子，蓄势已久就为告诉观众真正的朝鲜在哪\n1月24日，巴博斯抖音账号被禁止关注，有网友调侃“巴博斯受邀成为朝鲜大型烟试看员” “至此已成艺术，官方认证”",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/25/1882846145690603544_0.jpg,/tweet/image/whyyoutouzhele/2025/01/25/1882846145690603544_1.jpg,/tweet/image/whyyoutouzhele/2025/01/25/1882846145690603544_2.jpg,/tweet/image/whyyoutouzhele/2025/01/25/1882846145690603544_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1672,
+    "replies": 83,
+    "retweets": 131,
+    "views": 416951,
+    "originVideos": ""
   }
 ]
