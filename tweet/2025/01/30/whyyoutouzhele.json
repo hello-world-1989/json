@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1884643123781120291",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:41:50",
+    "content": "1月28日，云南。一男子发视频称，他卖了一块手表，结果被告知收到的钱是涉诈资金，导致银行卡、微信支付宝被冻结无法使用，多次给警察打电话发信息反映，但都没有回复。\n 男子称他为了自证清白想让买家来警局做笔录，但警方表示，只要能证明自己只是单纯卖表的话，无需让买家过来做笔录。\n 后来警方又称手表找不到了，可能已经流出到境外了，问他是否愿意退掉这笔涉诈资金，男子拒绝并质疑警方态度敷衍不负责辜负了他的期望。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/30/1884643123781120291_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 79,
+    "replies": 27,
+    "retweets": 14,
+    "views": 24145,
+    "originVideos": "https://video.twimg.com/amplify_video/1884639211460100096/vid/avc1/408x724/L-5fgTRjGqlj85Hj.mp4?tag=14,"
+  },
+  {
+    "id": "1884634869705384265",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:09:02",
+    "content": "NewsGuard 测评，DeepSeek 的聊天机器人在提供新闻和信息方面的准确率仅为 17%，在包括ChatGPT、Gemini在内的11个模型中排名第10。\n 根据媒体可信度评级服务机构 NewsGuard 周三发布的报告，DeepSeek 的聊天机器人在回答新闻相关提示时，30% 的时间重复虚假声明，53% 的时间给出模糊或无用的答案，导致失败率高达 83%。其他机器人在这个测评中平均失败率为62%。\n NewsGuard 表示，它对 DeepSeek 采用了与评估西方同行相同的 300 条提示，其中包括 30 条基于网上传播的 10 条虚假声明的提示。",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/30/1884634869705384265_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 189,
+    "replies": 50,
+    "retweets": 32,
+    "views": 32612,
+    "originVideos": ""
+  }
+]
