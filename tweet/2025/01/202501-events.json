@@ -1,0 +1,61 @@
+{
+  "date": "202501",
+  "data": [
+    {
+      "keyword": "活动",
+      "frequency": 7
+    },
+    {
+      "keyword": "事件",
+      "frequency": 4
+    },
+    {
+      "keyword": "恐怖袭击事件",
+      "frequency": 2
+    },
+    {
+      "keyword": "爆炸",
+      "frequency": 2
+    },
+    {
+      "keyword": "线新闻发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "中国央视晚会",
+      "frequency": 1
+    },
+    {
+      "keyword": "记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "巴黎奥运会",
+      "frequency": 1
+    },
+    {
+      "keyword": "烟花秀",
+      "frequency": 1
+    },
+    {
+      "keyword": "同类案件",
+      "frequency": 1
+    },
+    {
+      "keyword": "竞走比赛",
+      "frequency": 1
+    },
+    {
+      "keyword": "大赛",
+      "frequency": 1
+    },
+    {
+      "keyword": "集体罢工",
+      "frequency": 1
+    },
+    {
+      "keyword": "艾克拜尔·艾赛",
+      "frequency": 1
+    }
+  ]
+}
