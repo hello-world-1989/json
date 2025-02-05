@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1887173994060960030",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-06 00:18:36",
+    "content": "2月5日，有人上传一段白宫发言人莱维特回答记者提问的视频，不少网民将其和中国外交部发言人做对比：“自信阳光不用板着脸不用翻答案”\n“不用停40几秒然后说我不了解有关情况”\n“她说的英文我都懂，我们同样岗位说的中文却听不懂” https://pbs.twimg.com/ext_tw_video_thumb/1887173342152859648/pu/img/b8L_yn76I3fsTQfH.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/06/1887173994060960030_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 229,
+    "replies": 33,
+    "retweets": 23,
+    "views": 35378,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1887173342152859648/pu/vid/avc1/336x720/VfW6CrF2qbCjLxJn.mp4?tag=12,"
+  },
+  {
+    "id": "1887169515047530914",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-06 00:00:48",
+    "content": "美国邮政总局2月5日在其官方网站上宣布，美国邮政局将恢复接收来自中国和香港邮政的所有国际入境邮件和包裹。 https://pbs.twimg.com/media/GjCSmRXbQAAV1j9.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/06/1887169515047530914_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 42,
+    "replies": 19,
+    "retweets": 0,
+    "views": 20167,
+    "originVideos": ""
+  }
+]
