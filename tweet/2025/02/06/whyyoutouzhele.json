@@ -34,5 +34,41 @@
     "retweets": 0,
     "views": 20167,
     "originVideos": ""
+  },
+  {
+    "id": "1887213515926347830",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-06 02:55:39",
+    "content": "2月5日，黑龙江鹤岗。男子称他在2008年因事故导致残疾，只有头部能动。2012年因花光所有积蓄向政府申请救助。2023年救助金被政府取消，2024年1月低保待遇也被取消，去年年底，政府又让他退还这些年的救助96000元。 https://pbs.twimg.com/ext_tw_video_thumb/1887210788722786304/pu/img/6aP48GaiNhTVm1Cx.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/06/1887213515926347830_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 599,
+    "replies": 82,
+    "retweets": 126,
+    "views": 214026,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1887210788722786304/pu/vid/avc1/720x1280/MprvRs4EsoGXm65d.mp4?tag=12,"
+  },
+  {
+    "id": "1887316242605723819",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-06 09:43:51",
+    "content": "网友投稿\n2月6日凌晨，江苏省扬中市。\n市区街道上多辆汽车被砸碎后窗，每辆车均被塞入数张“9.3日反法西斯战争纪念日”宣传单。 https://pbs.twimg.com/ext_tw_video_thumb/1887315951189651457/pu/img/Sxr4mB5jBR5gySUG.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/06/1887316242605723819_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/06/1887316242605723819_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 2,
+    "views": 710,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1887315951189651457/pu/vid/avc1/544x960/-GNg0QMcrtrDF3kl.mp4?tag=12,"
   }
 ]
