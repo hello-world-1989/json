@@ -16,5 +16,41 @@
     "retweets": 14,
     "views": 26592,
     "originVideos": "https://video.twimg.com/ext_tw_video/1887895814447808512/pu/vid/avc1/480x832/kzXwVV67J9zYqA6w.mp4?tag=12,"
+  },
+  {
+    "id": "1887955167364129175",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-08 04:02:43",
+    "content": "近日，内蒙古赤峰。一位残疾贫困老人将自己的残疾证顶在头上实名维权，随后账号被封禁。\n老人称，自己16年被精准扶贫，一年后被政府脱贫，脱贫后的两年自己挨饿受冻，又被认定为特困户，但至今没有享受到任何待遇。如今自己的残疾金也被取消了，他希望有关部门给自己一条生路。\n但之后他的账户被封禁，发布的几个视频也均被删除。",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/08/1887955167364129175_0.jpg,/tweet/image/whyyoutouzhele/2025/02/08/1887955167364129175_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/08/1887955167364129175_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 419,
+    "replies": 59,
+    "retweets": 59,
+    "views": 70170,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1887953862226575360/pu/vid/avc1/582x1278/1jKLkjMMEwfivvdE.mp4?tag=12,"
+  },
+  {
+    "id": "1887918188970807559",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-08 01:35:46",
+    "content": "格隆汇数据：1983年至2024年，中国居民可支配收入占GDP的比例从62%下降至43%。 https://pbs.twimg.com/media/GjM7aUmaQAM9ef8.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/08/1887918188970807559_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 580,
+    "replies": 57,
+    "retweets": 80,
+    "views": 110229,
+    "originVideos": ""
   }
 ]
