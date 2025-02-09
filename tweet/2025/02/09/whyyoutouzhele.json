@@ -52,5 +52,41 @@
     "retweets": 6,
     "views": 26504,
     "originVideos": "https://video.twimg.com/ext_tw_video/1888257777526874112/pu/vid/avc1/720x1280/CQqW7zs34aGCHCGi.mp4?tag=12,"
+  },
+  {
+    "id": "1888304096685469992",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-09 03:09:14",
+    "content": "2月8日消息，深圳证监局原党委书记、局长陈小彭被开除党籍：严重败坏证券监管形象，严重污染资本市场生态..... https://pbs.twimg.com/media/GjSad7zbwAAHZX7.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/09/1888304096685469992_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 188,
+    "replies": 49,
+    "retweets": 17,
+    "views": 70228,
+    "originVideos": ""
+  },
+  {
+    "id": "1888386410756878750",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-09 08:36:19",
+    "content": "郴州市第二中学学生投稿\n学习时长的“军备竞赛”在郴州这座四线城市已经成了常态。早上6点醒来，出门面对接近0摄氏度的寒风，赶上首班公交车，坐在座位上闭上眼睛弥补着不足的睡眠时间。…",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 201,
+    "replies": 41,
+    "retweets": 12,
+    "views": 37026,
+    "originVideos": ""
   }
 ]
