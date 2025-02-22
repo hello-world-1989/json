@@ -70,5 +70,23 @@
     "retweets": 9,
     "views": 36261,
     "originVideos": ""
+  },
+  {
+    "id": "1893015684889878644",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-22 03:11:24",
+    "content": "2月18日晚间，云南省昆明市盘龙区昆明广场中央B区4栋的电梯疑因故障冲顶，导致59岁的业主韦某不幸身亡。其家属称“电梯猛然间从十七楼疾速坠落到负二楼，紧接着又猛冲至三十三楼。”… https://pbs.twimg.com/media/GkVXo4_aoAA27Pi.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/22/1893015684889878644_0.jpg,/tweet/image/whyyoutouzhele/2025/02/22/1893015684889878644_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 272,
+    "replies": 83,
+    "retweets": 29,
+    "views": 63560,
+    "originVideos": ""
   }
 ]
