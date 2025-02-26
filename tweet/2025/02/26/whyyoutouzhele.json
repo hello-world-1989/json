@@ -88,5 +88,41 @@
     "retweets": 12,
     "views": 19531,
     "originVideos": "https://video.twimg.com/ext_tw_video/1894417743677435904/pu/vid/avc1/720x1280/3bTtjYIIvXN4Mcof.mp4?tag=12,"
+  },
+  {
+    "id": "1894469000962400753",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-26 03:26:22",
+    "content": "2月23日，一名博主称，现在的新能源车企，都热衷于造词，什么“麒麟电池、灵犀通信、乾坤智驾、鲲鹏算力.....” 博主认为，现在很多新能源车企在营销上的集体中二病，恰恰暴露出对自己技术研发的不自信，于是用造词来填补技术攻克上的焦虑，但消费者要的不是这些词语，而是真诚。 https://pbs.twimg.com/ext_tw_video_thumb/1894466258143514626/pu/img/ODUguHtAnkXK0VjG.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/26/1894469000962400753_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 458,
+    "replies": 104,
+    "retweets": 67,
+    "views": 88415,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1894466258143514626/pu/vid/avc1/720x1280/B6CsjfyF6oFCho8V.mp4?tag=12,"
+  },
+  {
+    "id": "1894438611912986763",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-26 01:25:36",
+    "content": "该事件引发舆论关注后，北京体育局修改了2025年度财政预算报表，将“优秀运动员训练比赛保障经费”一栏的谷爱凌和朱易的名字删除。 https://pbs.twimg.com/media/GkplKYtXsAAbm9a.png",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/26/1894438611912986763_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 198,
+    "replies": 28,
+    "retweets": 11,
+    "views": 47448,
+    "originVideos": ""
   }
 ]
