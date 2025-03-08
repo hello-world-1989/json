@@ -214,5 +214,41 @@
     "retweets": 33,
     "views": 38570,
     "originVideos": "https://video.twimg.com/ext_tw_video/1898237286887964674/pu/vid/avc1/576x1022/3fqRZkZ2vb7fs_1l.mp4?tag=12,"
+  },
+  {
+    "id": "1898280540647625061",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-03-08 15:52:03",
+    "content": "欢迎通过https://xn--11xs86f.icu/zh-CN填写和查看中国劳动者超时工作情况。  你的境遇，掷地有声。",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 101,
+    "originVideos": ""
+  },
+  {
+    "id": "1898280436557860931",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-03-08 15:51:39",
+    "content": "https://xn--11xs86f.icu\n中国铁路昆明局职工投稿：\n铁路劳务派遣和正式职工工作一样，却无公积金，社保也是最低档。休息日也不能回家，而是在单位宿舍热备上班\n每年都有同事猝死。一旦出事，便是“不得传播对本单位不利的事件”\n每每想辞职家人都会说：好不容易才把你弄进铁饭碗单位，要好好珍惜才是。 https://pbs.twimg.com/media/GlgJFHfbwAI-WSM.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/08/1898280436557860931_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 3,
+    "retweets": 0,
+    "views": 242,
+    "originVideos": ""
   }
 ]
