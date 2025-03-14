@@ -718,5 +718,23 @@
     "retweets": 4,
     "views": 7027,
     "originVideos": "https://video.twimg.com/ext_tw_video/1900524642647121920/pu/vid/avc1/480x270/4qPmD6exeGbOxXLI.mp4?tag=12"
+  },
+  {
+    "id": "1900529883966791968",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 20:50:09",
+    "content": "彭博引述匿名知情人士称，中国政府正考虑削减业绩不佳的基金经理高达五成薪酬，作为改革公募基金以提振长期投资的部分措施。\n 知情人士说，根据草案，基金利润率在高管业绩考核权重将不低于50%，而公司规模和排名等其他指标的重要性将降低。此草案尚未最终敲定，可能还会有变化。 https://t.co/qxuQS7xqSn",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900529883966791968_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1982,
+    "originVideos": ""
   }
 ]
