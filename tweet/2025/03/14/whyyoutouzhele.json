@@ -808,5 +808,23 @@
     "retweets": 2,
     "views": 4804,
     "originVideos": ""
+  },
+  {
+    "id": "1900555115645599808",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 22:30:24",
+    "content": "美国总统特朗普14日在社交媒体上说，美方与俄方进行了“非常良好和富有成效的讨论”“可怕而血腥的”俄乌战争很有可能走向结束。此时此刻，数千名乌克兰军队完全被俄罗斯军队包围，处境非常糟糕且脆弱”“我强烈要求普京不要杀害他们。这将是一场可怕的大屠杀，自二战以来从未见过”“上帝保佑他们所有人” https://t.co/sEu8NLWknf",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900555115645599808_0.jpg,tweet/image/whyyoutouzhele/2025/03/14/1900555115645599808_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1394,
+    "originVideos": ""
   }
 ]
