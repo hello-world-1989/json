@@ -862,5 +862,23 @@
     "retweets": 2,
     "views": 4633,
     "originVideos": "https://video.twimg.com/ext_tw_video/1900568078427287552/pu/vid/avc1/320x568/cbO-c3vTKp6H-mKp.mp4?tag=12"
+  },
+  {
+    "id": "1900575401115808084",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 23:51:01",
+    "content": "OpenAI在一项新的政策提案中，将DeepSeek描述成一家受“国家控制”的实体，呼吁美国政府考虑禁止 DeepSeek 及其他中国人工智能模型。\n 该提案声称 DeepSeek 的模型（包括其R1“推理”模型）存在安全隐患，因为它需要根据中国相关法律要求收集用户数据，这可能侵犯用户隐私。\n OpenAI… https://t.co/TOPTWUYOoL https://t.co/2Bc6ikx0Q9",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900575401115808084_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 9,
+    "retweets": 3,
+    "views": 5056,
+    "originVideos": ""
   }
 ]
