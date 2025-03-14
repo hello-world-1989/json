@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 1982,
     "originVideos": ""
+  },
+  {
+    "id": "1900535059704397825",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 21:10:43",
+    "content": "国家金融监管总局：金融机构要围绕扩大商品消费，发展服务消费和培育新型消费，丰富完善金融产品和服务。风险可控前提下加大个人消费贷款投放力度。 https://t.co/TsKiWrFf1v",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900535059704397825_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 10,
+    "retweets": 1,
+    "views": 5272,
+    "originVideos": ""
   }
 ]
