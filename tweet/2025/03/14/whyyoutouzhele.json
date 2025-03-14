@@ -898,5 +898,23 @@
     "retweets": 2,
     "views": 3424,
     "originVideos": ""
+  },
+  {
+    "id": "1900588602029166870",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 00:43:28",
+    "content": "3月14日，上海。一名女子称，好友苑某是22级复旦大学中文系文艺学专业博士生，为人忠厚老实善良，今天在组会上失联，直到14日晚22:00点仍未见其踪影。\n 女子称他出门时穿的很少，如果有人看到他，请帮我转告他：“没有什么事是解决不了的，所有爱你的朋友都在等你回家” https://t.co/ldxwjpyMYS",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900588602029166870_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1480,
+    "originVideos": ""
   }
 ]
