@@ -934,5 +934,23 @@
     "retweets": 8,
     "views": 4136,
     "originVideos": ""
+  },
+  {
+    "id": "1900595915314073776",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 01:12:32",
+    "content": "杭州网报道：3月12日，中医专家宋兆普给驻华记者把脉，精准说出其还没结婚，谈过两个女朋友。网友：再摸一会银行卡密码都知道了。 https://t.co/gwyXN6eOp4",
+    "images": "",
+    "videos": "tweet/video/whyyoutouzhele/2025/03/14/1900595915314073776_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 9,
+    "retweets": 1,
+    "views": 2750,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1900595382184538112/pu/vid/avc1/320x684/QhJEZ9xddPWKoaAx.mp4?tag=12"
   }
 ]
