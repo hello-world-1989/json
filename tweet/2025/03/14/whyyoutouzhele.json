@@ -1006,5 +1006,23 @@
     "retweets": 3,
     "views": 3559,
     "originVideos": "https://video.twimg.com/ext_tw_video/1900612719985971200/pu/vid/avc1/320x532/RC-mpnnMspV8FnYI.mp4?tag=12"
+  },
+  {
+    "id": "1900618495601029340",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 02:42:15",
+    "content": "刚刚，加拿大新任总理向美国总统特朗普明确表示：加拿大永远不会成为美国的一部分。\n“我们绝不会以任何方式、形式或途径成为美国的一部分…” https://t.co/52c6i6AzhY",
+    "images": "",
+    "videos": "tweet/video/whyyoutouzhele/2025/03/14/1900618495601029340_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1450,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1900616980790476800/pu/vid/avc1/320x426/G91KTS60n8BcaKQE.mp4?tag=12"
   }
 ]
