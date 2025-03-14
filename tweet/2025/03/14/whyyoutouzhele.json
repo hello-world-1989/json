@@ -664,5 +664,23 @@
     "retweets": 3,
     "views": 21302,
     "originVideos": ""
+  },
+  {
+    "id": "1900516808094019994",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 19:58:11",
+    "content": "近日，福州“福百道”品牌在传宣自家的鱼丸产品时称：“我们 (做鱼丸) 传男不传女，一定要传男的，男的话必须要是长子先学” 引发网民不满和抵制。 https://t.co/GIWNR7A53D",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900516808094019994_0.jpg,tweet/image/whyyoutouzhele/2025/03/14/1900516808094019994_1.jpg,",
+    "videos": "tweet/video/whyyoutouzhele/2025/03/14/1900516808094019994_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1155,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1900516501456912384/pu/vid/avc1/320x568/vA0yg3Sw6GQd5tGb.mp4?tag=12"
   }
 ]
