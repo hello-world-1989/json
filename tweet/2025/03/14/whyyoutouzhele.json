@@ -754,5 +754,23 @@
     "retweets": 1,
     "views": 5272,
     "originVideos": ""
+  },
+  {
+    "id": "1900540768944820710",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-14 21:33:24",
+    "content": "3月13日，有小米SU7 Ultra车主称，接到交警电话，“沈阳全市排查小米SU7 Ultra” 交警要求自己签署驾驶安全承诺书，承诺不非法改装、不飙车、安全文明驾驶并接受监管。 https://t.co/hTplKEIFpc",
+    "images": "tweet/image/whyyoutouzhele/2025/03/14/1900540768944820710_0.jpg,tweet/image/whyyoutouzhele/2025/03/14/1900540768944820710_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 113,
+    "originVideos": ""
   }
 ]
