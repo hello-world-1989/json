@@ -826,5 +826,23 @@
     "retweets": 1,
     "views": 1287,
     "originVideos": ""
+  },
+  {
+    "id": "1900873040948605427",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 19:33:44",
+    "content": "上个月，西藏自治区昌都市边坝县，当地教育局发起了一场面向中小学生的线上讲故事比赛，要求学生讲述有关共产党如何伟大的“红色故事”。… https://t.co/YXcJYLMR8K https://t.co/mJICIgDTJT",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900873040948605427_0.jpg,/tweet/image/whyyoutouzhele/2025/03/15/1900873040948605427_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 3,
+    "retweets": 0,
+    "views": 937,
+    "originVideos": ""
   }
 ]
