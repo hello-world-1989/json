@@ -898,5 +898,41 @@
     "retweets": 1,
     "views": 1295,
     "originVideos": ""
+  },
+  {
+    "id": "1900887483984081104",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 20:31:07",
+    "content": "3月14日，网传一高校让学生观看《哪吒2》并运用马克思主义哲学的相关理论，对影片进行阐述，撰写一篇字数不少于800字的观后感。 https://t.co/08aDwCvrg2",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900887483984081104_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 0,
+    "views": 681,
+    "originVideos": ""
+  },
+  {
+    "id": "1900885944489963789",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 20:25:00",
+    "content": "在2025杭州问题车展上，一位厂商工作人员在现场表示可以拿出诚意帮车主解决问题。车主怒问：你的诚意在哪呢？你现在跟我说诚意，之前联系你们，你们理都不理我。 https://t.co/FVktVS3UKz",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/15/1900885944489963789_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 11,
+    "retweets": 0,
+    "views": 3422,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1900884306769428482/pu/vid/avc1/320x568/jH-trKfh1pwXFXb4.mp4?tag=12"
   }
 ]
