@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 1295,
     "originVideos": "https://video.twimg.com/ext_tw_video/1900826473482907650/pu/vid/avc1/320x568/ij-uzc8yEG9EEcQX.mp4?tag=12"
+  },
+  {
+    "id": "1900831661350424901",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 16:49:18",
+    "content": "吉林省委书记黄强：让想干事、能干事、干成事、不出事的干部有舞台，让蛮干胡干、躺平不干的干部靠边站。 https://t.co/e6wno5XLhT",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900831661350424901_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 13,
+    "retweets": 1,
+    "views": 2662,
+    "originVideos": ""
   }
 ]
