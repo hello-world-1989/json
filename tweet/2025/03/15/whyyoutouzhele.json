@@ -862,5 +862,41 @@
     "retweets": 1,
     "views": 2996,
     "originVideos": ""
+  },
+  {
+    "id": "1900881097732276625",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 20:05:45",
+    "content": "这是由 「$Li 社区」与「李老师不是你老师」发起的公益项目，我们希望调查曝光中国国内存在的一切剥削打工人的恶劣行为！拒绝996！拒绝无休止加班！拒绝剥削！拒绝压榨！拒绝压迫！拒绝一切不平等的待遇！\n默不作声只会放纵这些企业对劳动者的压榨，\n填写报表✍️：https://t.co/21RkQVdac8… https://t.co/oOWN2Sc7Q5",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1044,
+    "originVideos": ""
+  },
+  {
+    "id": "1900881017998897277",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 20:05:26",
+    "content": "$LI 社区项目 https://t.co/JgSoAJUttQ 数据整理\n2025/03/15为止 https://t.co/JgSoAJUttQ 获得了3524个有效投稿（总投稿4161）\n• 从投稿数量来看，私企/民营最多（2133条），其次是国企/国资（701条），再次是外资/合资（406条）和政府/事业单位（214条），其他类别最少（66条）。\n•… https://t.co/ZMZphiLaxq https://t.co/9heX5dhIxt",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900881017998897277_0.jpg,/tweet/image/whyyoutouzhele/2025/03/15/1900881017998897277_1.jpg,/tweet/image/whyyoutouzhele/2025/03/15/1900881017998897277_2.jpg,/tweet/image/whyyoutouzhele/2025/03/15/1900881017998897277_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 1,
+    "views": 1295,
+    "originVideos": ""
   }
 ]
