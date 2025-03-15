@@ -484,5 +484,41 @@
     "retweets": 3,
     "views": 5593,
     "originVideos": "https://video.twimg.com/ext_tw_video/1900773530440265734/pu/vid/avc1/320x568/as183G2iIx2rVga2.mp4?tag=12,https://video.twimg.com/ext_tw_video/1900773580293763073/pu/vid/avc1/320x568/7j5of0GIznwjHaOn.mp4?tag=12,https://video.twimg.com/ext_tw_video/1900773613642653696/pu/vid/avc1/320x568/4tOgfeUEQjFpOOfz.mp4?tag=12"
+  },
+  {
+    "id": "1900781784268489093",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 13:31:06",
+    "content": "美国能源部当地时间3月14日正式确认，美国今年1月已将韩国列入“敏感国家”名单。\n据悉，一旦被列入该名单，韩美在核能、人工智能等尖端技术领域的交流与合作会受到严格限制。… https://t.co/z9qjsgvnlz https://t.co/2e4pa4z55c",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900781784268489093_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 7,
+    "retweets": 0,
+    "views": 1738,
+    "originVideos": ""
+  },
+  {
+    "id": "1900779411924021716",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 13:21:41",
+    "content": "路透社的英文标题：\nDonald Trump makes Chinese stocks (somewhat) great again\n川普总统让中国股市（某种程度上）再次伟大\nhttps://t.co/zseaQDH47k",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 0,
+    "views": 3103,
+    "originVideos": ""
   }
 ]
