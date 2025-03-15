@@ -304,5 +304,23 @@
     "retweets": 1,
     "views": 3738,
     "originVideos": ""
+  },
+  {
+    "id": "1900707333509955935",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 08:35:16",
+    "content": "华尔街日报报道：中国正在迅速扩大其海岸以外海域的海洋勘探活动，派出一支舰队进行研究，为北京方面提供宝贵的军事情报，从而扩大其海军影响力并对美国盟友构成威胁。 https://t.co/ubr3FT6iBH",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900707333509955935_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 8,
+    "retweets": 3,
+    "views": 8967,
+    "originVideos": ""
   }
 ]
