@@ -790,5 +790,41 @@
     "retweets": 8,
     "views": 2843,
     "originVideos": ""
+  },
+  {
+    "id": "1900868907721801890",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 19:17:18",
+    "content": "中国官媒报道：记者从南部战区海军机关了解到，3月15日13时30分许，该部所属1架|战斗机在进行训练时失事，坠毁于海南省临高县加来镇附近空地，飞行员成功跳伞，未造成地面附带损伤。南部战区海军正在组织力量进行事故善后处置，事故原因有待进一步调查核实。 https://t.co/8V9CM3wxyp",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900868907721801890_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 126,
+    "originVideos": ""
+  },
+  {
+    "id": "1900868024212877502",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-15 19:13:48",
+    "content": "纽约时报：特朗普总统周五签署了一项行政命令，寻求解散另外七个联邦机构，其中包括负责监管美国之音的母公司和全球其他政府资助媒体的机构。\n 和总统为缩减政府规模而采取的许多举措一样，这项行政令似乎在试探他的权力界限。例如，美国之音的母公司美国全球媒体署是国会授权的独立机构，国会于 2020… https://t.co/AMUWp3ovig https://t.co/BmiUePZ4ZN",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/15/1900868024212877502_0.jpg,/tweet/image/whyyoutouzhele/2025/03/15/1900868024212877502_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1287,
+    "originVideos": ""
   }
 ]
