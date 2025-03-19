@@ -952,5 +952,23 @@
     "retweets": 3,
     "views": 4191,
     "originVideos": ""
+  },
+  {
+    "id": "1902345268596818264",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 21:03:50",
+    "content": "2024年9月14日，北海中学校长王建刚在学校被学生爆头并锁喉。 https://t.co/DBLcNbiXfT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/19/1902345268596818264_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 9,
+    "retweets": 1,
+    "views": 2478,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902345146290860032/pu/vid/avc1/480x270/LvKt7AQTtB50cdhR.mp4?tag=12"
   }
 ]
