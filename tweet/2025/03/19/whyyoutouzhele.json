@@ -700,5 +700,41 @@
     "retweets": 3,
     "views": 3170,
     "originVideos": ""
+  },
+  {
+    "id": "1902320402124435962",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 19:25:01",
+    "content": "21年9月18日 王建刚 刚上任就发表了军国主义言论，其军国主义发言在微博上形成词条讨论\n其还在918讲话上逆天发言：之前有女同学求他不要那么严格，也有学生骂他“傻逼校长”。后来他梦到求他的女同学被日军围住，然后刺刀捅死，因为这个女同学觉得学校这个改革不太好。\n喊他傻逼的孩子们，被小小的澳大利亚围住。把他们打扮成袋鼠的样子，调戏他，说他们是傻逼。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/19/1902320402124435962_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/19/1902320402124435962_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1465,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902319027751657472/pu/vid/avc1/480x270/A9Z0L-MPqrRDeE7R.mp4?tag=12"
+  },
+  {
+    "id": "1902319558003966222",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 19:21:40",
+    "content": "3月19日，习近平抵达丽江视察。据当地网友透露，涉及途经的周边严加看管，不让拍照，开窗，也不能拉开窗帘，同时管控特斯拉出行。 https://t.co/Hhm8q56yEk",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/19/1902319558003966222_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 11,
+    "retweets": 0,
+    "views": 3138,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902319324133781506/pu/vid/avc1/320x568/5OztivBPKgZYwu3A.mp4?tag=12"
   }
 ]
