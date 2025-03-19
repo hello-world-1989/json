@@ -862,5 +862,41 @@
     "retweets": 0,
     "views": 2188,
     "originVideos": ""
+  },
+  {
+    "id": "1902338483915780567",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 20:36:52",
+    "content": "尼日尔驱逐三名中国石油公司高管，并关闭了一家属于中国公司的酒店。\n 多名博主呼吁：“请《大公报》严厉谴责掠夺中国国家资产的尼日尔军政府！” 还有网民纷纷艾特吴京出手解决。 https://t.co/B0gGgi3V2g",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/19/1902338483915780567_0.jpg,/tweet/image/whyyoutouzhele/2025/03/19/1902338483915780567_1.jpg,/tweet/image/whyyoutouzhele/2025/03/19/1902338483915780567_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1000,
+    "originVideos": ""
+  },
+  {
+    "id": "1902337629057904752",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 20:33:29",
+    "content": "24年5月5日，在一个月内两个学生跳楼自杀事件后\n北海中学学生发布《告北海市全体市民书》，声讨校长王建刚和其高压管理政策，造成学生自杀。\n王建刚公然违反教育部关于《中小学减负措施》的规定，强行推行衡水模式，让学生八小时睡眠都无法保障。\n其还不给周末补课老师工资。\nhttps://t.co/kx7Jc6NHIg",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2420,
+    "originVideos": ""
   }
 ]
