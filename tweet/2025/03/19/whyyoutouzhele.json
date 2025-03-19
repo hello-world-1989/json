@@ -646,5 +646,23 @@
     "retweets": 0,
     "views": 462,
     "originVideos": ""
+  },
+  {
+    "id": "1902313114533818524",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 18:56:04",
+    "content": "五年前的今天，武汉市公安局发布通报，决定撤销对李文亮的训诫书，并就此错误向当事人家属郑重道歉。\n 有博主发布发帖回忆此事，随后被平台删除。 https://t.co/NAFOhG1yCA",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/19/1902313114533818524_0.jpg,/tweet/image/whyyoutouzhele/2025/03/19/1902313114533818524_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1259,
+    "originVideos": ""
   }
 ]
