@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 396,
     "originVideos": ""
+  },
+  {
+    "id": "1902426230961701214",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 02:25:33",
+    "content": "特朗普与泽连斯基结束通话后发文称：“刚刚与乌克兰总统泽连斯基进行了一次非常愉快的电话交谈。通话持续了大约一个小时。大部分讨论都是基于昨天与普京总统的通话，目的是让俄罗斯和乌克兰在要求和需求方面保持一致。我们的进展非常顺利，我将请国务卿卢比奥和国家安全顾问迈克尔·沃尔兹准确说明讨论的要点。该声明将很快发布”",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902426230961701214_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 799,
+    "originVideos": ""
   }
 ]
