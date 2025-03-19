@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 1582,
     "originVideos": ""
+  },
+  {
+    "id": "1902297821291897087",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 17:55:18",
+    "content": "长和财务报表：截至去年6月，该公司12%的收入来自中国大陆和香港，低于2015年的逾26% 该公司约一半的收入来自欧洲和英国。 https://t.co/zMwQX6zB66",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/19/1902297821291897087_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1457,
+    "originVideos": ""
   }
 ]
