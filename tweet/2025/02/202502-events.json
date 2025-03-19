@@ -1,0 +1,49 @@
+{
+  "date": "202502",
+  "data": [
+    {
+      "keyword": "事件",
+      "frequency": 6
+    },
+    {
+      "keyword": "记者会",
+      "frequency": 2
+    },
+    {
+      "keyword": "贸易战",
+      "frequency": 2
+    },
+    {
+      "keyword": "村会",
+      "frequency": 1
+    },
+    {
+      "keyword": "简报会",
+      "frequency": 1
+    },
+    {
+      "keyword": "国务院关税税则委员会",
+      "frequency": 1
+    },
+    {
+      "keyword": "关系会",
+      "frequency": 1
+    },
+    {
+      "keyword": "活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "投资者会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "示威事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "全军教育活动",
+      "frequency": 1
+    }
+  ]
+}
