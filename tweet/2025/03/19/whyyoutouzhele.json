@@ -988,5 +988,23 @@
     "retweets": 3,
     "views": 3780,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902349908797173760/pu/vid/avc1/320x568/AhDErJmu45oNgUwS.mp4?tag=12"
+  },
+  {
+    "id": "1902353640427548818",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-19 21:37:06",
+    "content": "比利时联邦检察官办公室周二宣布，在针对中国华为公司在欧洲议会内部涉嫌腐败的调查中，有五人被指控犯有积极腐败或洗钱罪。 据检察院称，自2021年以来，贿赂行为 “经常 ”且 “非常隐蔽”，“打着商业游说的幌子”，形式多样，如担任政治职务的报酬或 “过多的礼物”，如食品和旅行费用或定期邀请参加足球比赛。\n 检察官没有透露涉案人员的姓名，也没有提供任何身份信息。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/19/1902353640427548818_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 892,
+    "originVideos": ""
   }
 ]
