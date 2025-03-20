@@ -844,5 +844,23 @@
     "retweets": 0,
     "views": 1902,
     "originVideos": ""
+  },
+  {
+    "id": "1902706534423081043",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 20:59:23",
+    "content": "此前，余承东曾表示，将在3月推出一款“全国人民买得起、想不到的产品”\n 3月20日，余承东在华为新品发布会上发布新品折叠手机Pura X，这款手机售价分别为7499元和7999元，Pura X典藏版售价为8999元和9999元。\n 网民表示：甚至连处理器都不敢提，我真的哭死；买不起都不是人开出人籍； https://t.co/aM5y8seNuR",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902706534423081043_0.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902706534423081043_1.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902706534423081043_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/20/1902706534423081043_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "views": 42,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902706317619580928/pu/vid/avc1/480x270/Y_7G4P33rM0srDtO.mp4?tag=12"
   }
 ]
