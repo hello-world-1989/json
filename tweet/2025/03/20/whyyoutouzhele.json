@@ -700,5 +700,23 @@
     "retweets": 5,
     "views": 5313,
     "originVideos": ""
+  },
+  {
+    "id": "1902679271606571016",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 19:11:03",
+    "content": "近日，有网民在抖音直播李嘉诚以前的讲话，不少观众在直播间发评论抵制李嘉诚。 https://t.co/I9XgatbE1I",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/20/1902679271606571016_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 11,
+    "retweets": 0,
+    "views": 3443,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902678582553653248/pu/vid/avc1/320x582/lPGIpKkfLz70KTgI.mp4?tag=12"
   }
 ]
