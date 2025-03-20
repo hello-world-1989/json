@@ -160,5 +160,41 @@
     "retweets": 3,
     "views": 1154,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902828452136505344/pu/vid/avc1/480x270/PfLV3qHlhhUBzYJk.mp4?tag=12"
+  },
+  {
+    "id": "1902836128425652668",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 05:34:20",
+    "content": "3月20日，被本台曝光后，该酒店又悄悄把“可接待人群”改回去了。 https://t.co/omIqREZ6uv",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1902836128425652668_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 547,
+    "originVideos": ""
+  },
+  {
+    "id": "1902835198443552783",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 05:30:38",
+    "content": "特朗普总统： 美国在每名学生上的支出超过任何其他国家，然而在教育成果方面，我们却排名接近垫底——70% 的八年级学生在阅读或数学方面不达标。尽管教育系统如此失败，教育部的可支配预算却飙升了 600%，并在华盛顿特区的各个办公楼里雇佣了大量官僚。 https://t.co/c7flrnCwTv",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/21/1902835198443552783_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1170,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902835037608837120/pu/vid/avc1/480x270/YK2xdu7lIXCy24yo.mp4?tag=12"
   }
 ]
