@@ -448,5 +448,23 @@
     "retweets": 2,
     "views": 3628,
     "originVideos": ""
+  },
+  {
+    "id": "1902631084246102519",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 15:59:34",
+    "content": "3月20日(发布) 湖北。一名女子称，自己的孩子就读于大悟县实验中学，有天孩子上厕所时遭到同学霸凌被关进厕所里，刚好厕所的灯是坏的线头裸露在外，下水道又漏水，导致孩子触电。老师得知孩子受伤后没有第一时间送医，直到事发40多分钟后才联系家属。女子称事后维权艰难，被多个部门打压恐吓。 https://t.co/n63dslYyLu",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902631084246102519_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/20/1902631084246102519_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 69,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902629448962437120/pu/vid/avc1/320x568/b4a7Ut3unY6o_4gW.mp4?tag=12"
   }
 ]
