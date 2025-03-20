@@ -970,5 +970,23 @@
     "retweets": 0,
     "views": 2179,
     "originVideos": ""
+  },
+  {
+    "id": "1902733965292904685",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 22:48:23",
+    "content": "清华大学法学院教授劳东燕谈开盒现象：前端不加限制，到处随意收集个人信息，尤其是动辄与身份证号相绑定，单靠后端的强化监督根本就不可能管的住。\n 很多社会问题，决策方向一旦出现偏差，势必就要付出巨大的代价，所谓的为了安全放弃隐私，或为了便利放弃隐私，最终的结局是：人们既失去了隐私，又未能获得预期中的安全与便利。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902733965292904685_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 330,
+    "originVideos": ""
   }
 ]
