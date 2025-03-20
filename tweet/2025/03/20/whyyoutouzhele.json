@@ -358,5 +358,41 @@
     "retweets": 3,
     "views": 5376,
     "originVideos": ""
+  },
+  {
+    "id": "1902587220550414494",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 13:05:16",
+    "content": "3月19日，工人晒出了老挝比亚迪工厂的环境和厕所，视频显示工厂的厕所脏乱不堪连下脚的地方都没有。\n 网友表示：这种企业能生产出好车吗？ https://t.co/gxAxMjErGy",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902587220550414494_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/20/1902587220550414494_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1828,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902586475348377600/pu/vid/avc1/320x568/KXiJWKEBqftxwnKi.mp4?tag=12"
+  },
+  {
+    "id": "1902587127822794766",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 13:04:54",
+    "content": "北海中学副校长潘康林儿子性骚扰多位女学生，并被学生写信举报其纵容儿子性骚扰的事发生在2022年1月28日。\n事后潘康林并未收到任何处理或惩罚。\n2022年1月4日，潘康林调任北海二中担任副校长，并任职至今。\n北海二中亦是北京八中的北海市分校。 https://t.co/QHGtcd2j34",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902587127822794766_0.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902587127822794766_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1171,
+    "originVideos": ""
   }
 ]
