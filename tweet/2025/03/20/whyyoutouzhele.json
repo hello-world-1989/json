@@ -268,5 +268,23 @@
     "retweets": 2,
     "views": 778,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902527080572608512/pu/vid/avc1/480x270/x7NQWrIohF_XE5bY.mp4?tag=12"
+  },
+  {
+    "id": "1902541100054646917",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 10:02:00",
+    "content": "3月19日，加拿大不列颠哥伦比亚大学发布通知，出于隐私和安全方面的考虑，禁止学生在学校设备和与学校相关的个人设备上使用和安装Deepseek https://t.co/yzC5IO7uLG",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902541100054646917_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2811,
+    "originVideos": ""
   }
 ]
