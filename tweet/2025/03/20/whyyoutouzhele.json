@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 223,
     "originVideos": ""
+  },
+  {
+    "id": "1902640715576053989",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 16:37:50",
+    "content": "法新社报道，俄罗斯国防部说，已移交175名乌克兰战俘和22名重伤的乌克兰俘虏，而基辅则交还175名俄罗斯战俘。\n 乌克兰总统泽连斯基称这次交换是战争中规模最大的之一，并说一些获释的乌克兰人因虚构罪行遭到俄罗斯迫害。\n 泽连斯基还说，星期三返回的一些乌克兰人曾在南部城市马里乌波尔战斗过。他呼吁与俄罗斯进行全面交换，感谢阿联酋的调解，并誓言归还所有囚犯。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/20/1902640715576053989_0.jpg,/tweet/video/whyyoutouzhele/2025/03/20/1902640715576053989_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 688,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902640248762593282/pu/vid/avc1/492x270/xAU7GTSRMMAcH1Be.mp4?tag=12,https://video.twimg.com/ext_tw_video/1902640258774396928/pu/vid/avc1/480x270/LT5sxHQkAQiWNJbg.mp4?tag=12"
   }
 ]
