@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 2039,
     "originVideos": ""
+  },
+  {
+    "id": "1902684043344293970",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 19:30:00",
+    "content": "https://t.co/IcQypebxHe\n来自山东某高校马克思主义学院的投稿：\n学校粗暴干预学生和老师的政治信仰和宗教信仰，甚至包括性取向。学院把同性恋者，基督教信徒，和政治倾向与主流观点不同（包括但不限于在朋友圈支持乌克兰的学生）的学生视为精神疾病，要求教师进行心理干预。\n每周要集中上三次思想课程，内容除了爱党爱习近平外，还包括一些反对基督教，反对性少数群体，在政治事件中灌输官方立场。每周一次互相检举不忠行为批评会，批评别人和批评自己不积极会被领导扣上思想不积极的帽子。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902684043344293970_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 11,
+    "retweets": 4,
+    "views": 3380,
+    "originVideos": ""
   }
 ]
