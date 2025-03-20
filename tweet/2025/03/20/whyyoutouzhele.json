@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 16,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902643024779452416/pu/vid/avc1/320x568/uXiE_txpRIGd86X6.mp4?tag=12"
+  },
+  {
+    "id": "1902647252600185149",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 17:03:49",
+    "content": "3月20日(发布) 经济学家卢麟元：“如果香港不被英国掏空，今天的瑞士跟香港没法比” 引发网民骂声一片。 https://t.co/OMki0hMPuP",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902647252600185149_0.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902647252600185149_1.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902647252600185149_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 4,
+    "retweets": 2,
+    "views": 2690,
+    "originVideos": ""
   }
 ]
