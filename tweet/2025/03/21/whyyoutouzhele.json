@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 1279,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902795552837804032/pu/vid/avc1/494x270/m94JifVkI3IsNAI8.mp4?tag=12"
+  },
+  {
+    "id": "1902828590405681449",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 05:04:23",
+    "content": "3月20日，特朗普总统签署行政命令，宣布解散教育部。 https://t.co/n1ZQQtBoPq",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/21/1902828590405681449_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 4,
+    "retweets": 3,
+    "views": 1154,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1902828452136505344/pu/vid/avc1/480x270/PfLV3qHlhhUBzYJk.mp4?tag=12"
   }
 ]
