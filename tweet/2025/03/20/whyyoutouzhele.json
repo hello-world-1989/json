@@ -862,5 +862,23 @@
     "retweets": 0,
     "views": 42,
     "originVideos": "https://video.twimg.com/ext_tw_video/1902706317619580928/pu/vid/avc1/480x270/Y_7G4P33rM0srDtO.mp4?tag=12"
+  },
+  {
+    "id": "1902710379387740228",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-20 21:14:39",
+    "content": "3月17日，网曝齐齐哈尔市齐市三中的老师们穿着羽绒服，却让学生们在零下六度的天气里，穿着单薄的校服站在操场上，一些学生被冻到把手缩进袖子里。 https://t.co/Le4Mxk4iRE",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/20/1902710379387740228_0.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902710379387740228_1.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902710379387740228_2.jpg,/tweet/image/whyyoutouzhele/2025/03/20/1902710379387740228_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 11,
+    "retweets": 1,
+    "views": 2300,
+    "originVideos": ""
   }
 ]
