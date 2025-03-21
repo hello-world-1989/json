@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 1330,
     "originVideos": ""
+  },
+  {
+    "id": "1903046933469643200",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 19:32:00",
+    "content": "https://t.co/IcQypec5wM\n北京 施一公院士实验室 每周工作7天的员工投稿：\n施一公实验室是高科技版的富士康血汗工厂。他push 学生没完没了地“拧螺丝”。而一篇篇实验室流水线耗费千万元的文章成果，只成为了施一公炫虚荣和评院士的垫脚石。\n他几乎没有提升人类科学文明的进程，甚至产生负面影响。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903046933469643200_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 3,
+    "views": 2355,
+    "originVideos": ""
   }
 ]
