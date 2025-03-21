@@ -610,5 +610,23 @@
     "retweets": 4,
     "views": 2818,
     "originVideos": ""
+  },
+  {
+    "id": "1903028924390707216",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 18:20:26",
+    "content": "前不久，尼日尔军政府驱逐在石油领域工作的三名中国高管，尼日尔石油部长奥马鲁表示，去年在尼日尔工作的中国员工平均月薪为8678美元，而担任同样职位的尼日尔员工的平均月薪为1200美元。\n 奥马鲁提到，担任管理职位的外籍人士也很集中，而尼日尔人往往担任不太重要的操作员或工人。这位尼日尔石油部长补充说，曾多次尝试解决这一问题，但差距依然存在，导致了驱逐事件的发生。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903028924390707216_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 7,
+    "retweets": 2,
+    "views": 4305,
+    "originVideos": ""
   }
 ]
