@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 186,
     "originVideos": ""
+  },
+  {
+    "id": "1902964784724840809",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 14:05:34",
+    "content": "司马南偷税被罚900万，然而通过梳理后发现，司马南此前多次发文批评其他企业家偷税漏税行为。\nhttps://t.co/YGKOoJ995Q https://t.co/Ump3opyLOr",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1902964784724840809_0.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1902964784724840809_1.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1902964784724840809_2.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1902964784724840809_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 4,
+    "retweets": 3,
+    "views": 2343,
+    "originVideos": ""
   }
 ]
