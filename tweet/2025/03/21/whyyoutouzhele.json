@@ -988,5 +988,23 @@
     "retweets": 1,
     "views": 118,
     "originVideos": ""
+  },
+  {
+    "id": "1903110513568964800",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 23:44:39",
+    "content": "3月21日，有顾客在实体店体验华为新款pura X折叠屏手机时，发现外屏有个别软件打不开，随后视频被删除\n  另一名顾客在店内体验这款手机时，发现外屏相机打不开，展开手机后内屏相机同样打不开\n此前余承东表示将发布一款人人买的起产品。结果pura X手机起步价7499元，典藏版8999元起步引发网民质疑 https://t.co/tYepQBx1VJ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/21/1903110513568964800_0.jpg,/tweet/video/whyyoutouzhele/2025/03/21/1903110513568964800_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 8,
+    "retweets": 1,
+    "views": 2655,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903108326847811587/pu/vid/avc1/320x626/dF24xdA0bAUUgGvv.mp4?tag=12,https://video.twimg.com/ext_tw_video/1903108332094910464/pu/vid/avc1/320x568/p_FqnAIS0ZNmiSe0.mp4?tag=12"
   }
 ]
