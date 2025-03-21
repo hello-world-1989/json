@@ -340,5 +340,41 @@
     "retweets": 2,
     "views": 2825,
     "originVideos": ""
+  },
+  {
+    "id": "1902938931198562745",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 12:22:50",
+    "content": "https://t.co/zDzkuoeJMz",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2001,
+    "originVideos": ""
+  },
+  {
+    "id": "1902938873136812544",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 12:22:36",
+    "content": "纽约时报：\n3月19日 美国华侨富商 安全忠 因参与“猎狐行动”被纽约布鲁克林联邦法院判刑20个月，并罚款500万美元，另需向两名受害人赔偿100多万美元\n2017年以来安全忠持续充当中国政府的非法代理人，在长达5年多的时间里，一直向一名被中国通缉的男子威胁称：回到祖国，否则你还有你的家人将承担后果\n安全忠拥有美国绿卡。其名下的山东枣庄安侨集团，在法拉盛拥有96间客房的安侨酒店。其本人更是于15年成为枣庄政协常委。\n纽约时报称：安全忠曾是纽约山东同乡会会长，该同乡会是法拉盛的一个为山东移民设立的组织，他与国会民主党众议员孟昭文关系密切。她将2015年10月6日设为“安全忠日”。\n孟昭文的发言人在一份声明中指出，这件事发生在安全忠的犯罪行为之前，并且她“完全反对任何外国政府影响或操纵我们的民主制度”，包括来自中国政府的影响或操纵行为。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1902938873136812544_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 8,
+    "retweets": 3,
+    "views": 2730,
+    "originVideos": ""
   }
 ]
