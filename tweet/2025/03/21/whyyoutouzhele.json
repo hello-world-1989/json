@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 3228,
     "originVideos": ""
+  },
+  {
+    "id": "1903021281630621985",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 17:50:04",
+    "content": "刘强东罕见发文，呼吁所有快递员和骑手都可以获得五险一金。\n 他在朋友圈中表示，“我们所学的知识、商业模式、技术算法都不应该是用来压榨社会最底层的兄弟们的，我们的利润、市值和财富更不应该建立在底层百姓无保障的生活之上的。”\n 最后，刘强东呼吁所有快递员和骑手都可以获得五险一金待遇，因为今天中国几大平台的利润和市值完全可以支撑，也期待各阶层一起幸福生活。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903021281630621985_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 16,
+    "retweets": 2,
+    "views": 5225,
+    "originVideos": ""
   }
 ]
