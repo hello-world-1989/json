@@ -700,5 +700,23 @@
     "retweets": 2,
     "views": 3459,
     "originVideos": ""
+  },
+  {
+    "id": "1903045296978006411",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 19:25:30",
+    "content": "WSJ：据美国官员透露，马斯克将在今天听取五角大楼关于美国军方应对可能与中国爆发的任何战争计划的汇报。\n 马斯克在新一届政府中扮演着强大的、涉及领域广泛的角色。但这也引发利益冲突问题，因为马斯克作为特斯拉和SpaceX的负责人，既在中国拥有商业利益，也与五角大楼有业务往来。\n 不过特朗普否认媒体报道，并指“中国甚至不会被提及或讨论”",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903045296978006411_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1330,
+    "originVideos": ""
   }
 ]
