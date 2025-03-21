@@ -502,5 +502,23 @@
     "retweets": 1,
     "views": 1597,
     "originVideos": ""
+  },
+  {
+    "id": "1903011858052698523",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 17:12:37",
+    "content": "近日，一款名为“千禾0”的酱油被检测出重金属镉，含量为0.0110mg/kg，网民惊讶道：“这款酱油不是0添加吗？”对此，客服回应称“千禾0”只是一个商标，并未直接确认是否代表零添加。 https://t.co/Rm71VCrIxY",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903011858052698523_0.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1903011858052698523_1.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1903011858052698523_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 39,
+    "replies": 17,
+    "retweets": 4,
+    "views": 3954,
+    "originVideos": ""
   }
 ]
