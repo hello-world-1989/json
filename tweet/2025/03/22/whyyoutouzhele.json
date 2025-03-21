@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 563,
     "originVideos": ""
+  },
+  {
+    "id": "1903143636772196504",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 01:56:16",
+    "content": "3月21日，川普总统：“我们不希望与中国发生战争，但我可以告诉你，如果真的发生了，我们完全有能力应对。” https://t.co/bSFPcL2JSe",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/22/1903143636772196504_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1044,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903143002186592256/pu/vid/avc1/480x270/y072nO0_ho2I3rYc.mp4?tag=12"
   }
 ]
