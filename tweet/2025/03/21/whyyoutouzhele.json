@@ -754,5 +754,41 @@
     "retweets": 3,
     "views": 1886,
     "originVideos": "https://video.twimg.com/ext_tw_video/1903049061948907520/pu/vid/avc1/320x564/imCMjZRevU6aPw7N.mp4?tag=12,https://video.twimg.com/ext_tw_video/1903049506977206272/pu/vid/avc1/320x568/Csi5BJPQE2wK5ctx.mp4?tag=12,https://video.twimg.com/ext_tw_video/1903049093007749120/pu/vid/avc1/320x564/czAI0RaUKdmqfAAH.mp4?tag=12"
+  },
+  {
+    "id": "1903058144701583444",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 20:16:33",
+    "content": "司马南因偷税被罚900万后，网传红星新闻记者张炎良采访了司马南。司马南表示自己被MCN公司给坑了，公司没有代扣缴税，导致他6年来赚了600多万最后被罚900万，一分钱不赚还倒赔300万。司马南还表示自己低头认错，诚恳检讨。\n 不过官媒报道称，司马南通过隐匿收入、虚假申报等手段逃税537.75万元，但司马南却表示这6年来只拿到600多万元。中国的税收有这么重吗？收入600多万，逃税500多万？官媒和司马南究竟谁在撒谎？\n 此外，在这则聊天记录中，司马南并未透露自己所属的MCN公司，税务总局的通报中也并未提及。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/21/1903058144701583444_0.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1903058144701583444_1.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1903058144701583444_2.jpg,/tweet/image/whyyoutouzhele/2025/03/21/1903058144701583444_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1407,
+    "originVideos": ""
+  },
+  {
+    "id": "1903057852505133253",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-21 20:15:23",
+    "content": "@WesterAOC  三次致电北海中学\n第一天接电话的学校工作人员表示，学生自杀，高压学习等问题“一点都不严重”。\n第二天的工作人员表示，北海中学从上周开始已经实行双休。\n第三天，北海中学的电话已无法接通。 https://t.co/2qRJHYagyU",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/21/1903057852505133253_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 834,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903056787424808964/pu/vid/avc1/474x270/g1nbrHZo3eZ1htGM.mp4?tag=12"
   }
 ]
