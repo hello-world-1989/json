@@ -934,5 +934,23 @@
     "retweets": 0,
     "views": 373,
     "originVideos": ""
+  },
+  {
+    "id": "1903409876346544539",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 19:34:12",
+    "content": "3月15日，博主“魏之光” 发视频吐槽华为三折叠十大坑，严重影响自己的工作生活。他称手机才用了三个多月，就出现屏幕漏液、坏点、拍照后打开相册发现没有照片、无法正常使用海外应用、等等问题。找商家回收，结果两万三购买的手机只能卖6000元。 https://t.co/StDU5klajP",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/22/1903409876346544539_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 9,
+    "retweets": 0,
+    "views": 2113,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903408192086020096/pu/vid/avc1/320x568/38tatcHhIlqQdGq_.mp4?tag=12"
   }
 ]
