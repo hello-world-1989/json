@@ -1060,5 +1060,41 @@
     "retweets": 3,
     "views": 3564,
     "originVideos": ""
+  },
+  {
+    "id": "1903435776488350091",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 21:17:07",
+    "content": "https://t.co/BfGkBCted3",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/22/1903435776488350091_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 648,
+    "originVideos": ""
+  },
+  {
+    "id": "1903435479892295928",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 21:15:57",
+    "content": "近日，司马南因偷税被罚900万，他辩解称，MCN公司没有代扣代缴税。博主“zejun”通过梳理后发现，司马南所称的MCN公司为北京中易网天，公司实控人为饶谨。据不完全统计，金灿荣、李毅、张捷等博主背后的MCN公司也是这家，或曾经是中易网天。\n 并且中易网天旗下先后运营的多名博主中，不乏靠着争议言论发家涨粉。其中李毅曾表示：“相比美国，中国因疫情死了4000人，等于一个没死”金灿荣：“要警惕美国的气象武器”\n 另一名博主表示：如果MCN真的未给司马南代扣缴税，那么是不是也该查查金灿荣李毅等人，毕竟他们同属一家MCN公司。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/22/1903435479892295928_0.jpg,/tweet/image/whyyoutouzhele/2025/03/22/1903435479892295928_1.jpg,/tweet/image/whyyoutouzhele/2025/03/22/1903435479892295928_2.jpg,/tweet/image/whyyoutouzhele/2025/03/22/1903435479892295928_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1658,
+    "originVideos": ""
   }
 ]
