@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 46,
     "originVideos": ""
+  },
+  {
+    "id": "1903528453657264470",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 03:25:23",
+    "content": "3月21日，特朗普总统在讲话中称赞了埃隆·马斯克，表示他正经历很多不公。\n他批评了针对特斯拉的暴力行为，称这些人是“恐怖分子”，并强调无论是纵火者还是资助者都会被抓捕并严惩，可能面临20年监禁，不会有宽恕或赦免。\n他还将这种行为与1月6日事件对比，指出当前的破坏行为更为严重，是有组织的犯罪。FBI和司法部正在严肃调查。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/23/1903528453657264470_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 731,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903528371012718592/pu/vid/avc1/480x270/S-DYQJ-_wOLvI9lM.mp4?tag=12"
   }
 ]
