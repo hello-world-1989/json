@@ -862,5 +862,23 @@
     "retweets": 5,
     "views": 3935,
     "originVideos": "https://video.twimg.com/ext_tw_video/1903387194422910976/pu/vid/avc1/320x584/TcL-h2GH0Q4YtFTN.mp4?tag=12"
+  },
+  {
+    "id": "1903391632915136976",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 18:21:43",
+    "content": "WSJ：东航MU5735航班坠机事件三周年，中国民航局未按中国政府的规定和全球准则发布中期声明。在该坠机事件一周年和两周年纪念日的前一天，该机构都发布了此类声明。遇难者家属对调查的延误表示失望，称调查结束会让他们感到告慰。\n 有国际航空运输协会成员表示，不少事故是被政府从政治层面搁置了，因为不希望这些叙述引起公众的关注。\n《华尔街日报》曾报道黑匣子数据指向有人蓄意操纵飞机坠毁，但中国民航局表示传言「严重误导」。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/22/1903391632915136976_0.jpg,/tweet/image/whyyoutouzhele/2025/03/22/1903391632915136976_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3123,
+    "originVideos": ""
   }
 ]
