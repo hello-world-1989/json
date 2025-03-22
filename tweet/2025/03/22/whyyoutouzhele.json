@@ -556,5 +556,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": ""
+  },
+  {
+    "id": "1903300470912750013",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-22 12:19:28",
+    "content": "路透社报道：\n3月21日 特朗普撤销了53万名南美移民的临时合法身份。受影响的移民主要是通过拜登政府的“两年假释计划”进入美国，该计划允许南美移民在有美国担保人的情况下飞入美国并获得两年临时合法身份，从而减少非法越境人数。\n据美政府数据，22到24年间，约有150万移民通过“两年假释计划”入境美国 https://t.co/wuZh4BvIzg",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/22/1903300470912750013_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
