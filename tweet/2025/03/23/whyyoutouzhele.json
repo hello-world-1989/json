@@ -268,5 +268,41 @@
     "retweets": 8,
     "views": 4443,
     "originVideos": "https://video.twimg.com/ext_tw_video/1903686848943452160/pu/vid/avc1/320x568/bPNksyOS72ob_XMW.mp4?tag=12"
+  },
+  {
+    "id": "1903692716229447850",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 14:18:07",
+    "content": "https://t.co/XzzeBBI2tl\n江苏南京 残疾人之家员工投稿：\n残疾人服务平台为残疾人提供的就业，每天工作八小时，每天工资仅5元，一个月下来只有100多。 https://t.co/q14mX41zMV",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/23/1903692716229447850_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 1,
+    "retweets": 0,
+    "views": 285,
+    "originVideos": ""
+  },
+  {
+    "id": "1903691349125464231",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 14:12:41",
+    "content": "被日本大使馆声称消息不实的新华社新闻原文，其仍然展示在中国政府网上。\n“日方充分认识日中四个政治文件的重要意义，尊重中方阐述的立场，愿同中方加强交往合作，推动两国关系向前发展，更好惠及两国人民。”\nhttps://t.co/kZIBf0R3sQ https://t.co/A7FpnObERJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/23/1903691349125464231_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2343,
+    "originVideos": ""
   }
 ]
