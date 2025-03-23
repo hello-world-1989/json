@@ -628,5 +628,23 @@
     "retweets": 2,
     "views": 3046,
     "originVideos": ""
+  },
+  {
+    "id": "1903786850655019318",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 20:32:10",
+    "content": "3月23日，四川广安。网传武胜县美团外卖员就薪资待遇问题集体罢工。 https://t.co/s5qo3lcxhs",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/23/1903786850655019318_0.jpg,/tweet/video/whyyoutouzhele/2025/03/23/1903786850655019318_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 10,
+    "retweets": 1,
+    "views": 3003,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1903786255143546880/pu/vid/avc1/320x568/h334KYYgQ_Op9vPH.mp4?tag=12,https://video.twimg.com/ext_tw_video/1903786259958693888/pu/vid/avc1/320x568/ns2HNzjEcQgfFMKJ.mp4?tag=12"
   }
 ]
