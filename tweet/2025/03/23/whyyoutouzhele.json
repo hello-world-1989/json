@@ -520,5 +520,41 @@
     "retweets": 0,
     "views": 188,
     "originVideos": ""
+  },
+  {
+    "id": "1903778701692616783",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 19:59:47",
+    "content": "3月21日，上海(发布ip) 一名女子称，父亲在一艘远洋渔船上做船长，原本预计六月份回家参加自己的婚礼，结果近日父亲被一名船员捅刺多刀，随后船员又将父亲从二楼扔到一楼甲板，最后再抛进大海。\n 女子表示，她不知道父亲被船员扔进海里的时候是否还活着。目前警方已立案，该船员已被控制。 https://t.co/wtrXoqctzb",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/23/1903778701692616783_0.jpg,/tweet/image/whyyoutouzhele/2025/03/23/1903778701692616783_1.jpg,/tweet/image/whyyoutouzhele/2025/03/23/1903778701692616783_2.jpg,/tweet/image/whyyoutouzhele/2025/03/23/1903778701692616783_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 14,
+    "originVideos": ""
+  },
+  {
+    "id": "1903778033032479071",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-23 19:57:08",
+    "content": "https://t.co/3p82wc97Sr 湖北宜春三中学生投稿： https://t.co/EfEORnINer",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/23/1903778033032479071_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 749,
+    "originVideos": ""
   }
 ]
