@@ -142,5 +142,23 @@
     "retweets": 0,
     "views": 131,
     "originVideos": "https://video.twimg.com/ext_tw_video/1903914120564682752/pu/vid/avc1/320x564/LSe8VQss6TFHNFXQ.mp4?tag=12"
+  },
+  {
+    "id": "1903941762252480612",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 06:47:44",
+    "content": "网友投稿\n3月23日，东南大学九龙湖校区的生物科学与医学工程学院楼发生了一起跳楼事件，随后学校警告同学们不要发声，不要传播到外网。\n目前仍不清楚跳楼者的生命状态和身份。 https://t.co/wrn161uWtp",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1903941762252480612_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 1,
+    "views": 452,
+    "originVideos": ""
   }
 ]
