@@ -52,5 +52,23 @@
     "retweets": 2,
     "views": 2440,
     "originVideos": ""
+  },
+  {
+    "id": "1903852520088457274",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 00:53:07",
+    "content": "完整采访：两名中国人讲述为何来乌克兰、对俄乌两国的看法以及参战后的心路历程。 https://t.co/X3nlKCw21H",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/24/1903852520088457274_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1887,
+    "originVideos": "https://video.twimg.com/amplify_video/1903851499836633088/vid/avc1/480x270/t1M49gJLUNYgSlih.mp4?tag=14"
   }
 ]
