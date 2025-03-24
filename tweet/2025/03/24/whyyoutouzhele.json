@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 92,
     "originVideos": "https://video.twimg.com/amplify_video/1903954489897336832/vid/avc1/480x270/MszCnInkHeQkqxpj.mp4?tag=16"
+  },
+  {
+    "id": "1904005747148828977",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 11:01:59",
+    "content": "3月22日 有消费者发现其茉莉奶白购买的奶茶里面有一整个透明塑料袋，袋子上还有茉莉奶白的产品标签。\n3月23日 茉莉奶白在其微博发布声明道歉，称此次事件源于门店操作流程的疏忽，涉事门店已经闭店整改。\n当事人称：其已收到1000元赔偿，但后续也需要门店给予交代，奶茶里为何会有这么大的塑料袋 https://t.co/vduQzObjaJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904005747148828977_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904005747148828977_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 5,
+    "retweets": 0,
+    "views": 3258,
+    "originVideos": ""
   }
 ]
