@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 1831,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904260776124391424/pu/vid/avc1/320x564/oO59clo74R6bj9_W.mp4?tag=12"
+  },
+  {
+    "id": "1904284133523697912",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 05:28:11",
+    "content": "3月24日，川普称，美国经济正取得超出所有人预期的成绩。他指出，目前大量企业正回流美国，回流的公司规模大约达到4万亿美元，这将带来大量高薪工作岗位。\n此外，他还表示政府在积极裁减冗员，清除那些不工作的甚至不存在的假职工，并认为这些行动比预期进展得更快。 https://t.co/bkcHUJwRP3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/25/1904284133523697912_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 142,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904284083812732928/pu/vid/avc1/480x270/4Rx2kvPzJpmr2Wmr.mp4?tag=12"
   }
 ]
