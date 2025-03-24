@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 2734,
     "originVideos": ""
+  },
+  {
+    "id": "1904305420983828521",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 06:52:47",
+    "content": "3月23日，特朗普政府要求最高法院阻止恢复联邦雇员的命令。司法部要求最高法院阻止一名法官的命令，该命令要求司法部恢复超过16000名联邦雇员的职位。政府官员誓言将寻求最高法院的干预，以清除下级法院的裁决，这些裁决阻碍了特朗普政府的政策。代理总检察长莎拉·哈里斯在提交最高法院的简报中辩称，此案应该被驳回，因为它是由工会和其他组织而非被解雇的雇员本身提起的。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904305420983828521_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1900,
+    "originVideos": ""
   }
 ]
