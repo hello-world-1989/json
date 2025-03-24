@@ -592,5 +592,23 @@
     "retweets": 3,
     "views": 3725,
     "originVideos": ""
+  },
+  {
+    "id": "1904114098310099392",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 18:12:32",
+    "content": "3月24日，长春理工大学25届毕业生春季双选会上，中科院上海技术物理研究所招聘20人，要求博士研究生，硕士研究生，但月薪只有1.5k-2.5k。 https://t.co/4k1jcU1iBM",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904114098310099392_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 5,
+    "retweets": 1,
+    "views": 3575,
+    "originVideos": ""
   }
 ]
