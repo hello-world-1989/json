@@ -880,5 +880,23 @@
     "retweets": 5,
     "views": 5561,
     "originVideos": ""
+  },
+  {
+    "id": "1904172932072718732",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 22:06:19",
+    "content": "3月24日，摄影博主“捷尔任斯基”曝料：2023年四川石棉县希望小学采购的“松典相机”中标价为14050元/台。而该相机在电商平台仅售价631元/台。\n 此外，采购清单中还有一款“麦邦除颤仪AED7000S”单价29500元，目前网售价6384元/台 https://t.co/FUVI2zM1kR",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904172932072718732_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904172932072718732_1.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904172932072718732_2.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904172932072718732_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1337,
+    "originVideos": ""
   }
 ]
