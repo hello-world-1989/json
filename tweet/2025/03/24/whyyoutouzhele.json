@@ -538,5 +538,23 @@
     "retweets": 1,
     "views": 3324,
     "originVideos": ""
+  },
+  {
+    "id": "1904106282044490150",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 17:41:28",
+    "content": "台湾海巡署周日宣布，查扣一艘涉嫌为非法进入台湾水域作业的中国渔船提供燃油的中国船只。海巡指出，该船为“未登记的中国籍供油船”，船上载有约50万公升燃油，企图为进入台湾水域的其他中国船只提供补给。船上共有六名船员，已被台湾海巡署带回调查。这是首次在该海域发生类似事件。 https://t.co/hlPOakCAlB",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904106282044490150_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 3,
+    "retweets": 2,
+    "views": 2740,
+    "originVideos": ""
   }
 ]
