@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 1058,
     "originVideos": ""
+  },
+  {
+    "id": "1904144669929525651",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 20:14:01",
+    "content": "3月24日，刚刚，李强签署国务院令，公布《实施〈中华人民共和国反外国制裁法〉的规定》\n其中明确表示：“任何组织和个人不得执行外国判决”，如果有公司因外国法律中止对华合作，有可能被中国认定为协助制裁，面临资产冻结、交易禁令、诉讼赔偿等后果。\n同时，资产冻结的范围不仅包括现金、存款、股权，还包括知识产权、应收账款，几乎囊括一切资产形式",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904144669929525651_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 18,
+    "retweets": 5,
+    "views": 4196,
+    "originVideos": ""
   }
 ]
