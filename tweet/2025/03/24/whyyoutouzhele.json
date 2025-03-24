@@ -520,5 +520,23 @@
     "retweets": 2,
     "views": 2925,
     "originVideos": ""
+  },
+  {
+    "id": "1904103365103030547",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 17:29:53",
+    "content": "据中山大学近日消息，宋尔卫当选人大代表，赴京履职，他们在两会期间尽职尽责、建言献策，贡献中大智慧和力量。\n 2023年11月，“中山二院苏士成教授及宋尔卫院士课题组学生集体患癌”，后在网上发酵形成舆论风波，针对该事件宋尔卫对媒体回应称“造谣”引发争议。 https://t.co/R17YQR7tvj",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904103365103030547_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904103365103030547_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 9,
+    "retweets": 1,
+    "views": 3324,
+    "originVideos": ""
   }
 ]
