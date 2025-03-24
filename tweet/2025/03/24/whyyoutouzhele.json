@@ -844,5 +844,23 @@
     "retweets": 1,
     "views": 1068,
     "originVideos": ""
+  },
+  {
+    "id": "1904168582981783841",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 21:49:02",
+    "content": "据不完全统计，2月底至3月已有5位年轻律师相继去世，去世年龄在31岁-35岁。\n 此前有公众号披露，今年1-2月已经有11名律师相继离世(不完全统计)\n\nhttps://t.co/RgAHtJi395 https://t.co/3EWg6lmyd3",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904168582981783841_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904168582981783841_1.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904168582981783841_2.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904168582981783841_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 226,
+    "originVideos": ""
   }
 ]
