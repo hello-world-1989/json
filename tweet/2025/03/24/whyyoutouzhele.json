@@ -358,5 +358,23 @@
     "retweets": 0,
     "views": 153,
     "originVideos": ""
+  },
+  {
+    "id": "1904037604204724292",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 13:08:34",
+    "content": "3月23日(发布)，一名男子称他名下的银行卡突然被冻结，随后得知是被天津和连云港的警方冻结的。本地的警察建议他不要去异地处理，可能会有危险。但男子表示母亲生病家里急需用钱，所以他还是决定冒着风险去天津解决。 https://t.co/pVmp6Sjf85",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/24/1904037604204724292_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 294,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904036217488056320/pu/vid/avc1/320x568/CjjXRhX32DFGBbr8.mp4?tag=12"
   }
 ]
