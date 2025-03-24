@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 421,
     "originVideos": ""
+  },
+  {
+    "id": "1904022532975722584",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 12:08:41",
+    "content": "https://t.co/3p82wc9FHZ\n四川眉山 仁寿第一中学学生投稿： https://t.co/gvv6AeZ5gX",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904022532975722584_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 153,
+    "originVideos": ""
   }
 ]
