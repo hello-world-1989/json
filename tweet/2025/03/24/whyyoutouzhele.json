@@ -556,5 +556,41 @@
     "retweets": 2,
     "views": 2740,
     "originVideos": ""
+  },
+  {
+    "id": "1904113357466357843",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 18:09:35",
+    "content": "3月24日，长春理工大学25届毕业生春季双选会上，中科院上海技术物理研究所招聘20人，要求博士研究生，硕士研究生，但月薪只有1.5k-2.5k。 https://t.co/16U0idFyIg",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904113357466357843_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 13,
+    "originVideos": ""
+  },
+  {
+    "id": "1904111095054565442",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 18:00:36",
+    "content": "3月20日，内蒙古赤峰警方发现1022个银行账户涉嫌接受、流转赌博资金，目前，上述账户资金已被警方冻结。相关人员需要限期说明资金合法性。\n 网友们表示，不是应该警方先证明人家违法了才能冻结吗？还有网友称，警方不会通知你卡被冻结了，等逾期后你没有处理就直接划扣，跟抢钱一样。 https://t.co/fb4P8ECa6D",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904111095054565442_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904111095054565442_1.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904111095054565442_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 10,
+    "retweets": 3,
+    "views": 3725,
+    "originVideos": ""
   }
 ]
