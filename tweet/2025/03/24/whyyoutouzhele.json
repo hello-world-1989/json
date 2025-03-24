@@ -646,5 +646,23 @@
     "retweets": 0,
     "views": 1430,
     "originVideos": ""
+  },
+  {
+    "id": "1904128507963416772",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 19:09:47",
+    "content": "近日，比亚迪发布“兆瓦闪充”：闪充五分钟，畅行400公里，最高峰值充电每秒2公里，实现充电速度和加油时间一样短。\n 不过youtu上一名工程师博主对此提出质疑称，比亚迪没有明确说明将投入多少资金来建设这些闪充充电桩，一兆瓦的电力可以为500户家庭供电，而仅仅为几个充电桩提供这样的电量，就需要与电网公司建立极其昂贵的连接，还没算上需量电费，他认为扩大和推广这种闪充设备是“几乎不可能的”并且以这种速度、高功率的充电会导致电池损耗。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/24/1904128507963416772_0.jpg,/tweet/video/whyyoutouzhele/2025/03/24/1904128507963416772_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 7,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904126127762976768/pu/vid/avc1/320x568/SUWn7RSflTE26Q5J.mp4?tag=12,https://video.twimg.com/ext_tw_video/1904126142573154304/pu/vid/avc1/480x270/_A4yp7TLTVznc0w7.mp4?tag=12"
   }
 ]
