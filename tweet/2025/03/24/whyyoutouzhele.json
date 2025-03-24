@@ -898,5 +898,23 @@
     "retweets": 1,
     "views": 1337,
     "originVideos": ""
+  },
+  {
+    "id": "1904179571328692240",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-24 22:32:42",
+    "content": "3月24日(发布) 福建泉州。一男子在公共道路驾驶小米SU7 Ultra狂飙至150km/h，在躲避掉头车辆时，将路边一名骑车女子撞飞，碰撞后车速仍有60km/h\n 被撞女子的家属称：姐姐才26岁，目前医生已宣布姐姐脑死亡，仅靠机器维持最后一口气。 https://t.co/7aSjPD2Gw9",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/24/1904179571328692240_0.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904179571328692240_1.jpg,/tweet/image/whyyoutouzhele/2025/03/24/1904179571328692240_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/24/1904179571328692240_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 7,
+    "retweets": 2,
+    "views": 4305,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904178735806607360/pu/vid/avc1/480x270/yAqJX9_WaBgNCOww.mp4?tag=12"
   }
 ]
