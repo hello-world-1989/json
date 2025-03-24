@@ -34,5 +34,23 @@
     "retweets": 2,
     "views": 796,
     "originVideos": ""
+  },
+  {
+    "id": "1904218368875573570",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 01:06:52",
+    "content": "面对美国特朗普政府的贸易关税大棒，中国总理李强23日在中国发展高层论坛开幕式上说：中国为可能出现的外部“超预期冲击”做了准备，必要时还将推出新的增量政策，确保中国经济能够平稳运行。 https://t.co/fly9Fiaf5E",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904218368875573570_0.jpg,/tweet/image/whyyoutouzhele/2025/03/25/1904218368875573570_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 3,
+    "retweets": 0,
+    "views": 806,
+    "originVideos": ""
   }
 ]
