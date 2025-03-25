@@ -862,5 +862,23 @@
     "retweets": 1,
     "views": 2600,
     "originVideos": ""
+  },
+  {
+    "id": "1904530660884463623",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 21:47:48",
+    "content": "加拿大安全情报局（CSIS）发出警告，称即将举行的联邦大选可能面临外国干预的威胁，官员们正在密切关注中国、印度、俄罗斯和巴基斯坦。\n CSIS临时局长劳埃德说：相信中国会继续针对加拿大民主机构及公民社会，以达成其战略性目标。她又指，俄罗斯则不断建立资讯渠道，透过社交媒体及新闻网站发放重新整合或放大乎合克里姆林宫的话题。至于印度政府将益发倚赖加拿大人、设在加拿大的代理人及他们的联络人作出外国干预行为。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904530660884463623_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 725,
+    "originVideos": ""
   }
 ]
