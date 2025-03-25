@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 1270,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904591621024354304/pu/vid/avc1/480x270/eadE2gaNtqX-2G-6.mp4?tag=12"
+  },
+  {
+    "id": "1904645676903834016",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 05:24:50",
+    "content": "3月25日，美国总统特朗普签署了一项行政命令，旨在通过为选民登记设定新的身份识别要求，并禁止统计选举日后收到的缺席或邮寄选票。为了防止非公民参与投票，最新要求包括提供公民身份证明文件，例如护照或符合Real ID标准的驾驶执照，用于全国邮寄选民登记。\n这项命令与《保障美国选民资格法案》（简称《拯救法案》）的许多条款相呼应，该法案于2024年提出，但最终未能通过参议院。\n值得一提的是，来自不同政治派别的研究团体均未发现任何证据表明，不合格移民的投票数量足以影响选举结果。目前，所有州都会定期审核选民登记册，一些州几乎完全通过邮寄方式进行选举，但并且没有曝出任何大量的舞弊选票。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904645676903834016_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 933,
+    "originVideos": ""
   }
 ]
