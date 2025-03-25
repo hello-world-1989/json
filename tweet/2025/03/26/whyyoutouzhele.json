@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 1471,
     "originVideos": ""
+  },
+  {
+    "id": "1904656590063481274",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 06:08:12",
+    "content": "周二，特朗普总统和他的两位顶级情报官员（国家情报总监图尔西·加巴德和中央情报局局长约翰·拉特克利夫）否认了关于本月早些时候针对也门胡塞武装分子的军事打击的机密材料是由官员们在Signal中分享的，而民主党人则谴责这一安全漏洞鲁莽且危险。\n在参议院的听证会上，加巴德最初拒绝承认她参与了Signal聊天，后来又承认参与其中，但表示自己在聊天发生期间正在国外旅行，并拒绝透露是否使用个人或政府的手机参与聊天。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904656590063481274_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 126,
+    "originVideos": ""
   }
 ]
