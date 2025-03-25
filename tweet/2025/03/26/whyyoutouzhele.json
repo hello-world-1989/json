@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 1953,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904600507152556034/pu/vid/avc1/320x568/plD0mXnGOIPtQzWP.mp4?tag=12,https://video.twimg.com/ext_tw_video/1904600519244734464/pu/vid/avc1/320x568/JmRWegvMljLfqEz0.mp4?tag=12"
+  },
+  {
+    "id": "1904606207970509283",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 02:48:00",
+    "content": "3月24日，川普总统讲话表示：\n现代汽车宣布将在美国投资58亿美元，在路易斯安那州建设一座全新的钢铁厂。该工厂每年将生产超过270万吨钢铁，创造超过1,400个美国钢铁工人岗位。这将是现代在美国的第一家钢铁厂。\n现代汽车集团还将采购价值30亿美元的美国液化天然气，用于支持美国能源产业并加强能源安全。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/26/1904606207970509283_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 287,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904591214524968960/pu/vid/avc1/480x270/QlxFLDnTBfex5DyT.mp4?tag=12"
   }
 ]
