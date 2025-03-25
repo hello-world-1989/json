@@ -250,5 +250,23 @@
     "retweets": 1,
     "views": 2212,
     "originVideos": ""
+  },
+  {
+    "id": "1904333147761967370",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 08:42:57",
+    "content": "3月25日 三星电子联席CEO韩钟熙因心脏病去世，享年63岁。 https://t.co/1ZlYigmFPK",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904333147761967370_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 3,
+    "retweets": 1,
+    "views": 3051,
+    "originVideos": ""
   }
 ]
