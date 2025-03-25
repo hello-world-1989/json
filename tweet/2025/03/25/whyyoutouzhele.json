@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 535,
     "originVideos": ""
+  },
+  {
+    "id": "1904378530030633418",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 11:43:17",
+    "content": "路透社报道：\n数名民主党议员声称：使用聊天软件Signal，而不是通过美国政府的加密和托管服务器讨论机密信息是非法的。\n根据美国法律，不当处理、滥用或滥用机密信息可能是犯罪，尽管目前还不清楚这些规定在本案中是否被违反。\n记者还声称群聊得消息被设定为定时删除，这可能也违反了联邦记录保存法。 https://t.co/FCXTQxF09Z",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904378530030633418_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1829,
+    "originVideos": ""
   }
 ]
