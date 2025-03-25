@@ -268,5 +268,23 @@
     "retweets": 1,
     "views": 3051,
     "originVideos": ""
+  },
+  {
+    "id": "1904377192823538083",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 11:37:59",
+    "content": "3月24日 一名大西洋报记者声称，他于13日意外被拉入一个涉及美国对也门攻击计划的Signal机密群聊。\n在对也门的攻击开始前几个小时，国防部长Pete在消息群中发布了“包括有关目标、美国将部署的武器和攻击顺序的详细信息。”\n该记者称，群聊中还有疑似副总统万斯的账号。中情局局长、国务卿、财政部长、国家情报总监、白宫幕僚中和国家安全委员会高级官员疑似都在群内。\n记者的报告略过了机密细节，但记者认为这是对聊天软件的“鲁莽使用”。\n国家安全委员会发言人Brian表示，这个聊天群似乎是真实存在的。我们正在审查一个被“无意中”添加的号码。但是该发言人否认了有人在群聊中分享战争计划。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904377192823538083_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 535,
+    "originVideos": ""
   }
 ]
