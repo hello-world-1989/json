@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 1298,
     "originVideos": ""
+  },
+  {
+    "id": "1904473949423260140",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 18:02:27",
+    "content": "特朗普周一表示，任何从委内瑞拉购买石油和天然气的国家，将在与美国进行贸易时被征收25%关税。他说，这项“二级关税”将于4月2日生效，此举是基于委内瑞拉向美国派遣“数万”名非常暴力的人。数据显示，中国是委内瑞拉石油出口大国，2023年中国从委内瑞拉进口的原油，占委内瑞拉总出口量的68%。 https://t.co/8YuTVNgLjm",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904473949423260140_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 2,
+    "views": 2026,
+    "originVideos": ""
   }
 ]
