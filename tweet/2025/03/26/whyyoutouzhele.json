@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 208,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904591393810534400/pu/vid/avc1/480x270/IxfmlA47in-25Yiw.mp4?tag=12"
+  },
+  {
+    "id": "1904637413277790437",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 04:52:00",
+    "content": "3月25日，在国务院记者会上，NBC记者 Andrea Mitchell 提问，关于内阁成员在 Signal 上讨论对胡塞武装的军事打击计划一事\nMitchell 表示，国家安全委员会已经证实聊天内容的真实性。但拒绝进一步就事件性质、涉密级别或责任人发表评论。 https://t.co/3UpyS1iW81",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/26/1904637413277790437_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1270,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904591621024354304/pu/vid/avc1/480x270/eadE2gaNtqX-2G-6.mp4?tag=12"
   }
 ]
