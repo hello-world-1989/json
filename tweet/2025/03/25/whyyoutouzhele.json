@@ -952,5 +952,23 @@
     "retweets": 1,
     "views": 3872,
     "originVideos": ""
+  },
+  {
+    "id": "1904558024028786750",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 23:36:32",
+    "content": "24日报道：一名来自上海的游客，通过订房软件Airbnb预定大阪一家民宿，他声称1人入住，结果却偷偷住了6个人，并且还把房间弄得一片狼藉，就连房间内的杯子等物品也被这些人带走。\n 房东表示，他无法确认这6人是否是全程入住，这种行为已严重违反民宿规则，事后房东联系了Airbnb，要求游客支付额外的人数费用和特清费\n 在日本民宿管理中，超额入住不仅违法，还可能导致被罚款。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904558024028786750_0.jpg,/tweet/image/whyyoutouzhele/2025/03/25/1904558024028786750_1.jpg,/tweet/image/whyyoutouzhele/2025/03/25/1904558024028786750_2.jpg,/tweet/image/whyyoutouzhele/2025/03/25/1904558024028786750_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 5,
+    "retweets": 2,
+    "views": 1735,
+    "originVideos": ""
   }
 ]
