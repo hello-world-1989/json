@@ -376,5 +376,41 @@
     "retweets": 0,
     "views": 1585,
     "originVideos": ""
+  },
+  {
+    "id": "1904401532835225636",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 13:14:42",
+    "content": "内政部长刘世芳：亚亚并不是一个普通妈妈。她从法律战、舆论战、心理战，三战齐发。 https://t.co/HKwiiK3oI6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/25/1904401532835225636_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 1,
+    "retweets": 3,
+    "views": 1684,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904401349326041088/pu/vid/avc1/480x270/BPw8Skz5WErYffJe.mp4?tag=12"
+  },
+  {
+    "id": "1904400524255916218",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-25 13:10:41",
+    "content": "https://t.co/XzzeBBHuDN\n北京某媒体 驻外记者投稿： https://t.co/Ptwg8DRtsd",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/25/1904400524255916218_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 7,
+    "retweets": 5,
+    "views": 3690,
+    "originVideos": ""
   }
 ]
