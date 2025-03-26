@@ -610,5 +610,23 @@
     "retweets": 2,
     "views": 2645,
     "originVideos": ""
+  },
+  {
+    "id": "1904847212862906393",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 18:45:40",
+    "content": "经济观察报首席记者李微敖：朋友在某地政府任常务副，分管财政。他称每天的工作就是签字，每签一次，意味着就有一笔经费支出，他说看似轻松，其实隐藏的风险不小，万一签了不该签的字，支出了不该支出的财政经费，会被追责，但因时间有限不可能每笔都去核实，于是只能让高度信任依赖的下属把关了... https://t.co/KNl2cfoOgP",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904847212862906393_0.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904847212862906393_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1390,
+    "originVideos": ""
   }
 ]
