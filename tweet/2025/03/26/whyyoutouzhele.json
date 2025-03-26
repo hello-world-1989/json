@@ -736,5 +736,41 @@
     "retweets": 0,
     "views": 428,
     "originVideos": ""
+  },
+  {
+    "id": "1904873152376610996",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 20:28:45",
+    "content": "3月26日，嘉兴职业技术学院在各班级群里发布通知，要求学生举报一篇分析股市的微文。 https://t.co/mPPAk60xyk",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904873152376610996_0.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904873152376610996_1.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904873152376610996_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 203,
+    "originVideos": ""
+  },
+  {
+    "id": "1904872713090732274",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 20:27:00",
+    "content": "3月25日，国台办回应“亚亚”被台要求限期离境：“民进党当局欺凌两岸婚姻群体，有悖人伦，伤害天理！”\n 网民们纷纷在评论区用大拇指表情齐刷“64”和\"sb”回应。 https://t.co/4WD6YIbuct",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/26/1904872713090732274_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1191,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904872421007777794/pu/vid/avc1/320x694/EjvRcOBB0ifDAKRO.mp4?tag=12"
   }
 ]
