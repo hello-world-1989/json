@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 1299,
     "originVideos": ""
+  },
+  {
+    "id": "1904831134443463052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 17:41:47",
+    "content": "3月25日，媒体人项栋梁发文，谈湖南耒水一河段检测到江水中有毒物质铊含量超标一事，他表示直到检测出铊污染的第九天，官方才发布处置通报，核实确定污染源为郴州市某水泥生产企业，是窑炉内的含铊灰尘被雨水冲刷后流到了河里。但官方只字未提涉事水泥厂的名字，也未提及对涉事企业的处罚。\n 设想一下，如果3月22日没有那位接触到通知的“网民”将截图发出来，当地政府现在已经默默地完成了应急响应-污染溯源-污染源处置-汇总上报的全部流程。在此过程中，无论耒水中的铊含量是超标的0.13还是合格的0.05，沿岸居民也都在默默饮用。\n 目前，该文章已被删除。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904831134443463052_0.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904831134443463052_1.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904831134443463052_2.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904831134443463052_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 9,
+    "retweets": 2,
+    "views": 3627,
+    "originVideos": ""
   }
 ]
