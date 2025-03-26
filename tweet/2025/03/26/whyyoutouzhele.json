@@ -304,5 +304,23 @@
     "retweets": 3,
     "views": 2256,
     "originVideos": ""
+  },
+  {
+    "id": "1904739289478623514",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 11:36:49",
+    "content": "3月26日 国台办召开新闻发布会，回应赖清德将大陆界定为“境外敌对势力”事件。\n国台办称：赖清德违逆民意抛出的“17项策略”，彻底暴露出反和平、反交流、反民主、反人性的丑恶面目，所言所行就是要煽动“反中抗中”、阻挠两岸交流合作，就是要在岛内搞“恐怖政治、绿色独裁”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904739289478623514_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1517,
+    "originVideos": ""
   }
 ]
