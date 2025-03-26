@@ -160,5 +160,23 @@
     "retweets": 2,
     "views": 1874,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904961981532024832/pu/vid/avc1/480x270/z35X3p3e76ZY8GGS.mp4?tag=12"
+  },
+  {
+    "id": "1904975641872584858",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 03:16:00",
+    "content": "3月26日，网红IShowSpeed在北京直播时，遭遇粉丝追车大喊：“习近平向你问好！” https://t.co/i0jsKvFLqg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/27/1904975641872584858_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 0,
+    "views": 874,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904975356538339329/pu/vid/avc1/584x270/8o8_RVyp-bSQNEm4.mp4?tag=12"
   }
 ]
