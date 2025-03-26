@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 113,
     "originVideos": ""
+  },
+  {
+    "id": "1904870488968749546",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 20:18:10",
+    "content": "网传河南喜茶和北京喜茶的工资待遇，河南喜茶：调茶师/甜品师月薪2-3千元，兼职9元一小时。发布者称：这点工资人才肯定往外跑啊。\n 而北京喜茶的调茶师/甜品师月薪5000-7500元/月，兼职25元/小时。 https://t.co/ug0KdJJYPG",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904870488968749546_0.jpg,/tweet/image/whyyoutouzhele/2025/03/26/1904870488968749546_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 428,
+    "originVideos": ""
   }
 ]
