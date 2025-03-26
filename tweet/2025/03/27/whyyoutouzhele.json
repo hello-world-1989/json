@@ -124,5 +124,41 @@
     "retweets": 1,
     "views": 2324,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904961511694409728/pu/vid/avc1/480x270/Lbgf7JK0LWDt22-j.mp4?tag=12"
+  },
+  {
+    "id": "1904970260064993559",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 02:54:37",
+    "content": "川普在接受NewsMax采访时提到自己在大选前遇刺事件时表示：“有人说，上帝救了我，是为了让我拯救这个国家。这个国家本来要完了....现在我们正在扭转这个局面。” https://t.co/gLgHPl2L2M",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/27/1904970260064993559_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1061,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904969405630476288/pu/vid/avc1/480x270/qUzx8UFGzf6nNQrO.mp4?tag=12"
+  },
+  {
+    "id": "1904969571833954417",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 02:51:53",
+    "content": "3月26日，白宫发言人表示：\n“自就职以来，特朗普总统已成功吸引数万亿美元的私人和外国投资。每天都有更多的资金不断涌入我国，这将为勤劳的美国人民创造更多就业机会。 https://t.co/UXM4uWhze5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/27/1904969571833954417_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1874,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904961981532024832/pu/vid/avc1/480x270/z35X3p3e76ZY8GGS.mp4?tag=12"
   }
 ]
