@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 1707,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904692626403573760/pu/vid/avc1/480x270/qIeZyW6xybktf6gC.mp4?tag=12"
+  },
+  {
+    "id": "1904736427948335579",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 11:25:27",
+    "content": "路透社报道：\n中国的秘密网络正在招揽最近在特朗普裁员计划中失去工作的联邦雇员。\n由一家中国科技公司运营的四家子公司最近一直试图招聘被裁员的美国政府工作人员。这些子公司网站运行在同一个IP上，并且所留的电话、地址等都是虚假的。\n中国驻华盛顿大使馆发言人在一封电子邮件中告诉路透社，中国不认识任何涉嫌参与该行动的公司，中国尊重数据隐私和安全。\n捍卫民主基金会高级分析师Max称：该活动遵循了以前中国情报行动使用的“既定”技术。他说，“该网络试图利用被解雇的前联邦雇员们的财务困境。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904736427948335579_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 2,
+    "retweets": 3,
+    "views": 2256,
+    "originVideos": ""
   }
 ]
