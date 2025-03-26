@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 1517,
     "originVideos": ""
+  },
+  {
+    "id": "1904742753868878142",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-26 11:50:35",
+    "content": "3月26日 德国政府解散登上微博热搜头条\n实则根据德国《基本法》第69条规定，新一届联邦议院成立后，即将离任的政府将正式解散。解散是前任联邦政府任期满后换届的正常流程。 https://t.co/fjq2VoFXJO",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/26/1904742753868878142_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 12,
+    "retweets": 3,
+    "views": 3745,
+    "originVideos": ""
   }
 ]
