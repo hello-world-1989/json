@@ -70,5 +70,23 @@
     "retweets": 5,
     "views": 4965,
     "originVideos": ""
+  },
+  {
+    "id": "1904952553613177050",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 01:44:15",
+    "content": "后续，受害人称，为避免被别有用心的人或媒体利用放大攻击厂商，主动删除了相关内容，会继续支持小米。 https://t.co/FndFSUNzx4",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1904952553613177050_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1367,
+    "originVideos": ""
   }
 ]
