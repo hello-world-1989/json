@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 1367,
     "originVideos": ""
+  },
+  {
+    "id": "1904962640318964031",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 02:24:20",
+    "content": "越南政府星期三宣布，允许星链公司（Starlink）在越南试行提供卫星互联网服务，并允许星链完全持有在当地子公司的所有权。这项试行服务将持续到2030年底。\n越南政府在一份声明中说，星链获准在越南全国提供固定和移动服务计划，包括在航班上提供服务。政府决定在试行期内，将星链用户数量限制在60万。\n 分析人士认为，这是越南为避免遭受美国关税政策打击而采取的措施之一。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1904962640318964031_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1295,
+    "originVideos": ""
   }
 ]
