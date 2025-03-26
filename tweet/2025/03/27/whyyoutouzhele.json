@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 1295,
     "originVideos": ""
+  },
+  {
+    "id": "1904964068064080252",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 02:30:01",
+    "content": "3月26日，国防部长彼得·赫格塞斯回应Signal群聊：\n“没有人在发作战计划。我完全清楚自己在做什么，也清楚我们在指挥什么。我对我们当晚完成的任务，以及后续展开的行动感到非常自豪。” https://t.co/AgUva1hqBa",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/27/1904964068064080252_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2324,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1904961511694409728/pu/vid/avc1/480x270/Lbgf7JK0LWDt22-j.mp4?tag=12"
   }
 ]
