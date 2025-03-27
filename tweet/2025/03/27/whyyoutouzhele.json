@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 1977,
     "originVideos": ""
+  },
+  {
+    "id": "1905103259498623072",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 11:43:06",
+    "content": "3月27日 市场监督管理总局发布了50项食品安全国家标准和9项标准修改单\n其中着重提到：不允许再使用“不添加”“零添加”等用语。\n以某款“果汁饮料”举例，饮料的标签上写了“不添加蔗糖”，但果汁中本身含有大量糖分，因此这类产品所声称的“不添加蔗糖”，绝不等于产品中不含有糖，容易误导公众。 https://t.co/j5Tp7aPJKQ https://t.co/LQR4kgp1Pc",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905103259498623072_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 2,
+    "views": 3487,
+    "originVideos": ""
   }
 ]
