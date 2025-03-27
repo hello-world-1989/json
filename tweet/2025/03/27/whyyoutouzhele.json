@@ -772,5 +772,41 @@
     "retweets": 2,
     "views": 1403,
     "originVideos": ""
+  },
+  {
+    "id": "1905250911980830839",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 21:29:49",
+    "content": "「亚亚」因发布鼓吹武统台湾的视频及言论，日前遭到移民署调查后撤销居留许可，陆委会副主委兼发言人梁文杰今（27）日受访，媒体追问，因发表不当言论遭驱离台湾的中配，是否有机会再回到台湾探亲？梁强调，若中配依旧发表相同的言论，「那在审查上面可能就会比较困难。」 https://t.co/MejE03AIQz",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/27/1905250911980830839_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 33,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905250758100164608/pu/vid/avc1/480x270/xcrqmF65FyckUmcp.mp4?tag=12"
+  },
+  {
+    "id": "1905248766657175703",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 21:21:18",
+    "content": "3月26日，港澳办再再再次转发《大公报》 文章，批长和售港口：不顾国家利益，终究自毁基石，“跪低”只会让霸权变本加厉，在商言商？天真！糊涂！装糊涂！中国人需要挺起胸膛面对挑衅！ https://t.co/3OXDiR8qNx",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905248766657175703_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 17,
+    "retweets": 2,
+    "views": 3365,
+    "originVideos": ""
   }
 ]
