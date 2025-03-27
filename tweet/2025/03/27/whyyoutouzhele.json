@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 2064,
     "originVideos": ""
+  },
+  {
+    "id": "1905081037937586474",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 10:14:48",
+    "content": "BBC报道：\n3月26日 特朗普称他可能会降低对中国的关税，以促成收购抖音的交易。同时他表示，他可能将4月5日封禁抖音的截止日期延长，以找到愿意购买抖音的非中国买家。\n今年1月，特朗普曾推迟了拜登政府禁止抖音法律的实施。 https://t.co/27Wromaf63",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905081037937586474_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1977,
+    "originVideos": ""
   }
 ]
