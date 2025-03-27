@@ -628,5 +628,23 @@
     "retweets": 0,
     "views": 1138,
     "originVideos": ""
+  },
+  {
+    "id": "1905228426799382662",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 20:00:29",
+    "content": "江苏盐城：参加过历届马拉松的选手，凭参赛证明，在购房时按该楼盘近期实际市场价格外给予优惠，最高享3万元优惠。网民表示：“忽悠人买房” https://t.co/nEuDzMKNeE",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905228426799382662_0.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905228426799382662_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 4,
+    "retweets": 2,
+    "views": 3272,
+    "originVideos": ""
   }
 ]
