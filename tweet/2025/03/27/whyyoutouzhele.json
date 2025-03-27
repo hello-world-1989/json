@@ -268,5 +268,41 @@
     "retweets": 2,
     "views": 3487,
     "originVideos": ""
+  },
+  {
+    "id": "1905107437041955259",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 11:59:42",
+    "content": "2015年 中国也曾出台新《广告法》限制使用“最”等极限词，但商家们脑洞大开的开始使用各种替换词来规避违法。\n如“好到违反广告法”“单品销量比亚军高”“燕窝销售额是第二名的4倍以上”。 https://t.co/5k4zOb5bX9",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905107437041955259_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "1905106328726741242",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 11:55:18",
+    "content": "3月19日 全国爱卫办发布《睡眠健康核心信息及释义》，其中提到中小学生每天需要8-10小时，长期睡眠不良会导致反应迟钝，学习工作效率下降，还会诱发焦虑、抑郁等问题。\n但根据https://t.co/PFANjSLQ0N 项目的统计，大量全国学校每天在校时间超过17个小时，就算放学秒睡，每天睡眠时间也不足7小时。 https://t.co/5NG8XC3VUh",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905106328726741242_0.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905106328726741242_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1398,
+    "originVideos": ""
   }
 ]
