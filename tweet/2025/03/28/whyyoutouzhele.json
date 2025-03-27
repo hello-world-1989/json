@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 918,
     "originVideos": ""
+  },
+  {
+    "id": "1905406853418229957",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 07:49:29",
+    "content": "https://t.co/QDEig29sEL 浙江某中学，教师投稿\n浙江省教育界乱象丛生。\n“本是表彰基础教育界教育人士的一个崇高荣誉，现在明码标价30万一个，有钱就能上。” https://t.co/KRLJSdHPGS",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905406853418229957_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3,
+    "originVideos": ""
   }
 ]
