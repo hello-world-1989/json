@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 215,
     "originVideos": ""
+  },
+  {
+    "id": "1905391310074183924",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 06:47:43",
+    "content": "北京时间周五晚上20:00，我们将在推特Space开一场自媒体分享会：禁书AI频道运营规划。讨论包括视频自媒体运营、AI技术应用以及最近的自媒体实时热点。欢迎收听并参与讨论。\n嘉宾：@jinshu_AI \n主讲人：@torontobigface 、@xumouren_yt \n\nhttps://t.co/ytzWCtoCEz",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 2,
+    "views": 294,
+    "originVideos": ""
+  },
+  {
+    "id": "1905390627308601362",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 06:45:00",
+    "content": "3 月 27 日，据路透社报道，美国卫生与公众服务部部长罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）周四宣布了重组联邦公共卫生机构的计划，包括裁员 10,000 人并将 FDA、CDC 和其他归他管辖的机构的一些职能集中化。\n\n裁员包括食品药品管理局裁员 3,500 人、疾病控制和预防中心裁员 2,400 人、国家卫生研究院裁员 1,200 人。\n\n有医疗业内人士批评，此举会大幅缩减 NIH 的职能，并“导致患者延迟获得治疗”。但非营利组织 KFF 的卫生政策执行副总裁拉里·莱维特 (Larry Levitt) 表示，像 HHS 这样的大型政府机构会随着时间的推移而不断扩张，对其进行重组是有好处的。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905390627308601362_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905390627308601362_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 1,
+    "views": 918,
+    "originVideos": ""
   }
 ]
