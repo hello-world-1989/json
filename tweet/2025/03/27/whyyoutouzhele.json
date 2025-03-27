@@ -178,5 +178,41 @@
     "retweets": 0,
     "views": 874,
     "originVideos": "https://video.twimg.com/ext_tw_video/1904975356538339329/pu/vid/avc1/584x270/8o8_RVyp-bSQNEm4.mp4?tag=12"
+  },
+  {
+    "id": "1905046102908260478",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 07:55:59",
+    "content": "3月26日，特朗普宣布对进口汽车和零部件征收 25% 关税。这项措施旨在将汽车工厂迁至美国，但可能会大幅提高消费者的价格。\n特朗普表示，关税将于 4 月 3 日生效，适用于运往美国的汽车和卡车以及发动机、变速箱和电气元件等关键零部件。这包括在加拿大或墨西哥等国境外组装的美国品牌汽车。 https://t.co/qmdWvnvSFU",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905046102908260478_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1042,
+    "originVideos": ""
+  },
+  {
+    "id": "1905044980407697724",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 07:51:32",
+    "content": "因特朗普和他的高级情报官员一致否认曾在Signal上探讨机密信息，并声称《大西洋月刊》是在撒谎，3月26日，《大西洋月刊》选择公开了详细的聊天内容，正如先前的报道，其中大部分对话都与袭击胡塞武装的时机和理由有关，其中包含特朗普政府官员关于美国欧洲盟友的所谓缺点的言论。但就在袭击发生的那一天——3月15日星期六——讨论转向了行动层面。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905044980407697724_0.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905044980407697724_1.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905044980407697724_2.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905044980407697724_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 4,
+    "retweets": 0,
+    "views": 3379,
+    "originVideos": ""
   }
 ]
