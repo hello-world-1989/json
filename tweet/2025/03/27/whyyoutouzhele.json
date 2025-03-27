@@ -304,5 +304,23 @@
     "retweets": 0,
     "views": 1398,
     "originVideos": ""
+  },
+  {
+    "id": "1905109982426943771",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 12:09:49",
+    "content": "BBC报道：\n特朗普宣布，将对所有进入美国的汽车和汽车零部件征收25%关税，这项关税将于4月2日生效。\n特朗普称该关税将促使美国汽车行业获得“巨大增长”，并将刺激美国的就业和投资。\n但也有分析师认为，此举可能会导致美国汽车生产大规模暂时停产，汽车价格上涨，并加剧和盟友的紧张关系。\n该命令不仅适用于汽车，还包括汽车零件，很多美国车企依赖这些零件组装汽车。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905109982426943771_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 34,
+    "originVideos": ""
   }
 ]
