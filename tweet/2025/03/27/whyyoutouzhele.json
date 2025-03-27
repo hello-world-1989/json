@@ -808,5 +808,23 @@
     "retweets": 2,
     "views": 3365,
     "originVideos": ""
+  },
+  {
+    "id": "1905254139279630811",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-27 21:42:39",
+    "content": "3月26日，河北律师“吴老丝”发文称，海南公安用一张空白的传唤证试图随意拘留他人。\n  目前该贴已被平台删除。 https://t.co/15wX5zOe8L",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/27/1905254139279630811_0.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905254139279630811_1.jpg,/tweet/image/whyyoutouzhele/2025/03/27/1905254139279630811_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 11,
+    "retweets": 6,
+    "views": 3517,
+    "originVideos": ""
   }
 ]
