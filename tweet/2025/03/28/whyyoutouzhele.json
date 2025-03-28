@@ -736,5 +736,23 @@
     "retweets": 3,
     "views": 3666,
     "originVideos": ""
+  },
+  {
+    "id": "1905584671108313202",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 19:36:04",
+    "content": "https://t.co/3p82wc97Sr 合肥五十中学天鹅湖教育集团 学生投稿 https://t.co/qni1u5FkEI",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905584671108313202_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1209,
+    "originVideos": ""
   }
 ]
