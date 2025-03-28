@@ -1276,5 +1276,23 @@
     "retweets": 0,
     "views": 487,
     "originVideos": ""
+  },
+  {
+    "id": "1905649922357297161",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 23:55:21",
+    "content": "近日，一名留美博士讲述了自己回国后的所见所闻，他称回深圳后发现很多此前爱吃的餐厅都倒闭了，并且新开的餐厅客单价基本都在100以内，相较于客单价高的餐厅冷冷清清，客单价25元左右的石锅拌饭反而大排长龙... https://t.co/byK89h4E72",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905649922357297161_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905649922357297161_1.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905649922357297161_2.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905649922357297161_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2036,
+    "originVideos": ""
   }
 ]
