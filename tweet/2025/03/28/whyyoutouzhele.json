@@ -1186,5 +1186,41 @@
     "retweets": 0,
     "views": 1660,
     "originVideos": "https://video.twimg.com/ext_tw_video/1905629409694085120/pu/vid/avc1/480x270/MeKwpxieFKo_KSr6.mp4?tag=12"
+  },
+  {
+    "id": "1905633024504725810",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 22:48:12",
+    "content": "3月27日，加拿大总理卡尼宣布：\n“我们与美国之间曾经建立在深化经济融合和紧密安全和军事合作基础上的关系已经一去不复返。” https://t.co/Rdgw9BLNRK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/28/1905633024504725810_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 2,
+    "views": 432,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905632956628303876/pu/vid/avc1/480x270/org34XnHpwHd72Uy.mp4?tag=12"
+  },
+  {
+    "id": "1905632568197652893",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 22:46:23",
+    "content": "据央视报道，缅甸7.9级地震已导致缅甸全国144人死亡，732人受伤。 https://t.co/HNO8PQtC2B",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905632568197652893_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/28/1905632568197652893_0.jpg,/tweet/video/whyyoutouzhele/2025/03/28/1905632568197652893_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1618,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905632054181863424/pu/vid/avc1/320x608/BOyzOvJhfb3yla7u.mp4?tag=12,https://video.twimg.com/ext_tw_video/1905632061198925825/pu/vid/avc1/320x576/boPSEGUmfBf2-l-t.mp4?tag=12"
   }
 ]
