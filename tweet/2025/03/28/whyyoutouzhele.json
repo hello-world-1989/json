@@ -880,5 +880,23 @@
     "retweets": 3,
     "views": 1708,
     "originVideos": ""
+  },
+  {
+    "id": "1905596733318398300",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 20:24:00",
+    "content": "有网友表示，用这张习近平图片在小红书会被封禁 https://t.co/TdGCsSPFdP",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905596733318398300_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905596733318398300_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 3,
+    "views": 2349,
+    "originVideos": ""
   }
 ]
