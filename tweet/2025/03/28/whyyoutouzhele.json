@@ -700,5 +700,41 @@
     "retweets": 0,
     "views": 125,
     "originVideos": ""
+  },
+  {
+    "id": "1905582638909276417",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 19:27:59",
+    "content": "https://t.co/bkylibwDK3",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 549,
+    "originVideos": ""
+  },
+  {
+    "id": "1905580772985290964",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 19:20:34",
+    "content": "美国麻省理工大学教授黄亚生接受联合早报专访时表示：中国自身与外界的“捧杀”者应有清醒认识：算人均GDP,中国是美国的大约15%；算人均居民家庭收入，中国只相当于美国的8%，这种情况下中国如果挑战美国，靠什么？为什么? https://t.co/vuYJUf7ERE",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905580772985290964_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905580772985290964_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 16,
+    "retweets": 3,
+    "views": 3666,
+    "originVideos": ""
   }
 ]
