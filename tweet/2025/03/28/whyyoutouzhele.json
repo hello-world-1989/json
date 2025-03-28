@@ -286,5 +286,23 @@
     "retweets": 4,
     "views": 3359,
     "originVideos": ""
+  },
+  {
+    "id": "1905455082248044673",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 11:01:07",
+    "content": "2018年 特朗普也曾威胁退出世贸组织，但最终并未退会。\n2019年 特朗普签署命令，阻止世贸组织争议解决上诉机构WTOAB的成员任命，拜登政府上台后亦维持了这个冻结命令，导致世贸组织的争议解决上诉机构瘫痪至今。 https://t.co/SMiABD3u5g",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905455082248044673_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905455082248044673_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 1,
+    "views": 2179,
+    "originVideos": ""
   }
 ]
