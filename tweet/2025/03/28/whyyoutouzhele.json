@@ -790,5 +790,41 @@
     "retweets": 2,
     "views": 4700,
     "originVideos": ""
+  },
+  {
+    "id": "1905590339588546608",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 19:58:35",
+    "content": "https://t.co/ytzWCtoCEz",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 236,
+    "originVideos": ""
+  },
+  {
+    "id": "1905589200960823387",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 19:54:04",
+    "content": "有网友表示使用这张习近平MEME在B站被封了一年 https://t.co/CxQWrjlL4b",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905589200960823387_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2864,
+    "originVideos": ""
   }
 ]
