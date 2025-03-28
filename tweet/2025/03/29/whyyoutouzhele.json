@@ -196,5 +196,23 @@
     "retweets": 6,
     "views": 2515,
     "originVideos": ""
+  },
+  {
+    "id": "1905767582075945210",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 07:42:53",
+    "content": "刚刚，美国政府宣布彻底关闭USAID美国国际开发署。 https://t.co/HTfCgXL5CO",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905767582075945210_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2034,
+    "originVideos": ""
   }
 ]
