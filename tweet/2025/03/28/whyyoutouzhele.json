@@ -520,5 +520,41 @@
     "retweets": 1,
     "views": 3334,
     "originVideos": "https://video.twimg.com/ext_tw_video/1905537652751040516/pu/vid/avc1/320x568/RoN8mYACbHP_hMbH.mp4?tag=12"
+  },
+  {
+    "id": "1905542376854032868",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 16:48:00",
+    "content": "https://t.co/XzzeBBHuDN\n福建省宁德市 宁德时代湖西基地员工投稿： https://t.co/exFsZra03Q",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905542376854032868_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 427,
+    "originVideos": ""
+  },
+  {
+    "id": "1905541819926282745",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 16:45:47",
+    "content": "3月28日，缅甸发生7.9级地震，震源深度30千米。泰国全国有震感，首都曼谷震感强烈。据泰媒报道，曼谷一栋在建高楼因强震倒塌，造成一人死亡，43人失踪。 https://t.co/oIk4978qX5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/28/1905541819926282745_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 8,
+    "retweets": 2,
+    "views": 1762,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905541381617238016/pu/vid/avc1/320x568/YUc6JNDZErrAw2mW.mp4?tag=12"
   }
 ]
