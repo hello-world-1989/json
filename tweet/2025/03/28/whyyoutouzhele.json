@@ -556,5 +556,41 @@
     "retweets": 2,
     "views": 1762,
     "originVideos": "https://video.twimg.com/ext_tw_video/1905541381617238016/pu/vid/avc1/320x568/YUc6JNDZErrAw2mW.mp4?tag=12"
+  },
+  {
+    "id": "1905547721744023733",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 17:09:14",
+    "content": "网传一名网友只因在小熊维尼的商品下方留言“这玩具长相违规，竟然还可以发布”之后闲鱼账号被平台封禁到2999年。 https://t.co/xsey50ZpRI",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905547721744023733_0.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905547721744023733_1.jpg,/tweet/image/whyyoutouzhele/2025/03/28/1905547721744023733_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 157,
+    "originVideos": ""
+  },
+  {
+    "id": "1905545807975383182",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-28 17:01:38",
+    "content": "据报道，欧盟正考虑打击美国的服务出口，包括大型科技公司的业务，以报复特朗普对汽车行业征收25%的关税，并承诺下周将采取进一步措施。一名欧盟外交官表示：“美国人认为他们是（在贸易冲突中）具有升级优势的一方，但我们也有能力做到这一点。”他补充称，最终目标是通过一项全面的贸易协议来缓和紧张局势。反击可能包括限制大型科技公司的知识产权。另一个例子是禁止马斯克的星链卫星网络赢得政府合同。意大利已经在重新考虑是否购买该系统。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/28/1905545807975383182_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3024,
+    "originVideos": ""
   }
 ]
