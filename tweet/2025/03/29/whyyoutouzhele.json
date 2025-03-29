@@ -556,5 +556,23 @@
     "retweets": 5,
     "views": 3423,
     "originVideos": ""
+  },
+  {
+    "id": "1905939308345000213",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 19:05:16",
+    "content": "3月28日，河南许昌。胖东来董事长在“2025中国超市周”专场分享中表示，今年1-2月，胖东来基层员工平均月薪9886元；去年共流失171人，流失率2%；年休假40天。引发不少网民羡慕。 https://t.co/eRhgDPJUpV",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905939308345000213_0.jpg,/tweet/image/whyyoutouzhele/2025/03/29/1905939308345000213_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/29/1905939308345000213_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 2,
+    "retweets": 3,
+    "views": 1872,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905939150307823616/pu/vid/avc1/480x270/dev-jkMIJ34J62qT.mp4?tag=12"
   }
 ]
