@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 1696,
     "originVideos": ""
+  },
+  {
+    "id": "1905825975100989882",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 11:34:55",
+    "content": "3月28日 据路透社报道，又有一名美国联邦法官下令，阻止一名来自土耳其的亲巴勒斯坦博士生被驱逐。近日以来，已有多名联邦法官判决阻止特朗普的行政命令。\n这位马萨诸塞州联邦法官称：国土安全部在没有提供证据的情况下指责该学生“参与支持哈马斯的活动”，该组织被美国政府归类为“外国恐怖组织”。\n这名学生本周被联邦移民官员拘留，随后被吊销签证。\n该学生在一年前曾发表文章，批评塔夫茨大学对于“从与以色列有联系的公司撤资”和“承认巴勒斯坦种族灭绝”两件事的回应。\n截至日前，特朗普政府宣称，他们已经吊销了300多份签证。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905825975100989882_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2619,
+    "originVideos": ""
   }
 ]
