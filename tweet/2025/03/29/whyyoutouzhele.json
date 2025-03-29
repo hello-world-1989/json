@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 1166,
     "originVideos": ""
+  },
+  {
+    "id": "1905913368931913967",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 17:22:11",
+    "content": "28日，泰国曼谷一栋兴建中的大楼因地震倒塌，截至昨晚，死亡人数为十人，另有101人失踪。多个信源指出，涉事项目由中国中铁十局泰国分公司参与城建的泰国审计署新办公大楼，资料显示，此项目采用预应力无梁楼盖设计，其承载能力相比传统结构提升30%以上，数据显示，采用该技术的楼盖在模拟地震作用下的位移和应力分布均优于传统结构。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905913368931913967_0.jpg,/tweet/image/whyyoutouzhele/2025/03/29/1905913368931913967_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/29/1905913368931913967_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 11,
+    "retweets": 0,
+    "views": 3198,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1905913267014488064/pu/vid/avc1/320x568/ICgf1I5QUnYNNSyL.mp4?tag=12"
   }
 ]
