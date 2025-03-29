@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 2675,
     "originVideos": ""
+  },
+  {
+    "id": "1905834104366780608",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 12:07:13",
+    "content": "2020年，乐事薯片也被爆出其薯片的另一种致癌物按量超过欧盟标准。\n深圳市消委会发布的薯片比较试验报告显示，乐事等7款薯片丙烯酰胺含量超过欧盟750微克/公斤的基准水平。丙烯酰胺被国际癌症研究机构（IARC）列为2A类致癌物。\n但中国并未制定该致癌物的限量标准，所以乐事的产品依然合格。\n尽管中国尚未制定丙烯酰胺限量标准，但专家强调，儿童、孕妇等敏感人群应控制摄入量。\n乐事当时回应称，丙烯酰胺是马铃薯高温加工的自然产物，公司严格遵守国内法规。深圳市消委会则澄清，欧盟基准值为行业参考指标，并非安全标准，但建议消费者优先选择低丙烯酰胺含量的产品。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905834104366780608_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 723,
+    "originVideos": ""
+  },
+  {
+    "id": "1905833064028332540",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 12:03:05",
+    "content": "乐事薯片“被曝含致癌物”登上微博热搜。\n近日 有博主曝光乐事薯片含有致癌物质特丁基对苯二酚TBHQ。\n乐事客服回应称，“根据国标规定，食品中TBHQ的最大添加量为0.2克每千克，TBHQ是一种抗氧化剂，乐事的产品符合国家规定”。\n目前，对于TBHQ的安全性存在争议。日本明令禁止使用TBHQ，而美国FDA在批准TBHQ使用时，公开其安全性评估报告，并征求公众意见。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905833064028332540_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 12,
+    "retweets": 1,
+    "views": 2987,
+    "originVideos": ""
   }
 ]
