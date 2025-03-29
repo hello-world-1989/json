@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 827,
     "originVideos": "https://video.twimg.com/ext_tw_video/1905900002809098240/pu/vid/avc1/320x568/wgnAHYqAWYAaJeuj.mp4?tag=12"
+  },
+  {
+    "id": "1905909268043174199",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-29 17:05:54",
+    "content": "泽连斯基：乌克兰从美国收到了一份新的矿产资源协议草案，不过他表示：最新版本与此前的协议框架 “完全不同”乌方不会承认美国过去提供的数百亿美元军事援助为贷款。 https://t.co/keZqieZBxP",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/29/1905909268043174199_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1166,
+    "originVideos": ""
   }
 ]
