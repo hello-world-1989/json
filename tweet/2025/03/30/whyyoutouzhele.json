@@ -736,5 +736,23 @@
     "retweets": 3,
     "views": 1224,
     "originVideos": ""
+  },
+  {
+    "id": "1906348456349978713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 22:11:04",
+    "content": "3月28日，上海。博主“推拿熊”称，他点外卖，发现自己这边付款156元，而商家这边显示只有86快。推拿熊表示美团的抽成“真的蛮凶残的” https://t.co/QerrsL6e02",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906348456349978713_0.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906348456349978713_1.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906348456349978713_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3594,
+    "originVideos": ""
   }
 ]
