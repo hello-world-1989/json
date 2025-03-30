@@ -772,5 +772,23 @@
     "retweets": 0,
     "views": 285,
     "originVideos": ""
+  },
+  {
+    "id": "1906359372516855912",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 22:54:27",
+    "content": "中国半导体行业中的两大国企——中芯国际和华虹的年度净利润均大幅下降。年报显示，中芯国际2024年实现营业收入578亿元，同比增长27.7%；归母净利润为37亿元，同比下滑23.3%；华虹公司2024年实现营业收入143.88亿元，同比下降11.36%；归母净利润为3.81亿元，同比下降80.34%； https://t.co/ssllItixGY",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906359372516855912_0.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906359372516855912_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2129,
+    "originVideos": ""
   }
 ]
