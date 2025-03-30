@@ -196,5 +196,41 @@
     "retweets": 5,
     "views": 3743,
     "originVideos": "https://video.twimg.com/ext_tw_video/1906169974789754880/pu/vid/avc1/480x270/irdyi-MAwtSMlI44.mp4?tag=12"
+  },
+  {
+    "id": "1906179222735057396",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 10:58:36",
+    "content": "3月28日 美国海军学院宣布停止在招生中将种族、民族和性别纳入考量因素。\n在此之前，美国巴尔的摩地区法官理查德去年曾裁定，海军学院的平权录取计划是合法的，该计划将种族视为招生因素，以增加黑人、西班牙裔和其他少数民族的招生人数。\n拜登政府在该案中辩称，高级军事领导人早就认识到，少数民族军官的数量稀少可能会在美国军队内部造成不信任。直到1948年，美国军队一直处于种族隔离。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906179222735057396_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 246,
+    "originVideos": ""
+  },
+  {
+    "id": "1906177101973123359",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 10:50:10",
+    "content": "目前 鼠头鸭脖涉事的南昌市监局，已经在其抖音账号开启了禁评模式。 https://t.co/u9UET1urzS",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906177101973123359_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2418,
+    "originVideos": ""
   }
 ]
