@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 2418,
     "originVideos": ""
+  },
+  {
+    "id": "1906180105485050240",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 11:02:06",
+    "content": "https://t.co/XzzeBBI2tl\n福建泉州市政府 一名每周工作6天的公务员投稿： https://t.co/qw3oJdQzKX",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906180105485050240_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 4,
+    "retweets": 3,
+    "views": 3047,
+    "originVideos": ""
   }
 ]
