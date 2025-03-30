@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 3007,
     "originVideos": ""
+  },
+  {
+    "id": "1906166034773799075",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 10:06:12",
+    "content": "3月29日 日本最大的餐饮连锁店之一食其家，因其食物内内发现老鼠和虫子，宣布全日本2000家门店将于周一起闭店4天进行整改。\n上周末，食其家终于承认旗下餐厅一月份在味增汤内发现了一只老鼠，而此前，关于老鼠味增汤的谣言已经在社交媒体上流传了几周\n周五，东京有顾客在其餐内发现了据传是蟑螂的虫子 https://t.co/vAqDfSvnfL",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906166034773799075_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1410,
+    "originVideos": ""
   }
 ]
