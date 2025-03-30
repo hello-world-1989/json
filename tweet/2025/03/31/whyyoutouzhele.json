@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 2002,
     "originVideos": ""
+  },
+  {
+    "id": "1906443650508468430",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-31 04:29:20",
+    "content": "目前，该UP主所有内容已经被清空 https://t.co/Du0YqWp23I",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/31/1906443650508468430_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 48,
+    "originVideos": ""
   }
 ]
