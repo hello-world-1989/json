@@ -466,5 +466,23 @@
     "retweets": 4,
     "views": 2212,
     "originVideos": ""
+  },
+  {
+    "id": "1906295420961366502",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 18:40:20",
+    "content": "网曝西安软通动力网络技术有限公司，一名42岁员工因长期高强度加班导致过劳死亡。公司第一时间删除其工号，导致家属申报工亡受阻，家属们在公司维权。 https://t.co/vHq8z50NAd",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906295420961366502_0.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906295420961366502_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 11,
+    "retweets": 7,
+    "views": 3320,
+    "originVideos": ""
   }
 ]
