@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 3973,
     "originVideos": ""
+  },
+  {
+    "id": "1906324424686706758",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 20:35:35",
+    "content": "昨日，泰国曼谷市长查猜被台记者问：为何只有这栋（中资承建）大楼是完全崩塌的。\n 查猜：这是个好问题，我不知道，所以我们需要专家的判断，希望我们可以从中学到教训，之后的建造施工可以改善。但目前原因我不知道。 https://t.co/Ng1WzDNTsh",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/30/1906324424686706758_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 8,
+    "retweets": 0,
+    "views": 1612,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1906323411380707328/pu/vid/avc1/480x270/pRGGWgBsEqbCBUM4.mp4?tag=12"
   }
 ]
