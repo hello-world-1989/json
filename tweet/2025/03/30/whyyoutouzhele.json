@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1906162169529717124",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 09:50:50",
+    "content": "路透社报道：\n3月29日 特朗普命令和美国政府签订合同的法国公司遵守其禁止DEI（多样性、公平和包容性计划）的禁令。\n法国外贸部在发给路透社的一份声明中表示，美国对法国公司的包容政策的干预，以及不合理的关税威胁是不可接受的。\n“法国和欧洲将捍卫其企业、消费者以及价值观” https://t.co/KXTtyfYqIP",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906162169529717124_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 26,
+    "retweets": 1,
+    "views": 3007,
+    "originVideos": ""
   }
 ]
