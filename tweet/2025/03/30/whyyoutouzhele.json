@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 942,
     "originVideos": ""
+  },
+  {
+    "id": "1906374402872422713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 23:54:11",
+    "content": "3月29日，一名在香港从事建筑工作的工人称，为什么香港的房子很多都是百年工程，而内地房子的寿命却只有几十年？因为香港的材料和用料好，所以甚至能保持百年不倒，而内地的房子虽然建造工艺好，但原材料不好，再好的工艺也没法救。 https://t.co/MEo4eKoUbG",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/30/1906374402872422713_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 2,
+    "retweets": 2,
+    "views": 2372,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1906373020828246016/pu/vid/avc1/320x508/ZM_hMYpZmYNqHOUB.mp4?tag=12"
   }
 ]
