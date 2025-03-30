@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 273,
     "originVideos": ""
+  },
+  {
+    "id": "1906339456249995620",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 21:35:19",
+    "content": "中国经营报：调研显示，中国职场压力感全球最低，“卷并快乐”人群比例最高。报告显示，中国职场中在压力下能“蓬勃发展”的员工比例为40% 领先全球其他市场，同时中国感到“压力过载”的员工占10%。 https://t.co/VPfGD3els8",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/30/1906339456249995620_0.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906339456249995620_1.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906339456249995620_2.jpg,/tweet/image/whyyoutouzhele/2025/03/30/1906339456249995620_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 11,
+    "retweets": 1,
+    "views": 1933,
+    "originVideos": ""
   }
 ]
