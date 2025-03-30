@@ -844,5 +844,13 @@
     "retweets": 2,
     "views": 2372,
     "originVideos": "https://video.twimg.com/ext_tw_video/1906373020828246016/pu/vid/avc1/320x508/ZM_hMYpZmYNqHOUB.mp4?tag=12"
+  },
+  {
+    "id": "1906333317089440106",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-03-30 21:11:12",
+    "content": "近日，网传蚌埠司法局发布通知，试图通过行政手段强化对律师执业活动的监管，具体措施包括建立统一信息平台、限制律师函格式等。"
   }
 ]
