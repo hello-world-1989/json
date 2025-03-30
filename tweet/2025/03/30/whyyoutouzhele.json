@@ -574,5 +574,41 @@
     "retweets": 1,
     "views": 4454,
     "originVideos": "https://video.twimg.com/ext_tw_video/1906314269752545280/pu/vid/avc1/320x568/BGkIkuptGDEl8LtX.mp4?tag=12,https://video.twimg.com/ext_tw_video/1906314290476589057/pu/vid/avc1/320x544/dzSpbYWlD_jz3qzR.mp4?tag=12"
+  },
+  {
+    "id": "1906319045181460624",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 20:14:12",
+    "content": "3月27日，山东。泛华保险暴雷无法按时兑付，投资者们在公司维权，现场多位投资者情绪崩溃。 https://t.co/vQG3DkYEsm",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/30/1906319045181460624_0.jpg,/tweet/video/whyyoutouzhele/2025/03/30/1906319045181460624_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 5,
+    "retweets": 6,
+    "views": 2359,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1906317533474676736/pu/vid/avc1/320x568/KF-RAkXiSslTQaiG.mp4?tag=12,https://video.twimg.com/ext_tw_video/1906317553150144512/pu/vid/avc1/320x564/c5dSorj3ajl5P31E.mp4?tag=12"
+  },
+  {
+    "id": "1906318055497441523",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-30 20:10:16",
+    "content": "Hey everyone,I'd like to introduce my AI-powered English account. It automatically translates, reposts, and comments on my real-time tweets. The goal is to help you access accurate and timely news from China more efficiently.\nhttps://t.co/hWTBuI1rIE https://t.co/DtUsrfmxJv",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 1,
+    "views": 3973,
+    "originVideos": ""
   }
 ]
