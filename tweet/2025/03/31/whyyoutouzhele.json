@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 2800,
     "originVideos": ""
+  },
+  {
+    "id": "1906563325653316048",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-31 12:24:53",
+    "content": "3月30日 据路透社报道，特朗普宣布其对等关税政策将针对所有国家，而不再只是那些和美国贸易失衡最严重的15个国家。\n特朗普承诺在周三推出一项大规模关税计划，他称其为“解放日”。他已经对铝、钢铁和汽车征收关税，同时对来自中国的所有商品征收关税。 https://t.co/2JRqp9ijAt",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/31/1906563325653316048_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1630,
+    "originVideos": ""
   }
 ]
