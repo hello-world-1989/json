@@ -736,5 +736,23 @@
     "retweets": 3,
     "views": 3350,
     "originVideos": "https://video.twimg.com/ext_tw_video/1906713350148595712/pu/vid/avc1/476x270/khf1GpZokhChIreV.mp4?tag=12"
+  },
+  {
+    "id": "1906720083717791881",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-31 22:47:47",
+    "content": "泰媒指出，在此次地震中倒塌的大楼使用了不合格的钢材，该建筑由中铁十局与泰国意大利-泰国发展公共有限公司组成的合资企业承建。\n 泰交通部表示，不合格的钢筋会削弱结构，使其变脆，在强烈撞击或地震中更容易断裂，从而可能导致坍塌。据悉，这栋倒塌的大楼使用了DB32 SD50钢材，有专家指出这种钢材是双层的，外硬内软，因此在扭曲时容易开裂。",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/31/1906720083717791881_0.jpg,/tweet/image/whyyoutouzhele/2025/03/31/1906720083717791881_1.jpg,/tweet/image/whyyoutouzhele/2025/03/31/1906720083717791881_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1005,
+    "originVideos": ""
   }
 ]
