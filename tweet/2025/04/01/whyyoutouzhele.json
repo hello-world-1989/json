@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 552,
     "originVideos": ""
+  },
+  {
+    "id": "1906820930208452923",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 05:28:31",
+    "content": "周一，特朗普总统的两个儿子宣布，他们正在投资一家新的比特币挖矿企业，以扩大其家族在加密货币行业的商业利益。他们表示将与比特币挖矿公司 Hut 8 联手创建一家名为 American Bitcoin 的公司。根据交易条款，Hut 8 将控制新公司 80% 的股份，其余 20% 归一家名为 American Data Centers 的商业实体所有，其投资者包括特朗普的两个儿子。\n该挖矿项目是特朗普家族在过去一年中启动的第三个大型加密货币项目。在竞选期间，唐纳德·特朗普和他的儿子们成立了一家加密货币公司 World Liberty Financial，该公司提供两种数字货币，包括上周推出的所谓稳定币。\n小川普在一份声明中说，“从一开始，我们就坚信比特币，无论是个人还是企业。但仅仅购买比特币只是故事的一半。利用有利的经济条件开采比特币将带来更大的机会。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1906820930208452923_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "views": 175,
+    "originVideos": ""
   }
 ]
