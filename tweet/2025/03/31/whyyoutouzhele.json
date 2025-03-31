@@ -718,5 +718,23 @@
     "retweets": 2,
     "views": 281,
     "originVideos": "https://video.twimg.com/ext_tw_video/1906704756741140480/pu/vid/avc1/320x564/KoPumBc7Ncb_N97E.mp4?tag=12,https://video.twimg.com/ext_tw_video/1906705797880692736/pu/vid/avc1/320x568/we6s8fo5W9kUmAsU.mp4?tag=12"
+  },
+  {
+    "id": "1906714288414437561",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-03-31 22:24:46",
+    "content": "3月31日，网红“甲亢哥”在成都直播时，一名女子扑上来表示：“我是种族主义者，我恨黑人，我是黑人杀手，但是我喜欢你的女朋友，因为你的女朋友是白人，我爱她”“甲亢哥”一脸不可置信，随即扭头进入车内表示：“这太地狱了” https://t.co/0oq6ShGCI8",
+    "images": "/tweet/image/whyyoutouzhele/2025/03/31/1906714288414437561_0.jpg,/tweet/image/whyyoutouzhele/2025/03/31/1906714288414437561_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/03/31/1906714288414437561_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 12,
+    "retweets": 3,
+    "views": 3350,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1906713350148595712/pu/vid/avc1/476x270/khf1GpZokhChIreV.mp4?tag=12"
   }
 ]
