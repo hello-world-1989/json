@@ -610,5 +610,41 @@
     "retweets": 1,
     "views": 2437,
     "originVideos": ""
+  },
+  {
+    "id": "1907036969382887757",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 19:46:59",
+    "content": "https://t.co/dKmKRSnGCb",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1907036969382887757_0.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907036969382887757_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 752,
+    "originVideos": ""
+  },
+  {
+    "id": "1907036441018040511",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 19:44:53",
+    "content": "2022年3月27日开始，中国因坚持新冠“清零政策”而对上海市新冠疫情所采取的封城措施。当局为避免使用“封城”字眼，在一开始称其为“分区分批封控”，后期称之为上海“全域静态管理”。三年后的今天，网友们仍对那段经历心有余悸。\n 网友：“那时最可笑的是，关在家里没吃没喝无人问津，社区却很关心你有没有打疫苗”\n“至今还记得一户人家三岁的孩子饿到没东西吃，出门找居委会，门一开，发现“两条狗”在吃山姆瑞士卷”\n “春光明媚的3月，只能从窗口瞄一眼春天的模样”\n “想不到若干个月后，自己竟然理解了肖申克的救赎里的老布，对“外面的世界”已有了恐惧和厌恶，害怕出去后毫无防备地被带走隔离，适应了在这个小区里的一切，好的坏的都适应了”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1907036441018040511_0.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907036441018040511_1.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907036441018040511_2.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907036441018040511_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 9,
+    "retweets": 2,
+    "views": 2676,
+    "originVideos": ""
   }
 ]
