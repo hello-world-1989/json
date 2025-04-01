@@ -808,5 +808,41 @@
     "retweets": 0,
     "views": 138,
     "originVideos": ""
+  },
+  {
+    "id": "1907097385098182722",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 23:47:03",
+    "content": "近日，中国工程院院士张伯礼表示：用东方的智慧驾驭西方的医学技术可能是未来医学的方向。 https://t.co/jumbOE0fMo",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1907097385098182722_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 6,
+    "retweets": 2,
+    "views": 1187,
+    "originVideos": ""
+  },
+  {
+    "id": "1907096066195140954",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 23:41:48",
+    "content": "4月1日，一名自称是小米su7事故事件死者的家属称：外甥女是29日晚上十点多出事，自己是早上六点多得知此事“事发时车门锁死打不开，前面两个女子都是被活活烧死的，后座的女孩被救出来后，在送医途中死亡的”“就是全部烧没了，骨头警察也不让看” https://t.co/A3P6Pr35Hm",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/01/1907096066195140954_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 7,
+    "retweets": 6,
+    "views": 5432,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907095869847134208/pu/vid/avc1/444x270/-JVE8k4fGg3oG4Bw.mp4?tag=12"
   }
 ]
