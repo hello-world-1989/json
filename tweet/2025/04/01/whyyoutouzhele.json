@@ -772,5 +772,23 @@
     "retweets": 0,
     "views": 343,
     "originVideos": ""
+  },
+  {
+    "id": "1907085071103967668",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 22:58:07",
+    "content": "陆配小微被要求限期离台后表示：我在中国大陆长大，我不爱国难道爱你吗？你们应该提前警告我，告诉我不能在台湾这片土地上发这些作品，那我不说就行了。\n 小微还表示自己爱台湾这座城，并没有危害和恐吓台湾。 https://t.co/VqnhvVNQXv",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/01/1907085071103967668_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 5,
+    "retweets": 1,
+    "views": 764,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907084120574078976/pu/vid/avc1/480x270/kTM6CEPpgMM1kZkA.mp4?tag=12"
   }
 ]
