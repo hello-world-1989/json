@@ -196,5 +196,41 @@
     "retweets": 1,
     "views": 29,
     "originVideos": ""
+  },
+  {
+    "id": "1906931623037456625",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 12:48:22",
+    "content": "据路透社报道，\n4月1日 中国外交部长王毅，在访问俄罗斯期间发表讲话声称：中俄将永远是朋友，永远不会是敌人。\n王毅在接受采访时表示：'永远是朋友，永远不是敌人'的原则将是推进更高层次战略合作的坚实基础。\n而早在2022年普京开启俄乌战争的三周前，习近平和普京就曾联合声明了“无上限”的伙伴关系 https://t.co/xZXWCjQ22T",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1906931623037456625_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 289,
+    "originVideos": ""
+  },
+  {
+    "id": "1906929487465615588",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 12:39:53",
+    "content": "4月1日 台湾国防部官网通报称自昨日上午6点到今日上午6点，共侦测到19艘中国军舰在台湾附近海域活动，在此期间并未侦获中国军机。台军已经部署舰载及岸边飞弹系统等严密监控。\n而在昨日，台湾国防部发文称：中共山东号航母编队等舰艇已进入台湾应变区，目前已派遣任务机监视。 https://t.co/2OkzyuAhkL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1906929487465615588_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 3,
+    "retweets": 1,
+    "views": 3773,
+    "originVideos": ""
   }
 ]
