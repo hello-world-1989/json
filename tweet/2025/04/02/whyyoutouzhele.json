@@ -88,5 +88,23 @@
     "retweets": 7,
     "views": 3030,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907119661415804928/pu/vid/avc1/320x568/6dcaMxRIgHuP4NHX.mp4?tag=12,https://video.twimg.com/ext_tw_video/1907119682311827456/pu/vid/avc1/320x568/TBAz73R1nL7iyRoI.mp4?tag=12"
+  },
+  {
+    "id": "1907123880353001779",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 01:32:20",
+    "content": "经济观察报首席记者李微敖：我给雷军打了10次电话，发了很长的短信以及电子邮件，但一直未收到回复。雷军在网上的表态大概是由他的公关团队、法务团队等很多人“打磨”出来的，因而显得不那么“真实”“有温度” https://t.co/0DB8pmQvSz",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907123880353001779_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2235,
+    "originVideos": ""
   }
 ]
