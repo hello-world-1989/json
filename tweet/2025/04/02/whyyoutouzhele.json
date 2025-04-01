@@ -106,5 +106,23 @@
     "retweets": 1,
     "views": 2235,
     "originVideos": ""
+  },
+  {
+    "id": "1907138501583552702",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 02:30:26",
+    "content": "家属还称：女儿22年取得驾照开车没问题；车辆是其男朋友送的；车辆被烧成如此，但车门完全紧闭，且AB柱完全没有变形。 https://t.co/pPoZkDBo68",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907138501583552702_0.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907138501583552702_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1731,
+    "originVideos": ""
   }
 ]
