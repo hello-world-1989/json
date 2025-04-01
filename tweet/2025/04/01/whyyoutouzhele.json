@@ -754,5 +754,23 @@
     "retweets": 2,
     "views": 4755,
     "originVideos": ""
+  },
+  {
+    "id": "1907080258958078386",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 22:39:00",
+    "content": "事件发生几天后，雷军终于发文回应：29日晚上的这起事故，我的心情非常沉重，我们团队第一时间成立专项小组，事故还在调查中，我必须站出来，代表小米承诺：无论发生什么，小米都不会回避。我代表小米表示最深切的哀悼，也向他们家人致以诚挚的慰问。\n 据报道，受小米su7事故事件影响，小米集团港股午后开盘后大幅走低，至当日收盘跌5.59%，市值较上一交易日缩水800亿元。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1907080258958078386_0.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907080258958078386_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 343,
+    "originVideos": ""
   }
 ]
