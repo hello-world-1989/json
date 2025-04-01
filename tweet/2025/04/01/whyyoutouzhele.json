@@ -790,5 +790,23 @@
     "retweets": 1,
     "views": 764,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907084120574078976/pu/vid/avc1/480x270/kTM6CEPpgMM1kZkA.mp4?tag=12"
+  },
+  {
+    "id": "1907090294945841624",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 23:18:52",
+    "content": "小米汽车发布《关于大家关心问题的回答》 ：基于目前已知情况，我们仅能确定，事故车起火并非部分网传的“自燃”，推测系猛烈撞击隔离带水泥桩后，整车系统严重受损导致。我们尚未接触到事故车辆，目前暂时无法进行进一步的深入分析。 https://t.co/udLlDVZUwM",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1907090294945841624_0.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907090294945841624_1.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907090294945841624_2.jpg,/tweet/image/whyyoutouzhele/2025/04/01/1907090294945841624_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 138,
+    "originVideos": ""
   }
 ]
