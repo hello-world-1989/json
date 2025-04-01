@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 2991,
     "originVideos": ""
+  },
+  {
+    "id": "1906985384090939502",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-01 16:22:00",
+    "content": "https://t.co/XzzeBBI2tl\n浙江杭州 品觉数字科技公司 每周工作7天12小时员工投稿： https://t.co/epMvWqNbOH",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/01/1906985384090939502_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2861,
+    "originVideos": ""
   }
 ]
