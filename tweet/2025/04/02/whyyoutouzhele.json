@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 2382,
     "originVideos": ""
+  },
+  {
+    "id": "1907287955602837956",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 12:24:18",
+    "content": "4月1日路透社报道，美国参议院调查委员会宣布将对Meta为进入中国市场而执行的言论审查措施展开调查。\n在此之前，脸书前高管Sarah出版的书中披露，该公司曾在2014年制定了一个3年计划来进入中国市场。该计划包括对脸书中涉及中国言论的审查，压制异议，以换取进入中国市场\nMeta公司随后驳斥了这个说法 https://t.co/uNAMBrysjj https://t.co/wjfCZkaJJg",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907287955602837956_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 3,
+    "retweets": 3,
+    "views": 2949,
+    "originVideos": ""
   }
 ]
