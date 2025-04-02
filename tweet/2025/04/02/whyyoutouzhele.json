@@ -448,5 +448,23 @@
     "retweets": 2,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1907368604468973932",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 17:44:47",
+    "content": "经测试后发现，在多个中国社交平台搜索“极致低消费”搜不出任何结果。 https://t.co/PJbuDK74vM",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907368604468973932_0.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907368604468973932_1.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907368604468973932_2.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907368604468973932_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2644,
+    "originVideos": ""
   }
 ]
