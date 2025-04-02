@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 1973,
     "originVideos": ""
+  },
+  {
+    "id": "1907241183371571304",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 09:18:27",
+    "content": "美国民主党参议员科里·布克从周一晚上开始，在两天的时间里在参议院进行了一场长达长达 25 小时 4 分钟的马拉松式演讲，抗议唐纳德·特朗普总统政府和伊隆·马斯克正在给美国公众带来伤害。\n这位新泽西州民主党议员的演讲，打破了参议院历史上最长演讲记录。在长达 25 小时的演讲中，布克的评论涉及了广泛的话题，包括俄乌战争、美国国际开发署在国外的救援、对医疗补助削减和社会保障办公室裁员的担忧等。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907241183371571304_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/02/1907241183371571304_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 0,
+    "views": 524,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907241069378519040/pu/vid/avc1/480x270/J92ogKnUDFD9K7zn.mp4?tag=12"
   }
 ]
