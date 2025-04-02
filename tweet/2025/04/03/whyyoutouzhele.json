@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 1748,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907513347462844416/pu/vid/avc1/320x568/N7bTQZVviygsfaBl.mp4?tag=12,https://video.twimg.com/ext_tw_video/1907513347504779264/pu/vid/avc1/320x568/txOoD2zDlQqH0qpw.mp4?tag=12,https://video.twimg.com/ext_tw_video/1907513354190548993/pu/vid/avc1/320x568/L_O70a6qZH_TDxuu.mp4?tag=12"
+  },
+  {
+    "id": "1907533488716460076",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 04:39:58",
+    "content": "4月2日，美国总统川普宣布新关税计划\n川普表示，他对各国已经采取了宽容态度，决定实行打折的对等关税。\n具体关税如下：\n中国：34%\n欧盟：20%\n日本：26%\n韩国：25%\n英国：10%\n以色列：17% https://t.co/6uo53dTtqK",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907533488716460076_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 39,
+    "replies": 23,
+    "retweets": 7,
+    "views": 6455,
+    "originVideos": ""
   }
 ]
