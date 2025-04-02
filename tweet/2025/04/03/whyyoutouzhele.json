@@ -70,5 +70,23 @@
     "retweets": 3,
     "views": 4144,
     "originVideos": ""
+  },
+  {
+    "id": "1907484295419277520",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 01:24:30",
+    "content": "有博主称，有人在微信群里聊罢工话题会深圳警方找去谈话 https://t.co/fXlW9T2l6P",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/03/1907484295419277520_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1728,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907484197171941376/pu/vid/avc1/320x568/h-HID7StqWHohGxW.mp4?tag=12"
   }
 ]
