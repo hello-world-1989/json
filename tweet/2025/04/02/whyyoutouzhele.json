@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 1797,
     "originVideos": ""
+  },
+  {
+    "id": "1907457223934333320",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 23:36:55",
+    "content": "彭博报道，在被中国商务部约谈后，美国零售巨头沃尔玛仍继续敦促中国供应商降价，以抵消美国总统特朗普的关税影响，报道称，沃尔玛要求中国供应商根据每轮关税削减价格最多达10%，一些中国制造商发现很难满足该要求。 https://t.co/XUO0TF1Ybi",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907457223934333320_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1067,
+    "originVideos": ""
   }
 ]
