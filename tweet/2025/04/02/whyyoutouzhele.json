@@ -628,5 +628,23 @@
     "retweets": 3,
     "views": 3564,
     "originVideos": ""
+  },
+  {
+    "id": "1907411219490939063",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 20:34:07",
+    "content": "4月1日，一名大V博主称：为什么中国大部分企业都不遵守劳动法？因为企业违法成本太低了，低到有多离谱呢？好比说一个抢劫犯，他抢劫了银行，如果说这个抢劫犯他没有被抓到，那他抢到的钱就都是他自己的，如果他被抓到了，那他也只需要把他自己抢到的钱还回去，甚至说还回去的流程可以拖上大半年，而抢到这笔钱期间产生的所有收益都是他自己的。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907411219490939063_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 4,
+    "retweets": 2,
+    "views": 2452,
+    "originVideos": ""
   }
 ]
