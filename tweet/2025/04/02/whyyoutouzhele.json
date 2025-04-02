@@ -538,5 +538,23 @@
     "retweets": 4,
     "views": 2555,
     "originVideos": ""
+  },
+  {
+    "id": "1907385694827536787",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 18:52:41",
+    "content": "人民日报评论：赖清德是穷凶极恶的“战争制造者” https://t.co/cleHxXztcX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907385694827536787_0.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907385694827536787_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 18,
+    "retweets": 1,
+    "views": 3393,
+    "originVideos": ""
   }
 ]
