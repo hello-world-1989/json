@@ -592,5 +592,23 @@
     "retweets": 2,
     "views": 2622,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907398350078697472/pu/vid/avc1/320x568/clI04T0S2CxTg3i5.mp4?tag=12"
+  },
+  {
+    "id": "1907401183679201562",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 19:54:14",
+    "content": "台最新民调显示，有56.7%表示信任赖总统，比上月增加6.2个百分点；37.0%不信任，比上月减少3.5个百分点。\n  总统执政整体表现，55.6%满意执政表现，比上月增加7.0个百分点，有40.6%不满意，则比上月减少1.1个百分点，本月总统执政满意度达到「就任以来新高」，但不满赖总统执政表现的民众也已连续3个月超过4成。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907401183679201562_0.jpg,/tweet/image/whyyoutouzhele/2025/04/02/1907401183679201562_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 8,
+    "retweets": 0,
+    "views": 2288,
+    "originVideos": ""
   }
 ]
