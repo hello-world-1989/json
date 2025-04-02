@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 458,
     "originVideos": ""
+  },
+  {
+    "id": "1907297660505325797",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 13:02:52",
+    "content": "3月31日，四川。女子称，交警以私自改装货车外观为由罚了自己500元，“我不过就是给车加了一个棚，哪里会有安全隐患”我的车本来就是厢式货车。我一天都赚不到500元，他们轻轻松松就赚到了500元。 https://t.co/hr7FiFsrw8",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/02/1907297660505325797_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 3,
+    "retweets": 3,
+    "views": 3077,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907296636784738304/pu/vid/avc1/320x568/cpUjRgzPDATl2bbc.mp4?tag=12"
+  },
+  {
+    "id": "1907297231788716534",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 13:01:10",
+    "content": "与此同时，四川比亚迪工厂工人仍在罢工：\nhttps://t.co/NXrKkxXYtW",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 1,
+    "retweets": 1,
+    "views": 3427,
+    "originVideos": ""
   }
 ]
