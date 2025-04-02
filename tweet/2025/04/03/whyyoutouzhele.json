@@ -34,5 +34,23 @@
     "retweets": 2,
     "views": 3889,
     "originVideos": ""
+  },
+  {
+    "id": "1907470773838864813",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 00:30:46",
+    "content": "4月2日晚，小米SU7事故遇难者母亲已删除相关博文。\n 此前，她曾在微博发布关于SU7爆燃事故经过以及对于女儿主要问题的回应。 https://t.co/0QkzFCnjbj",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907470773838864813_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 12,
+    "retweets": 0,
+    "views": 4725,
+    "originVideos": ""
   }
 ]
