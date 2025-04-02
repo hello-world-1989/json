@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 1257,
     "originVideos": ""
+  },
+  {
+    "id": "1907292453608346034",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 12:42:11",
+    "content": "4月2日 台湾国防部在其官网发布通报称：\n截至4月2日早上6时，过去24小时共侦测到76架次共军飞机靠近台湾周边海域，其中37架次越过海峡中线。\n15艘中国军舰和4艘公务船在台海周围活动。\n国军正在通过飞机及舰载/岸基飞弹系统严密监控。 https://t.co/BaDVqcdiWF",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907292453608346034_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2850,
+    "originVideos": ""
   }
 ]
