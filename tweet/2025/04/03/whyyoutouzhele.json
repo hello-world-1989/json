@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 4710,
     "originVideos": ""
+  },
+  {
+    "id": "1907564228778643563",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 06:42:07",
+    "content": "4月2日，特朗普还正式签署命令，取消对中国廉价货物的关税豁免。美国东部时间 5 月 2 日凌晨 12 点 01 分，该命令将正式生效。\n此前，Temu，Shein等中国海外电商平台利用“最低限度”贸易漏洞，从中国以小额、单次的方式，大量免税运送低价值包裹至美国。这一命令将对中国这些廉价电商平台及小商品外贸工厂构成沉重打击。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907564228778643563_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 13,
+    "retweets": 3,
+    "views": 4571,
+    "originVideos": ""
   }
 ]
