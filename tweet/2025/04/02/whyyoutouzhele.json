@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 217,
     "originVideos": ""
+  },
+  {
+    "id": "1907427189446062570",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 21:37:34",
+    "content": "4月2日报道，民进党立委罗美玲的前盛姓助理，此前在前立法院长游锡堃办公室任职时，疑似收受中国情报单位款项，涉嫌向对方提供立法院的机密资料。罗美玲今天在立法院接受采访时表示，这2天才知道这件事，听到消息后非常惊讶，盛男在她办公室只有几个月时间，没有发现任何异状。\n 台北地检署日前指挥调查局展开侦查行动，讯后谕令盛男20万元交保并实施电子监控。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907427189446062570_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/02/1907427189446062570_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 1,
+    "views": 712,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907426898420043776/pu/vid/avc1/480x270/Ix64Vp6d0-T0Zt-I.mp4?tag=12"
   }
 ]
