@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 2644,
     "originVideos": ""
+  },
+  {
+    "id": "1907370813642453416",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-02 17:53:33",
+    "content": "4月1日，理想汽车CEO李想在朋友圈发声，呼吁媒体和行业机构统一自动驾驶的中文名词的标准，避免夸张的宣传造成用户误解。 https://t.co/rdLp5i4qq5",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/02/1907370813642453416_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 1,
+    "views": 2217,
+    "originVideos": ""
   }
 ]
