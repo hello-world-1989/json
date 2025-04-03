@@ -520,5 +520,41 @@
     "retweets": 4,
     "views": 3864,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907725582517055488/pu/vid/avc1/480x270/KFji2LYSBIUZjFA8.mp4?tag=12"
+  },
+  {
+    "id": "1907731864879771784",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 17:48:15",
+    "content": "近日，广东深圳。网友记录了一处门面在一年多的时间里换了十几家。 https://t.co/rJnmvXq6Xn",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/03/1907731864879771784_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 514,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907731782625284096/pu/vid/avc1/320x584/5OJk6one7KTluhaB.mp4?tag=12"
+  },
+  {
+    "id": "1907729954701455587",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 17:40:39",
+    "content": "日经：美国特朗普政府4月2日公布的对等关税的税率有可能是用各贸易伙伴国的贸易逆差额除以美国来自各国的进口额计算得出的。《日经》以美国商务部的贸易数据为基础进行计算，结果显示，与特朗普作为主要国家“关税税率”而提出的数值几乎一致。\n 这一数值似乎是以完全不同于世界贸易组织（WTO）计算的平均关税率的思路计算的。能否称之为“关税”的依据尚不清楚，但各国的反对是必然的。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907729954701455587_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 8,
+    "retweets": 2,
+    "views": 3856,
+    "originVideos": ""
   }
 ]
