@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 3856,
     "originVideos": ""
+  },
+  {
+    "id": "1907738331783287086",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 18:13:57",
+    "content": "4月2日，诸暨市一名小米SU7 Ultra 车主称：“我的车撞成这样，安全气囊居然都没弹”\n 对此有网友质疑该车质量，也有网友认为AB柱无变形，安全气囊无需弹出。 https://t.co/brhvZfDOMT",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907738331783287086_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/03/1907738331783287086_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 10,
+    "retweets": 2,
+    "views": 2630,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907735864500957184/pu/vid/avc1/320x568/JrjU1qDGIHf4ZQYA.mp4?tag=12"
   }
 ]
