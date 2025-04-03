@@ -430,5 +430,23 @@
     "retweets": 2,
     "views": 2776,
     "originVideos": ""
+  },
+  {
+    "id": "1907699315071713781",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 15:38:54",
+    "content": "3月30日(发布)，一名博主称：余承东曾表示要发布一款人人都买得起的手机，结果华为Pura x手机起步价7499元，随后余承东又发布了售价31.8万元的享界S9并表示开启全民豪车时代。然而农民需要卖9亩地粮食才能买一部Pura x手机；要买享界S9需要从明朝开始种地。外卖员需要跑1875单才能买一部Pura x手机；需要绕地球送8圈外卖才能买一辆享界S9....",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/03/1907699315071713781_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 187,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907697414938787840/pu/vid/avc1/320x568/8AMJ-MdyK-QSFuqK.mp4?tag=12"
   }
 ]
