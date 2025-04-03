@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 331,
     "originVideos": ""
+  },
+  {
+    "id": "1907677961345708168",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 14:14:03",
+    "content": "美国总统川普今天宣布以国家为基础课征对等关税，财政部长贝森特警告贸易伙伴，对白宫一系列新关税采取的任何报复行动，只会进一步升高情势。\n 贝森特告诉福斯新闻：「我现在对每一个国家的建议是，不要报复。稍安勿躁，顺其自然，静观其变。因为如果采取报复行动，情势就会升高。如果不报复，现在就是临界点。」",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907677961345708168_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2776,
+    "originVideos": ""
   }
 ]
