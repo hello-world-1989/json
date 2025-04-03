@@ -56,5 +56,23 @@
     "retweets": 8,
     "views": 3312,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907936198485565440/pu/vid/avc1/320x568/-SpXBcn0Gf_P9wcW.mp4?tag=12"
+  },
+  {
+    "id": "1907938667412259154",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 07:30:00",
+    "content": "https://t.co/XzzeBBHuDN\n上海亿诺凌信息科技有限公司员工 投稿其老板向员工借钱等违法行为： https://t.co/szjXoR7Mqk",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907938667412259154_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2310,
+    "originVideos": ""
   }
 ]
