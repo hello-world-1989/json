@@ -322,5 +322,23 @@
     "retweets": 2,
     "views": 3875,
     "originVideos": ""
+  },
+  {
+    "id": "1907651169239052780",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 12:27:35",
+    "content": "4月2日 特朗普宣布美国进入国家紧急状态。\n特朗普宣布，对外贸易和经济形势已经构成了国家紧急状态，他的命令征收对等关税，以加强美国的国际经济地位并保护美国工人。\n川普还在声明中谴责：拜登挥霍了他第一个总统任期形成的农业贸易顺差，将其变为490亿美元历史最高赤字。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907651169239052780_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1104,
+    "originVideos": ""
   }
 ]
