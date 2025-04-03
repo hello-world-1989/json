@@ -592,5 +592,23 @@
     "retweets": 1,
     "views": 404,
     "originVideos": "https://video.twimg.com/ext_tw_video/1907743209981358080/pu/vid/avc1/320x684/T-G1sbTFr0XzHKO-.mp4?tag=12"
+  },
+  {
+    "id": "1907745808000364753",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 18:43:39",
+    "content": "据彭博社引述知情人士披露，国家发改革委下属多个部门近几周已接获指示，暂停对有意赴美投资企业的注册及审批流程，这一政策动向凸显中美两大经济体之间的紧张关系持续升温，此举被视为北京在与特朗普政府谈判中新增筹码的一部分。 https://t.co/FwXXy07HaV",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907745808000364753_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 5,
+    "retweets": 5,
+    "views": 2095,
+    "originVideos": ""
   }
 ]
