@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 2734,
     "originVideos": ""
+  },
+  {
+    "id": "1907659741720924561",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 13:01:39",
+    "content": "4月2日，广东广州。强拆人员在屋外砸门，屋主在屋内手持燃烧瓶随时准备还击。 https://t.co/dTQToix6Ot",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/03/1907659741720924561_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 11,
+    "retweets": 7,
+    "views": 5192,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1907659634372128771/pu/vid/avc1/320x564/Zh_zLH4zP_GBhhYx.mp4?tag=12"
   }
 ]
