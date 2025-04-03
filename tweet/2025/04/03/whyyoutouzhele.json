@@ -304,5 +304,23 @@
     "retweets": 1,
     "views": 2173,
     "originVideos": ""
+  },
+  {
+    "id": "1907646797096665118",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-03 12:10:13",
+    "content": "4月2日 缅甸军政府称，因中国红十字运送救援物资的车队在接近冲突区域时未按指示停车，被缅军鸣枪示警。\n随后，彭博社记者在外交部记者会上两次问及相关情况，外交部新闻发言人则一直在重复：“中国红十字会向缅方提供的救灾物资援助已经运抵缅甸，正在运往曼德勒灾区途中，目前救援人员和物资都安全” https://t.co/YvctQMBHJL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/03/1907646797096665118_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 8,
+    "retweets": 2,
+    "views": 3875,
+    "originVideos": ""
   }
 ]
