@@ -686,5 +686,23 @@
     "retweets": 0,
     "views": 2254,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908167882670059520/pu/vid/avc1/480x270/eae06_jOlxUwrRd7.mp4?tag=12"
+  },
+  {
+    "id": "1908173061972791638",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 23:01:24",
+    "content": "美国取消小额包裹免税政策，中国轻工业联合会发表声明反对：随着信息技术和物流业的发展，越来越多的美国民众通过网络平台选购物美价廉的海外商品，美国取消小额包裹免税政策是明显害人害己的行为，最终损害包括美国在内的各方利益。 https://t.co/carPbPhtPf",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908173061972791638_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 12,
+    "retweets": 2,
+    "views": 4714,
+    "originVideos": ""
   }
 ]
