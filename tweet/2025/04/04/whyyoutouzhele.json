@@ -92,5 +92,41 @@
     "retweets": 0,
     "views": 2751,
     "originVideos": ""
+  },
+  {
+    "id": "1907985826405036248",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 10:37:24",
+    "content": "实际上这已经不是特朗普任内道指第一次下跌超过1000点。\n2020年2月24日和2月27日特朗普任内，道琼斯指数在一周内分别下跌1190.95点和1031.61点，跌幅均超过3%。\n就在27日下跌前一天，2月26日下午，特朗普表示，美国感染新型冠状病毒的风险“非常低”。\n特朗普声称，由于美国采取的一些早期措施，包括旅行限制和隔离，美国人民面临的风险仍然非常低。他补充说，我们已经做好准备采取措施，当疾病扩散时，我们已经准备好做任何我们必须做的事情，如果它扩散的话。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907985826405036248_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 556,
+    "originVideos": ""
+  },
+  {
+    "id": "1907984080375034300",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 10:30:28",
+    "content": "2020年3月3日 路透社曾报道，特朗普于2012年发布推特声称“如果道琼斯指数在两天内下跌超过1000点，美国总统应该被加农炮决”是假新闻。 https://t.co/Yc4AdpRWVX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907984080375034300_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1907984080375034300_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2503,
+    "originVideos": ""
   }
 ]
