@@ -560,5 +560,23 @@
     "retweets": 6,
     "views": 7077,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908137499320623104/pu/vid/avc1/480x270/StTa-aYOw7TrEGvr.mp4?tag=12"
+  },
+  {
+    "id": "1908140532632838478",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 20:52:09",
+    "content": "据报道，钉钉创始人陈航（花名：“无招”）回归担任 CEO 后，其内部开始大抓考勤与工作纪律，要求员工早 9 点上班，晚上至少9点后下班，并组织早会和晚上的工作总结，且要求员工在午间 13:15 后进入后座，上班期间禁用微信、微博、小红书等社交平台。 https://t.co/zk4zLbEja6",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908140532632838478_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908140532632838478_1.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908140532632838478_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 6,
+    "retweets": 0,
+    "views": 3837,
+    "originVideos": ""
   }
 ]
