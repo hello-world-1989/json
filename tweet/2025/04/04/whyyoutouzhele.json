@@ -380,5 +380,23 @@
     "retweets": 6,
     "views": 1441,
     "originVideos": ""
+  },
+  {
+    "id": "1908099066275525022",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 18:07:22",
+    "content": "4月4日(发布) 广东汕头。视频显示，一辆比亚迪纯电动客车车内冒出滚滚白烟，学生们仓皇地从车内逃离，并喊道“快跑快跑” 现场一片混乱。 https://t.co/bA2BduVngv",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/04/1908099066275525022_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 1,
+    "views": 591,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908098720480350208/pu/vid/avc1/320x564/a0Ow_DyyXF8B8mzT.mp4?tag=12"
   }
 ]
