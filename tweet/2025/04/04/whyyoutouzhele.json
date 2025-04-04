@@ -128,5 +128,23 @@
     "retweets": 0,
     "views": 2503,
     "originVideos": ""
+  },
+  {
+    "id": "1907986782316064888",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 10:41:12",
+    "content": "4月4日 据路透社报道，今天早上韩国宪法法院判决支持议会弹劾韩国总统尹锡悦的行动。\n尹锡悦总统将即刻下台，总统选举将在60天内举行。\n韩达秀总理将继续担任代理总统，直到新总统就职。 https://t.co/EYtaxkxk0W",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907986782316064888_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 6,
+    "retweets": 3,
+    "views": 3677,
+    "originVideos": ""
   }
 ]
