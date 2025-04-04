@@ -182,5 +182,23 @@
     "retweets": 0,
     "views": 2698,
     "originVideos": ""
+  },
+  {
+    "id": "1907999064567976024",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 11:30:00",
+    "content": "https://t.co/XzzeBBI2tl\n上海拼多多员工投稿：\n拼多多种族歧视中国员工，合同上标明8小时工作制，外籍员工965上班，本国员工却都要996。\n并且还违法削减法定节假日，并安排员工使用甲醛办公室，无视员工健康。 https://t.co/zMGPuInt47",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907999064567976024_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 8,
+    "retweets": 2,
+    "views": 3375,
+    "originVideos": ""
   }
 ]
