@@ -344,5 +344,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908086550669533184/pu/vid/avc1/320x692/bsFWe0qo38pYQyZW.mp4?tag=12"
+  },
+  {
+    "id": "1908091474891481438",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 17:37:12",
+    "content": "哈尔滨银行健康路支行招聘保洁员，月薪1200元，要求女性，年龄在62周岁以下，吃苦耐劳踏实肯干。该工资远低于当地最低工资标准。 https://t.co/pXhgrL7mcV",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908091474891481438_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908091474891481438_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 1,
+    "views": 867,
+    "originVideos": ""
   }
 ]
