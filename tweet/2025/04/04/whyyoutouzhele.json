@@ -146,5 +146,23 @@
     "retweets": 3,
     "views": 3677,
     "originVideos": ""
+  },
+  {
+    "id": "1907992395226165649",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 11:03:30",
+    "content": "4月4日 路透社报道，特朗普的新一轮关税政策引发人们对可能上涨的智能手机价格感到恐惧。\nAP基金会估算，2022年全球约80%的智能手机产自中国。其他产地包括印度、越南。新关税最低的印度也面临26%额外关税\n而目前美国本土手机制造商只剩Purism一家，其最新Librem5手机发布于5年前，使用Linux系统 https://t.co/973in5dC0J",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1907992395226165649_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1974,
+    "originVideos": ""
   }
 ]
