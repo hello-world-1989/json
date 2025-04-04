@@ -326,5 +326,23 @@
     "retweets": 0,
     "views": 2732,
     "originVideos": ""
+  },
+  {
+    "id": "1908087109577285991",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 17:19:52",
+    "content": "据报道，余承东微博的“智能汽车解决方案BU董事长”身份认证已取消，最为人所熟知的“遥遥领先”口号便是出自余承东。\n 此前，余承东表示，尊界按L3的标准设计，可以睡觉，无需手摸方向盘，不过资料显示，即便达到L3标准，也只能在特定道路上启用，手脚可以完全放松，驾驶员视觉不能放松。 https://t.co/g3ghgw8knC",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908087109577285991_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908087109577285991_1.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908087109577285991_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/04/1908087109577285991_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908086550669533184/pu/vid/avc1/320x692/bsFWe0qo38pYQyZW.mp4?tag=12"
   }
 ]
