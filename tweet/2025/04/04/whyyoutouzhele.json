@@ -542,5 +542,23 @@
     "retweets": 2,
     "views": 4632,
     "originVideos": ""
+  },
+  {
+    "id": "1908137561698320892",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 20:40:20",
+    "content": "4月4日，美国总统川普展示了此前他所宣布的价值五百万美元一张的美国身份金卡，并表示会在两周内发布。金卡上印有川普的头像 https://t.co/k6mDyCkLNi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/04/1908137561698320892_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 16,
+    "retweets": 6,
+    "views": 7077,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908137499320623104/pu/vid/avc1/480x270/StTa-aYOw7TrEGvr.mp4?tag=12"
   }
 ]
