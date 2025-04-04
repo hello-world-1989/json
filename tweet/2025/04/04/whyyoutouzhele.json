@@ -452,5 +452,23 @@
     "retweets": 0,
     "views": 1220,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908118099053912066/pu/vid/avc1/320x568/3xmD3sc_LahEveUE.mp4?tag=12"
+  },
+  {
+    "id": "1908121071947010053",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 19:34:49",
+    "content": "WSJ：摩根大通上调全球经济衰退概率预测值至60% 这是摩根大通(JP Morgan)分析师的观点，周四，他们将其对全球经济衰退概率的预测值上调到了60%。在特朗普周三下午宣布的新关税措施引发市场下挫之前，他们的预测值为40%。 https://t.co/Eq64yOpqXA",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908121071947010053_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 6,
+    "retweets": 2,
+    "views": 1886,
+    "originVideos": ""
   }
 ]
