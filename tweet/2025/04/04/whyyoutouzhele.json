@@ -668,5 +668,23 @@
     "retweets": 1,
     "views": 3826,
     "originVideos": ""
+  },
+  {
+    "id": "1908169004675702859",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 22:45:17",
+    "content": "4月4日，甲亢哥等一行人在香港坐船游玩，期间甲亢哥在他人的指导下，对着岸边的人们说：“同志们好！” https://t.co/sPbLtRohyG",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/04/1908169004675702859_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 13,
+    "retweets": 0,
+    "views": 2254,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908167882670059520/pu/vid/avc1/480x270/eae06_jOlxUwrRd7.mp4?tag=12"
   }
 ]
