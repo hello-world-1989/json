@@ -52,5 +52,23 @@
     "retweets": 7,
     "views": 4412,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908203369946353665/pu/vid/avc1/320x568/CQuJAxAMDTNGg_Zo.mp4?tag=12,https://video.twimg.com/ext_tw_video/1908203380360830979/pu/vid/avc1/272x482/plMCzSzMgNOeOds0.mp4?tag=12"
+  },
+  {
+    "id": "1908225957397487707",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 02:31:36",
+    "content": "小米SU7事故事件后，全国多地的高速都新增提醒，“自动驾驶非万能，安全驾驶靠自身”“前方施工，关闭智能辅助驾驶” https://t.co/kFPE17NCCs",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908225957397487707_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908225957397487707_1.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908225957397487707_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2150,
+    "originVideos": ""
   }
 ]
