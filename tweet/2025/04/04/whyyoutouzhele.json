@@ -290,5 +290,23 @@
     "retweets": 2,
     "views": 2210,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908075680610533376/pu/vid/avc1/320x568/Y4IT7q8LLVr7Mv2A.mp4?tag=12"
+  },
+  {
+    "id": "1908079693150228579",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 16:50:23",
+    "content": "《经济学人》：特朗普犯下了现代史上最严重、最有害、最不必要的经济错误。他所说的几乎所有内容——关于历史、经济和贸易技术——都是完全错误的。 https://t.co/PqDJgnamZF",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908079693150228579_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908079693150228579_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 12,
+    "retweets": 3,
+    "views": 4150,
+    "originVideos": ""
   }
 ]
