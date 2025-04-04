@@ -650,5 +650,23 @@
     "retweets": 4,
     "views": 5452,
     "originVideos": ""
+  },
+  {
+    "id": "1908163848517066865",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 22:24:48",
+    "content": "美国总统川普向多国挥关税大刀，中国今日展开反击，宣布对原产于美国的进口商品，在现行适用关税税率基础上加征34%关税。而川普稍早也在社群平台上表示「中国玩错了，他们惊慌失措，这是他们承受不起的！」\nhttps://t.co/3niVtjafgQ https://t.co/K8JcyQGJC2",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908163848517066865_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 10,
+    "retweets": 1,
+    "views": 3826,
+    "originVideos": ""
   }
 ]
