@@ -632,5 +632,23 @@
     "retweets": 2,
     "views": 6194,
     "originVideos": "https://video.twimg.com/amplify_video/1908154494413832193/vid/avc1/480x270/cB-OLk-K_JEVLdLR.mp4?tag=14"
+  },
+  {
+    "id": "1908161059338526742",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 22:13:43",
+    "content": "4月3日，江西南昌。一名女子发帖称，3月18日女儿熊小雅被同学拉进一个群聊里，之后女儿在同学们的教唆下自杀。事发至今警察都没立案。\n 群聊截图显示，同学在群里问：“今天晚上死吗？”熊小雅回复“我等会打算上去”同学回复了“ok”表情。之后，该同学又在群里问：“我好奇熊小雅有没有死？”当得知她自杀后，群里的同学还发消息庆祝。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/04/1908161059338526742_0.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908161059338526742_1.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908161059338526742_2.jpg,/tweet/image/whyyoutouzhele/2025/04/04/1908161059338526742_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 8,
+    "retweets": 4,
+    "views": 5452,
+    "originVideos": ""
   }
 ]
