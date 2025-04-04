@@ -272,5 +272,23 @@
     "retweets": 2,
     "views": 1123,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908068414222118917/pu/vid/avc1/320x568/ZGu8LQ3g-qpVM7EU.mp4?tag=12"
+  },
+  {
+    "id": "1908075864421728652",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-04 16:35:11",
+    "content": "4月3日，重庆。一名法学毕业生崩溃表示，工资2500元，社保扣除了1800，到手700元，日薪30多元。 https://t.co/hLcrQeYKWp",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/04/1908075864421728652_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 12,
+    "retweets": 2,
+    "views": 2210,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908075680610533376/pu/vid/avc1/320x568/Y4IT7q8LLVr7Mv2A.mp4?tag=12"
   }
 ]
