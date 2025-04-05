@@ -304,5 +304,23 @@
     "retweets": 1,
     "views": 1929,
     "originVideos": ""
+  },
+  {
+    "id": "1908425142599823753",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 15:43:05",
+    "content": "近日，有抖音网友发布视频。一个眼睛溃烂脓肿，也无人带去治疗。据悉，小孩单亲家庭，和母亲生活，但是母亲智力残疾，小孩监护人也不管，当地政府村委也没有去处理。热心网友称，再不治疗感觉眼睛都要失明了，网友呼吁网友们一起关注，帮助小朋友尽快找到救治的路径。 https://t.co/I1f7TskX9b",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908425142599823753_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/05/1908425142599823753_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 6,
+    "retweets": 5,
+    "views": 2723,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908423558956478464/pu/vid/avc1/320x568/7uNstmrY_xd-dtVz.mp4?tag=12"
   }
 ]
