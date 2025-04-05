@@ -502,5 +502,23 @@
     "retweets": 1,
     "views": 2629,
     "originVideos": ""
+  },
+  {
+    "id": "1908471187677864173",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 18:46:03",
+    "content": "4月3日，云南一家茶叶商户，手举身份证称，特朗普对中国加征关税，我实名宣布将对美国政府实施200%的关税措施，他们从我这里买的任何一饼普洱茶在基础上增加200%的关税给予强烈回击。 https://t.co/yPcuqTimzE",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908471187677864173_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908471187677864173_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/05/1908471187677864173_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 6,
+    "retweets": 0,
+    "views": 1511,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908469642714374147/pu/vid/avc1/320x568/hOwtzBWYx2lOKVs_.mp4?tag=12"
   }
 ]
