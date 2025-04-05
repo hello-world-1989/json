@@ -394,5 +394,41 @@
     "retweets": 0,
     "views": 389,
     "originVideos": ""
+  },
+  {
+    "id": "1908452401851347159",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 17:31:24",
+    "content": "https://t.co/BDDLrKr22m",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908452401851347159_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1994,
+    "originVideos": ""
+  },
+  {
+    "id": "1908452343772758094",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 17:31:10",
+    "content": "https://t.co/lc7GDE1X9o 朔州二中学生抗议成功 校长免职！\n4月5日，山西省教育厅发布通报\n朔州市第二中学因未执行法定国家节假日安排，形成网络舆情，造成恶劣影响。对校长进行免职处理，校党委书记通报批评并做深刻检查，核减该校招生计划。\n目前，学校已经恢复假期。 https://t.co/CInb6kNC1a https://t.co/O0YLWwiK8x",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908452343772758094_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 9,
+    "retweets": 6,
+    "views": 4623,
+    "originVideos": ""
   }
 ]
