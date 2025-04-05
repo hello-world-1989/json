@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 229,
     "originVideos": ""
+  },
+  {
+    "id": "1908643342520639831",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 06:10:08",
+    "content": "据知情人说，南京燕子矶中学一贯这样“危机公关”。之前有学生跳楼，学校的应对措施是解散家长群；24年年底有男生偷窥女生上厕所、性骚扰，学校反而骂女生“贱”，警告知情人不许外传要保密。 https://t.co/U5tnfkTIK1",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908643342520639831_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1419,
+    "originVideos": ""
+  },
+  {
+    "id": "1908643339789836587",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 06:10:07",
+    "content": "4月3日，南京市燕子矶中学，一名18岁高三学生在体育课上晕倒休克。结果，学校医务室无人值守，AED就在附近，当值体育老师也不取来急救。最后，一位老师在请示校领导后，才打了120。但此时距离该同学晕倒已过去15分钟。最终，该学生抢救无效身亡。 \n事情发生后，学校只是希望尽快“平事”，且一直试图掩盖自身抢救不及时的责任，警方也逼迫家属息事宁人。有同学试图发表QQ说说文章声援，也迫于压力删除。身亡学生家属说，来自学校的压力使得目击证人现在都不愿意出来作证，向他们提供帮助。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908643339789836587_0.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908643339789836587_1.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908643339789836587_2.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908643339789836587_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2316,
+    "originVideos": ""
   }
 ]
