@@ -448,5 +448,41 @@
     "retweets": 0,
     "views": 1651,
     "originVideos": ""
+  },
+  {
+    "id": "1908465173293072732",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 18:22:09",
+    "content": "https://t.co/bc9bgmOXsd 新疆克拉玛依市委统战部 投稿反馈：\n3月8日投稿发布后，一些公务员陆续被谈话，有消息称投稿中提到的统战部副部长梁武军被审问。\n3月11日，为稳住克拉玛依公务员军心，市政府官网发表了一份梁武军的《述法报告》。 https://t.co/1cftLpHBdz https://t.co/BMfksblpWc",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908465173293072732_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908465173293072732_1.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908465173293072732_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 10,
+    "retweets": 1,
+    "views": 3672,
+    "originVideos": ""
+  },
+  {
+    "id": "1908464625445986713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 18:19:58",
+    "content": "近日，中国食品报发布的视频中提到：“精致的上海人也接受了属于穷人的辣味道”引发争议。有人表示这是在歧视底层人，还有人表示“重口味的地方都穷，因为重口味好下饭，容易吃饱，这是经济规律”\n 目前，中国食品报已删除这则视频。 https://t.co/nayKsdkJV8",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908464625445986713_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908464625445986713_1.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908464625445986713_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 18,
+    "retweets": 8,
+    "views": 5029,
+    "originVideos": ""
   }
 ]
