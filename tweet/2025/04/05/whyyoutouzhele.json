@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 1511,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908469642714374147/pu/vid/avc1/320x568/hOwtzBWYx2lOKVs_.mp4?tag=12"
+  },
+  {
+    "id": "1908474761870762110",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 19:00:15",
+    "content": "4月4日，中国经济学家付鹏和但斌谈“美累计对华征税54%，中国随后公布反制措施”\n 付鹏将关税比喻成招投标：“如果掀桌子不参与这场谈判，那么在某种程度上，已经等于放弃了这次投标机会”\n 但斌则将美国比喻成甲方：“全球唯一的甲方美国，坚定启动了修改全球贸易规则的进程，一群只会卖货的乙方，绝对不可能挑战手里有钱的甲方”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908474761870762110_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908474761870762110_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 59,
+    "replies": 21,
+    "retweets": 13,
+    "views": 6671,
+    "originVideos": ""
   }
 ]
