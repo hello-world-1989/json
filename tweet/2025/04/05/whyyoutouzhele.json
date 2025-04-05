@@ -286,5 +286,23 @@
     "retweets": 4,
     "views": 2359,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908414485905498113/pu/vid/avc1/320x568/NAWe1vTYqsKP5ypt.mp4?tag=12,https://video.twimg.com/ext_tw_video/1908414496429002752/pu/vid/avc1/480x270/lWfGkmiRjIGpwTjp.mp4?tag=12"
+  },
+  {
+    "id": "1908418105597894754",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 15:15:07",
+    "content": "据未经证实的消息，刘强东已要求京东采销leader全面评估全球贸易战带来的影响。 https://t.co/LuztBwyo6R",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908418105597894754_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 6,
+    "retweets": 1,
+    "views": 1929,
+    "originVideos": ""
   }
 ]
