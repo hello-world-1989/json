@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 286,
     "originVideos": ""
+  },
+  {
+    "id": "1908382966751056188",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 12:55:29",
+    "content": "4月4日 因美国开始向全球包括日本征收额外关税，任天堂公告称将撤回原定于4月9日的美国市场Swtich2的预购。\n任天堂于本周三发布了Switch2，同一天特朗普宣布了全球关税计划。\n任天堂在一份声明中表示，为了评估关税和不断变化的市场状况的潜在影响，任天堂Switch 2在美国的预购将不会在4月9日开始。\n特朗普在周三宣布对日本实施24%额外关税。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908382966751056188_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2417,
+    "originVideos": ""
   }
 ]
