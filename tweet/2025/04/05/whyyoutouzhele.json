@@ -250,5 +250,23 @@
     "retweets": 4,
     "views": 3316,
     "originVideos": ""
+  },
+  {
+    "id": "1908399445450121692",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 14:00:58",
+    "content": "目前，国家和平台 “终于出手了” 删掉了采茶工人们吃白水煮面条的视频，完美的“解决了问题” 大妈的账号主页里只剩下养羊的美好视频，原先的采茶视频全都消失不见。\nhttps://t.co/RzWGD9lnL7 https://t.co/M8uM4azfRw",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908399445450121692_0.jpg,/tweet/image/whyyoutouzhele/2025/04/05/1908399445450121692_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/05/1908399445450121692_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 7,
+    "retweets": 7,
+    "views": 5228,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908399282434301953/pu/vid/avc1/320x568/eGxIxOTIlytk6nQk.mp4?tag=12"
   }
 ]
