@@ -340,5 +340,23 @@
     "retweets": 1,
     "views": 3645,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908428498265665536/pu/vid/avc1/320x568/kVTNndIiyRdnzywB.mp4?tag=12"
+  },
+  {
+    "id": "1908439058935857397",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-05 16:38:23",
+    "content": "4月4日，中国商务部对原产于美印的医用CT球管进行反倾销调查。同一天，市监管总局以杜邦中国集团涉嫌违反反垄断法为由，对其展开立案调查。 https://t.co/xUFcRievcb",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/05/1908439058935857397_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 428,
+    "originVideos": ""
   }
 ]
