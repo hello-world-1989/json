@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 1300,
     "originVideos": ""
+  },
+  {
+    "id": "1908822126523805847",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 18:00:33",
+    "content": "彭博分析：为何中国敢对特朗普关税进行全面报复：美国从中国进口的大宗商品，基本都是智能手机、电脑、游戏机、家具、玩具和衣服。对这些商品加征54%的关税，美国消费者很快就会有所感受。\n 而中国从美国进口的绝大多数商品都是制造业中间产品，如液化气、硅芯片等，普通消费者几乎接触不到。\n 中国在美国商品进口中占据相当主导的地位，使得美国消费者难以轻易转向其他供应商。而相较之下，美国在除喷气发动机和大豆之外的几乎所有主要产品类别中，都是中国的次要供应国。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908822126523805847_0.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908822126523805847_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 11,
+    "retweets": 5,
+    "views": 5656,
+    "originVideos": ""
   }
 ]
