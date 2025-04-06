@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 1408,
     "originVideos": ""
+  },
+  {
+    "id": "1908880682887020635",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 21:53:14",
+    "content": "事件后续 https://t.co/irbmoZwI2k",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908880682887020635_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 3,
+    "retweets": 2,
+    "views": 2838,
+    "originVideos": ""
   }
 ]
