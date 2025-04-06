@@ -538,5 +538,23 @@
     "retweets": 4,
     "views": 3651,
     "originVideos": ""
+  },
+  {
+    "id": "1908843343884460117",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 19:24:52",
+    "content": "近日，中国经济学家宋清辉发微博评价胖东来：“一家没有什么核心竞争力的企业，只能变着花样靠流量活着” 4月5日，胖东来表示，该言论涉嫌对公司品牌形象进行贬损，将起诉宋清辉，追责金额不低于100万。\n 宋清辉回击：死磕到底！一个正常健康的社会不能只有一种声音，我国是言论自由国家，绝不会容忍一个一隅之地的企业钳制人民思想和言论自由。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908843343884460117_0.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908843343884460117_1.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908843343884460117_2.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908843343884460117_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 11,
+    "retweets": 2,
+    "views": 2724,
+    "originVideos": ""
   }
 ]
