@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 2724,
     "originVideos": ""
+  },
+  {
+    "id": "1908849017909555523",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 19:47:25",
+    "content": "美国总统特朗普宣布对台湾课征32%关税，台总统赖清德今天通过视频向国人发表讲话，表示没有计划采取关税报复，他提出5项应对策略，并指出企业对美国的投资承诺，只要符合国家利益，也不会有任何改变。他强调台湾经济仍具有相当韧性，只要应对得当，公私协力，将可以降低冲击，请大家不要恐慌。 https://t.co/gICicFyDK7",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908849017909555523_0.jpg,/tweet/image/whyyoutouzhele/2025/04/06/1908849017909555523_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/06/1908849017909555523_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 6,
+    "retweets": 1,
+    "views": 1155,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908848793161977856/pu/vid/avc1/480x270/5hBiUTSvRlQKCmzu.mp4?tag=12"
   }
 ]
