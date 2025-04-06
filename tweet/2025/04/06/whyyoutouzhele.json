@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 3623,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908776919879081987/pu/vid/avc1/480x270/zmRTc4aIa1c_pFP2.mp4?tag=12"
+  },
+  {
+    "id": "1908790834566201707",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 15:56:13",
+    "content": "近日，一网友讲述去雄安游玩的感受：大型商场没人、富丽堂皇的火车站没人、写字楼空置、一些公共设施处于关闭状态，总之哪哪都没人，宛如一座空城，他对此感到震惊。 https://t.co/nUQIqA1o0z",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/06/1908790834566201707_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1224,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1908790382760226816/pu/vid/avc1/480x270/IHYDHE3MyQuedoWs.mp4?tag=12"
   }
 ]
