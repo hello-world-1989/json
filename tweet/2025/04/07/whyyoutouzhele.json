@@ -52,5 +52,23 @@
     "retweets": 1,
     "views": 413,
     "originVideos": ""
+  },
+  {
+    "id": "1909005563339612179",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 06:09:28",
+    "content": "网友投稿\n小红书一网友称，他和同事是富士康员工，去过印度后回国，后分别在出境去越南以及办理香港签注时发现已被发改委发函限制出境。\n评论区也补充了一宗富士康技工去过印度后回国被边控的案例 https://t.co/P3vm6q4IWh",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909005563339612179_0.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909005563339612179_1.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909005563339612179_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 18,
+    "originVideos": ""
   }
 ]
