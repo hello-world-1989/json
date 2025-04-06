@@ -250,5 +250,41 @@
     "retweets": 0,
     "views": 31,
     "originVideos": ""
+  },
+  {
+    "id": "1908730375213547945",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 11:55:58",
+    "content": "4月5日 美国50万人游行要求特朗普住手登上微博热搜第二名。 https://t.co/MXK1iBgOyT",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908730375213547945_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1013,
+    "originVideos": ""
+  },
+  {
+    "id": "1908729562177167786",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 11:52:44",
+    "content": "彭博社称，本周三特朗普宣布新关税政策后，在两天时间内美国股市损失了超过5万亿美元的市值。 https://t.co/9dbFn2ROSX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908729562177167786_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1646,
+    "originVideos": ""
   }
 ]
