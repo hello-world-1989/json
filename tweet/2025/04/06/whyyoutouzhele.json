@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 1646,
     "originVideos": ""
+  },
+  {
+    "id": "1908734520175804878",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 12:12:26",
+    "content": "4月5日 Meta发布了其新一代开源大语言模型Llama4，其拥有超过4000亿参数，Meta宣称该模型是同类中最好的多模态模型（可以处理图像输入输出），在参数量更少运行门槛更低的情况下，编程和推理能力上和DeepSeek V3相当。\n并且该模型完全免费开源，用户可以从Llama官网下载并部署在本地。 https://t.co/bMdDM3tL3n",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908734520175804878_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2703,
+    "originVideos": ""
+  },
+  {
+    "id": "1908734217359679526",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 12:11:14",
+    "content": "目前，澳洲仅有悉尼大学等少数大学的孔子学院还在正常运营。\n悉尼大学孔子学院官网称：“其提升了澳大利亚对中华文化的了解。孔子学院通过中文教学和文化活动来弘扬中国丰富多样的文化。我们的项目致力于将我们对中华文化的专业理解分享给更广泛的澳大利亚社会”\n该学院拥有5名老师，包括一名复旦代表。 https://t.co/TtdofELnzI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908734217359679526_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2127,
+    "originVideos": ""
   }
 ]
