@@ -394,5 +394,23 @@
     "retweets": 0,
     "views": 1224,
     "originVideos": "https://video.twimg.com/ext_tw_video/1908790382760226816/pu/vid/avc1/480x270/IHYDHE3MyQuedoWs.mp4?tag=12"
+  },
+  {
+    "id": "1908801677551116375",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 16:39:18",
+    "content": "近日，四川一家电子商务公司对未向公司提前申请请假的员工做出扣除三倍日薪的处罚、扣除当月绩效工资3900元，最终二月工资应发金额共：—1758.04元。 https://t.co/aBpw2j2fla",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908801677551116375_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "views": 66,
+    "originVideos": ""
   }
 ]
