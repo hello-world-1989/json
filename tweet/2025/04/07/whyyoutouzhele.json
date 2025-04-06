@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 18,
     "originVideos": ""
+  },
+  {
+    "id": "1909020796166836260",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 07:10:00",
+    "content": "网友投稿\n一名网友因转载甲亢哥直播视频被抖音封禁，理由是涉及翻墙及相关行为 https://t.co/PbAoaNCMWd",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909020796166836260_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 9,
+    "retweets": 4,
+    "views": 4086,
+    "originVideos": ""
   }
 ]
