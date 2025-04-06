@@ -232,5 +232,23 @@
     "retweets": 2,
     "views": 1352,
     "originVideos": ""
+  },
+  {
+    "id": "1908728731558174950",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-06 11:49:26",
+    "content": "4月5日 Meta发布了其新一代开源大语言模型Liama4，其拥有超过4000亿参数，Meta宣称该模型是同类中最好的多模态模型（可以处理图像输入输出），在参数量更少运行门槛更低的情况下，编程和推理能力上和DeepSeek V3相当。\n并且该模型完全免费开源，用户可以从Liama官网下载并部署在本地。 https://t.co/67a3Z6nQNY",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/06/1908728731558174950_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 31,
+    "originVideos": ""
   }
 ]
