@@ -358,5 +358,41 @@
     "retweets": 0,
     "views": 666,
     "originVideos": ""
+  },
+  {
+    "id": "1909173107505746110",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 17:15:14",
+    "content": "4月7日，A股失守3100点，三大指数集体收跌，截至收盘，上证指数收跌7.34%，深证成指收跌9.66%，创业板指收跌12.5%；北证50收跌17.95%。两市成交额约15877.99亿元，较前一个交易日放量约4501.79亿元。全市场106只股票上涨、5284只股票下跌。\n 一名博主称，“今天不能随便点评股市，尤其不能唱空股市，我看很多人发的帖子都挂掉了”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909173107505746110_0.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909173107505746110_1.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909173107505746110_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 3,
+    "views": 2551,
+    "originVideos": ""
+  },
+  {
+    "id": "1909171827332485381",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 17:10:08",
+    "content": "https://t.co/Xi7wk9cbnJ 学生反馈：从4月初开始，广西很多高中又开始强制学生周末补课，不再实行双休了。 https://t.co/wD87v8qHq9",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909171827332485381_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 1,
+    "views": 3474,
+    "originVideos": ""
   }
 ]
