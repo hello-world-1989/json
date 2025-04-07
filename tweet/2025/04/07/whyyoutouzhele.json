@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 2207,
     "originVideos": ""
+  },
+  {
+    "id": "1909090463690440934",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 11:46:50",
+    "content": "4月7日早 台湾股市因上周四周五因儿童节假日休市，周一早开盘即遭遇大跌触发熔断。\n富士康和台积电股价均下跌接近10%。 https://t.co/dm22G9AQHR",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909090463690440934_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1003,
+    "originVideos": ""
   }
 ]
