@@ -394,5 +394,41 @@
     "retweets": 1,
     "views": 3474,
     "originVideos": ""
+  },
+  {
+    "id": "1909178828892897373",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 17:37:58",
+    "content": "4月7日，美国总统特朗普日前宣布对几乎所有贸易伙伴征收对等关税，美国股市陷入震荡，特朗普的高级贸易顾问纳瓦罗称：只要不卖掉股票就不会亏钱。\n 胡锡进对此表示：他说话却学起老胡来，语言侵权！不想收这么蠢的洋徒弟。 https://t.co/yQmlM6xl2V",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909178828892897373_0.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909178828892897373_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 4,
+    "retweets": 0,
+    "views": 633,
+    "originVideos": ""
+  },
+  {
+    "id": "1909176821200957754",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 17:29:59",
+    "content": "欧洲股市也遭遇黑色星期一。中欧时间4月7日早晨，荷兰AEX开盘跌去5%，法国CAC开盘暴跌6.5%，德国DAX更是开盘狂泻9.2%。英国富时100跌幅也达到5%。 https://t.co/6ZVYN0HdCW",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909176821200957754_0.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909176821200957754_1.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909176821200957754_2.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909176821200957754_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 897,
+    "originVideos": ""
   }
 ]
