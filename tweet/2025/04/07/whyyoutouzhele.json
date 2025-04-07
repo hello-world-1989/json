@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 1090,
     "originVideos": ""
+  },
+  {
+    "id": "1909189785245360187",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 18:21:30",
+    "content": "据日经中文报道，今天上午，石破茂在参议院决算委员会会议上就美国对等关税问题再次表达了担忧，称“这对我国来说可以说是国难”，并表示将通过谈判争取减免。石破茂表示“希望能尽快访美”，并强调了向美国总统特朗普说明日本立场的必要性。 https://t.co/CGFMZ9wLml",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909189785245360187_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 8,
+    "retweets": 0,
+    "views": 3904,
+    "originVideos": ""
   }
 ]
