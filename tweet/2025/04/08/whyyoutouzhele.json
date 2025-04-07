@@ -232,5 +232,23 @@
     "retweets": 51,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1909384506798178531",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 07:15:15",
+    "content": "周一，在全球股市暴跌的背景下，美股却出现了戏剧性的一幕。标普 500 指数早盘一度大跌 4.7%，随后却突然上涨 3.4%，盘中出现惊人逆转。道琼斯市场数据显示，从上午10:08到10:18的10分钟内，该指数也增加了2.4万亿美元的市值。至收盘时，道琼斯工业指数跌微跌0.91%，标普500微跌0.23%，纳斯达克指数甚至微涨15.48点。\n据《华尔街日报》，美股出现惊天逆转的原因是一则称“特朗普正考虑推迟关税90天”的虚假新闻。上午10:13，一条名为Walter Bloomberg的广为人知的X账号发布了这条消息，该消息开始在社交媒体上流传，并在随后的半小时内导致标普500指数创下自2020年3月以来最大的盘中波动幅度。\n《华尔街日报》分析称，这反映了市场对推迟关税有多么渴望。不过，在特朗普政府否认了这一消息后，美股的盘中涨幅又被抹去。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909384506798178531_0.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909384506798178531_1.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909384506798178531_2.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909384506798178531_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 3341,
+    "originVideos": ""
   }
 ]
