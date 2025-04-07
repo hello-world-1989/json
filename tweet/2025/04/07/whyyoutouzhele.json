@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 969,
     "originVideos": ""
+  },
+  {
+    "id": "1909255775870148758",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 22:43:43",
+    "content": "中国第十个全民国家安全教育日即将到来，香港律政司司长林定国接受港媒采访时说：国家安全教育不应该集中在某个特别的日子“难道情人节那天你才对老婆好？不会的，也不应该，所以国安教育应该持续每天都要做。 https://t.co/FMboaKP1b3",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909255775870148758_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 7,
+    "retweets": 1,
+    "views": 4054,
+    "originVideos": ""
   }
 ]
