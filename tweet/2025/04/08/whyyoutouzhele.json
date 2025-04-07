@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 1663,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909366652124209152/pu/vid/avc1/320x568/Iap4GIJZTNcBydOZ.mp4?tag=12,https://video.twimg.com/ext_tw_video/1909366652107386880/pu/vid/avc1/320x568/LP--bDr-yfvTnOqg.mp4?tag=12"
+  },
+  {
+    "id": "1909369209882394749",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 06:14:28",
+    "content": "美东时间4月7日下午，特朗普在接收福克斯采访时重申：\n“如你所知，他们（中国）违背了我的声明，在他们原本就荒唐的关税之上，又加了34%的关税。\n我说过，如果这个关税在明天中午12点之前不撤除，我们将在我们已加关税的基础上，再加50%。\n他们这样搞了很多年，而他们之所以变成一个富裕的国家，\n就是因为曾经在白宫里的那些人，放任这种情况发生。”",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/08/1909369209882394749_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 6,
+    "retweets": 0,
+    "views": 3307,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909369170392731648/pu/vid/avc1/500x270/a9fLJ2FILI-dClJw.mp4?tag=12"
   }
 ]
