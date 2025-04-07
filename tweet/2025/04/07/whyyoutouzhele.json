@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 357,
     "originVideos": ""
+  },
+  {
+    "id": "1909202950993621323",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 19:13:49",
+    "content": "4月7日是台「言论自由日」，赖清德今天出席「郑南榕殉道36周年追思纪念会」。他致词时说，鼓吹让台湾消失的倡议，不是言论自由，更不是利用自由，来消灭自由，似乎对鼓吹武统论的\"中配\"遭驱离，亦有所指，他也首度谈起党工成为中国被收买的对象，总统强调，当有人配合中国破坏我们的民主制度，政府绝对采取行动！",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/07/1909202950993621323_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3095,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909202717517688832/pu/vid/avc1/480x270/-aJd9z4pyv0zRnOu.mp4?tag=12"
   }
 ]
