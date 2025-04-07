@@ -718,5 +718,23 @@
     "retweets": 1,
     "views": 4054,
     "originVideos": ""
+  },
+  {
+    "id": "1909257648576557151",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 22:51:10",
+    "content": "科研剧震！禁止中国访问NIH数据库，“全面脱钩”波及生物数据。\n 财新：自当地时间4月4日起，美国国立卫生研究院（NIH）禁止位于受关注国家/地区的机构访问NIH的受控访问数据存储库和相关数据，这些国家/地区包括中国（包括香港和澳门）、俄罗斯、伊朗、朝鲜、古巴和委内瑞拉。\n NIH的“受控访问数据存储库”是指由NIH支持的、用于存储和共享受控访问数据的数据存储系统或平台。这些存储库主要保存需要限制访问的敏感信息，例如涉及人类基因组的研究数据。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909257648576557151_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 74,
+    "replies": 5,
+    "retweets": 8,
+    "views": 8230,
+    "originVideos": ""
   }
 ]
