@@ -736,5 +736,23 @@
     "retweets": 8,
     "views": 8230,
     "originVideos": ""
+  },
+  {
+    "id": "1909263594438656095",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 23:14:47",
+    "content": "近日，多名河北网友反映，收到廊坊三河市城管部门要求，红底门头牌匾统一更换颜色，当地的蜜雪冰城不得不将原先的红色牌匾改为绿色或灰色。当地蜜雪冰城员工说：“3月中旬，有城管上门通知，规定红色不让用”对方只是口头通知。\n 三河城管局：按政府要求，红、蓝、黑色的门头牌匾底色以外，都可以用，“有关部门会有文件下发的，到时候会在公众号上推送。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909263594438656095_0.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909263594438656095_1.jpg,/tweet/image/whyyoutouzhele/2025/04/07/1909263594438656095_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 4,
+    "retweets": 1,
+    "views": 4404,
+    "originVideos": ""
   }
 ]
