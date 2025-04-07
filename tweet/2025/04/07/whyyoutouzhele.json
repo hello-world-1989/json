@@ -88,5 +88,23 @@
     "retweets": 4,
     "views": 4086,
     "originVideos": ""
+  },
+  {
+    "id": "1909077587344986311",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 10:55:40",
+    "content": "4月7日 A股周一开盘暴跌，截至目前已经下跌超过5.48%，深证成指下跌6.98%。\n北证50和创业板指数均下跌超过8%。 https://t.co/L3eBZOwbVu",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909077587344986311_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2398,
+    "originVideos": ""
   }
 ]
