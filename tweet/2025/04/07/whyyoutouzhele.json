@@ -214,5 +214,23 @@
     "retweets": 3,
     "views": 3288,
     "originVideos": ""
+  },
+  {
+    "id": "1909110512232869897",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 13:06:30",
+    "content": "4月5日，上海。一名外卖小哥送餐时被逆行的车给撞倒在地，对方逃逸。外卖小哥随后申请保险理赔，结果站长以“申请保险未提前通知站点”为由，将他开除，并且账号也无法登录，找平台客服也没用。 https://t.co/oMN0lPMU0j",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/07/1909110512232869897_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1826,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909108711207190528/pu/vid/avc1/480x270/ipkK7BS8vn9T61oW.mp4?tag=12"
   }
 ]
