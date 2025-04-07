@@ -574,5 +574,23 @@
     "retweets": 0,
     "views": 379,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909219026229997568/pu/vid/avc1/320x652/sIFn8rF37w9QAYWB.mp4?tag=12"
+  },
+  {
+    "id": "1909228642477174878",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 20:55:54",
+    "content": "4月7日，中国通报福岛核电站附近海域海水等样本检测结果：实验室已完成海水和海洋生物样本分析检测，氚、铯—134、铯—137、锶—90等放射性核素活度浓度未见异常。后续，中方相关检测数据将提交国际原子能机构，由其统一汇总发布。 https://t.co/X4UMHhHoI0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909228642477174878_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1809,
+    "originVideos": ""
   }
 ]
