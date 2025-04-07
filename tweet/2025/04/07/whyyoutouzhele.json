@@ -520,5 +520,23 @@
     "retweets": 1,
     "views": 3095,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909202717517688832/pu/vid/avc1/480x270/-aJd9z4pyv0zRnOu.mp4?tag=12"
+  },
+  {
+    "id": "1909207236368584781",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-07 19:30:51",
+    "content": "今天一张显示“微软停止中国区运营”的邮件截图开始流传，内容称：由于地缘政治及国际业务环境的变化，微软将调整其全球战略布局，并将于2025年4月8日起正式停止在中国区运营。\n不过，经媒体求证后得知，此邮件为上海微创公司的信息，文中提及的“中国区运营”实际为微软的外包公司上海微创，该公司2002年由微软与上海市政府共同创办。\n 尽管微软中国没有变动，但近期与微软相关的一些项目陆续停止，此前南华报道称原定运营至2025年的上海微软张江人工智能与互联网实验室提前进入静默期，2024年停止新项目入驻。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/07/1909207236368584781_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 6,
+    "retweets": 1,
+    "views": 6243,
+    "originVideos": ""
   }
 ]
