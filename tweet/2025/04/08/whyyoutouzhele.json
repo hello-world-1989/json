@@ -502,5 +502,41 @@
     "retweets": 0,
     "views": 58,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909538953356828672/pu/vid/avc1/480x270/hanfD-L2ViVMNshC.mp4?tag=12"
+  },
+  {
+    "id": "1909545527571890505",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 17:55:06",
+    "content": "4月7日，浙江杭州。城管不顾危险，死死追着小贩的电动三轮车不放过。 https://t.co/9x8vjJMjYg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/08/1909545527571890505_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 6,
+    "retweets": 0,
+    "views": 1932,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909545465819152385/pu/vid/avc1/320x568/2ODN05YITOtsELGL.mp4?tag=12"
+  },
+  {
+    "id": "1909544391381074120",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 17:50:35",
+    "content": "中国推行伊斯兰教中国化去阿拉伯化  清真寺变中国风\n 中国近年大力推动伊斯兰教中国化，“去阿拉伯化”与“去沙特化”，哈尔滨近日传出公交站台更名，其中“阿拉伯广场站”更名“清真寺站”，“穆斯林小区站”更名“城乡路站”。\n 港媒报道，中国整治“清真”概念泛化，要求清真寺的建筑体现中国特色、中国风格，中国新版《古兰经节选简注》出版后，讲解旧《古兰经》是「非法讲经」而被警方带走。《联合早报》评论建议官方在以推进宗教中国化为名加码维稳的同时，也需要兼顾包容开放及国际形象。\n 美国国际宗教自由委员会近日再将中国列为“特别关注国”，批评中国强行同化少数民族宗教文化，并对不服从者进行打压。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909544391381074120_0.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909544391381074120_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 12,
+    "retweets": 2,
+    "views": 6043,
+    "originVideos": ""
   }
 ]
