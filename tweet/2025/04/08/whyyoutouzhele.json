@@ -556,5 +556,41 @@
     "retweets": 4,
     "views": 6436,
     "originVideos": ""
+  },
+  {
+    "id": "1909556082806341647",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 18:37:02",
+    "content": "https://t.co/rSqvv5fZhY",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1222,
+    "originVideos": ""
+  },
+  {
+    "id": "1909555217341071811",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 18:33:36",
+    "content": "昨天，博主“荆子酷”发文批评人民日报“天塌不下来”文章是：空而又空，虚而又虚，文章写尽太平事，不肯俯首见苍生。随后该评论文章被平台删除。“荆子酷”表示：“集中力量办大事”，却忘了小事就是民生，你一口一个“我们有制度优势，可以集中力量办大事”。但人民只想办小事：吃饭、工作、孩子上学、看病、养老——哪一件不是困难重重？\n 政府真正的底气，是敢于承认问题，人民日报说，天塌不下来，可是事实，求职的学子，跪在秋招的缝隙中呐喊；创业的青年，在风控与政策之间左右碰壁；中产的家庭，节衣缩食还房贷、保孩子；\n 此外，对于美国加征关税，他提出了十点应对之策：增加养老金、直接发钱而不是放贷等等。(文章来源：中国数字时代)",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909555217341071811_0.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909555217341071811_1.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909555217341071811_2.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909555217341071811_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 9,
+    "retweets": 6,
+    "views": 3766,
+    "originVideos": ""
   }
 ]
