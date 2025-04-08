@@ -592,5 +592,23 @@
     "retweets": 6,
     "views": 3766,
     "originVideos": ""
+  },
+  {
+    "id": "1909558312045277642",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 18:45:54",
+    "content": "不许走 北京阻止Shein转出供应链。彭博引述知情人士报道，中国商务部与SHEIN等公司就供应链多元化问题进行沟通，劝告这些企业不要转向其他国家的供应商进行采购。中方是在特朗普宣布对等关税前数日，表达有关要求，因为美国的关税威胁促使SHEIN等公司寻求供应链多元化，以规避更高关税。\n 另一位知情人士表示，作为响应官方要求的行动之一，SHEIN已经放弃组织供应商前往越南等东南亚国家旅行考察，建立生产基地的安排。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909558312045277642_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 3,
+    "retweets": 5,
+    "views": 2128,
+    "originVideos": ""
   }
 ]
