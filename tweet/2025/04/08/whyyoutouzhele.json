@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 829,
     "originVideos": ""
+  },
+  {
+    "id": "1909452105674637535",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 11:43:52",
+    "content": "4月7日 华盛顿邮报报道，两名消息人士称，上周马斯克直接呼吁特朗普撤销大规模新关税。\n本周一特朗普威胁要对中国再增加50%关税后，马斯克的推特发布了已故保守派经济学家米尔顿·弗里德曼支持国际贸易合作的视频。\n视频以铅笔作为例子，称世界上没有一个人可以独立生产一个铅笔，而需要国际合作。\n即使在生产这些铅笔的过程中，有些部分的制造者甚至可能和另一些部分的制造者有矛盾甚至仇恨，但最终大家合作共同的完成了铅笔所有部分的制造。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909452105674637535_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 10,
+    "retweets": 0,
+    "views": 6342,
+    "originVideos": ""
   }
 ]
