@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 1294,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909588631465213961/pu/vid/avc1/320x568/gSBVfcte0l5P8r2k.mp4?tag=12"
+  },
+  {
+    "id": "1909593820490350620",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 21:06:59",
+    "content": "泽连斯基周二表示，乌军在乌克兰东部与六名中国士兵交战，并俘虏了两名中国士兵。泽连斯基说：“我们掌握的信息表明，在俄军部队中，这样的中国公民远不止两名。我们掌握了这些囚犯的证件、银行卡和个人数据。”\n 泽连斯基指示乌克兰外交部长安德烈·西比哈立即与北京联系，以确定中国将如何回应。\n泽连斯基还说，他预计美国将对这一事态做出反应。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909593820490350620_0.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909593820490350620_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/08/1909593820490350620_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 3,
+    "retweets": 3,
+    "views": 1572,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909592599687839745/pu/vid/avc1/320x564/VUQQSKtnJGmO6Yy6.mp4?tag=12"
   }
 ]
