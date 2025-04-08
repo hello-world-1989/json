@@ -808,5 +808,23 @@
     "retweets": 2,
     "views": 5733,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909617049724444672/pu/vid/avc1/320x584/gX6sSKD8vpgmam2Q.mp4?tag=12"
+  },
+  {
+    "id": "1909620624844374155",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 22:53:30",
+    "content": "美国总统特朗普周二与韩国代总统韩悳洙通电话后发文时谈及中国，他说，中国想与美国达成协议，但他们不知如何开始，我们正在等待他们的来电。这会发生！上帝保佑美国。 https://t.co/YXl4C3cPhL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909620624844374155_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 13,
+    "retweets": 1,
+    "views": 5452,
+    "originVideos": ""
   }
 ]
