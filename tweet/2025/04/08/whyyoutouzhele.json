@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 4681,
     "originVideos": ""
+  },
+  {
+    "id": "1909445223882858952",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-08 11:16:31",
+    "content": "4月8日 A股开盘后小涨0.41%，港股恒生指数开盘一度上涨3.12%后又降到1.38%的上涨。\n随后“A股走强”和“港股爆发”登上微博热搜。\n值得注意的是昨日A股下跌达到7.41%，港股恒生指数昨日收盘下跌13.22%。 https://t.co/iKsZ1V99SA https://t.co/uugIn7F19K",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/08/1909445223882858952_0.jpg,/tweet/image/whyyoutouzhele/2025/04/08/1909445223882858952_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2052,
+    "originVideos": ""
   }
 ]
