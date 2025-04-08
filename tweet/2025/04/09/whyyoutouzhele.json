@@ -34,5 +34,41 @@
     "retweets": 1,
     "views": 217,
     "originVideos": ""
+  },
+  {
+    "id": "1909652368901521860",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 00:59:39",
+    "content": "中美贸易实况： 白宫新闻发言人称：“由于中国没有取消报复关税，104% 的额外关税将从 4 月 9 日开始征收\"。 https://t.co/Na83PCIt1K",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909652368901521860_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "1909651472385720664",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 00:56:05",
+    "content": "4月9日，广东深圳。龙华壹方天地商场一男子持刀不断捅刺一名女子，随后被赶到的警察制服。 https://t.co/PlAAFDUdEA",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909651472385720664_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/09/1909651472385720664_0.jpg,/tweet/video/whyyoutouzhele/2025/04/09/1909651472385720664_1.jpg,/tweet/video/whyyoutouzhele/2025/04/09/1909651472385720664_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 6,
+    "retweets": 0,
+    "views": 2471,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909650886705758208/pu/vid/avc1/320x564/tXvhmwgkv9XUbxdf.mp4?tag=12,https://video.twimg.com/ext_tw_video/1909650894238654464/pu/vid/avc1/476x270/pujMOTbenFvBwbVp.mp4?tag=12,https://video.twimg.com/ext_tw_video/1909650911296917504/pu/vid/avc1/320x564/LgJynhj5kgC0RHxF.mp4?tag=12"
   }
 ]
