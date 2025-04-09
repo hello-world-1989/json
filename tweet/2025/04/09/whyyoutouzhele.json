@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 15,
     "originVideos": "https://video.twimg.com/amplify_video/1909932860972408832/vid/avc1/480x270/mAwixd9HrLWxaYeb.mp4?tag=14"
+  },
+  {
+    "id": "1909941065857237447",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 20:06:49",
+    "content": "今天国务院总理李强主持召开经济形势和企业家座谈会。他表示：虽然今年形势比较特殊，但在以习近平为核心的党中央坚强领导下，我国一季度经济运行延续回升向好态势。虽然外部冲击对经济运行造成一定压力，但我们已经做好了应对各种不确定因素的准备。\n 座谈会上的企业家们也一致认为今年以来，我国经济运行总体平稳。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909941065857237447_0.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909941065857237447_1.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909941065857237447_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 5,
+    "retweets": 0,
+    "views": 2495,
+    "originVideos": ""
   }
 ]
