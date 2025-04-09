@@ -250,5 +250,23 @@
     "retweets": 4,
     "views": 6906,
     "originVideos": ""
+  },
+  {
+    "id": "1909801847550050328",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 10:53:37",
+    "content": "4月9日 微博热搜前10中有5条是关于美国的话题，如果算上置顶热搜，还有2条热搜是间接关于美国的话题（A股和中国经济）。 https://t.co/u3OtQm9vuP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909801847550050328_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 1,
+    "retweets": 1,
+    "views": 3250,
+    "originVideos": ""
   }
 ]
