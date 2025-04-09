@@ -844,5 +844,41 @@
     "retweets": 2,
     "views": 3138,
     "originVideos": ""
+  },
+  {
+    "id": "1909959287956459728",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 21:19:14",
+    "content": "4月9日，财联社：欧盟27个成员国投票表决通过了对美国进口产品征收25%关税的反制措施，以报复特朗普政府12日宣布对欧盟征收钢铁和铝的关税。 https://t.co/oDSgnfsaRG",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909959287956459728_0.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909959287956459728_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 1,
+    "views": 92,
+    "originVideos": ""
+  },
+  {
+    "id": "1909957876812243340",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 21:13:37",
+    "content": "https://t.co/VU4kRCoEbi",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 5486,
+    "originVideos": ""
   }
 ]
