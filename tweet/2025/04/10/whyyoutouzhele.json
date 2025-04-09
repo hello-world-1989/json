@@ -70,5 +70,23 @@
     "retweets": 1,
     "views": 410,
     "originVideos": ""
+  },
+  {
+    "id": "1910025125380120796",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 01:40:51",
+    "content": "特朗普：暂停征收「对等关税」90天，唯独继续增加对华关税至125%\n 美国总统特朗普：鉴于超过75个国家已致电美国的代表机构，就与贸易、贸易壁垒、关税、汇率操纵以及非货币性关税等相关议题进行谈判以寻求解决方案，而且这些国家在他强烈建议下，未以任何方式、形式对美国进行报复，他已批准实施为期90天的暂停措施，并在此期间大幅降低「对等关税」至10%，暂停措施立即生效。\n基于中国对世界市场的不尊重，他特此将美国对中国征收的关税提高至125%，同样是即时生效。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910025125380120796_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 140,
+    "replies": 71,
+    "retweets": 14,
+    "views": 18938,
+    "originVideos": ""
   }
 ]
