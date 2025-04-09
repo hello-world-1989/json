@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 7225,
     "originVideos": ""
+  },
+  {
+    "id": "1910040288229564901",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 02:41:06",
+    "content": "白宫新闻发言人卡罗琳·莱维特： “由于谈判正在进行中，将暂停 90 天的相互关税，并将关税水平下调至普遍的 10%。” https://t.co/Of0BrOxg1G",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910040288229564901_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 7,
+    "retweets": 3,
+    "views": 7079,
+    "originVideos": "https://video.twimg.com/amplify_video/1910040112903204864/vid/avc1/480x270/UomYw8MnBG9_ivy1.mp4?tag=14"
   }
 ]
