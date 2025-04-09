@@ -898,5 +898,23 @@
     "retweets": 2,
     "views": 5548,
     "originVideos": ""
+  },
+  {
+    "id": "1909967720067838383",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 21:52:44",
+    "content": "美国总统唐纳德·特朗普周二表示，美国每天从关税中获得 20 亿美元的收入。 https://t.co/H5vSzCb6XL",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/09/1909967720067838383_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 9,
+    "retweets": 2,
+    "views": 7653,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909967038820601857/pu/vid/avc1/480x270/kNyXxvtM-rkfFSEn.mp4?tag=12"
   }
 ]
