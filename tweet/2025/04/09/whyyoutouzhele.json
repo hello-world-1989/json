@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 4022,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909833271921475584/pu/vid/avc1/320x692/k-HxBq2HApKfzN0G.mp4?tag=12"
+  },
+  {
+    "id": "1909849208976556347",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 14:01:49",
+    "content": "特朗普前不久取消中国小额包裹豁免关税措施，并对中国寄往美国800美元以下的货物征一定比例关税。白宫最新于当地时间4月8日宣布，将中国内地和香港的小包裹征税额翻3倍，从货值的30%加到90%；进口商须缴付关税为货值的90%或75美元，并在6月1日后升至150美元，理由是中国政府实施了报复性关税。 https://t.co/quLKfqauB5",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909849208976556347_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 5,
+    "retweets": 4,
+    "views": 4735,
+    "originVideos": ""
   }
 ]
