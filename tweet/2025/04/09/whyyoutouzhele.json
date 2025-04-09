@@ -484,5 +484,41 @@
     "retweets": 5,
     "views": 6328,
     "originVideos": ""
+  },
+  {
+    "id": "1909893798328516902",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 16:59:00",
+    "content": "https://t.co/XzzeBBHuDN\n江苏常熟 冰雪先森食品 每周工作7天12小时员工投稿：\n其公司不仅每周工作时长超过84小时，工资也仅有18一小时，低于苏州最低工资标准。\n并且北京大兴动物园委托生产的熊猫雪糕模具都发霉了仍然在用洗衣粉泡完后继续用。上海航海博物馆雪糕模具还有老鼠屎，用的牛奶也是过期的 https://t.co/LBtkT1aA4K",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909893798328516902_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 197,
+    "originVideos": ""
+  },
+  {
+    "id": "1909893104183980340",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 16:56:14",
+    "content": "美国总统特朗普星期二（4月8日）说，他告诉台湾晶片代工巨头台积电，如果该公司不在美国建厂，将缴纳高达100%的税款。\n 据路透：特朗普在共和党全国国会委员会的活动上发表讲话时，批评前总统拜登政府向台积电位于亚利桑那州凤凰城的美国子公司提供66亿美元的拨款，用于其半导体生产，并指半导体公司不需要这笔钱。\n特朗普说：“台积电，我没有给他们钱……我只是说，如果你们不在这里建厂，你们就要缴纳高额税款”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909893104183980340_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 0,
+    "views": 2665,
+    "originVideos": ""
   }
 ]
