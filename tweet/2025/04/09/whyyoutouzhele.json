@@ -916,5 +916,23 @@
     "retweets": 2,
     "views": 7653,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909967038820601857/pu/vid/avc1/480x270/kNyXxvtM-rkfFSEn.mp4?tag=12"
+  },
+  {
+    "id": "1909971183140995424",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 22:06:30",
+    "content": "刚刚，中国文旅部提示：由于中美经贸关系恶化以及美国国内安全形势，文旅部提示中国游客充分评估赴美旅游风险，谨慎前往。\nhttps://t.co/Znvv2L0M9w https://t.co/zAHN1PL1SF",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909971183140995424_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 1,
+    "views": 3899,
+    "originVideos": ""
   }
 ]
