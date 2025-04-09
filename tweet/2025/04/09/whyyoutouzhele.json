@@ -646,5 +646,41 @@
     "retweets": 1,
     "views": 2081,
     "originVideos": "https://video.twimg.com/ext_tw_video/1909917834140147712/pu/vid/avc1/320x564/-nZYgqygApjMPYPE.mp4?tag=12"
+  },
+  {
+    "id": "1909926362049347999",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 19:08:24",
+    "content": "特朗普对华104%关税生效后，刚刚，中国国务院关税税则委员会发布公告：自4月10日12时01分起，对原产于美国的所有进口商品的加征关税税率由34%提高至84%。 https://t.co/JnzOl9sFSL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909926362049347999_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 8,
+    "retweets": 0,
+    "views": 1037,
+    "originVideos": ""
+  },
+  {
+    "id": "1909925429605232937",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 19:04:41",
+    "content": "4月9日，广东陆丰。陈先生称，母亲被男友吴某用斧头活活砍死，吴某没有正当职业，喜欢赌博，还经常家暴，之后母亲因不堪忍受分手。没想到吴某开始长期踩点跟踪母亲。去年8月份，吴某将母亲带到一处墓地，母亲拒绝与其发生关系，随后被吴某持斧头砍击头部致死抛尸。 https://t.co/El9jLPB39E",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909925429605232937_0.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909925429605232937_1.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909925429605232937_2.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909925429605232937_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 3,
+    "retweets": 2,
+    "views": 3069,
+    "originVideos": ""
   }
 ]
