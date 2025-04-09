@@ -394,5 +394,23 @@
     "retweets": 4,
     "views": 4735,
     "originVideos": ""
+  },
+  {
+    "id": "1909865829195534759",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 15:07:51",
+    "content": "当地时间4月8日，白宫新闻发言人莱维特表示「像中国这样的国家选择进行报复并试图变本加厉虐待美国工人，这是错误的」，又指「特朗普有着钢铁般的脊梁，他不会屈服」。莱维特称特朗普相信，习近平和中国是希望达成协议，只是不知道该如何开始，又指特朗普称，若中国为了达成协议而联络美国，他将会表现得宽容，但只会做出对美国人民最有利的事情，前题是「中国必须先打电话来」。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909865829195534759_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 973,
+    "originVideos": ""
   }
 ]
