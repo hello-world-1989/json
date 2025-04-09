@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 3233,
     "originVideos": ""
+  },
+  {
+    "id": "1909809846867968049",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 11:25:24",
+    "content": "与之相比，A股与3月19日的近期最高点相比，仅下跌不到10%。 https://t.co/ougfx83lKk",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909809846867968049_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2040,
+    "originVideos": ""
+  },
+  {
+    "id": "1909809139519541467",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 11:22:36",
+    "content": "4月9日 特朗普对于数十个国家的“对等关税”将于今日生效，其中包括对中国商品征收的104%关税。\n随着特朗普贸易战的推进，全球经济已经遭受到了重大打击。标普500在过去两个月内下跌超过19%，接近熊市标准（与近期最高点比下跌超过20%），道琼斯指数也下跌了超过16%。 https://t.co/fjFknMq07W",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909809139519541467_0.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909809139519541467_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 7,
+    "retweets": 2,
+    "views": 5152,
+    "originVideos": ""
   }
 ]
