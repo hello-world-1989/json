@@ -934,5 +934,23 @@
     "retweets": 1,
     "views": 3899,
     "originVideos": ""
+  },
+  {
+    "id": "1909974856575467522",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-09 22:21:06",
+    "content": "4月9日，四川乐山。嘉农镇两名交警遭到三轮车碰撞，刚好此时一辆货车经过，两名交警随即又遭到大货车擦碰，而三轮车则驶离现场。 https://t.co/Lsv0I3WHoT",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/09/1909974856575467522_0.jpg,/tweet/image/whyyoutouzhele/2025/04/09/1909974856575467522_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/09/1909974856575467522_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 42,
+    "replies": 11,
+    "retweets": 3,
+    "views": 7827,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1909973905772818432/pu/vid/avc1/320x568/45lCYZ9SDuI32V-m.mp4?tag=12"
   }
 ]
