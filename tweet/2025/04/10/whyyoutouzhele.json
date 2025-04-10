@@ -394,5 +394,23 @@
     "retweets": 3,
     "views": 1441,
     "originVideos": ""
+  },
+  {
+    "id": "1910179422931653056",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 11:53:58",
+    "content": "4月10日 随着特朗普宣布暂停征收“对等关税”90天。全球股市应声大涨。\n标普500指数当天盘中突然大涨9.52%，日经指数今日开盘后飞速上涨8%，台湾股市也上涨了9.21%。\n虽然仍然面对125%关税的潜在影响，但是A股今日也上涨了0.9%。 https://t.co/NvRHzDT00l https://t.co/JaZ2bQPtsu",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910179422931653056_0.jpg,/tweet/image/whyyoutouzhele/2025/04/10/1910179422931653056_1.jpg,/tweet/image/whyyoutouzhele/2025/04/10/1910179422931653056_2.jpg,/tweet/image/whyyoutouzhele/2025/04/10/1910179422931653056_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 10,
+    "retweets": 1,
+    "views": 5256,
+    "originVideos": ""
   }
 ]
