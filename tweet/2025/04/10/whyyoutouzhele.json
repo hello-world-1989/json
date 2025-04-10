@@ -934,5 +934,23 @@
     "retweets": 0,
     "views": 1546,
     "originVideos": "https://video.twimg.com/amplify_video/1910343560454684672/vid/avc1/480x270/d2hoTNxYaHOQDOG-.mp4?tag=14"
+  },
+  {
+    "id": "1910348011869479317",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 23:03:53",
+    "content": "4月10日，为俄军作战的中国人“阿炮哥”透露自己被俄军关进了地牢里，头也被枪托砸伤，一天还要挨三顿打。他在评论区向其他中国雇佣兵合同兵求救：“你们组织一次冲锋救救我”\nhttps://t.co/7cVSaCxnmq https://t.co/w5DBS0oZab",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910348011869479317_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910348011869479317_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 1,
+    "views": 5867,
+    "originVideos": "https://video.twimg.com/amplify_video/1910347128578449408/vid/avc1/320x568/MBxEdft_0kfmYnsf.mp4?tag=14"
   }
 ]
