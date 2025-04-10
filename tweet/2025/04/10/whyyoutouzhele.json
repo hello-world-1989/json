@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 3341,
     "originVideos": ""
+  },
+  {
+    "id": "1910330565406212185",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 21:54:33",
+    "content": "白宫宣布将中国和香港的价值不超过800美元的小包裹征税额，从货值的30%大幅加至90%，5月2日生效。香港货运物流业协会主席刘浩然9日表示，美国的做法对所有电商平台出货带来毁灭性影响，涉及所有供应链及产品，小至手机壳，大至大型家电，甚至食品及其他民生日用品都会受影响。刘浩然指出，业界相信未来数个月公司营运上不容乐观，但不会坐以待毙。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910330565406212185_0.jpg,/tweet/image/whyyoutouzhele/2025/04/10/1910330565406212185_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 1,
+    "retweets": 2,
+    "views": 4483,
+    "originVideos": ""
   }
 ]
