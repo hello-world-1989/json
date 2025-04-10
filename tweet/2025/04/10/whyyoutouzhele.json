@@ -538,5 +538,23 @@
     "retweets": 2,
     "views": 6202,
     "originVideos": ""
+  },
+  {
+    "id": "1910257256907891009",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 17:03:15",
+    "content": "有记者9日对特朗普提问，为何他明明刚说过「关税不会暂停」，现在却又暂停了？「问题在于，人必须学会灵活变通。」特朗普为自己辩称，「我可以说，『这有一堵墙，无论如何我都要穿过去』。但一直往前走，你就无法穿过这堵墙，有时候，你得从墙下面钻过去、绕着墙走或者从墙上面翻过去。」 https://t.co/rWvxzcQdTE",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910257256907891009_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 19,
+    "retweets": 4,
+    "views": 6004,
+    "originVideos": "https://video.twimg.com/amplify_video/1910257034437816320/vid/avc1/480x270/O72qDASGmKokArYD.mp4?tag=14"
   }
 ]
