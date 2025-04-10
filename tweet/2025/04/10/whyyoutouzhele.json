@@ -844,5 +844,23 @@
     "retweets": 2,
     "views": 4483,
     "originVideos": ""
+  },
+  {
+    "id": "1910335241321161032",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 22:13:08",
+    "content": "WSJ：高盛下调了对中国经济增长的预期，理由是预计关税将对中国经济和劳动力市场产生负面影响。该行目前预计，2025年中国实际GDP将增长4.0%，2026年将增长3.5%。\n 经济学家表示，即使中国出台重大举措也不太可能完全抵消关税的影响。经济学家估计，中国可能有1,000至2,000万工人从事与对美出口相关的工作，而与美国和全球贸易放缓将给中国劳动力市场带来巨大压力。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910335241321161032_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 9,
+    "retweets": 3,
+    "views": 5442,
+    "originVideos": ""
   }
 ]
