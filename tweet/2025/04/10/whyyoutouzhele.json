@@ -592,5 +592,23 @@
     "retweets": 1,
     "views": 2295,
     "originVideos": ""
+  },
+  {
+    "id": "1910267279553765530",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 17:43:05",
+    "content": "WSJ：特朗普周三表示，他愿意与习近平会面。就在不久前，他将对华关税上调至125%，同时暂停了对世界其他国家的对等关税。\n 特朗普表示，由于市场对经济的担忧日益加剧，他决定暂停其对等关税计划的大部分内容。当被问及为何暂时取消加征关税时，特朗普说：“他们开始坐立不安了。他们有点坐立不安，有点害怕”\n 特朗普说：很多国家都主动联系美国希望协议，包括中国，但中国仍将面临高额关税。\n 特朗普说：“中国希望达成协议。”他还说，中国人是“骄傲的”民族，他们正在研究如何与美国达成协议。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910267279553765530_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 15,
+    "retweets": 2,
+    "views": 5752,
+    "originVideos": ""
   }
 ]
