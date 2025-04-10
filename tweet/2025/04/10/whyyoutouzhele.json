@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 530,
     "originVideos": ""
+  },
+  {
+    "id": "1910317685277384855",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 21:03:22",
+    "content": "4月10日，辽宁大连。男子称大街上不仅冷冷清清，各家商店都在打折促销：这家拉面馆4元一碗面，隔壁三元一碗免费续面；这家卖鸭脖的店，买50送50，买100送100优惠券，隔壁卖鸭脖的店，全场6.8折。 https://t.co/HpAaVg1isQ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910317685277384855_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 15,
+    "retweets": 4,
+    "views": 5377,
+    "originVideos": "https://video.twimg.com/amplify_video/1910317158237978624/vid/avc1/320x568/IZIgfOl5uA1QkX0L.mp4?tag=14"
   }
 ]
