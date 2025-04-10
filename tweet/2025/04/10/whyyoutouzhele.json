@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 802,
     "originVideos": "https://video.twimg.com/amplify_video/1910196386110570496/vid/avc1/320x568/05uVkWbV2H_IEzRh.mp4?tag=14,https://video.twimg.com/amplify_video/1910196398165037056/vid/avc1/480x270/PEULg8L4AZxelOWo.mp4?tag=14"
+  },
+  {
+    "id": "1910213267424989211",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 14:08:27",
+    "content": "近日，上海。一名HR称，今天早上在平台发了一个研发岗的招聘信息，一个午饭时间，收到了约100多份简历，还有一个文科岗位也在一个多小时收到了一百多份简历，并且不乏优秀的人。\n 据悉，中国今年2月非在校青年失业率升至16.9% 为连续两个月上升；2月全国城镇调查失业率为5.4%，创下两年来新高。此外，今年中国应届毕业生规模预计达1222万人。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910213267424989211_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910213267424989211_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 697,
+    "originVideos": "https://video.twimg.com/amplify_video/1910212985714606080/vid/avc1/320x568/FWo2qX_RA5RJGVe0.mp4?tag=14"
   }
 ]
