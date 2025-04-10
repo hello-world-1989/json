@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 65,
     "originVideos": ""
+  },
+  {
+    "id": "1910303103313932359",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 20:05:26",
+    "content": "近日，河北三河市城管要求商户们将红底门头牌匾统一更换颜色，招牌禁用红、蓝、黑三色。视频显示，当地街道沿途的牌匾很多都换成了绿色，就连医院上的“红十字”标志，也被传出更改为了“绿十字”目前官方仍未回应为什么不让用红色。网友调侃：“在绝对力量前，万物都将失去本色” https://t.co/k6grzycRoI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910303103313932359_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910303103313932359_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1687,
+    "originVideos": "https://video.twimg.com/amplify_video/1910302793283592192/vid/avc1/320x622/H1O6PzCASAFDDvBL.mp4?tag=14"
   }
 ]
