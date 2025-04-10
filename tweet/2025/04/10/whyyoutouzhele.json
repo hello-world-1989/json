@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 976,
     "originVideos": ""
+  },
+  {
+    "id": "1910262918035415352",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 17:25:45",
+    "content": "美国总统特朗普周三宣布对除中国以外国家的加征关税“暂停90天”，美国财政部长贝森特周三在白宫表示，此举正是特朗普“早已布下的大局”，他称美方已成功“迫使中国犯错”。贝森特表示，美国之所以继续对中国加征关税，是因为“中国的经济政策已经成为全球面临的一项重大挑战”。 https://t.co/vt9mStfRr4",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910262918035415352_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 9,
+    "retweets": 1,
+    "views": 2295,
+    "originVideos": ""
   }
 ]
