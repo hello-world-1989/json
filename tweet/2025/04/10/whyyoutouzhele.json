@@ -556,5 +556,23 @@
     "retweets": 4,
     "views": 6004,
     "originVideos": "https://video.twimg.com/amplify_video/1910257034437816320/vid/avc1/480x270/O72qDASGmKokArYD.mp4?tag=14"
+  },
+  {
+    "id": "1910260902588527010",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 17:17:44",
+    "content": "4月7日，博主“陈生大王”谈甲亢哥中国行：有人说，这打破了西方的偏见，展示了真实的中国。所以这是真实的中国，还是我们希望西方人看到的中国，一种全民营造的大舞台？我们对外部凝视太上瘾了，好像必须要被观测才能存在。这不是对真实祖国的爱，而是对某种理想自我在他人眼中浮现时的痴迷。只要看到老外，连连惊叹中国比祖国更好的时候，我们生活似乎也变得更幸福了一些。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/10/1910260902588527010_0.jpg,/tweet/image/whyyoutouzhele/2025/04/10/1910260902588527010_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 7,
+    "retweets": 1,
+    "views": 976,
+    "originVideos": ""
   }
 ]
