@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 610,
     "originVideos": ""
+  },
+  {
+    "id": "1910464402865729919",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 06:46:23",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿：\n据他所知，武汉几乎没有高中双休。一些高中教学质量也堪忧，老师上课只是读PPT。应试教育也搞不好，还不让休息，学生最后身心俱疲。 https://t.co/KUthySvzOB",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910464402865729919_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 888,
+    "originVideos": ""
   }
 ]
