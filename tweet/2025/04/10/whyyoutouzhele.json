@@ -862,5 +862,23 @@
     "retweets": 3,
     "views": 5442,
     "originVideos": ""
+  },
+  {
+    "id": "1910340759095836922",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-10 22:35:04",
+    "content": "4月10日(发布) 安徽。一家生产羽绒被的工厂老板称，我们主要做美国生意，出口业务占到90%，受关税影响，现在工厂所有对美出口业务全部停产，我们已经运到港口的货物也要拉回来，损失难以估量。\n 他表示：“只有大国崛起，小民才有尊严，我们小企业可能是贸易战中最快倒下的牺牲者，但我当掉裤子也要和(美国)干到底！”",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/10/1910340759095836922_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 25,
+    "retweets": 2,
+    "views": 5537,
+    "originVideos": "https://video.twimg.com/amplify_video/1910339899854917632/vid/avc1/320x568/JaZbBDbymNQP4CsQ.mp4?tag=14"
   }
 ]
