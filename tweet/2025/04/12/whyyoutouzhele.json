@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 681,
     "originVideos": ""
+  },
+  {
+    "id": "1910825683376361856",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 06:41:58",
+    "content": "4月11日，小米回应该起湛江事故，称是电动自行车电池起火，从而引燃了小米汽车。 https://t.co/veZuyA7l0i https://t.co/UrypQZPwap",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910825683376361856_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3579,
+    "originVideos": ""
   }
 ]
