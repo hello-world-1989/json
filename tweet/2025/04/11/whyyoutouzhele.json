@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 288,
     "originVideos": ""
+  },
+  {
+    "id": "1910673856966099052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 20:38:40",
+    "content": "RT @USA_China_Talk: 许志永是新公民运动的创始人，他在近二十年的时间里以和平的方式倡导中国的人权、民主和法治。2023年，许志永在一次闭门审判中以“颠覆国家政权罪”被判处14年监禁。我们呼吁立即无条件释放许志永。 https://t.co/jNIGiFL5JB",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910673856966099052_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 116,
+    "views": 0,
+    "originVideos": ""
   }
 ]
