@@ -34,5 +34,23 @@
     "retweets": 1,
     "views": 5548,
     "originVideos": "https://video.twimg.com/amplify_video/1910726392062631936/vid/avc1/480x270/gv9s001sHWN4yNd6.mp4?tag=14"
+  },
+  {
+    "id": "1910731723736060131",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 00:28:37",
+    "content": "4月11日13时，武汉突降暴雨，短短几个小时后，傍晚时分武汉内涝严重。视频显示，在地势低洼的路段，汽车直接漂浮在水面上，车主们扒着车顶等待救援。 https://t.co/PhwT53TdpZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910731723736060131_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910731723736060131_0.jpg,/tweet/video/whyyoutouzhele/2025/04/12/1910731723736060131_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 376,
+    "originVideos": "https://video.twimg.com/amplify_video/1910730814872313859/vid/avc1/320x564/KW3Jx5LPP-ZHJq--.mp4?tag=14,https://video.twimg.com/amplify_video/1910730929678802951/vid/avc1/480x270/AZKP0Bxs6PvCNnBf.mp4?tag=14"
   }
 ]
