@@ -538,5 +538,23 @@
     "retweets": 2,
     "views": 2303,
     "originVideos": ""
+  },
+  {
+    "id": "1910636266296574207",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 18:09:18",
+    "content": "RT @USA_China_Talk: 丁家喜曾经通过新公民运动支持当地独立候选人，呼吁官员公开财务状况，并倡导中国的财产权。2023年，中国共产党以“颠覆国家政权”罪判处他12年监禁。我们呼吁立即无条件释放丁家喜。 https://t.co/RzFJFAiWIB",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910636266296574207_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 25,
+    "views": 0,
+    "originVideos": ""
   }
 ]
