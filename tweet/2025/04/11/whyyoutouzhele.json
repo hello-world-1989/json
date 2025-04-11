@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 5969,
     "originVideos": ""
+  },
+  {
+    "id": "1910486167855804586",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 08:12:52",
+    "content": "4月10日，纽约市一架观光直升机在空中解体，并倒扣坠入哈德逊河。事故造成飞行员和一家五名西班牙游客遇难。 https://t.co/ewJ72qtBOb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/11/1910486167855804586_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 2,
+    "views": 4919,
+    "originVideos": "https://video.twimg.com/amplify_video/1910486078902902784/vid/avc1/480x270/h9aeBZiy5-FXlnpo.mp4?tag=14"
   }
 ]
