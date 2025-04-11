@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 90,
     "originVideos": "https://video.twimg.com/amplify_video/1910746552957886468/vid/avc1/320x622/K_J0L0cboGC0WrRk.mp4?tag=14"
+  },
+  {
+    "id": "1910760249101070647",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 02:21:58",
+    "content": "社交平台Facebook前全球政策总监温恩-威廉斯（Sarah Wynn-Williams）向美国参议员表示，其母公司 Meta 为在中国建立业务，不仅主动向中共提供包括美国国民在内的用户数据、更在中共官员协力下开发工具审查台湾、香港等地贴文。 https://t.co/bybx0VPECl",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910760249101070647_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 2,
+    "views": 3228,
+    "originVideos": "https://video.twimg.com/amplify_video/1910759674062004225/vid/avc1/480x270/OesaWWyCdgssy9Tb.mp4?tag=14"
   }
 ]
