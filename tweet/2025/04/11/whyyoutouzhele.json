@@ -826,5 +826,23 @@
     "retweets": 2,
     "views": 6365,
     "originVideos": ""
+  },
+  {
+    "id": "1910707550670250291",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 22:52:33",
+    "content": "东莞德鸿电器制品厂：由于美国加征关税等外部经济变化，受此影响，现客户通知订单暂停。公司短期内业务运营面临较大压力，公司决定放假一个月，后续安排另行通知，假期发放基本工资。 https://t.co/epps4IlODe",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910707550670250291_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 4,
+    "retweets": 1,
+    "views": 4535,
+    "originVideos": ""
   }
 ]
