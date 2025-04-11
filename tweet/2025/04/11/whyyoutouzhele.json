@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 4284,
     "originVideos": ""
+  },
+  {
+    "id": "1910612979026100224",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 16:36:46",
+    "content": "中国半导体行业协会发布关于半导体产品“原产地”认定规则的紧急通知。 https://t.co/e0sXuTT2bE",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910612979026100224_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 8,
+    "retweets": 1,
+    "views": 2853,
+    "originVideos": ""
   }
 ]
