@@ -358,5 +358,23 @@
     "retweets": 2,
     "views": 9073,
     "originVideos": ""
+  },
+  {
+    "id": "1910560294973432026",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 13:07:25",
+    "content": "4月10日，湖北襄阳。男子指责一名领导的车长时间停在行车道上，影响交通。评论区有多位网友指出这名领导是“襄州区区委书记刘明峰”但男子表示：“政府不守法，怎么让公众守法？法律面前人人平等！”目前视频已被删除。 https://t.co/OZjN4Z2ABg",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910560294973432026_0.jpg,/tweet/image/whyyoutouzhele/2025/04/11/1910560294973432026_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/11/1910560294973432026_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1119,
+    "originVideos": "https://video.twimg.com/amplify_video/1910559273903607808/vid/avc1/320x758/OJF93z_NryV8cy5G.mp4?tag=14"
   }
 ]
