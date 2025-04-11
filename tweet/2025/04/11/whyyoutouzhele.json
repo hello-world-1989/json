@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 3005,
     "originVideos": ""
+  },
+  {
+    "id": "1910605698771435960",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 16:07:50",
+    "content": "刚刚，新华社消息，中国对美所有进口商品加征125%关税。\n 不久前，习近平表示：中国无畏惧任何无理打压；外交部表示：如果执意要打，中方必将奉陪到底。 https://t.co/ZVzDdMou7A",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910605698771435960_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 12,
+    "retweets": 3,
+    "views": 1236,
+    "originVideos": ""
   }
 ]
