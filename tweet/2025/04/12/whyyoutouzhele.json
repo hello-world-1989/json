@@ -16,5 +16,23 @@
     "retweets": 0,
     "views": 6081,
     "originVideos": "https://video.twimg.com/amplify_video/1910724471738236928/vid/avc1/480x270/KslYhp0EtXNvOYF0.mp4?tag=14"
+  },
+  {
+    "id": "1910727294525857943",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 00:11:01",
+    "content": "赫格塞斯称赞特朗普的谈判艺术，并表示不希望与中国发生冲突 https://t.co/l6Rb6EWjO3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910727294525857943_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 10,
+    "retweets": 1,
+    "views": 5548,
+    "originVideos": "https://video.twimg.com/amplify_video/1910726392062631936/vid/avc1/480x270/gv9s001sHWN4yNd6.mp4?tag=14"
   }
 ]
