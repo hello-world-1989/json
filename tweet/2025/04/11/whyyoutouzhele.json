@@ -286,5 +286,41 @@
     "retweets": 1,
     "views": 5053,
     "originVideos": ""
+  },
+  {
+    "id": "1910530618070384815",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 11:09:29",
+    "content": "4月11日 北京时间早8点16分 外交部发言人毛宁在推特发帖分享毛泽东语录，并重点标记了“美国是只纸老虎，一戳就破”这句话。 https://t.co/aQLhbuE6FK https://t.co/2nSqLBp1i0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910530618070384815_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 38,
+    "originVideos": ""
+  },
+  {
+    "id": "1910528451414524172",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 11:00:53",
+    "content": "据天空新闻报道，纽约哈德逊河直升机坠毁事故死亡的五名乘客是西门子集团西班牙分公司的CEO和其家人。 https://t.co/M3u5VR6xAl",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910528451414524172_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3797,
+    "originVideos": ""
   }
 ]
