@@ -718,5 +718,23 @@
     "retweets": 116,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1910676342359949318",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 20:48:33",
+    "content": "欧盟发言人周四称，欧盟与中国已同意为中国制电动汽车制定最低售价，以此替代欧盟去年决定实施的加征关税措施。\n 据中国商务部周四发布的新闻稿，中国商务部长王文涛星期二与欧盟经济安全委员谢夫乔维奇通话时，双方同意尽快启动磋商，深入讨论市场准入相关问题，并立即展开电动汽车价格承诺谈判，以及讨论中欧汽车产业投资合作问题。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910676342359949318_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 253,
+    "originVideos": ""
   }
 ]
