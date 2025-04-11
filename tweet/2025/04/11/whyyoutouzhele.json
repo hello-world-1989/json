@@ -484,5 +484,23 @@
     "retweets": 1,
     "views": 2853,
     "originVideos": ""
+  },
+  {
+    "id": "1910620608293200251",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 17:07:05",
+    "content": "特斯拉中国官网显示，目前Model S/X 车型已不再提供单独的“订购新车”选项\n 此次调整恰逢特朗普关税升级的关键节点，据悉，上述两款车型均由特斯拉美国工厂生产。 https://t.co/unWxmvTTyE",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910620608293200251_0.jpg,/tweet/image/whyyoutouzhele/2025/04/11/1910620608293200251_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1446,
+    "originVideos": ""
   }
 ]
