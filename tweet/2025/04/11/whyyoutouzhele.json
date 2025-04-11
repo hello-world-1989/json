@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 3333,
     "originVideos": ""
+  },
+  {
+    "id": "1910671410068152725",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-11 20:28:57",
+    "content": "美国总统特朗普昨日在内阁会议上表示，美国愿意与中国达成贸易协议，并相信两国能够友好相处。\n“我们拭目以待与中国的关系”“我们很乐意达成协议。他们长期以来确实利用了我们国家。他们对我们的剥削比任何人都多”特朗普说道，并强调美国在其政府领导下正在“恢复与中国的关系”。“我相信我们能够相处得很好。我非常尊重（中国）国家主席习近平。他是我多年的朋友，我相信我们最终会达成对两国都有益的协议”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/11/1910671410068152725_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 288,
+    "originVideos": ""
   }
 ]
