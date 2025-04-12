@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 77,
     "originVideos": ""
+  },
+  {
+    "id": "1910965793493287193",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 15:58:43",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿：\n广西玉林两大高中目前没办法完全破解双休政策，但提供自愿留校选择。 https://t.co/j064e7VZ9A",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910965793493287193_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 1,
+    "views": 166,
+    "originVideos": ""
   }
 ]
