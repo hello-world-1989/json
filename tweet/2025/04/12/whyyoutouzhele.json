@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 376,
     "originVideos": "https://video.twimg.com/amplify_video/1911048383533293568/vid/avc1/480x270/EQJ2t1HMsWGVmt9r.mp4?tag=14"
+  },
+  {
+    "id": "1911054768715489652",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 21:52:17",
+    "content": "根据美国海关与边境保护局于周五晚间发布的通知，特朗普政府「互惠关税」政策在最新一轮中明确排除了智能手机、部分电脑以及路由器等产品，这些产品将不适用于对中国高达125% 的关税与对其他国家的10% 基准关税。\n 这项豁免是特朗普对华关税有所软化的首个迹象。 https://t.co/yyd11FmGG3",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1911054768715489652_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 14,
+    "retweets": 3,
+    "views": 5846,
+    "originVideos": ""
   }
 ]
