@@ -682,5 +682,23 @@
     "retweets": 0,
     "views": 938,
     "originVideos": ""
+  },
+  {
+    "id": "1911048860686041548",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 21:28:48",
+    "content": "台总统赖清德今日在出席扶轮社地区年会演讲时表示，大家固然要面对美国对等关税的冲击，但不用太恐慌，台76%的商品是销往美国以外的地区，台湾的经济产业韧性已经存在。赖称台美已于美国时间11日的视频会议中交换意见，已经进行谈判，过程顺利。赖还说台湾希望跟美国合作，不会采取报复性关税，只要符合国家利益，企业界承诺对美国的投资也不会影响改变。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1911048860686041548_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1911048860686041548_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 376,
+    "originVideos": "https://video.twimg.com/amplify_video/1911048383533293568/vid/avc1/480x270/EQJ2t1HMsWGVmt9r.mp4?tag=14"
   }
 ]
