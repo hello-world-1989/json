@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1910997058598867157",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 18:02:58",
+    "content": "4月11日，内蒙古乌海。受大风天气影响，人民公园西门附近一处空地围墙倒塌，致多人被砸受伤，乌海第三人民医院证实，当天派出救护车到事发地接诊3名伤者，目前受损车辆已拖离，砖石碎块清理完毕。 https://t.co/yd54CqkYPm",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910997058598867157_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2796,
+    "originVideos": "https://video.twimg.com/amplify_video/1910995404017033216/vid/avc1/320x564/8M4OWF33GVCRIUE8.mp4?tag=14"
   }
 ]
