@@ -16,5 +16,23 @@
     "retweets": 0,
     "views": 9,
     "originVideos": ""
+  },
+  {
+    "id": "1911092297120534867",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 00:21:24",
+    "content": "当地民众拍摄的视频显示，三河市人民医院的社会主义核心价值观标语被刷成绿色，医院门头上的“急诊”二字也被刷成了灰色。拍摄者疑惑：“为什么不让用红蓝黑呢？我觉得中国红的颜色也挺好的啊” https://t.co/7NwLVstUZv",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/13/1911092297120534867_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 5,
+    "retweets": 1,
+    "views": 3852,
+    "originVideos": "https://video.twimg.com/amplify_video/1911091350725959680/vid/avc1/480x270/45bqICTW1QTGQ8S6.mp4?tag=14"
   }
 ]
