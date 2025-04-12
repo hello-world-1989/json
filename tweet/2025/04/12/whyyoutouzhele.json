@@ -502,5 +502,23 @@
     "retweets": 8,
     "views": 5469,
     "originVideos": "https://video.twimg.com/amplify_video/1910988883120078850/vid/avc1/320x568/OsHt46F4HwAbmi9j.mp4?tag=14,https://video.twimg.com/amplify_video/1910988900014620672/vid/avc1/320x564/quPCPxe-eVNBm_G6.mp4?tag=14"
+  },
+  {
+    "id": "1910993735581864315",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 17:49:45",
+    "content": "据报道，美国海关和边境保护局发布警告，告知用户处理货运关税豁免的系统出现故障。受影响的货运包括现在处于特朗普政府实施的90天关税暂停期内的国家的所有贸易货物。分析称，这意味着，美国政府尚未征收关税。 https://t.co/PxOijmqQSs",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910993735581864315_0.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1910993735581864315_1.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1910993735581864315_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
