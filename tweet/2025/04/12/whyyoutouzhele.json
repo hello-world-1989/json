@@ -304,5 +304,23 @@
     "retweets": 0,
     "views": 739,
     "originVideos": ""
+  },
+  {
+    "id": "1910921990699168008",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 13:04:40",
+    "content": "4月11日，北京。一名外卖小哥送餐时摔车双手擦伤，他缓过来后第一时间想的是转单，随后他来到一家医疗机构，对方告诉他要去公立医院处理，去私立医院处理可能要几千元，小哥一听表示几千块钱就不用看了。 https://t.co/j4CpK0U3GP",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910921990699168008_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2379,
+    "originVideos": "https://video.twimg.com/amplify_video/1910920005832646656/vid/avc1/480x270/Ay05L86kNlBd5HoD.mp4?tag=14"
   }
 ]
