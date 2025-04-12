@@ -862,5 +862,23 @@
     "retweets": 3,
     "views": 1637,
     "originVideos": ""
+  },
+  {
+    "id": "1911079739965772257",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 23:31:30",
+    "content": "由于原作品已被下架，网民们纷纷在社交平台接力转发，为受害者发声。 https://t.co/Cn4JgAOXFP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1911079739965772257_0.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1911079739965772257_1.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1911079739965772257_2.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1911079739965772257_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 0,
+    "retweets": 2,
+    "views": 4114,
+    "originVideos": ""
   }
 ]
