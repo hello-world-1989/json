@@ -232,5 +232,41 @@
     "retweets": 0,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1910899535972331520/vid/avc1/320x568/p3a075n8ymoWZIph.mp4?tag=14,https://video.twimg.com/amplify_video/1910899559808610304/vid/avc1/320x568/RN3WC279gHtkpQgi.mp4?tag=14,https://video.twimg.com/amplify_video/1910900167299002370/vid/avc1/320x568/KLx46S2I5JeFkDRJ.mp4?tag=14"
+  },
+  {
+    "id": "1910904538636443903",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 11:55:19",
+    "content": "4月11日 据路透社报道，白宫发言人在新闻发布会上表示，特朗普对与中国达成贸易协议持乐观态度，但如果中国继续还击，这将会对中国不利。 https://t.co/PzZGoq7NZI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910904538636443903_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2510,
+    "originVideos": ""
+  },
+  {
+    "id": "1910903232542679409",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 11:50:08",
+    "content": "4月11日 据路透社报道，美国交通安全管理局警告称，从5月7日起将在机场实施更严格的身份证件要求，没有“真实证件”的旅客将可能无法乘坐飞机。\n但包括走线客等进入美国后拿到的加州或纽约州的特殊类别驾照并不归入Real ID范畴，如果没有护照的话在拿到EAD临时工卡前可能会陷入旅行困境。 https://t.co/FZt3QxlN6j",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1910903232542679409_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 6,
+    "retweets": 2,
+    "views": 4049,
+    "originVideos": ""
   }
 ]
