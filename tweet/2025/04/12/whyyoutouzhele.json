@@ -484,5 +484,23 @@
     "retweets": 2,
     "views": 3585,
     "originVideos": ""
+  },
+  {
+    "id": "1910989289644806470",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 17:32:05",
+    "content": "4月12日上午，武汉遭遇极端大风天气，伴随强对流、沙尘暴。网传恒大华府小区一名外卖小哥被脱落的墙皮砸中倒地不起，同时手机还在不断提醒“美团外卖来新订单啦”“美团外卖转单求助请查看” https://t.co/k3JwkvqN7J",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/12/1910989289644806470_0.jpg,/tweet/video/whyyoutouzhele/2025/04/12/1910989289644806470_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 13,
+    "retweets": 8,
+    "views": 5469,
+    "originVideos": "https://video.twimg.com/amplify_video/1910988883120078850/vid/avc1/320x568/OsHt46F4HwAbmi9j.mp4?tag=14,https://video.twimg.com/amplify_video/1910988900014620672/vid/avc1/320x564/quPCPxe-eVNBm_G6.mp4?tag=14"
   }
 ]
