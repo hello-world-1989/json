@@ -646,5 +646,23 @@
     "retweets": 0,
     "views": 384,
     "originVideos": "https://video.twimg.com/amplify_video/1911026766866419712/vid/avc1/320x570/oGyAyT9eBnBYbUm-.mp4?tag=14,https://video.twimg.com/amplify_video/1911027733607362561/vid/avc1/320x568/i18BKv0GuUI_afbe.mp4?tag=14"
+  },
+  {
+    "id": "1911034727450255815",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-12 20:32:38",
+    "content": "纽约时报11日报道：随着特朗普总统将对中国商品加征的关税提高到125%，最近服装订单的取消对广州的小工厂来说尤其艰难。美国进口商通常会预先支付服装成本的一半，另一半稍后再付。工厂经理们表示，不想支付特朗普加征的关税的进口商在最后一刻取消订单，没有提供补偿，使得一些工厂积压了大量库存，从服装到手提包等各种产品。他们收到的50%预付款远远不足以弥补成本。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/12/1911034727450255815_0.jpg,/tweet/image/whyyoutouzhele/2025/04/12/1911034727450255815_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 7,
+    "retweets": 2,
+    "views": 4679,
+    "originVideos": ""
   }
 ]
