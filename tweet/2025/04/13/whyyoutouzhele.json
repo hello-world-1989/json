@@ -340,5 +340,23 @@
     "retweets": 5,
     "views": 3915,
     "originVideos": "https://video.twimg.com/amplify_video/1911338723595173889/vid/avc1/320x568/DmERTU2wWpaeVL78.mp4?tag=14"
+  },
+  {
+    "id": "1911346970297606358",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 17:13:23",
+    "content": "微软旗下的代码托管平台 GitHub 目前因未知原因已屏蔽所有中国 IP 地址，对于当前已经处于登录状态的用户来说仍然可以访问，如果尚未登录则在访问时提示 IP 对该站点的访问已被限制。\n 当然实际上是否屏蔽中国 IP 地址本身也没有太大的意义，主要是中国 IP 地址本身就无法直接访问 GitHub，原本是单向无法访问，现在变成双向无法访问。在 GitHub Community 官方社区中已经有关于这个问题的讨论，大量开发者反馈遇到相同的问题，不过暂时还没有 GitHub 官方工作人员发布回应。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911346970297606358_0.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911346970297606358_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 8,
+    "retweets": 3,
+    "views": 3464,
+    "originVideos": ""
   }
 ]
