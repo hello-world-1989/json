@@ -160,5 +160,41 @@
     "retweets": 0,
     "views": 2395,
     "originVideos": ""
+  },
+  {
+    "id": "1911267822640283873",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 11:58:53",
+    "content": "4月10日 重庆荣昌“卤鹅哥”因追着甲亢哥投喂整只烧鹅走红网络，随后被重庆市荣昌区委书记授予“荣昌美食全球推介使”，由政府报销其旅游费用并发放奖金10万。\n卤鹅哥回应：“这钱一部分可能是还贷款，我的房贷已经停了几个月了，交不起了。自己的二手车年审也过期了，平时借一辆两轮电动车作为交通工具。” https://t.co/d4ika1cfvu",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911267822640283873_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/13/1911267822640283873_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 181,
+    "originVideos": "https://video.twimg.com/amplify_video/1911266693394870272/vid/avc1/320x568/CZVIcwlq5gARzSmU.mp4?tag=14"
+  },
+  {
+    "id": "1911265840282079500",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 11:51:00",
+    "content": "据路透社报道，特朗普宣称将在周一公布针对半导体和芯片的关税细节。 https://t.co/Vxj6Aoh4ql",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911265840282079500_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 11,
+    "retweets": 1,
+    "views": 4679,
+    "originVideos": ""
   }
 ]
