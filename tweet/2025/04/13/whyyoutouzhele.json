@@ -592,5 +592,23 @@
     "retweets": 12,
     "views": 6121,
     "originVideos": "https://video.twimg.com/amplify_video/1911434507145646080/vid/avc1/320x568/Niedk2JfKGOAaO_y.mp4?tag=14"
+  },
+  {
+    "id": "1911440016145817791",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 23:23:07",
+    "content": "美国商务部长卢特尼克今天接受美国广播公司（ABC）政论节目采访时指出：政府先前将一系列电子产品从对等关税豁免只是暂时性的，这些产品将面临个别关税，可能会在「一两个月内」实施，并称美国已通过中间人与中国就关税问题进行“初步接触”\n 他还说“我们不能依赖中国来满足我们所需的基本需求：我们的药品和半导体需要在美国生产。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911440016145817791_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 1,
+    "views": 4771,
+    "originVideos": ""
   }
 ]
