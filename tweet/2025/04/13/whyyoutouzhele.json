@@ -232,5 +232,23 @@
     "retweets": 3,
     "views": 4008,
     "originVideos": ""
+  },
+  {
+    "id": "1911284503974461628",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 13:05:10",
+    "content": "4月12日，河北张家口。多名城管死死抓着小贩的胳膊，小贩只能眼睁睁看着自己的瓜被城管们搬上车带走。 https://t.co/LbszMoElWS",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/13/1911284503974461628_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 4,
+    "retweets": 5,
+    "views": 1994,
+    "originVideos": "https://video.twimg.com/amplify_video/1911284080852742144/vid/avc1/320x564/5Wo2yqR5JLCoIKE0.mp4?tag=14"
   }
 ]
