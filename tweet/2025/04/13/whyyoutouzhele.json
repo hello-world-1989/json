@@ -448,5 +448,23 @@
     "retweets": 1,
     "views": 1476,
     "originVideos": "https://video.twimg.com/amplify_video/1911381631669026816/vid/avc1/320x564/t_6BT7bqmzTEsF-2.mp4?tag=14,https://video.twimg.com/amplify_video/1911381652825128960/vid/avc1/468x270/4KsQ_duPS6Jm6jdq.mp4?tag=14,https://video.twimg.com/amplify_video/1911381729727684608/vid/avc1/320x568/srj_7TcgAn08-Y3q.mp4?tag=14"
+  },
+  {
+    "id": "1911388212313858556",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 19:57:16",
+    "content": "“美方豁免部分产品关税”中国商务部回应：这是美方修正单边“对等关税”错误做法的一小步，敦促美方在纠错方面迈出一大步，彻底消除“对等关税”的错误做法。 https://t.co/eUCpQB8Okg",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911388212313858556_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1204,
+    "originVideos": ""
   }
 ]
