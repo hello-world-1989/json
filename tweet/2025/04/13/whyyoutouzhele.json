@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 1364,
     "originVideos": ""
+  },
+  {
+    "id": "1911420616776831450",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 22:06:02",
+    "content": "彭博：截至3月底的过去12个月里，苹果公司在印度组装了价值220亿美元的iPhone 手机，产量比上一年增加了近60%，这一增长表明，iPhone制造商及其供应商正在加快从中国向印度供应链转移的步伐，这一转移从新冠疫情时期就已经开始。\n 彭博引述知情人士称，目前已有20%的iphone在印度制造，（文中的220亿美元代表的是这些设备的出厂预估价，而非加后的零售价）",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911420616776831450_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2275,
+    "originVideos": ""
   }
 ]
