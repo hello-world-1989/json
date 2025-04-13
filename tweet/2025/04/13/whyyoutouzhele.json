@@ -574,5 +574,23 @@
     "retweets": 0,
     "views": 2512,
     "originVideos": ""
+  },
+  {
+    "id": "1911434705091637696",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 23:02:01",
+    "content": "4月13日(发布) 台湾当地一家大润发超市的招聘海报，显示月薪30500台币(约6,869人民币 ) 时薪192台币(约43人民币) 并且月休9到10天，引发中国网民羡慕：“这个工作时长在中国仅有2千左右” “要不你们打过来吧，我月休2天” “不要再发了，再发我真的划皮艇过来了啊” https://t.co/GrxIzjzBvJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911434705091637696_0.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911434705091637696_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/13/1911434705091637696_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 74,
+    "replies": 8,
+    "retweets": 12,
+    "views": 6121,
+    "originVideos": "https://video.twimg.com/amplify_video/1911434507145646080/vid/avc1/320x568/Niedk2JfKGOAaO_y.mp4?tag=14"
   }
 ]
