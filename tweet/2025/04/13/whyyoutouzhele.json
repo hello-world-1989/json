@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 4771,
     "originVideos": ""
+  },
+  {
+    "id": "1911445473409237479",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 23:44:48",
+    "content": "4月12日，南阳赵律师发文抱怨称，即便在接不到案子，连温饱都成问题的情况下，仍要交各种费用 “一年几万费用要出” 并且实习期还没有工资，或是只有极少的生活费，好不容易熬过了实习期，结果却因接不到案子导致没收入。\n 她感慨有时候想还不如从事服务员，至少工作一天就有工资，但律师行业即使付出了，也不见得会有结果。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911445473409237479_0.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911445473409237479_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 4,
+    "views": 3248,
+    "originVideos": ""
   }
 ]
