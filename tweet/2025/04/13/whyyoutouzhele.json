@@ -556,5 +556,23 @@
     "retweets": 0,
     "views": 2838,
     "originVideos": "https://video.twimg.com/amplify_video/1911424807767322624/vid/avc1/320x604/urvhYFNY756LcuLm.mp4?tag=14"
+  },
+  {
+    "id": "1911430314557157672",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 22:44:34",
+    "content": "https://t.co/bc9bgmOXsd\n京东旗下的跨越新科技员工投稿： https://t.co/TqAt54yb1N",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911430314557157672_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2512,
+    "originVideos": ""
   }
 ]
