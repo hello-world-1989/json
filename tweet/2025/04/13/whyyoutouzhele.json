@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 700,
     "originVideos": ""
+  },
+  {
+    "id": "1911339068559917484",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 16:41:59",
+    "content": "4月13日(发布) 一名医生谈中美贸易战，他指着手术内的器械说“这个爱德华是美国的”“耗材也是美国的”他担忧如果贸易战打起来，这些美国进口的医疗器械是否会涨价。 https://t.co/BDMKKuMo2b",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/13/1911339068559917484_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 8,
+    "retweets": 5,
+    "views": 3915,
+    "originVideos": "https://video.twimg.com/amplify_video/1911338723595173889/vid/avc1/320x568/DmERTU2wWpaeVL78.mp4?tag=14"
   }
 ]
