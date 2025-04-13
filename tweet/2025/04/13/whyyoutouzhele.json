@@ -196,5 +196,41 @@
     "retweets": 1,
     "views": 4679,
     "originVideos": ""
+  },
+  {
+    "id": "1911272544738693146",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 12:17:39",
+    "content": "4月13日 广东罕见出现沙尘暴天气，全省多地空气质量达到重度污染。 https://t.co/f4UgAiO5ZC",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911272544738693146_0.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911272544738693146_1.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911272544738693146_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 694,
+    "originVideos": ""
+  },
+  {
+    "id": "1911271087104794809",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-13 12:11:51",
+    "content": "近日 安徽滁州新锐教育集团被曝光要求教师签署“不参加考公考编承诺书”，且滁州市公务员或者事业编考试当天，学校会对符合考试条件的教师挨个打电话，或拉工作群开视频会议，没有及时回消息的教师，会认定为参加考公考编，将对参与考公考编人员进行处罚并通报。 https://t.co/kD7k8EjKK3",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/13/1911271087104794809_0.jpg,/tweet/image/whyyoutouzhele/2025/04/13/1911271087104794809_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 6,
+    "retweets": 3,
+    "views": 4008,
+    "originVideos": ""
   }
 ]
