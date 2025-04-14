@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 2530,
     "originVideos": "https://video.twimg.com/amplify_video/1911729186542075904/vid/avc1/320x584/Z6OLMpyuE0T-OMxJ.mp4?tag=14,https://video.twimg.com/amplify_video/1911729202304360449/vid/avc1/320x568/WVkO0s5nEddD8Nno.mp4?tag=14"
+  },
+  {
+    "id": "1911733783293989118",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 18:50:26",
+    "content": "为了防止原产地造假行为，越南工贸部近日颁布文件，要求加强对原材料供应商的管理，严格把控原材料质量。 https://t.co/9LmSC80Tde",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911733783293989118_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 13,
+    "retweets": 5,
+    "views": 4417,
+    "originVideos": ""
   }
 ]
