@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 269,
     "originVideos": ""
+  },
+  {
+    "id": "1911725563620036827",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 18:17:47",
+    "content": "去年武汉城市学院大三学生小杜和室友同学小李，为了方便打暑假工便在外一起合租，24年7月8日，小李将电动车电池拿到出租屋里充电，次日发生火灾。小李跑出屋子拎灭火器返回，但他在门口处直接把门关了。最终还在屋内的小杜全身90%烧伤。\n 4月12日，小杜烧伤后首次发声，表示无法原谅室友，父母替自己承担太多。据报道，小杜经历12次植皮手术，累计医疗费用达到280多万元，事发后对方给予的赔偿只有1万元。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/14/1911725563620036827_0.jpg,/tweet/video/whyyoutouzhele/2025/04/14/1911725563620036827_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 1,
+    "views": 745,
+    "originVideos": "https://video.twimg.com/amplify_video/1911724414636371968/vid/avc1/320x568/pQBSFhlbsEXpNq0c.mp4?tag=14,https://video.twimg.com/amplify_video/1911724426191642624/vid/avc1/320x568/aVAvn9CWNSoQXug4.mp4?tag=14"
   }
 ]
