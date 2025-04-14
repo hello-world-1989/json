@@ -142,5 +142,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1911885258661801984/vid/avc1/480x270/WVLBc-ktcDG43-et.mp4?tag=14"
+  },
+  {
+    "id": "1911903226917499173",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 06:03:45",
+    "content": "目前，之前为学校师生发声、批判新书记赵万东不合理政策的微信公众号作者，有多位被来自西安的号码来电威胁，要求删除文章。同时，文章还在不断被投诉，导致被微信平台删除。但大多数作者们没有退缩，而是选择了以补档等方式继续发声，其中一位作者二次补档甚至采用英文才避免文章被下架。\n此外，在小红书上，昨天一天之内几乎所有批判该校高中化改革事件的笔记全部被删除，有位作者吐槽自己发的近十条有关笔记获得几十万浏览，却在几乎同一时间全都没了，随后该吐槽帖也被删。\n微信某文章下面有人提出质疑，表示赵万东本人在咸阳师范学院任职期间从未上过一节课，如何获得的教授职称？ 今日中午，又有同学在校园论坛匿名爆料，该校最近开始禁止教师坐着上课，一位年长教师只是因为上课时坐下，便收到一条短信“吃不消的话，就快点退休吧”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1911903226917499173_0.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1911903226917499173_1.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1911903226917499173_2.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1911903226917499173_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1017,
+    "originVideos": ""
   }
 ]
