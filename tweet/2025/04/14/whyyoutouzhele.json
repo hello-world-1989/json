@@ -142,5 +142,23 @@
     "retweets": 4,
     "views": 3001,
     "originVideos": ""
+  },
+  {
+    "id": "1911625340902097100",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 11:39:32",
+    "content": "4月13日 据路透社报道，特朗普宣称将于本周一宣布新的半导体关税政策。将中国的手机、电脑等智能产品实施对等关税豁免的持续时间可能会很短暂。\n美国商务部长霍华德·卢特尼克周日早些时候明确表示，来自中国的关键技术产品将在未来两个月内与半导体一起面临单独的新关税。 https://t.co/V1wDfl42IB",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911625340902097100_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2,
+    "originVideos": ""
   }
 ]
