@@ -664,5 +664,23 @@
     "retweets": 1,
     "views": 3530,
     "originVideos": ""
+  },
+  {
+    "id": "1911805868649418936",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 23:36:53",
+    "content": "4月14日，央视新闻报道称，美国出现蛋荒，仓储的蛋价格相对便宜，但民众很难抢到；而高价蛋则需要启动“钞能力”\n 4月13日，网友“Steven Benz”称4.7美元可以买12个鸡蛋，根本就没涨价。\n 4月13日，居住在德州的网友“叶子”称，鸡蛋5.86美元可以买12个“我难以想象，为什么他们说在抢鸡蛋，八九美元一个，我觉得很奇怪”\n 4月12日，一名居住在密歇根州的网友称，鸡蛋虽然涨价了，但是货源充足，并没有被抢光。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911805868649418936_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/14/1911805868649418936_0.jpg,/tweet/video/whyyoutouzhele/2025/04/14/1911805868649418936_1.jpg,/tweet/video/whyyoutouzhele/2025/04/14/1911805868649418936_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1484,
+    "originVideos": "https://video.twimg.com/amplify_video/1911805421469249536/vid/avc1/320x564/U4p27E1_UfBbQ2lB.mp4?tag=14,https://video.twimg.com/amplify_video/1911805444403654656/vid/avc1/320x564/Bzqf0N-gosFPhdNI.mp4?tag=14,https://video.twimg.com/amplify_video/1911805482609602560/vid/avc1/320x568/1dpnEj9kExF7CgtD.mp4?tag=14"
   }
 ]
