@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": ""
+  },
+  {
+    "id": "1911588716533190840",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 09:14:00",
+    "content": "网友投稿：\n4月10日，湛江市第二中学一名学生因为使用了教师专用电梯，遭遇德育处副主任唐某的言语侮辱，称学生作为体育生“学习也不好，长得又不好看，家里又穷，以后不嫁人都没有出路”，最终导致学生跳楼轻生。\n事发后，校方试图封锁消息，不允许讨论。但悲愤的学生们依然在走廊内张贴悼念文章。 https://t.co/SnzxnyP3tt",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911588716533190840_0.jpg,/tweet/image/whyyoutouzhele/2025/04/14/1911588716533190840_1.jpg,/tweet/image/whyyoutouzhele/2025/04/14/1911588716533190840_2.jpg,/tweet/image/whyyoutouzhele/2025/04/14/1911588716533190840_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 4,
+    "retweets": 4,
+    "views": 3001,
+    "originVideos": ""
   }
 ]
