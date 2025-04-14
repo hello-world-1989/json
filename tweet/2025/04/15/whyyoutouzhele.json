@@ -52,5 +52,23 @@
     "retweets": 3,
     "views": 4063,
     "originVideos": ""
+  },
+  {
+    "id": "1911823568046105010",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 00:47:13",
+    "content": "习近平即将率团访问马来西亚，马国警方已启动高级别反恐安全措施。据马国媒体报道，此次安保部署将动用具备干扰多种无线电波及电话信号能力的反恐车辆，意在防范遥控爆炸装置。\n 消息说，习近平此次访马所乘坐的座驾，是红旗N701轿车，该车型年产量仅有五辆，报道还称马国警方12日在吉隆坡国际机场大红花贵宾厅展开大规模反恐演练，要确保中国代表团在访问期间安全无忧。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1911823568046105010_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1082,
+    "originVideos": ""
   }
 ]
