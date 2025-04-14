@@ -160,5 +160,41 @@
     "retweets": 0,
     "views": 2,
     "originVideos": ""
+  },
+  {
+    "id": "1911632446778745277",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 12:07:46",
+    "content": "2025年第一季度，哪吒汽车销量还不到500，比倒数第二名的比亚迪仰望汽车还要低37辆。 https://t.co/hTPrWKJkIS",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911632446778745277_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 528,
+    "originVideos": ""
+  },
+  {
+    "id": "1911631786788225444",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 12:05:09",
+    "content": "4月14日 哪吒汽车原CEO张勇被曝光已经跑路英国，其多家子公司已成空壳。\n全国多家哪吒汽车经销商维权。\n有经销商表示：最让人痛心的是，我们很多门店按厂家的要求打全款几百上千万，但车一辆都没有发出。有的经销商为了买车贷款担保，现在正被银行追债客户起诉。今天，我们来到哪吒桐乡工厂，不是来闹事，我们只提出三点诉求：\n一、赔偿我们 2024 年 9 月至今的运营损失、预支 2025 年 5 月到 7 月的经营成本。\n二、所有打款未发车拖欠的返利和补贴，必须在 5 月 11 日前一次性返还。\n三、尽快恢复售后服务体系，别让四十多万哪吒车主被彻底抛弃。我们不是要让哪吒倒下，我们只要一个交代，请方运舟董事长正面做出回应。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911631786788225444_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 13,
+    "retweets": 2,
+    "views": 3376,
+    "originVideos": ""
   }
 ]
