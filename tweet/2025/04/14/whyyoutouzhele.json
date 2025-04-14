@@ -682,5 +682,23 @@
     "retweets": 0,
     "views": 1484,
     "originVideos": "https://video.twimg.com/amplify_video/1911805421469249536/vid/avc1/320x564/U4p27E1_UfBbQ2lB.mp4?tag=14,https://video.twimg.com/amplify_video/1911805444403654656/vid/avc1/320x564/Bzqf0N-gosFPhdNI.mp4?tag=14,https://video.twimg.com/amplify_video/1911805482609602560/vid/avc1/320x568/1dpnEj9kExF7CgtD.mp4?tag=14"
+  },
+  {
+    "id": "1911810445608100054",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 23:55:04",
+    "content": "4月11日，一名大V博主发文“有网友在朋友圈打听观音土和树皮的食用方法？请大家科普一下” 并配图一张“奉陪到底”的表情包。\n 13日，微博以该用户发表阴阳怪气言论为由，将其禁言。 https://t.co/5ytc8zI8GE",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911810445608100054_0.jpg,/tweet/image/whyyoutouzhele/2025/04/14/1911810445608100054_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 6,
+    "retweets": 6,
+    "views": 3464,
+    "originVideos": ""
   }
 ]
