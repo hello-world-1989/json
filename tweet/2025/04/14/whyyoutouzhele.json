@@ -232,5 +232,23 @@
     "retweets": 1,
     "views": 1478,
     "originVideos": ""
+  },
+  {
+    "id": "1911646429069951396",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-14 13:03:20",
+    "content": "4月13日，上海。一名男子称前几天发了一个自己住在桥洞下的视频，几天后便接到警方电话，被告知不要在桥洞下居住会有损市容。于是男子只好找朋友借了点钱，找了一个“挂壁房”居住。 https://t.co/M8qW5jXEkr",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/14/1911646429069951396_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/14/1911646429069951396_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 16,
+    "retweets": 7,
+    "views": 3802,
+    "originVideos": "https://video.twimg.com/amplify_video/1911645830777274368/vid/avc1/320x568/coRnyKs-o00xduTi.mp4?tag=14"
   }
 ]
