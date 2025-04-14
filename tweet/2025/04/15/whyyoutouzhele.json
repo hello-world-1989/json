@@ -106,5 +106,23 @@
     "retweets": 3,
     "views": 2019,
     "originVideos": ""
+  },
+  {
+    "id": "1911884475815899442",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 04:49:14",
+    "content": "4月14日，特朗普回答关于“乌克兰总统泽连斯基想要购买更多的爱国者导弹”的问题。\n特朗普表示，“他总是想买导弹。听着，当你发动战争时，你必须知道自己能赢。你不会先跟一个比你强大20倍的国家开战，然后指望别人给你导弹。” https://t.co/6OczoEZDUW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/15/1911884475815899442_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 2,
+    "retweets": 0,
+    "views": 53,
+    "originVideos": "https://video.twimg.com/amplify_video/1911882469172789248/vid/avc1/480x270/MLT-nNfH3Kps_-AI.mp4?tag=14"
   }
 ]
