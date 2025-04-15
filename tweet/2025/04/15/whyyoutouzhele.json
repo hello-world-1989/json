@@ -376,5 +376,23 @@
     "retweets": 1,
     "views": 2420,
     "originVideos": ""
+  },
+  {
+    "id": "1912021317072953774",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 13:53:00",
+    "content": "网友投稿\n北京中央民族大学新校区食堂最近出现了多起食物中毒事件，已有不少同学去医院就诊，直到今天依然有人中招，目前学校除了进行所谓健康监测外对此事无任何回应。 https://t.co/qdAX10bdK8",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912021317072953774_0.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912021317072953774_1.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912021317072953774_2.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912021317072953774_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 7,
+    "retweets": 3,
+    "views": 3775,
+    "originVideos": ""
   }
 ]
