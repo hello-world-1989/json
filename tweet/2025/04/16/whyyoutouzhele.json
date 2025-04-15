@@ -142,5 +142,23 @@
     "retweets": 0,
     "views": 1255,
     "originVideos": "https://video.twimg.com/amplify_video/1912277998847361024/vid/avc1/480x270/pJ0h7fgV-iSoyJ_6.mp4?tag=16"
+  },
+  {
+    "id": "1912281171943162261",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 07:05:34",
+    "content": "4月15日，中国新闻网在国内社交平台发了一个美国国民吃不起鸡蛋的视频。然而网友发现，视频的画面是随意拼接而成的，人们又是穿短袖又是穿羽绒服。最让意外的是两个关于超市鸡蛋的画面。视频中出现的Coles是澳洲本地的连锁超市，美国根本就没有，图片是从前不久澳洲禽流感导致蛋荒那里偷来的。 https://t.co/DozjJ0RY6k",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912281171943162261_0.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912281171943162261_1.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912281171943162261_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912281171943162261_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 8,
+    "retweets": 0,
+    "views": 1214,
+    "originVideos": "https://video.twimg.com/amplify_video/1912280857584287744/vid/avc1/320x568/vpTVZ_b_gsKF3omv.mp4?tag=16"
   }
 ]
