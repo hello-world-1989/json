@@ -628,5 +628,23 @@
     "retweets": 2,
     "views": 1232,
     "originVideos": ""
+  },
+  {
+    "id": "1912110451464524269",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 19:47:11",
+    "content": "谷歌地图最近被发现已将南海靠近菲律宾的大片水域更名为「西菲律宾海」，范围涵盖存有主权争议的黄岩岛。目前暂不清楚谷哥地图何时对「西菲律宾海」的位置与范围作出调整。\n 中国外交部发言人林剑表示，我要指出的是，长期以来，南海一直是国际社会公认的通用地名,为世界各国及联合国等国际组织广泛接受。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912110451464524269_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/15/1912110451464524269_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1045,
+    "originVideos": "https://video.twimg.com/amplify_video/1912110323869351936/vid/avc1/320x568/Q5TP2k-SoOVjnh2N.mp4?tag=16"
   }
 ]
