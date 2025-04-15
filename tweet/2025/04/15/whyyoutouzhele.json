@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 212,
     "originVideos": ""
+  },
+  {
+    "id": "1912102019210547583",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 19:13:41",
+    "content": "赖清德总统今天在台湾资安大会表示，台湾身处第一岛链关键防线，不仅面对中国军事威胁，在网络世界里也站在全球资安风险最前线。政府网际服务每天受侵扰达240万次，是前年的两倍，过去几个月来，台湾医院、学校和上市公司接连遭到勒索软件攻击，已确认是中国骇客所为，显示台湾遭网络骇客侵扰的状况越来越严峻。(综合经济日报、民视新闻报道)",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/15/1912102019210547583_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2906,
+    "originVideos": "https://video.twimg.com/amplify_video/1912101598823628800/vid/avc1/480x270/72Ze28y3NlgDn7Ob.mp4?tag=16"
   }
 ]
