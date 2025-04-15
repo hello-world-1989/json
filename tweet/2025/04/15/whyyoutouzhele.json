@@ -502,5 +502,23 @@
     "retweets": 4,
     "views": 5712,
     "originVideos": ""
+  },
+  {
+    "id": "1912082099198099758",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 17:54:31",
+    "content": "4月14日，一名在俄国留学的中国网友发文，控诉俄罗斯的学生歧视中国人，图片显示，一张告示上用中文写着：“为了保护运动器材，中国公民禁止在健身房使用哑铃”而扫描下方的二维码则会跳转到视频，视频在说“秦腔穷” https://t.co/ftsXbZD9KD",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912082099198099758_0.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912082099198099758_1.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912082099198099758_2.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912082099198099758_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2625,
+    "originVideos": ""
   }
 ]
