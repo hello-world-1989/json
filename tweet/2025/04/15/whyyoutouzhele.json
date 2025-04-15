@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 4804,
     "originVideos": ""
+  },
+  {
+    "id": "1912008497539219462",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 13:02:03",
+    "content": "4月9日，河北。一名求职者给HR发消息称，自己35岁，互联网圈没人要了，只求一个工作机会。工资给80%就行，社保也可以不要。 https://t.co/FOx8AXGPS6",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912008497539219462_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 13,
+    "retweets": 5,
+    "views": 4590,
+    "originVideos": ""
   }
 ]
