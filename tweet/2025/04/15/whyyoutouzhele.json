@@ -772,5 +772,23 @@
     "retweets": 11,
     "views": 5856,
     "originVideos": ""
+  },
+  {
+    "id": "1912154627497431489",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 22:42:43",
+    "content": "英伟达周一宣布，未来四年与台积电、富士康、纬创资通、安靠科技和硅品科技的合作，到2030年前在美国生产价值高达5000亿美元的人工智能基础设施， 英伟达首席执行官黄仁勋表示：“全球人工智能基础设施的引擎首次在美国建造” 白宫在一份声明中表示：“将这些行业转移到美国本土，对美国工人、美国经济和美国国家安全都有好处”\n 特朗普15日发文表示，“这是一个激动人心的重大消息。所有必要的许可都将快速办理，并尽快交付给 NVIDIA，就像所有致力于参与美国黄金时代的公司一样！”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912154627497431489_0.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912154627497431489_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 6,
+    "retweets": 2,
+    "views": 5202,
+    "originVideos": ""
   }
 ]
