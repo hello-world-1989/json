@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 5,
     "originVideos": ""
+  },
+  {
+    "id": "1912077116067463225",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 17:34:43",
+    "content": "近日，乌军在乌克兰在顿涅茨克地区抓获两名为俄军作战的中国人，张仁波（27岁）和王广军（34岁）14日，乌克兰举行了面向全球的记者会。\n两名俘虏在记者会上透露：俄军残酷对待外国雇佣兵。训练营断电断水，一两天才能吃一顿饭，并且中国籍士兵还遭到种族歧视、拖欠工资等不公待遇，还有人因无法忍受恶劣环境而自杀。\n 两名俘虏还说，在中国常听到俄罗斯强大，乌克兰落后的说法都是假的，并呼吁中国人千万不要参加这场战争。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912077116067463225_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/15/1912077116067463225_0.jpg,/tweet/video/whyyoutouzhele/2025/04/15/1912077116067463225_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 9,
+    "retweets": 1,
+    "views": 2560,
+    "originVideos": "https://video.twimg.com/amplify_video/1912074551241916416/vid/avc1/480x270/11ENE6idAABtJAUz.mp4?tag=14,https://video.twimg.com/amplify_video/1912074721824235521/vid/avc1/320x692/h78a3_LJtLAGXZ_f.mp4?tag=14"
   }
 ]
