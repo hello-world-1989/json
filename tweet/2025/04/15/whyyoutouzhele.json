@@ -610,5 +610,23 @@
     "retweets": 2,
     "views": 2906,
     "originVideos": "https://video.twimg.com/amplify_video/1912101598823628800/vid/avc1/480x270/72Ze28y3NlgDn7Ob.mp4?tag=16"
+  },
+  {
+    "id": "1912105238619955587",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 19:26:28",
+    "content": "据报道，中国已要求航空公司不再接收美国制造的喷气式飞机。彭博援引知情人士的话报道称，该禁令不仅涉及波音飞机，还包括与飞机相关的设备和零部件。受此报道拖累，波音股价盘前交易下跌3%，而空中客车(Airbus)股价上涨1%。 https://t.co/0XiIu7aONm",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912105238619955587_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1232,
+    "originVideos": ""
   }
 ]
