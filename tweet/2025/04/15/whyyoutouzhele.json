@@ -646,5 +646,23 @@
     "retweets": 1,
     "views": 1045,
     "originVideos": "https://video.twimg.com/amplify_video/1912110323869351936/vid/avc1/320x568/Q5TP2k-SoOVjnh2N.mp4?tag=16"
+  },
+  {
+    "id": "1912113250340122704",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 19:58:18",
+    "content": "截至目前，投稿人已经失联超过13小时。\n他最后希望通过我们向大众传达的话是，希望早日实现民主。 https://t.co/RPXIkR74qG https://t.co/Po9HpBRPYc",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912113250340122704_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 2,
+    "retweets": 3,
+    "views": 855,
+    "originVideos": ""
   }
 ]
