@@ -448,5 +448,23 @@
     "retweets": 2,
     "views": 1447,
     "originVideos": "https://video.twimg.com/amplify_video/1912051497887518720/vid/avc1/320x568/KXOtX8QKnpXaarg5.mp4?tag=14"
+  },
+  {
+    "id": "1912063193389891820",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 16:39:24",
+    "content": "4月14日，东莞金昊精密机械公司通报，一名员工原本周末休息被临时要求加班，该员工对客户说加班没有加班费。公司认为员工的言辞行为严重违反公司形象，对其做出本月降薪4000元的处罚。 https://t.co/lVittl8xUI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912063193389891820_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 5,
+    "originVideos": ""
   }
 ]
