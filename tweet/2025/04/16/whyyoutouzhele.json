@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 233,
     "originVideos": ""
+  },
+  {
+    "id": "1912278879353356547",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 06:56:27",
+    "content": "4月16日，特朗普在接受福克斯电视台采访时表示，“你知道，在过去——大约1870年到1913年——关税是唯一的财政收入。”他还暗示可以用关税收入取代所得税：“关税收入有可能非常大，足以取代所得税。“ https://t.co/NBR6zV1Npd",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912278879353356547_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1255,
+    "originVideos": "https://video.twimg.com/amplify_video/1912277998847361024/vid/avc1/480x270/pJ0h7fgV-iSoyJ_6.mp4?tag=16"
   }
 ]
