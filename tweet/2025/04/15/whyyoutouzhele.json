@@ -484,5 +484,23 @@
     "retweets": 1,
     "views": 2560,
     "originVideos": "https://video.twimg.com/amplify_video/1912074551241916416/vid/avc1/480x270/11ENE6idAABtJAUz.mp4?tag=14,https://video.twimg.com/amplify_video/1912074721824235521/vid/avc1/320x692/h78a3_LJtLAGXZ_f.mp4?tag=14"
+  },
+  {
+    "id": "1912078453731627379",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 17:40:02",
+    "content": "网传拍摄于今年3月份，香港一高校的民主墙。 https://t.co/2GmF1mNkJA",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912078453731627379_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 42,
+    "replies": 11,
+    "retweets": 4,
+    "views": 5712,
+    "originVideos": ""
   }
 ]
