@@ -520,5 +520,23 @@
     "retweets": 2,
     "views": 2625,
     "originVideos": ""
+  },
+  {
+    "id": "1912088030997041364",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 18:18:06",
+    "content": "三河市招牌禁用红蓝黑三色一事引发热议后，网民们纷纷脑洞大开，用ai创作各种关于“三河市的绿色视频” https://t.co/rLb4n4Hohm",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1912088030997041364_0.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912088030997041364_1.jpg,/tweet/image/whyyoutouzhele/2025/04/15/1912088030997041364_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/15/1912088030997041364_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 497,
+    "originVideos": "https://video.twimg.com/amplify_video/1912087362328211457/vid/avc1/320x568/krtARM_WbDCpL3Q5.mp4?tag=14"
   }
 ]
