@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 1134,
     "originVideos": ""
+  },
+  {
+    "id": "1911990363184894139",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-15 11:50:00",
+    "content": "https://t.co/Rgg6SqmZEv 4月11日，教育部印发通知，公布一批查处中小学违规办学、超时学习行为的典型案例。 https://t.co/hAXF3Hnp20",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/15/1911990363184894139_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 5,
+    "retweets": 0,
+    "views": 4804,
+    "originVideos": ""
   }
 ]
