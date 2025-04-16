@@ -844,5 +844,23 @@
     "retweets": 0,
     "views": 1193,
     "originVideos": ""
+  },
+  {
+    "id": "1912503886054916368",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 21:50:33",
+    "content": "据报道，今天深圳火车站虎门站一名32岁男性旅客，突然跳向正在进站的列车车头。医务人员赶到现场救治，确定该旅客已无生命体征。 https://t.co/9c7rN8sjUs",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912503886054916368_0.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912503886054916368_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912503886054916368_0.jpg,/tweet/video/whyyoutouzhele/2025/04/16/1912503886054916368_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 10,
+    "retweets": 2,
+    "views": 5745,
+    "originVideos": "https://video.twimg.com/amplify_video/1912503627731677185/vid/avc1/320x568/u1vrgUzl2Jc_qxgk.mp4?tag=16,https://video.twimg.com/amplify_video/1912503729951023104/vid/avc1/320x568/tS3QePMXx9mPkMHj.mp4?tag=16"
   }
 ]
