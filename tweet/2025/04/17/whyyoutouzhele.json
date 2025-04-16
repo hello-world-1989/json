@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 1510,
     "originVideos": ""
+  },
+  {
+    "id": "1912574337284206953",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 02:30:30",
+    "content": "4月16日，上海。央企中航产融信托爆雷，受害者聚集在上海中航产融总部楼下维权 https://t.co/pYob5YXHLP",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/17/1912574337284206953_0.jpg,/tweet/video/whyyoutouzhele/2025/04/17/1912574337284206953_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 4,
+    "retweets": 4,
+    "views": 2827,
+    "originVideos": "https://video.twimg.com/amplify_video/1912574051840847875/vid/avc1/320x568/1R9rqIc90X7gs0xf.mp4?tag=16,https://video.twimg.com/amplify_video/1912574069712756736/vid/avc1/480x270/Td7fuUS4Ln6Vn_9R.mp4?tag=16"
   }
 ]
