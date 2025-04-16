@@ -376,5 +376,23 @@
     "retweets": 10,
     "views": 5492,
     "originVideos": ""
+  },
+  {
+    "id": "1912382796586525180",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 13:49:23",
+    "content": "白宫最新声明指出，由于中国采取报复行动，中国输往美国的商品现面临最高达245%的关税。 https://t.co/8KfsZowYeE",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912382796586525180_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 33,
+    "originVideos": ""
   }
 ]
