@@ -628,5 +628,23 @@
     "retweets": 2,
     "views": 3746,
     "originVideos": "https://video.twimg.com/amplify_video/1912455491571097600/vid/avc1/320x568/X2klQX05FrcHuXIj.mp4?tag=16"
+  },
+  {
+    "id": "1912460797688856642",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 18:59:20",
+    "content": "4月15日，美国前总统拜登在卸任后的首次讲话中，批评了特朗普政府疯狂的政府改革，称这种砍刀式的改革将危及美国人的退休福利。拜登表示：“在不到100天的时间里，新政府造成了如此大的破坏。这真是令人震惊”\n 拜登在演讲中重点批评了特朗普政府对社会保障局的改革，他说因为特朗普迅速裁掉了7000名社会保障局员工，导致该机构网站崩溃，民众无法登录账户查询福利信息。拜登还强调，特朗普的政策以效率为名，实则摧毁了公共服务体系。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912460797688856642_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 13,
+    "originVideos": ""
   }
 ]
