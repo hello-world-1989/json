@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 1595,
     "originVideos": ""
+  },
+  {
+    "id": "1912294873492824207",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 08:00:01",
+    "content": "4月16日，白宫新闻发言人称，“是中国需要和美国达成协议，美国却不一定要和中国达成协议”，“中国需要我们美国消费者的钱”。 https://t.co/aai5r7hLc3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912294873492824207_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 12,
+    "retweets": 5,
+    "views": 5439,
+    "originVideos": "https://video.twimg.com/amplify_video/1912279935957237760/vid/avc1/480x270/bhfG1oqn2Eol4wX0.mp4?tag=16"
   }
 ]
