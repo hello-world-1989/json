@@ -340,5 +340,23 @@
     "retweets": 4,
     "views": 2498,
     "originVideos": ""
+  },
+  {
+    "id": "1912372284498825283",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 13:07:37",
+    "content": "4月15日，中国新闻网报道：美国军费破万亿大关，百姓却吃不起鸡蛋，大批流浪汉露宿街头。网友嘲讽：“已相信，请组织放心”“居然还放了一段黑色星期五超市大抢购画面” “这招现在已经不好用了” https://t.co/skEn7om7Sx",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912372284498825283_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 2,
+    "views": 897,
+    "originVideos": "https://video.twimg.com/amplify_video/1912371496833445888/vid/avc1/320x684/oovQQ6JfcTddyPdO.mp4?tag=16"
   }
 ]
