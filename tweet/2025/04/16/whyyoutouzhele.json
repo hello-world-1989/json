@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 329,
     "originVideos": "https://video.twimg.com/amplify_video/1912447850757128192/vid/avc1/320x684/K92ang0JT48OtGDF.mp4?tag=16"
+  },
+  {
+    "id": "1912451441551372437",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 18:22:09",
+    "content": "4月14日，一名网友在贴吧回复“特朗普小学学历都能当总统” 其他网友跟帖回复：“你说谁呢？”\n随后，这条评论被系统删除。 https://t.co/ysg5yGuspa",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912451441551372437_0.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912451441551372437_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 48,
+    "replies": 10,
+    "retweets": 1,
+    "views": 4454,
+    "originVideos": ""
   }
 ]
