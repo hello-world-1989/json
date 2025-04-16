@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 144,
     "originVideos": ""
+  },
+  {
+    "id": "1912649256063934547",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 07:28:12",
+    "content": "4月13日，泽连斯基谈及俄罗斯向苏梅发射导弹造成大量平民死亡一事：“我们必须为此负责，我们不会放过那些杀害我们人民的恶棍。我们完全有权做出回应。给予凶手应得的惩罚绝对公平。” https://t.co/1BFm7HHGAk",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/17/1912649256063934547_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 1,
+    "views": 249,
+    "originVideos": "https://video.twimg.com/amplify_video/1912648779020353538/vid/avc1/478x270/OctVN1NQ40c4esxG.mp4?tag=16"
   }
 ]
