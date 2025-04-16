@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 249,
     "originVideos": "https://video.twimg.com/amplify_video/1912648779020353538/vid/avc1/478x270/OctVN1NQ40c4esxG.mp4?tag=16"
+  },
+  {
+    "id": "1912651146490986654",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 07:35:43",
+    "content": "4月17日，《南华早报》报道，马来西亚总理安瓦尔称，马来西亚在美国关税威胁下“与中国站在一起”。\n同时，本次习近平出访马来西亚，两国还签署了一系列涉及人工智能、铁路连接甚至椰子出口的协议。 https://t.co/q1TdneWMIh",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912651146490986654_0.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912651146490986654_1.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912651146490986654_2.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912651146490986654_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1812,
+    "originVideos": ""
   }
 ]
