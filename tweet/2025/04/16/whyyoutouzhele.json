@@ -196,5 +196,41 @@
     "retweets": 5,
     "views": 5439,
     "originVideos": "https://video.twimg.com/amplify_video/1912279935957237760/vid/avc1/480x270/bhfG1oqn2Eol4wX0.mp4?tag=16"
+  },
+  {
+    "id": "1912351656370712979",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 11:45:39",
+    "content": "因为新的芯片出口限制涉及英伟达的H20和AMD的MI308两家的芯片。\n并且英伟达因为针对中国市场设计的H20可能遭遇仅售而损失超过55亿美元。\n 周二，英伟达股价下跌了6%，AMD股价下跌了7%。 https://t.co/AJB65GSHC2",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912351656370712979_0.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912351656370712979_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1473,
+    "originVideos": ""
+  },
+  {
+    "id": "1912350430375633342",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 11:40:47",
+    "content": "4月16日 据路透社报道，英伟达针对中国设计的降低性能版H20芯片也在被美国政府限制对华销售，因为其可能被用来构建超级计算机。\n智库进步研究所声称，至少有一家H20买家(腾讯)在其训练大模型的设施中使用了H20芯片，这可能违反了限制超算芯片使用量的政策。Deepseek可能也违反了该限制。\n英伟达周二表示，美国政府于 4 月 9 日通知其，H20 芯片出口到中国需要许可证，并于 4 月 14 日告知英伟达，这些规定将无限期实施。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912350430375633342_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 10,
+    "retweets": 2,
+    "views": 6457,
+    "originVideos": ""
   }
 ]
