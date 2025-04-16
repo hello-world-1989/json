@@ -412,5 +412,23 @@
     "retweets": 5,
     "views": 2516,
     "originVideos": "https://video.twimg.com/amplify_video/1912388864552878080/vid/avc1/320x568/azWWnsukOjT9ThWp.mp4?tag=16,https://video.twimg.com/amplify_video/1912388881472794624/vid/avc1/320x568/a0wU8REIli3-WyKl.mp4?tag=16"
+  },
+  {
+    "id": "1912400440857358422",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 14:59:30",
+    "content": "WSJ：特朗普政府计划利用正在进行的关税谈判，向美国的贸易伙伴施压，以限制他们与中国的贸易往来。其设想是，要求美国的贸易伙伴承诺孤立中国经济，以换取白宫减少贸易和关税壁垒。这些措施旨在削弱本已摇摇欲坠的中国经济，并在特朗普和习近平可能举行的会谈之前，迫使北京在谈判桌上处于不利地位。鉴于各国与中国经济的关联程度不同，具体的要求可能会有很大差异。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912400440857358422_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 44,
+    "originVideos": ""
   }
 ]
