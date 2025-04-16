@@ -916,5 +916,23 @@
     "retweets": 1,
     "views": 3468,
     "originVideos": ""
+  },
+  {
+    "id": "1912521240553951521",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 22:59:31",
+    "content": "近日，昆虫科普博主“昆虫学小鱼”在小红书官方邀请下入驻小红书，运营了几个月后，目前账号被平台封禁。他称只是在小红书上发了一些昆虫照片，结果就被平台打上“令人不适且惊悚”的标签，\n 有网友称在小红书发自家“两只公鸟互相理毛发”的视频，被平台提示宣扬不正常价值观；还有博主称发了一张烤箱内乌焦的照片，被系统提示：展示不美好内容。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912521240553951521_0.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912521240553951521_1.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912521240553951521_2.jpg,/tweet/image/whyyoutouzhele/2025/04/16/1912521240553951521_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
