@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 1601,
     "originVideos": ""
+  },
+  {
+    "id": "1912639244570406963",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 06:48:25",
+    "content": "有中国网友在百度搜索“极致低消费”一词，发现该词在墙内已经被禁用了。更有网友反映因为在网易云音乐评论中提到了这个词，被封禁了三万多天，约合100年。 https://t.co/IDFdJyYqAL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912639244570406963_0.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912639244570406963_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 144,
+    "originVideos": ""
   }
 ]
