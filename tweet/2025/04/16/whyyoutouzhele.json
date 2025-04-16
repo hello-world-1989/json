@@ -358,5 +358,23 @@
     "retweets": 2,
     "views": 897,
     "originVideos": "https://video.twimg.com/amplify_video/1912371496833445888/vid/avc1/320x684/oovQQ6JfcTddyPdO.mp4?tag=16"
+  },
+  {
+    "id": "1912376851567374737",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 13:25:46",
+    "content": "白宫最新声明指出，由于中国采取报复行动，对中国进口美国的商品关税已由现在的145%提高至245%。 https://t.co/AXbuj4w5Jh",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912376851567374737_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 70,
+    "replies": 15,
+    "retweets": 10,
+    "views": 5492,
+    "originVideos": ""
   }
 ]
