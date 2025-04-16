@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 4454,
     "originVideos": ""
+  },
+  {
+    "id": "1912456484316754190",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 18:42:12",
+    "content": "4月16日(发布) 一名律师称，最近在日本时顺便参观了当地的法院，进法院的时候门口没有保安，也没有进行任何安检。一楼大厅只有一个穿着制服头发全白的老大爷，工作人员还主动问他要不要旁听庭审。 https://t.co/Nn2dPgmXBa",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/16/1912456484316754190_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 3,
+    "retweets": 2,
+    "views": 3746,
+    "originVideos": "https://video.twimg.com/amplify_video/1912455491571097600/vid/avc1/320x568/X2klQX05FrcHuXIj.mp4?tag=16"
   }
 ]
