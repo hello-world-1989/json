@@ -970,5 +970,23 @@
     "retweets": 3,
     "views": 5119,
     "originVideos": ""
+  },
+  {
+    "id": "1912533309290332198",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-16 23:47:28",
+    "content": "台媒报道，以前中国生产成本比台湾低，美国客户几乎将大笔订单都给中国生产制造，不过特朗普给了中国一记145%的关税重锤，品牌吃不消开始转单。晶欣组装代工厂总经理：举例说，美国牌的电子书阅读器，原本因为中国代工成本低，100%都选中国组装，特朗普关税大刀一挥，品牌方将70%到80%的代工转向台湾，只留2到3成在中国。保守估计营收会增加四五成以上",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/16/1912533309290332198_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1110,
+    "originVideos": ""
   }
 ]
