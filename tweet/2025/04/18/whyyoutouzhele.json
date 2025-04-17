@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 201,
     "originVideos": "https://video.twimg.com/amplify_video/1912958025859538944/vid/avc1/510x270/z8WzA5jjMEKsNcue.mp4?tag=16"
+  },
+  {
+    "id": "1912959946255392941",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 04:02:46",
+    "content": "据美国官员称，一家与中国军方有关联的长光卫星技术有限公司，正在向也门境内受伊朗支持的胡塞武装提供图像，用于攻击红海的美国军舰和国际船只。\n 一位美国国务院高级官员表示：“美国已多次私下向中国政府表达我们对长光卫星技术有限公司在支持胡塞武装中所扮演的角色的担忧，以促使北京采取行动。” 这位官员补充说，中国“忽视”了这些担忧。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1912959946255392941_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 5,
+    "views": 1645,
+    "originVideos": ""
   }
 ]
