@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 75,
     "originVideos": ""
+  },
+  {
+    "id": "1912786187951198706",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 16:32:19",
+    "content": "商务部新闻发言人：中国商务部与美方对口部门一直保持工作层面沟通。 https://t.co/DsJFQMAgB1",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912786187951198706_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 11,
+    "retweets": 0,
+    "views": 3532,
+    "originVideos": ""
   }
 ]
