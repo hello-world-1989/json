@@ -394,5 +394,23 @@
     "retweets": 0,
     "views": 3532,
     "originVideos": ""
+  },
+  {
+    "id": "1912794858386825379",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 17:06:46",
+    "content": "中国工信部发布“史上最严电池安全令”要求电池“不起火、不爆炸”新标准进一步明确待测电池温度要求、上下电状态、观察时间、整车测试条件，技术要求从此前的着火、爆炸前五分钟提供热事件报警信号等，调整为不起火、不爆炸（仍需报警），烟气不对乘员造成伤害等。新标准将在2026年7月1日起实施。 https://t.co/uBfT1sQkg0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912794858386825379_0.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912794858386825379_1.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912794858386825379_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1440,
+    "originVideos": ""
   }
 ]
