@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 3138,
     "originVideos": ""
+  },
+  {
+    "id": "1912891133488926876",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 23:29:20",
+    "content": "报告称，由于美国关税打击贸易，中国集装箱订单量将暴跌60%\n 市场情报公司Linerlytica报告，由于美国高额关税使得许多中国出口商无法向美国销售产品，未来三周中国货物预订量将下降30%至60%，亚洲其他地区货物预订量下降10%至20%。\n 丹麦咨询公司Sea-Intelligence在周日报告中表示，许多跨太平洋航运公司已采取“空白航行”措施，即取消预定的航次。空白航行通常是指取消已排定的船舶班次，这可能包括整个航程被取消，或在计划航线上跳过一个或多个港口的情况。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912891133488926876_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 18,
+    "originVideos": ""
   }
 ]
