@@ -772,5 +772,23 @@
     "retweets": 0,
     "views": 18,
     "originVideos": ""
+  },
+  {
+    "id": "1912896716119978445",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 23:51:31",
+    "content": "近日，贵州贵阳。永辉超市丢失500余辆购物车，监控显示被居民推出超市未归还。\n 超市无奈给附近的物业公司发沟通函“烦请贵司帮忙通知各单元居民尽快将购物车归还至我超市门口，还请贵司协助处理为谢!!” https://t.co/cbbQHzGHAX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912896716119978445_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 7,
+    "retweets": 2,
+    "views": 4157,
+    "originVideos": ""
   }
 ]
