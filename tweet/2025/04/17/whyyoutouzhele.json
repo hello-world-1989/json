@@ -214,5 +214,23 @@
     "retweets": 3,
     "views": 1837,
     "originVideos": ""
+  },
+  {
+    "id": "1912707839291977894",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 11:20:59",
+    "content": "近日 在美国对等关税和新一轮芯片限制令影响下，国内英伟达显卡价格疯涨。5090游戏显卡价格被炒上3万元，对比16000的官方定价几近翻倍。5080显卡的价格也从8300的官方零售价炒作到了1.4万元左右。 https://t.co/CW4rEVyGW6",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912707839291977894_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 12,
+    "retweets": 2,
+    "views": 5234,
+    "originVideos": ""
   }
 ]
