@@ -286,5 +286,23 @@
     "retweets": 4,
     "views": 5289,
     "originVideos": ""
+  },
+  {
+    "id": "1912733718638469384",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 13:03:50",
+    "content": "4月10日，广东东莞。一名劳务派遣工人，时薪16元，工作了整整一个月都没有休息，工时388个小时才收入5848元。一名台湾网友在评论区问：“大陆的兄弟，这个薪水是真的吗？” https://t.co/Obmh48hEuO",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912733718638469384_0.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912733718638469384_1.jpg,/tweet/image/whyyoutouzhele/2025/04/17/1912733718638469384_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/17/1912733718638469384_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2834,
+    "originVideos": "https://video.twimg.com/amplify_video/1912732201848070144/vid/avc1/720x1280/QL7OpwxnbiiARopK.mp4?tag=16"
   }
 ]
