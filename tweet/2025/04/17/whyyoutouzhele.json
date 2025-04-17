@@ -736,5 +736,23 @@
     "retweets": 12,
     "views": 6235,
     "originVideos": "https://video.twimg.com/amplify_video/1912874807810789376/vid/avc1/320x552/1BG9fKKAhxsTM0Wm.mp4?tag=16,https://video.twimg.com/amplify_video/1912874927050600448/vid/avc1/320x560/yr-r7H0YoSGON3Am.mp4?tag=16"
+  },
+  {
+    "id": "1912882265681776965",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-17 22:54:06",
+    "content": "美国众议院中国问题特别委员会，周三发表报告，称DeepSeek构成“严重”安全威胁。报告指DeepSeek会将数据传回中国，给用户形成安全隐患；所使用的模型也根据中国法律秘密审查和操纵信息；DeepSeek规避美国出口管制采购了数万块晶片，委员会要求英伟达提供客户信息。\n 纽约时报引述知情人报道，特朗普政府正考虑采取惩罚措施，阻止DeepSeek购买美国技术，并正讨论是否禁止美国人使用DeepSeek服务。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/17/1912882265681776965_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 0,
+    "views": 3138,
+    "originVideos": ""
   }
 ]
