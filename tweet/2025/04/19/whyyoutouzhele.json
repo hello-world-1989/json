@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 888,
     "originVideos": ""
+  },
+  {
+    "id": "1913278374400897518",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 01:08:06",
+    "content": "中国驻日本大使馆发布：近期日本社会恶性治安案件呈增加趋势。近两周，爱知县一宫市等地先后发生以年轻女性为目标的凶杀案。此外，盗抢、跟踪、电信诈骗等案件时有发生。驻日大使馆提醒在日同胞注意人身安全。 https://t.co/PWtvGnetiy",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913278374400897518_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913278374400897518_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 5,
+    "retweets": 0,
+    "views": 357,
+    "originVideos": ""
   }
 ]
