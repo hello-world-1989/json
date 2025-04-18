@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 7,
     "originVideos": "https://video.twimg.com/amplify_video/1913215609774776320/vid/avc1/320x568/hdHCTLrv-uuBO9bR.mp4?tag=16"
+  },
+  {
+    "id": "1913216341907238944",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 21:01:36",
+    "content": "4月17日，海南海口。女子发视频反映：女儿就读于海口华海中学初一年级，因长期遭到班级多名同学的霸凌，并且老师对校园霸凌视而不见，绝望的女儿最终选择在4月14日留下遗书后自杀。 https://t.co/GjWayvtCzX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913216341907238944_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913216341907238944_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913216341907238944_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 13,
+    "retweets": 8,
+    "views": 3394,
+    "originVideos": "https://video.twimg.com/amplify_video/1913215609774776320/vid/avc1/320x568/hdHCTLrv-uuBO9bR.mp4?tag=16"
   }
 ]
