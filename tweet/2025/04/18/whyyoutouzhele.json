@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 202,
     "originVideos": ""
+  },
+  {
+    "id": "1913149992002257259",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 16:37:57",
+    "content": "泽连斯基在基辅的新闻发布会上表示，“我们终于收到中国正在向俄罗斯供应武器的消息”他还补充道：“我们认为，中国代表正在俄罗斯领土上从事武器生产。”泽连斯基没有详细说明他的指控，只是表示基辅“准备”就这些指控进行详细讨论。\n 针对乌克兰总统泽连斯基指中国向俄罗斯提供武器，中国外交部表示坚决反对无端指责，并重申中国从未向俄乌冲突的任何一方提供致命性武器。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913149992002257259_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913149992002257259_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 725,
+    "originVideos": ""
   }
 ]
