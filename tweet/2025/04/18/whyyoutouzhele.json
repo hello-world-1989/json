@@ -628,5 +628,23 @@
     "retweets": 1,
     "views": 1892,
     "originVideos": ""
+  },
+  {
+    "id": "1913200691495223603",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 19:59:25",
+    "content": "4月18日(发布) 北京五号线。一大爷坐地铁歧视和辱骂坐在旁边的农民工：“你穿这一身跟要饭似的，弄一身灰挨着我”“你在这耍混蛋，穿那么脏衣服” \n 随后一名女子站出来帮农民工说话：“你说话一点都不客气，他们都打工的” https://t.co/Lg6WlFVVVO",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913200691495223603_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 54,
+    "originVideos": "https://video.twimg.com/amplify_video/1913199063413202944/vid/avc1/320x580/SHIbVJbAMlB3OCko.mp4?tag=16"
   }
 ]
