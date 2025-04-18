@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 208,
     "originVideos": ""
+  },
+  {
+    "id": "1913376778959069366",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 07:39:07",
+    "content": "对于泽连斯基在新闻发布会上公开指控中国向俄罗斯提供武器，4月18日，中国外交部发言人表示：“中方从未向冲突的任意一方提供致命性武器……俄方的武器零部件多数来自西方国家，中方坚决反对无端指责。”\n不过，在评论区中，网友纷纷打起了暗语支持乌克兰：\n“世界人民的眼睛是雪亮的”，\n“正义与文明，老百姓心里明白”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913376778959069366_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913376778959069366_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913376778959069366_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 60,
+    "originVideos": "https://video.twimg.com/amplify_video/1913376672176386048/vid/avc1/320x568/neu943sxD2jIS2pK.mp4?tag=16"
   }
 ]
