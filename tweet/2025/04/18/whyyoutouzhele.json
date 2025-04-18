@@ -538,5 +538,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1913178418730131955",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 18:30:54",
+    "content": "近日，江西南昌。江铃时代城楼盘被曝房价大跳水，该盘2021年开盘时售价约1.2万元/平方米，目前参考价仅为4388元/平方米，直接打四折。有业主反映，2022年购置该小区三室两厅，共119万，没想到现在只值40万，剩下的房贷还有70万，现在卖掉还要再花30万。4月17日，老业主们在售楼部维权。 https://t.co/TkQqlf0gUu",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913178418730131955_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913178418730131955_0.jpg,/tweet/video/whyyoutouzhele/2025/04/18/1913178418730131955_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 11,
+    "retweets": 6,
+    "views": 4889,
+    "originVideos": "https://video.twimg.com/amplify_video/1913178190966837248/vid/avc1/720x1280/_JsaTHQzVuZIvr6G.mp4?tag=16,https://video.twimg.com/amplify_video/1913178201670733825/vid/avc1/320x568/jyLd29wlCoPcWMs_.mp4?tag=16"
   }
 ]
