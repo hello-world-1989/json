@@ -772,5 +772,23 @@
     "retweets": 1,
     "views": 3950,
     "originVideos": ""
+  },
+  {
+    "id": "1913232484118221038",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 22:05:45",
+    "content": "泽连斯基昨日公开指控中国正向俄罗斯提供军火，并指有中国代表在俄境内参与武器制造。乌克兰今日宣布，制裁三家中国企业包括：北京空天翔辉科技有限公司、池州金瑞机械制造有限责任公司、中复神鹰碳纤维西宁有限公司\n 相关企业将被禁止在乌克兰从事商业活动，其在当地的资产也将被冻结，名单中也包括多家俄罗斯公司",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913232484118221038_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913232484118221038_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 7,
+    "retweets": 2,
+    "views": 1936,
+    "originVideos": ""
   }
 ]
