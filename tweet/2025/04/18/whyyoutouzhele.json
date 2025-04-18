@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 26,
     "originVideos": ""
+  },
+  {
+    "id": "1913194317063295055",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 19:34:05",
+    "content": "路透报道，一架波音飞机从中国交付工厂返美。根据Flightradar24的数据，其中三架飞机于3月从波音西雅图工厂飞抵舟山，但其中一架飞机星期五上午从舟山起飞前往关岛，这是横跨太平洋航班的停靠站之一，表明至少有一家中国航空公司可能因美国关税而暂停接收波音客机。 https://t.co/FbU2OgTCfc",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913194317063295055_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913194317063295055_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1892,
+    "originVideos": ""
   }
 ]
