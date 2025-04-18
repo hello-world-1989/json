@@ -826,5 +826,23 @@
     "retweets": 2,
     "views": 3812,
     "originVideos": "https://video.twimg.com/amplify_video/1913242718744334336/pl/gKqtLFhm_7w6frW5.m3u8?tag=16&v=cfc,https://video.twimg.com/amplify_video/1913242729058115584/vid/avc1/320x568/buoTaQsCl_uCWNif.mp4?tag=16"
+  },
+  {
+    "id": "1913251847831425348",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 23:22:41",
+    "content": "皮尤研究中心17日公布的民意调查显示，尽管特朗普对中国发起更大规模的贸易战，但将中国视为敌人的美国人却减少了。调查显示，2025年对中国持负面看法的美国人占比从81%下滑至77%，是过去五年来首次“显著同比下降”，反映出美国社会对中国态度整体趋于缓和。\n 三分之一的受访者将中国视为美国的敌人，比例低于去年的42%。当被问及“哪个国家对美国构成最大威胁”时，42%的美国人提到中国，比2023年下降了八个百分点。\n 调查显示，过半的受访者认为提升对华关税将对美国及他们个人造成负面影响。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913251847831425348_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913251847831425348_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 9,
+    "retweets": 0,
+    "views": 4016,
+    "originVideos": ""
   }
 ]
