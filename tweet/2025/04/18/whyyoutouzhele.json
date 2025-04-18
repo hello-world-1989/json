@@ -448,5 +448,23 @@
     "retweets": 1,
     "views": 725,
     "originVideos": ""
+  },
+  {
+    "id": "1913158819909435774",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 17:13:02",
+    "content": "近几个月，中国社交网络流行一个新词“老鼠人”指的是失业的年轻人整天蛰伏在昏暗的出租屋里，作息颠倒，像一只老鼠一样，生活在阴暗潮湿的角落里，没有动力，并且对生活失去希望。\n 老鼠人们被困在社会规则的牢笼中，被迫参与无意义的竞争，他们在下水道里抱团取暖，在比喻中寻找归属感.. https://t.co/yoqnsxTQxK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913158819909435774_0.jpg,/tweet/video/whyyoutouzhele/2025/04/18/1913158819909435774_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 9,
+    "retweets": 5,
+    "views": 3540,
+    "originVideos": "https://video.twimg.com/amplify_video/1913156775584624640/vid/avc1/320x568/beNDf9oQLCAfACMq.mp4?tag=16,https://video.twimg.com/amplify_video/1913156790851948544/pl/Bs7ze_xAex19J_s5.m3u8?tag=16"
   }
 ]
