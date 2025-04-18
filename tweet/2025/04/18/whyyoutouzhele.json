@@ -736,5 +736,23 @@
     "retweets": 8,
     "views": 3394,
     "originVideos": "https://video.twimg.com/amplify_video/1913215609774776320/vid/avc1/320x568/hdHCTLrv-uuBO9bR.mp4?tag=16"
+  },
+  {
+    "id": "1913220141439238444",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 21:16:42",
+    "content": "来自安徽的张女士，五岁时出车祸被碾压，导致左眼失明，左耳失聪，目前没有收入来源，只能干干农活，并且还遭到丈夫家暴。近日，张女士称她无法办理残疾证。当地残联表示：需要双眼残疾或另一只眼睛视力低于0.3才可办理残疾证，并且有这种情况的还不止张女士一人。 https://t.co/wR118zdUn0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913220141439238444_0.jpg,/tweet/image/whyyoutouzhele/2025/04/18/1913220141439238444_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913220141439238444_0.jpg,/tweet/video/whyyoutouzhele/2025/04/18/1913220141439238444_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 3,
+    "views": 1002,
+    "originVideos": "https://video.twimg.com/amplify_video/1913218808367710208/vid/avc1/320x568/eMZMl_KqSgQvzW7t.mp4?tag=16,https://video.twimg.com/amplify_video/1913218832078106624/pl/igFYC99FmjK3QxXd.m3u8?tag=16"
   }
 ]
