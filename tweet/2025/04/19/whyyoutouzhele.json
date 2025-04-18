@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 357,
     "originVideos": ""
+  },
+  {
+    "id": "1913298799424098699",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 02:29:15",
+    "content": "与此同时，中国各大官媒以及各地融媒体，纷纷开足马力报道。 https://t.co/z23pv8PTvW",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913298799424098699_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913298799424098699_1.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913298799424098699_2.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913298799424098699_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 55,
+    "originVideos": ""
   }
 ]
