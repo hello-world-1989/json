@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 60,
     "originVideos": "https://video.twimg.com/amplify_video/1913376672176386048/vid/avc1/320x568/neu943sxD2jIS2pK.mp4?tag=16"
+  },
+  {
+    "id": "1913377838977224910",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 07:43:20",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n深圳福桥高中，原本一直有双休，后来突然变成一单休一双休，而后变本加厉变成了两个单休一个双休，最后甚至成为一月一个双休。学生联名抗议，最终是老师们看不下联合找校长才换来两单休一双休。但是执行力度依然不足，还会把节假日算作双休，学生找校领导还会被轰出 https://t.co/rIkb7CwK5q",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913377838977224910_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913377838977224910_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1439,
+    "originVideos": ""
   }
 ]
