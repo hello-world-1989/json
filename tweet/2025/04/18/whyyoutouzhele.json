@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 12,
     "originVideos": "https://video.twimg.com/amplify_video/1912983343643201536/vid/avc1/480x270/KNbFJ-DKQ57Q4rsB.mp4?tag=16"
+  },
+  {
+    "id": "1913048334664864107",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 09:54:00",
+    "content": "https://t.co/Rgg6SqmZEv 学生投稿\n广西玉林北流市高级中学从4月12号开始，强制学生周六在校自习、测试、变相补课，违反了广西省教育厅的文件要求。 https://t.co/Q13WCwzs9n",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913048334664864107_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2141,
+    "originVideos": ""
   }
 ]
