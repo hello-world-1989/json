@@ -304,5 +304,41 @@
     "retweets": 1,
     "views": 3374,
     "originVideos": ""
+  },
+  {
+    "id": "1913092276446011404",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 12:48:36",
+    "content": "涉事媒体“论坛”的新闻链接：https://t.co/wyAHTpWHkz",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 211,
+    "originVideos": ""
+  },
+  {
+    "id": "1913091766729015383",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 12:46:35",
+    "content": "4月17日 澳门的最后一间“泛民主派” - 論盡的记者在今天立法会采访行政法务司施政辩论时被警方带走，并被指控涉嫌「擾亂特區機關運作」及「非法錄影」。\n昨日和前日特首出席立法会大会时，在立法会媒体区仍有大量空座的情况下，该媒体仍被请到“会议室观看直播”，而非同其他媒体一样列席会议。\n自澳门新届政府上台以来，虽然政策宣传上维持新闻自由，但实际上采访的自由度已经无限向内地看齐。\n截止目前，論盡还是在澳门特区新闻局注册的合法媒体。旗下记者也是获得了采访立法会的记者证的。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/18/1913091766729015383_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1132,
+    "originVideos": "https://video.twimg.com/amplify_video/1913091159527915521/vid/avc1/320x320/SxhFzmhlxkdzCot-.mp4?tag=16"
   }
 ]
