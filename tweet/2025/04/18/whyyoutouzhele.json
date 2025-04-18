@@ -754,5 +754,23 @@
     "retweets": 3,
     "views": 1002,
     "originVideos": "https://video.twimg.com/amplify_video/1913218808367710208/vid/avc1/320x568/eMZMl_KqSgQvzW7t.mp4?tag=16,https://video.twimg.com/amplify_video/1913218832078106624/pl/igFYC99FmjK3QxXd.m3u8?tag=16"
+  },
+  {
+    "id": "1913226562436043051",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-18 21:42:13",
+    "content": "特朗普称1个月内会与中国达成协议。特朗普周四在椭圆形办公室表示，华盛顿和北京正在进行谈判，并表示有信心很快达成关税协议。当被问及达成协议的时间时，特朗普表示，“我认为会在未来三到四周内，事情应该能全部搞定。” https://t.co/tYZT2XPx3Y",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/18/1913226562436043051_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 11,
+    "retweets": 1,
+    "views": 3950,
+    "originVideos": ""
   }
 ]
