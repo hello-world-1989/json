@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 502,
     "originVideos": ""
+  },
+  {
+    "id": "1913542434379931813",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 18:37:22",
+    "content": "此前，四川广元国企交通投资集团有限公司，原党委书记、董事长王强落马。因其在镜头前痛哭流涕，抚摸党旗时的浮夸表情，遭到网民质疑：“奥斯卡小金人必须给”“个个都是戏精”“哭的不是犯事，而是被抓” https://t.co/qKtiBExZKN",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913542434379931813_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913542434379931813_1.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913542434379931813_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913542434379931813_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 1,
+    "views": 683,
+    "originVideos": "https://video.twimg.com/amplify_video/1913542292495114240/vid/avc1/1080x1920/w0702nVOSelRqYwW.mp4?tag=16"
   }
 ]
