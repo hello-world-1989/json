@@ -502,5 +502,23 @@
     "retweets": 1,
     "views": 683,
     "originVideos": "https://video.twimg.com/amplify_video/1913542292495114240/vid/avc1/1080x1920/w0702nVOSelRqYwW.mp4?tag=16"
+  },
+  {
+    "id": "1913545311957754045",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 18:48:48",
+    "content": "前日本首相安倍晋三遗孀安倍昭惠今日在台湾演讲时称：先生曾说过「台湾有事就是日本有事」。她解读这象征台湾无事日本就无事，要让区域和平，台日必须相互扶持，美国的支持也绝不可少。 https://t.co/ifRSfD1ilP",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913545311957754045_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "views": 202,
+    "originVideos": "https://video.twimg.com/amplify_video/1913545003185696768/vid/avc1/480x270/u-6PYaXGZX6Xmgmy.mp4?tag=16"
   }
 ]
