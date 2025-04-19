@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": "https://video.twimg.com/amplify_video/1913380130547769344/vid/avc1/320x568/5f1J_24i6TyZ4pEm.mp4?tag=16,https://video.twimg.com/amplify_video/1913380157722710016/vid/avc1/320x620/wJNZYTDwbwQWw57k.mp4?tag=16"
+  },
+  {
+    "id": "1913383213185065368",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 08:04:41",
+    "content": "泽连斯基公开指责中国向俄罗斯提供武器新闻发布会的原视频： https://t.co/YXNAYHuWYh https://t.co/LRIZVDODsa",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913383213185065368_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2137,
+    "originVideos": "https://video.twimg.com/amplify_video/1913383050534170624/vid/avc1/1280x720/nKAizvbYmyXtmhx2.mp4?tag=16"
   }
 ]
