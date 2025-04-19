@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 584,
     "originVideos": "https://video.twimg.com/amplify_video/1913652814967975936/vid/avc1/320x568/SCNbhECfK5GSVh8T.mp4?tag=16,https://video.twimg.com/amplify_video/1913652814896603136/vid/avc1/320x568/TV-VX69J0yWn2nH7.mp4?tag=16"
+  },
+  {
+    "id": "1913712460349001956",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 05:53:00",
+    "content": "https://t.co/Rgg6SqmrOX 学生反馈\n北京市城西初级中学强迫八、九年级重点班学生周日“自愿”补课。 https://t.co/WMYam06zFC",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913712460349001956_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1055,
+    "originVideos": ""
   }
 ]
