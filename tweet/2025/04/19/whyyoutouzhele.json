@@ -574,5 +574,23 @@
     "retweets": 5,
     "views": 3944,
     "originVideos": "https://video.twimg.com/amplify_video/1913567103602573312/vid/avc1/1280x720/41y5zSbkhwcccv55.mp4?tag=16"
+  },
+  {
+    "id": "1913572419421294752",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 20:36:31",
+    "content": "美国CBS周六引述知情人报道，由于美国对中国商品加征高额关税可能导致供应链紧张，特朗普政府预计组建一个小组，以便在未能与中国谈判取得突破的情况下，紧急处理对华关税影响。知情人称，小组的成员可能包括：副总统万斯、财长贝森特、商务部长卢特尼克、国家经济委员会主任哈塞特、总统经济顾问委员会主席米兰以及贸易代表格里尔。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913572419421294752_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1030,
+    "originVideos": ""
   }
 ]
