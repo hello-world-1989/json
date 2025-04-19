@@ -700,5 +700,23 @@
     "retweets": 1,
     "views": 162,
     "originVideos": ""
+  },
+  {
+    "id": "1913622734602645773",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 23:56:27",
+    "content": "4月17日，内蒙古。一位农民工称，自己吃馒头，感慨就连狗吃的都比自己好，并播放了一段狗狗吃饭的视频。评论区的“牛马打工人”们也纷纷晒出各自的伙食。\nhttps://t.co/arKe5MvhNk https://t.co/PPPPngDWjD https://t.co/kujmWuBG5J",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913622734602645773_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913622734602645773_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913622734602645773_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1897,
+    "originVideos": "https://video.twimg.com/amplify_video/1913621054314209280/vid/avc1/1080x1920/jpJlA42lt7h9dcvo.mp4?tag=16"
   }
 ]
