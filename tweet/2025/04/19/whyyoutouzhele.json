@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 1454,
     "originVideos": ""
+  },
+  {
+    "id": "1913528944743338103",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 17:43:46",
+    "content": "近几日，网传一家工厂墙上的标语写着：“功劳不伸手、苦劳不计较、疲劳不抱怨” https://t.co/kvukzNQHO3",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913528944743338103_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913528944743338103_1.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913528944743338103_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2496,
+    "originVideos": ""
   }
 ]
