@@ -628,5 +628,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1913592687816774082",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 21:57:04",
+    "content": "4月19日(发布) 广东湛江。网传一男子手持锄头多次猛击受害人头部，即便受害人已经倒地不起男子依然没有收手。\n 有消息称，受害人为霞山区爱国街道办副书记，因“拆迁村民房屋，赔偿不到位，村民上访遭关押” “17日，书记被村民拉出大门口，有村民用锄头往书记头上砸”(该消息为网友自述，尚无法核实真实性) 目前，当地政府尚未就此事发布公开通报。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913592687816774082_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913592687816774082_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913592687816774082_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1129,
+    "originVideos": "https://video.twimg.com/amplify_video/1913590594578042880/vid/avc1/352x270/DoUeTv6wjYHeoxcw.mp4?tag=16"
   }
 ]
