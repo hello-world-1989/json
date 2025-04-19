@@ -394,5 +394,23 @@
     "retweets": 0,
     "views": 11,
     "originVideos": ""
+  },
+  {
+    "id": "1913502328361271427",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 15:58:00",
+    "content": "4月18日，甘肃兰州。警察搀扶老人过马路，旁边还有一名警察持相机拍摄；\n 4月15日，社区工作人员摆好捡垃圾的姿势，一旁还有两人拍照。 https://t.co/lj340BMPhu",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913502328361271427_0.jpg,/tweet/video/whyyoutouzhele/2025/04/19/1913502328361271427_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 0,
+    "views": 561,
+    "originVideos": "https://video.twimg.com/amplify_video/1913501059366215680/pl/Efb9osAfwExhG1LV.m3u8?tag=16&v=cfc,https://video.twimg.com/amplify_video/1913501605934354432/vid/avc1/320x568/tNMdMe4U7AYnypO8.mp4?tag=16"
   }
 ]
