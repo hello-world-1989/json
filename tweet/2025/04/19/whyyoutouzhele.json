@@ -538,5 +538,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1913563166455550225",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 19:59:45",
+    "content": "近日，湖南衡阳。女子称在一家饭店用餐，遇到旁边一桌的男子吸烟，并且店内还有“禁止吸烟”的指示牌。于是她上前提醒男子，遭到对方拒绝，服务员也不断向男子道歉，并告诉女子别人抽烟他们也管不着。有部分网友对此表示，吸烟是为了给国家建造航母，是为国家做贡献“以后我们的飞机和航母，你们不准看” https://t.co/gWCt9By6V4",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913563166455550225_0.jpg,/tweet/image/whyyoutouzhele/2025/04/19/1913563166455550225_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913563166455550225_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 20,
+    "originVideos": "https://video.twimg.com/amplify_video/1913562544578723840/vid/avc1/480x852/ov1OhVHR-r3yvfxx.mp4?tag=16"
   }
 ]
