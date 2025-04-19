@@ -430,5 +430,23 @@
     "retweets": 5,
     "views": 2299,
     "originVideos": ""
+  },
+  {
+    "id": "1913519281872273612",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 17:05:22",
+    "content": "美国白宫今天推出新版COVID-19（2019冠状病毒疾病）网站，直指病毒是从中国实验室外泄，称这是疫情「真正的源头」。白宫新网页写道：「几乎从所有科学衡量方法来看，如果存在自然起源的证据，早就该出现了，但结果并非如此。」 https://t.co/7hsDPiQrbq",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913519281872273612_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 6,
+    "retweets": 0,
+    "views": 1454,
+    "originVideos": ""
   }
 ]
