@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 225,
     "originVideos": ""
+  },
+  {
+    "id": "1913643912616677799",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 01:20:37",
+    "content": "当地时间18日，加拿大总理卡尼在竞选辩论中，被问及加拿大最大的安全威胁时，直接回答“中国”隔天的新闻发布会上，卡尼表示，加拿大必须应对来自中国的干预威胁。他还批评中国在乌克兰战争中与俄罗斯结盟，并指中国对亚洲，尤其是台湾构成威胁。卡尼说，从地缘政治意义上讲，中国是最大的威胁，加拿大正在采取应对行动。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913643912616677799_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 7,
+    "retweets": 3,
+    "views": 3430,
+    "originVideos": ""
   }
 ]
