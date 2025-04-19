@@ -286,5 +286,41 @@
     "retweets": 1,
     "views": 3148,
     "originVideos": ""
+  },
+  {
+    "id": "1913459868180365709",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 13:09:17",
+    "content": "广西部分地区干旱严重，已有半年没有下过大雨，土地干涸开裂。农民称，挖井需要几千块钱，人工降雨才下几滴雨杯水车薪。 https://t.co/GTwxaYmsUD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913459868180365709_0.jpg,/tweet/video/whyyoutouzhele/2025/04/19/1913459868180365709_1.jpg,/tweet/video/whyyoutouzhele/2025/04/19/1913459868180365709_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 20,
+    "originVideos": "https://video.twimg.com/amplify_video/1913458984838926336/vid/avc1/320x568/i34NR8n7KyqVo0RZ.mp4?tag=16,https://video.twimg.com/amplify_video/1913458999120584704/vid/avc1/320x568/nrvLPLy9-nNoNE0l.mp4?tag=16,https://video.twimg.com/amplify_video/1913459009249759232/vid/avc1/320x568/kY5WAnMLuW1eu_FY.mp4?tag=16"
+  },
+  {
+    "id": "1913458239242715280",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 13:02:49",
+    "content": "4月17日 250亿市值居然智家董事长兼CEO汪林朋被司法留置，其所有股份也被司法冻结，导致居然智家股票18日跌停。\n一个月前，他曾公开发声明称不会跑路。“现在有个谣言说老汪要‘跑路’，我既没有退休的打算，更没想过逃避责任。”\n2024年前三季度财报显示，公司一年内到期的非流动负债和短期借款合计47.26亿元，而现金及现金等价物余额仅为20.82亿。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913458239242715280_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 1,
+    "retweets": 3,
+    "views": 2723,
+    "originVideos": ""
   }
 ]
