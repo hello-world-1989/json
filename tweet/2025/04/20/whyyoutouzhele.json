@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 1058,
     "originVideos": ""
+  },
+  {
+    "id": "1913664393843454408",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 02:42:00",
+    "content": "https://t.co/Rgg6SqmZEv 学生投稿\n黄冈几乎所有的高中都是放月假，一个月休1~4天不等。黄冈的高中普遍都是执行朝6晚10，放月假的制度，哪怕是生源不好的学校也是的。学生称，仅在去年，黄冈中学就有三名学生自杀。 https://t.co/pktPoC54qq",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913664393843454408_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1521,
+    "originVideos": ""
   }
 ]
