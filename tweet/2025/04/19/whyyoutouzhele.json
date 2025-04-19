@@ -340,5 +340,41 @@
     "retweets": 1,
     "views": 1259,
     "originVideos": ""
+  },
+  {
+    "id": "1913477358918803964",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 14:18:47",
+    "content": "参赛选手名单 https://t.co/rJ1n4NNg1d",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913477358918803964_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 116,
+    "originVideos": ""
+  },
+  {
+    "id": "1913476768201379853",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 14:16:26",
+    "content": "4月19日，全球首场人形机器人半程马拉松，在北京亦庄鸣枪开跑。本场比赛共吸引了20支机器人队伍参赛，涵盖北京、上海、江苏、广东等地的企业、高校及科研机构。视频显示，有机器人刚起步就摔倒，需要工作人员搀扶，引发网民调侃。最终，历时2小时40分24秒，优必选科技的天工Ultra机器人第一个完成冲线，夺得全球首个人形机器人半马冠军，配速约7分36秒/公里。\n 据报道，本场比赛设置了“最佳耐力奖”，但考虑到21公里半马对电池的高消耗，大多数队伍需在途中换电1-2次。竞赛规则要求，参赛机器人须在专用赛道内进行比赛，每支赛队最多可安排3名参赛选手同时进入赛道，包括领跑员。这也就造成了，机器人在跑马拉松，工程师比机器人还多的情况。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913476768201379853_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/19/1913476768201379853_0.jpg,/tweet/video/whyyoutouzhele/2025/04/19/1913476768201379853_1.jpg,/tweet/video/whyyoutouzhele/2025/04/19/1913476768201379853_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1244,
+    "originVideos": "https://video.twimg.com/amplify_video/1913474094944878592/vid/avc1/1280x720/kfA0cUNwk2wo0q78.mp4?tag=16,https://video.twimg.com/amplify_video/1913474214751072256/vid/avc1/320x564/-q7d9Pkb8Oc6Lkq2.mp4?tag=16,https://video.twimg.com/amplify_video/1913474233256337408/pl/Dpgx39UtRmroOebo.m3u8?tag=16"
   }
 ]
