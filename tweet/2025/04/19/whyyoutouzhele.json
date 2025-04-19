@@ -466,5 +466,23 @@
     "retweets": 1,
     "views": 2496,
     "originVideos": ""
+  },
+  {
+    "id": "1913534978895618049",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 18:07:45",
+    "content": "WSJ：中国当局已告知国内航空公司暂停订购新的波音飞机，美国银行（Bank of America）分析师Ronald J. Epstein在报告中指出：与许多其他行业不同，商用航空航太业并没有依赖中国低成本制造” “如果中国停止从美国购买飞机零部件，C919项目将陷入停滞，甚至终结”\n 数据显示，去年美国向中国出口了近120亿美元的飞机、航天器和零部件，而从中国进口这类产品的金额几乎为零，中国C919之所以适航，也是因为采用了美国公司的关键技术。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913534978895618049_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 502,
+    "originVideos": ""
   }
 ]
