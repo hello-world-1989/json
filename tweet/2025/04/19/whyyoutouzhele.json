@@ -232,5 +232,23 @@
     "retweets": 1,
     "views": 4099,
     "originVideos": ""
+  },
+  {
+    "id": "1913448171411480876",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-19 12:22:48",
+    "content": "4月18日 据路透社报道，中国将一架已经到达舟山机场准备交付的波音飞机退回中国。该飞机据信是厦门航空的波音737MAX，于三月份到达舟山。\n据飞友网站二月份的照片显示，当时这架飞机已经喷涂了厦门航空涂装。\n目前该飞机已经经停关岛于一小时前到达了夏威夷。 https://t.co/zyoI974TkF https://t.co/vHbNLwFDFv",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/19/1913448171411480876_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 3,
+    "views": 3481,
+    "originVideos": ""
   }
 ]
