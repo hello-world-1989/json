@@ -556,5 +556,23 @@
     "retweets": 0,
     "views": 1024,
     "originVideos": "https://video.twimg.com/amplify_video/1913911548663517184/vid/avc1/320x564/5d5ZpvoI7KHCEHfm.mp4?tag=16"
+  },
+  {
+    "id": "1913916068638441808",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 19:22:04",
+    "content": "985本科毕业的女生小静最近开始跑外卖，她称上月收入3560元，跑一单收入4-5元，每天工作13个小时。每天以吃咸菜馒头为主，所以每月伙食费只需要300元，上月租房加租车花费1200元，给妈妈治病花了1500元，除去各项开销，最后还剩300多。但小静相信，只要肯努力生活会好起来的。 https://t.co/3vR34RmRN9",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/20/1913916068638441808_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 12,
+    "retweets": 12,
+    "views": 3937,
+    "originVideos": "https://video.twimg.com/amplify_video/1913913972178440193/vid/avc1/320x562/bEs1Rro8pmn2O4sM.mp4?tag=16"
   }
 ]
