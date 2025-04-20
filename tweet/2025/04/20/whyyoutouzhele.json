@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 2621,
     "originVideos": ""
+  },
+  {
+    "id": "1913761785766940934",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 09:09:00",
+    "content": "https://t.co/Rgg6SqmZEv 学生投稿\n陕西宝鸡凤翔师范附中强制剃头，男生头发不得超过2厘米，初中的学习压力就非常大，周末要模考，几乎失去双休甚至假期。学校强卖教辅，校领导打骂学生，学生没有尊严。 https://t.co/8GhglkPcsx",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913761785766940934_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 1,
+    "views": 43,
+    "originVideos": ""
   }
 ]
