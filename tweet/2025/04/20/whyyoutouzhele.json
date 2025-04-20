@@ -646,5 +646,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": "https://video.twimg.com/amplify_video/1913944950519296001/vid/avc1/320x568/WAR4KH9tNrTGctLK.mp4?tag=16"
+  },
+  {
+    "id": "1913953075922182233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 21:49:07",
+    "content": "联合新闻网：针对威胁方若猝然「由演转战」，国军有多少预警时间？国防部长顾立雄日前在立法院表示，国防部有一项「关键预警征候判断表」，预警等级概分低、中、高，一旦到达中、高等级，国军就会向总统报告，「我们要先动，不能够等到它成真我们才动，这样来不及」。 https://t.co/7Sl9Ox0nMp",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913953075922182233_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 135,
+    "originVideos": ""
   }
 ]
