@@ -286,5 +286,41 @@
     "retweets": 1,
     "views": 1238,
     "originVideos": ""
+  },
+  {
+    "id": "1913822013116096532",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 13:08:19",
+    "content": "4月20日，广东番禺。男子拍摄了路边成排关门转让的商铺，并感慨：“我感觉经济形势不太好啊”\n 之后警察要检查他的手机有没有录音，但男子坚决不同意，不过在警察的不断施压下，男子迫于压力还是解锁了手机让警察翻阅了手机里的众多app https://t.co/8sYYH6QSHc",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/20/1913822013116096532_0.jpg,/tweet/video/whyyoutouzhele/2025/04/20/1913822013116096532_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 1,
+    "views": 392,
+    "originVideos": "https://video.twimg.com/amplify_video/1913821360931168256/vid/avc1/480x852/Vbic1R_QtJX8dRV9.mp4?tag=16,https://video.twimg.com/amplify_video/1913821369328132097/vid/avc1/480x270/iVaAm1nXatM_efIO.mp4?tag=16"
+  },
+  {
+    "id": "1913820314317869564",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 13:01:34",
+    "content": "左眼失明合并左耳失聪被拒绝办理残疾证事件的舆论发酵后，贵州省残联承诺将重新做鉴定，后续是当事人说“正在办理”。\n拥有残疾证后，不仅可以领取残疾津贴，企业招聘时还能享受相应的减税优惠，可以帮助残疾人一定程度上打破职业歧视。\n但之前也曾多次有企业被曝光通过租用残疾人证逃避税费。\n根据相关规定，企业每安置一名残疾人就业，每月可享受当地最低工资标准的4倍增值税退税；单位支付给残疾人的工资可在企业所得税前据实扣除；用人单位安排残疾人就业达不到规定比例的，应当缴纳残疾人就业保障金。\n根据财政部、国家税务总局《残疾人就业保障金征收使用管理办法》，用人单位安排残疾人就业的比例不得低于本单位在职职工总数的1.5%。安排残疾人就业达不到当地规定比例的，应当缴纳保障金。\n而被租用证件的残疾人，每月只能领到600元的“租金”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913820314317869564_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2082,
+    "originVideos": ""
   }
 ]
