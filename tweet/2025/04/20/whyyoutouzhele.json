@@ -700,5 +700,23 @@
     "retweets": 1,
     "views": 1021,
     "originVideos": "https://video.twimg.com/amplify_video/1913959153909063681/vid/avc1/320x568/04EHtK6FnZQpHUSH.mp4?tag=16"
+  },
+  {
+    "id": "1913968309806240168",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 22:49:39",
+    "content": "昨天，2024年度“人民文学奖”在四川泸州古蔺举行颁奖典礼，其中“传播贡献奖”颁给了董宇辉， 有意思的是，凤凰网从两百多条评论中，精选了一条“我笑而不语”的评论，疑似回应董宇辉获奖。 https://t.co/lWgGsuj3KX",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913968309806240168_0.jpg,/tweet/image/whyyoutouzhele/2025/04/20/1913968309806240168_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 10,
+    "originVideos": ""
   }
 ]
