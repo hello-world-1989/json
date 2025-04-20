@@ -358,5 +358,41 @@
     "retweets": 2,
     "views": 3386,
     "originVideos": "https://video.twimg.com/amplify_video/1913836952572555264/vid/avc1/720x1280/5ku2YmIuQlL9bIOW.mp4?tag=16,https://video.twimg.com/amplify_video/1913836965084160000/vid/avc1/320x724/LiuidlfA2gmKX46S.mp4?tag=16,https://video.twimg.com/amplify_video/1913836988870107136/vid/avc1/320x568/Bzthxo4nqfjFbrlh.mp4?tag=16"
+  },
+  {
+    "id": "1913848917483311145",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 14:55:14",
+    "content": "https://t.co/fbGqmfFykY",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913848917483311145_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1235,
+    "originVideos": ""
+  },
+  {
+    "id": "1913848859815756136",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 14:55:00",
+    "content": "4月19日晚，北京理工大学机械与车辆学院硕士研究生常旭强，发视频和文章，实名举报其导师、该学院常务副院长宫琳。举报内容包括泄露研究生考试面试的题目、引导男学生发生性关系等等，常旭强还专门制作了PPT，分板块举报宫琳行为。\n 北京理工：基本属实，暂停一切职务。 https://t.co/APaXuv5BnP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913848859815756136_0.jpg,/tweet/image/whyyoutouzhele/2025/04/20/1913848859815756136_1.jpg,/tweet/image/whyyoutouzhele/2025/04/20/1913848859815756136_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/20/1913848859815756136_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 3,
+    "views": 2028,
+    "originVideos": "https://video.twimg.com/amplify_video/1913848696799932416/vid/avc1/480x270/vZW2hNolD2ii2TTy.mp4?tag=16"
   }
 ]
