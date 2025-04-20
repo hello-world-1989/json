@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 1405,
     "originVideos": ""
+  },
+  {
+    "id": "1913816249278304383",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-20 12:45:25",
+    "content": "近日 有媒体统计，这场机器人马拉松的完赛率仅有30%。\n曾登上央视春晚被寄予厚望的宇树G1，在起跑线就“躺平”，随后虽然挣扎着起来了，但步伐如醉汉\n随后宇树科技发布声明称，其公司最近没有参加任何比赛。赛场涉事的宇树机器人是参赛团队独立购买。而机器人表现在不同人操作和开发的情况下差别很大。 https://t.co/TdVXPaJXWR",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/20/1913816249278304383_0.jpg,/tweet/image/whyyoutouzhele/2025/04/20/1913816249278304383_1.jpg,/tweet/image/whyyoutouzhele/2025/04/20/1913816249278304383_2.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1238,
+    "originVideos": ""
   }
 ]
