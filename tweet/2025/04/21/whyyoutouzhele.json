@@ -34,5 +34,23 @@
     "retweets": 1,
     "views": 3379,
     "originVideos": ""
+  },
+  {
+    "id": "1913995080626831762",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 00:36:02",
+    "content": "网传近日四川平昌县，路边一名摊贩手举农药和城管对峙，城管们在一旁劝解，最终摊贩将农药一饮而尽。城管大喊：“快打120” https://t.co/WUmCmGap4p",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/21/1913995080626831762_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1354,
+    "originVideos": "https://video.twimg.com/amplify_video/1913994085041688576/vid/avc1/320x564/sd9aCQpHt1w3urzn.mp4?tag=16"
   }
 ]
