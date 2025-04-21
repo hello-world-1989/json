@@ -232,5 +232,23 @@
     "retweets": 1,
     "views": 920,
     "originVideos": ""
+  },
+  {
+    "id": "1914183241466348004",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 13:03:43",
+    "content": "4月20日，山东聊城。一位母亲称，她的儿子李佳隆就读于聊城大学东昌学院，1月2日失踪，至今仍未找到，母亲和父亲去学校找孩子，还遭到保安持棍棒驱赶。 https://t.co/xx6NMkqp4D",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/21/1914183241466348004_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 9,
+    "retweets": 3,
+    "views": 3246,
+    "originVideos": "https://video.twimg.com/amplify_video/1914182172568920064/vid/avc1/480x852/oUB_O1fB7hsTXgGD.mp4?tag=16"
   }
 ]
