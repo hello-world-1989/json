@@ -340,5 +340,23 @@
     "retweets": 2,
     "views": 4000,
     "originVideos": "https://video.twimg.com/amplify_video/1914228188252925952/vid/avc1/480x270/AnK61k82PT-zMQLF.mp4?tag=16"
+  },
+  {
+    "id": "1914240682837053585",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 16:51:58",
+    "content": "特朗普在社交平台发文称：“批评关税的商人们，商业头脑欠佳，政治能力更是差到家了，他们甚至没有意识到，我是美国资本主义有史以来最伟大的朋友！” https://t.co/wHDWkfxVO9",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914240682837053585_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 10,
+    "retweets": 1,
+    "views": 4013,
+    "originVideos": ""
   }
 ]
