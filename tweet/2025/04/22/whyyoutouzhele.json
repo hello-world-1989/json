@@ -232,5 +232,41 @@
     "retweets": 2,
     "views": 1609,
     "originVideos": ""
+  },
+  {
+    "id": "1914460037642179023",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 07:23:36",
+    "content": "4月20日半夜，五名河南村镇银行储户和大量上访群众相互依偎在一起，在国家信访局门口排队，递交充满悲愤和绝望的投诉材料。长夜漫漫终于熬到天明，储户含泪现场赋诗：河南农商银行卡，只进不出像铁栏。当年存钱图个安，如今吃饭都犯难。储户含泪去信访，国家门口把话传。银行大门天天开，我们的钱却难回来。求求党和政府管，救救百姓血汗钱。莫让存款变泡沫，莫让信任化云烟。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914460037642179023_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914460037642179023_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914460037642179023_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1987,
+    "originVideos": "https://video.twimg.com/amplify_video/1914459763145846784/vid/avc1/320x426/vidH2_7_K_-r19e1.mp4?tag=16"
+  },
+  {
+    "id": "1914459285859324042",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 07:20:37",
+    "content": "上周日，智利南部一座在建的中资水电站遭到枪击，数十辆车辆和建筑设备被焚烧。该水电站叫鲁卡卢埃发电厂，由中国水利电力对外公司（CWE）的子公司鲁卡卢埃能源有限公司（Rucalhue Energia Spa）承建，预计投资3.5亿美元。中国外交部周一谴责了此次袭击，并表示已与智利官员就“保护中国企业项目和人员安全的具体措施”进行接触。\n据报道，该项目正面临原住民社区的持续反对。批评人士担心其对智利一条主要水道的环境造成影响。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914459285859324042_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914459285859324042_1.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914459285859324042_2.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914459285859324042_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2784,
+    "originVideos": ""
   }
 ]
