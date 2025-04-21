@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 5012,
     "originVideos": ""
+  },
+  {
+    "id": "1914324799620517900",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 22:26:13",
+    "content": "「拒绝统战，守护台湾」大会19日下午在凯道举行。一名乌克兰人在现场手举“失去自由只需一瞬，争取自由需要一生”“相信我，我是乌克兰人”的标语。 https://t.co/0ecTC0HVK5",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914324799620517900_0.jpg,/tweet/image/whyyoutouzhele/2025/04/21/1914324799620517900_1.jpg,/tweet/image/whyyoutouzhele/2025/04/21/1914324799620517900_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1755,
+    "originVideos": ""
   }
 ]
