@@ -376,5 +376,23 @@
     "retweets": 5,
     "views": 5864,
     "originVideos": ""
+  },
+  {
+    "id": "1914254286466195708",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 17:46:01",
+    "content": "彭博报道：随着世界两大经济体为长期贸易战做准备，依赖从美国进口乙烷的中国塑料工厂正面临停工的可能，雷斯塔能源公司分析师马尼什·塞瓦尔表示：中国乙烷裂解厂的处境非常严峻，因为它们除了美国供应之外别无选择” 分析师指出，作为全球塑料制造的主导者，中国几乎所有的乙烷都来自美国。对美国商品征收的高额关税意味着，那些无法加工替代原料的工厂将面临巨额亏损。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914254286466195708_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1735,
+    "originVideos": ""
   }
 ]
