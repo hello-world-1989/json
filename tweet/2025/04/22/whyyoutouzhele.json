@@ -214,5 +214,23 @@
     "retweets": 0,
     "views": 1121,
     "originVideos": "https://video.twimg.com/amplify_video/1914450059384524800/vid/avc1/474x270/zv1QkC_ybJ4_SxZV.mp4?tag=16,https://video.twimg.com/amplify_video/1914453117392879616/vid/avc1/320x320/usHSExVpUjYirenH.mp4?tag=16"
+  },
+  {
+    "id": "1914457538872955236",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 07:13:40",
+    "content": "https://t.co/JgSoAJUttQ https://t.co/Rgg6SqmrOX 网友投稿\n南阳市二十二中学教师举报超时工作，学生611学习，老师也611补课，学生老师都撑不住了。 https://t.co/ajiqqRLUWK",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914457538872955236_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914457538872955236_1.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914457538872955236_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 6,
+    "retweets": 2,
+    "views": 1609,
+    "originVideos": ""
   }
 ]
