@@ -88,5 +88,23 @@
     "retweets": 4,
     "views": 2762,
     "originVideos": ""
+  },
+  {
+    "id": "1914386900162633805",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 02:32:59",
+    "content": "两名消息人士向 CNBC 证实，周日晚上，国土安全部部长克里斯蒂·诺姆在华盛顿特区市中心的一家餐厅用餐时，一名窃贼偷走了她的钱包。国土安全部发言人周一表示，诺姆的包里装有大约 3,000 美元现金，她取这些钱来请家人吃饭、送礼物、参加复活节活动。\n 据CNN 报道，美国特勤局查看了监控录像，录像显示，一名戴着医用口罩的身份不明的白人男子抢走了该包。\n 周一上午晚些时候，在白宫复活节滚彩蛋活动中，当被问及盗窃事件时，诺姆表示，此事“尚未解决”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914386900162633805_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 3,
+    "views": 1566,
+    "originVideos": ""
   }
 ]
