@@ -142,5 +142,41 @@
     "retweets": 1,
     "views": 934,
     "originVideos": ""
+  },
+  {
+    "id": "1914441101911666700",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 06:08:21",
+    "content": "当地时间周一下午，特朗普在真相社交媒体上发帖称：他和妻子梅拉尼娅将前往罗马参加教皇方济各的葬礼。 https://t.co/qGt6QnLARy",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914441101911666700_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 169,
+    "originVideos": ""
+  },
+  {
+    "id": "1914439855641162093",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 06:03:24",
+    "content": "4月21日，特朗普下令所有联邦和州旗帜降半旗，以纪念当天早上去世的 88 岁教皇方济各，降半旗将持续至教皇下葬当日的日落为止。他在白宫举行的复活节滚彩蛋活动宣布：“我刚刚签署了一项行政命令，将我国国旗全部降半旗，以纪念教皇方济各。他是一位好人，工作勤奋。他热爱世界。” https://t.co/KwiD1Vxk9L",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914439855641162093_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914439855641162093_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 5,
+    "retweets": 2,
+    "views": 1430,
+    "originVideos": "https://video.twimg.com/amplify_video/1914439783679447040/vid/avc1/480x270/UCPHSkEz8NVPUkxI.mp4?tag=16"
   }
 ]
