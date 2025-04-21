@@ -106,5 +106,23 @@
     "retweets": 3,
     "views": 1566,
     "originVideos": ""
+  },
+  {
+    "id": "1914425764197319096",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 05:07:25",
+    "content": "据CNN报道，受关税影响，一架原本计划交付给中国厦门航空的波音737 MAX客机，于当地时间周六傍晚返回了美国西雅图的波音工厂。\n据目击者称，该架涂装有“厦门航空”标识的飞机，于当天18时11分降落在西雅图波音机场。在返程过程中，该机在关岛和夏威夷中途加油，完成了约8000公里的飞行旅程。这架飞机原定在中国舟山的波音完工交付中心完成最后装配后交付客户，是多架等待交付给中国航空公司的737 MAX之一。根据航空咨询公司IBA的数据，单架737 MAX的市场价值约为5500万美元，但由于中美之间的关税已加征至超过120%，中国航空公司接收波音飞机可能会陷入困境。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914425764197319096_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 451,
+    "originVideos": ""
   }
 ]
