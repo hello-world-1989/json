@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 451,
     "originVideos": ""
+  },
+  {
+    "id": "1914432239019970924",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 05:33:08",
+    "content": "据彭博社报道，印度航空有限公司正寻求接收中国航空公司拒绝接收的波音公司飞机。这家隶属于塔塔集团的航空公司，正计划与波音公司接洽，商讨购买本来为中国航空公司准备的一批飞机。据报道，截至3月份，印度航空已接收了41架最初为中国航空公司制造的737 Max飞机，这些飞机的交付时间自2019年该机型发生两起空难被中国政府停飞以来一直被推迟。\n同时，马来西亚航空集团有限公司也在全力扩张中，该公司正在与波音公司就中国航空公司空出的交付时段进行谈判，同时，据报公司还在考虑购买中国研制的大型客机，包括C909、C919及研发中的C929。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914432239019970924_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914432239019970924_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 934,
+    "originVideos": ""
   }
 ]
