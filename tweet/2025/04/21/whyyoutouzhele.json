@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 2103,
     "originVideos": "https://video.twimg.com/amplify_video/1914265380744540160/vid/avc1/480x854/5BMa4FYjDLqD4Cod.mp4?tag=16,https://video.twimg.com/amplify_video/1914265394300493824/vid/avc1/320x568/5GnFJuJpftBvmJxw.mp4?tag=16"
+  },
+  {
+    "id": "1914269205811122397",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 18:45:18",
+    "content": "中国驻俄大使：如果我们不买美国的农产品，俄罗斯的农产品还是不错的，我们可以多买俄罗斯的农产品，中俄两国贸易面临着新的机遇。 https://t.co/UV7OAxg3wN",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914269205811122397_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/21/1914269205811122397_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1473,
+    "originVideos": "https://video.twimg.com/amplify_video/1914268510647418880/vid/avc1/480x852/eYgun5cF0KJhi99i.mp4?tag=16"
   }
 ]
