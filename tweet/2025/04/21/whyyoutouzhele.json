@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 314,
     "originVideos": "https://video.twimg.com/amplify_video/1914286780033196032/vid/avc1/480x270/qIQOmIp4AV3qb-Im.mp4?tag=16"
+  },
+  {
+    "id": "1914298264528285902",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 20:40:46",
+    "content": "4月21日，京东发布公开信，称今日起所有超时20分钟以上的外卖订单全部免单，对兼职骑手永不强迫“二选一”同时还批评其他外卖平台用算法、罚款等方实压榨骑手。当天晚间，美团发布说明，辟谣“去其他平台跑单会被美团封号”并称反倒是京东不允许骑手同时跑多个平台。说明还指出某平台配送时间短，全职骑手数量不足，并且罚款严重等问题。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914298264528285902_0.jpg,/tweet/image/whyyoutouzhele/2025/04/21/1914298264528285902_1.jpg,/tweet/image/whyyoutouzhele/2025/04/21/1914298264528285902_2.jpg,/tweet/image/whyyoutouzhele/2025/04/21/1914298264528285902_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 8,
+    "retweets": 0,
+    "views": 4895,
+    "originVideos": ""
   }
 ]
