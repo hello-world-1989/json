@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 416,
     "originVideos": ""
+  },
+  {
+    "id": "1914177986909413598",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-21 12:42:50",
+    "content": "4月21日 京东发布公告称，因近期强迫“二选一”事件导致部分外卖员不敢再跑京东外卖，从而造成京东平台部分外卖订单延迟。京东宣布从今日起，所有超时20分钟以上的外卖将全部免单。 https://t.co/bok6Ckwst1",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/21/1914177986909413598_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2722,
+    "originVideos": ""
   }
 ]
