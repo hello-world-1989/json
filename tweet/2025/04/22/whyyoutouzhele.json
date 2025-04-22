@@ -520,5 +520,23 @@
     "retweets": 1,
     "views": 3862,
     "originVideos": "https://video.twimg.com/amplify_video/1914574987593428992/vid/avc1/480x270/pxaQ9B0dF-z8LUtl.mp4?tag=16"
+  },
+  {
+    "id": "1914589747068199164",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 15:59:01",
+    "content": "4月22日，中国外交部发言人郭嘉昆：中方对方济各教皇去世表示哀悼。当被问道“中国政府是否计划派代表参加葬礼”郭嘉昆对此表示，目前我没有可以提供的消息。 https://t.co/rmBkA1w7jZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914589747068199164_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914589747068199164_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 218,
+    "originVideos": ""
   }
 ]
