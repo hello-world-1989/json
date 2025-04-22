@@ -862,5 +862,23 @@
     "retweets": 7,
     "views": 5705,
     "originVideos": "https://video.twimg.com/amplify_video/1914674865526988809/vid/avc1/320x564/8uMwHZgYgWJOY60i.mp4?tag=16"
+  },
+  {
+    "id": "1914681249299566866",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:02:37",
+    "content": "网友自述：“听说已经抓了，缅甸来的”“七个人都倒地了，其中五个是特警” https://t.co/oFOFqQy0aY",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914681249299566866_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914681249299566866_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 1,
+    "retweets": 1,
+    "views": 5279,
+    "originVideos": ""
   }
 ]
