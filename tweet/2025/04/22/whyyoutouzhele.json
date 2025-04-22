@@ -664,5 +664,23 @@
     "retweets": 2,
     "views": 300,
     "originVideos": ""
+  },
+  {
+    "id": "1914629720643375122",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 18:37:52",
+    "content": "韩国关税厅周一指出，近期发现越来越多的外国产品企图伪装成韩国出口货，而且大部分都来自中国，为的是规避美国总统特朗普的关税措施。关税厅说，今年一季度共发现总值295亿韩元的产品，“错误标示原产地”的违规状况。其中97%的货物发到美国。韩国关税厅已成立专门工作组打击非法出口行为，并计划制定更具体的应对措施，以保护韩企利益。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914629720643375122_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 576,
+    "originVideos": ""
   }
 ]
