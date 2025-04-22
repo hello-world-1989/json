@@ -826,5 +826,23 @@
     "retweets": 3,
     "views": 5659,
     "originVideos": "https://video.twimg.com/amplify_video/1914670131780968452/vid/avc1/1080x1920/gyMML6O4r3UpgIHe.mp4?tag=16"
+  },
+  {
+    "id": "1914675382659506547",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 21:39:18",
+    "content": "4月22日，网传“浙江台州发生枪击案”网传视频显示，一名警察趴在地上倒地不起，一旁还有大片血渍，另一名警察大喊：“救护车”\n 网传群聊截图称“泉井洋路，发生枪击案”“好像四个人倒地了”“好几个警察被打了”（群聊截图内容为网友自述，目前尚无法核实真实性） https://t.co/SzZnhTNWZx",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914675382659506547_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914675382659506547_1.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914675382659506547_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914675382659506547_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 118,
+    "originVideos": "https://video.twimg.com/amplify_video/1914674865526988809/vid/avc1/320x564/8uMwHZgYgWJOY60i.mp4?tag=16"
   }
 ]
