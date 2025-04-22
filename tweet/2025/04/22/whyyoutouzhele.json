@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 206,
     "originVideos": ""
+  },
+  {
+    "id": "1914661929475563973",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 20:45:51",
+    "content": "日前，日本外务省在官网发布安全提醒：近期中国各地人群密集场所及街头，陆续发生了普通民众遭持刀袭击的严重事件，还发生了日本公民被杀害的事件。要求日本学校充分确认安全信息后在决定是否组织赴华修学旅行。\n 随后，中国驻日大使馆也紧急发布提醒，称近期日本社会恶性治安案件呈增加趋势，多地发生无差别杀人事件，提醒在日中国公民注意安全。\n 今天，中国外交部回应：日方所谓的“安全提醒”恶意渲染所谓中国“安全风险”，政治操弄意图明显。中方对此强烈不满、坚决反对，已向日方提出严正交涉。并指中国是一个开放包容安全的国家。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914661929475563973_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914661929475563973_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914661929475563973_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 11,
+    "retweets": 1,
+    "views": 2239,
+    "originVideos": "https://video.twimg.com/amplify_video/1914661248983318528/vid/avc1/1080x1920/fM2GcP93C9HsL82u.mp4?tag=16"
   }
 ]
