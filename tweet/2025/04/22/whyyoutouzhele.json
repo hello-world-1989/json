@@ -970,5 +970,23 @@
     "retweets": 2,
     "views": 3642,
     "originVideos": ""
+  },
+  {
+    "id": "1914694971061673998",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:57:09",
+    "content": "台媒报道，陆委会主任邱垂正今天透露，目前台湾人赴大陆被通报失踪、盘查和拘留等个案已达到82起，他呼吁民众赴大陆前，先自主登录联络信息，以便政府在需要时给予协助。\n 据陆委会统计去年1月1日至今年3月31日，已接获82名台民众赴中国大陆失联（九人）、遭留置盘查（13人）或遭限制人身自由（60人）案件。依据国安局信息，台民众赴陆遭盘查案例倍增。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914694971061673998_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914694971061673998_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1407,
+    "originVideos": "https://video.twimg.com/amplify_video/1914694796565995522/vid/avc1/320x568/i3hH0fNUazpHhCCP.mp4?tag=16"
   }
 ]
