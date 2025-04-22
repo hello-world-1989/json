@@ -880,5 +880,41 @@
     "retweets": 1,
     "views": 5279,
     "originVideos": ""
+  },
+  {
+    "id": "1914684152299049199",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:14:09",
+    "content": "受伤警察被抬上担架送医抢救 https://t.co/mHh3FQ5sQK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914684152299049199_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2811,
+    "originVideos": "https://video.twimg.com/amplify_video/1914683967816736768/vid/avc1/320x568/rXqsrFNbwPz6q1nm.mp4?tag=16"
+  },
+  {
+    "id": "1914683544540160052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:11:44",
+    "content": "4月22日，浙江金华。网传苏孟小学门口发生一起轿车冲撞行人事件，视频显示，现场包括小孩在内多人倒地不起，并且浑身是血。一旁路人大喊“小孩，小孩” https://t.co/bjvxvX3W1F",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914683544540160052_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 47,
+    "replies": 21,
+    "retweets": 12,
+    "views": 6429,
+    "originVideos": "https://video.twimg.com/amplify_video/1914683478660276225/vid/avc1/320x564/SLRLTmV1hB2MTgu0.mp4?tag=16"
   }
 ]
