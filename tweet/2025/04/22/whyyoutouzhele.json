@@ -934,5 +934,23 @@
     "retweets": 3,
     "views": 1651,
     "originVideos": "https://video.twimg.com/amplify_video/1914687356403318785/vid/avc1/320x564/_3z2nRBOEGbTO94s.mp4?tag=16,https://video.twimg.com/amplify_video/1914687398505799682/vid/avc1/320x564/QGGWQupZ6rAl_EdY.mp4?tag=16"
+  },
+  {
+    "id": "1914688396582326296",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:31:01",
+    "content": "视频显示，一名警员受伤倒地，地上有大片血渍，另一名警察在一旁持枪守护。 https://t.co/K2Nbd5tGzM",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914688396582326296_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 0,
+    "views": 4954,
+    "originVideos": "https://video.twimg.com/amplify_video/1914688034781716484/vid/avc1/320x564/KNJ_8ZZoyuyaJL3t.mp4?tag=16"
   }
 ]
