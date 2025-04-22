@@ -466,5 +466,23 @@
     "retweets": 5,
     "views": 4381,
     "originVideos": "https://video.twimg.com/amplify_video/1914543841539239936/vid/avc1/320x568/gf200niohqgUlYKM.mp4?tag=16"
+  },
+  {
+    "id": "1914548972653556156",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 13:17:00",
+    "content": "https://t.co/Rgg6SqmZEv 网友投稿\n枣庄市第三中学高一级部，学校在家长群中要求学生延长学习时间。 https://t.co/R1mY0djuLz",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914548972653556156_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 827,
+    "originVideos": ""
   }
 ]
