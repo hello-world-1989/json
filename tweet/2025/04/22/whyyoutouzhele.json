@@ -502,5 +502,23 @@
     "retweets": 4,
     "views": 3505,
     "originVideos": "https://video.twimg.com/amplify_video/1914559471503990786/vid/avc1/320x746/DyKaA6s2eLiEPsU_.mp4?tag=16"
+  },
+  {
+    "id": "1914575124701044832",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 15:00:55",
+    "content": "4月21日，广东深圳。数名城管将路边小贩控制住，随后有一名城管将小贩的三轮车骑走。 https://t.co/MEjQYHcClz",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914575124701044832_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3862,
+    "originVideos": "https://video.twimg.com/amplify_video/1914574987593428992/vid/avc1/480x270/pxaQ9B0dF-z8LUtl.mp4?tag=16"
   }
 ]
