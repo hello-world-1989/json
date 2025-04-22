@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1914544946985467915",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 13:01:00",
+    "content": "4月21日，四川。一名男子自述22年买了磁铁，近几个月又先后购买了高锰酸钾和雄黄驱蛇粉，之后便接到警方电话，先要去附近派出所做笔录，警察查阅了男子手机里的购买记录，之后又去男子家中拍了几张雄黄粉的照片后离开，男子表示自己的隐私受到了侵犯。 https://t.co/04erP8xmwn",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914544946985467915_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914544946985467915_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/22/1914544946985467915_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 6,
+    "retweets": 5,
+    "views": 4381,
+    "originVideos": "https://video.twimg.com/amplify_video/1914543841539239936/vid/avc1/320x568/gf200niohqgUlYKM.mp4?tag=16"
   }
 ]
