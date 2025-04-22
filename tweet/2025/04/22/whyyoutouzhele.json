@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 4954,
     "originVideos": "https://video.twimg.com/amplify_video/1914688034781716484/vid/avc1/320x564/KNJ_8ZZoyuyaJL3t.mp4?tag=16"
+  },
+  {
+    "id": "1914691846015795285",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-22 22:44:44",
+    "content": "WSJ：调查显示，中国包括外卖员、网络主播等超过40%的灵活就业人员选择不参与国内养老保险。如果养老金信心持续流失，其带来的经济与社会影响可能不亚于房地产危机或出口放缓。\n 29岁的Liu Xin来自成都，是一名外卖员，他表示，交养老保险的钱够自己两星期伙食费了，还说自己不能把这笔钱锁定40年，到时候养老基金可能都破产了。Chen Hui是深圳一名32岁的自由设计师，她直言不讳地表示：“如果规则奖励那些不缴纳养老保险的人，那为什么还要傻乎乎地交钱？\n 中国最新的预算报告显示，2024年全国社保基金收入增长5.2%，达到人民币11.89万亿元。但支出增长更快，增幅为7%，达到人民币11.99万亿元，这导致了自2018年以来的首次现金流赤字。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/22/1914691846015795285_0.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914691846015795285_1.jpg,/tweet/image/whyyoutouzhele/2025/04/22/1914691846015795285_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 10,
+    "retweets": 2,
+    "views": 3642,
+    "originVideos": ""
   }
 ]
