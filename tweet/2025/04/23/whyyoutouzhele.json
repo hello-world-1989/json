@@ -232,5 +232,41 @@
     "retweets": 0,
     "views": 4650,
     "originVideos": ""
+  },
+  {
+    "id": "1914876348356780189",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 10:57:52",
+    "content": "随后 “特朗普认怂了”话题登上微博热搜榜前十。 https://t.co/zC9Za0ouxJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914876348356780189_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "views": 661,
+    "originVideos": ""
+  },
+  {
+    "id": "1914875273486733369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 10:53:36",
+    "content": "特朗普表示，对中国的关税最终将“大幅下降——但不会是零”\n4月22日 据卫报报道，特朗普在白宫新闻发布会表示，对中国的最终关税税率将从目前的145%“大幅”下降，并称“我们和中国关系很好”。\n尽管他的关税很高，但特朗普表示，他将对中国“非常好”，不会对中国国家主席习近平强硬。\n而当天早些时候，财政部长贝森特称，高关税是不可持续的，他预计中美贸易战最终会降级。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914875273486733369_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 9,
+    "retweets": 0,
+    "views": 3980,
+    "originVideos": ""
   }
 ]
