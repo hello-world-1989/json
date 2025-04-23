@@ -736,5 +736,23 @@
     "retweets": 4,
     "views": 6909,
     "originVideos": ""
+  },
+  {
+    "id": "1915069563361976354",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 23:45:38",
+    "content": "4月23日，南京浦口区一辆停在马路中间的面包车先是着火，随后又发生剧烈爆炸。当即居民称，“听到爆炸声后消防员一分钟就出警了” https://t.co/M2bXB8azLI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1915069563361976354_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/23/1915069563361976354_0.jpg,/tweet/video/whyyoutouzhele/2025/04/23/1915069563361976354_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2456,
+    "originVideos": "https://video.twimg.com/amplify_video/1915068962943229952/vid/avc1/320x568/LqdweiqxUUpKA3-r.mp4?tag=16,https://video.twimg.com/amplify_video/1915068975215742976/vid/avc1/480x852/HlvKOW5OY8atqT2e.mp4?tag=16"
   }
 ]
