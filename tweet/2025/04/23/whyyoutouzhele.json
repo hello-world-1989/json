@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1914961209964535870",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 16:35:05",
+    "content": "4月22日(发布) 广东茂名碧桂园城市花园小区的地下车库承重柱疑似使用了海沙。起因是小孩在地下车库玩耍时，无意中发现承重柱里居然有贝壳，并将此事告诉了大人。视频显示，承重柱钢筋细小且生锈断裂，并且混泥土一敲就碎。 https://t.co/dNjwMDe3Tb",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914961209964535870_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/23/1914961209964535870_0.jpg,/tweet/video/whyyoutouzhele/2025/04/23/1914961209964535870_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 6,
+    "retweets": 2,
+    "views": 2326,
+    "originVideos": "https://video.twimg.com/amplify_video/1914960973670285312/vid/avc1/320x568/bkPHZ7ImEKy1B8xX.mp4?tag=16,https://video.twimg.com/amplify_video/1914960979957604352/vid/avc1/320x568/a0rLtkLwKikvu2dw.mp4?tag=16"
   }
 ]
