@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 3541,
     "originVideos": ""
+  },
+  {
+    "id": "1914863085635973623",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 10:05:10",
+    "content": "近日多家媒体报道称，美国国防部长赫格塞斯曾在包含其妻子、兄弟和私人律师的群聊中分享针对也门的空袭计划细节。4月22日，白宫新闻发布会上有记者问如何解释“先前提到整个五角大楼都在反对赫格塞斯，但被解雇的人却是他的手下？” 发言人回答：“赫格塞斯做得很出色，泄密行为不可接受”。 https://t.co/QLbdI7iaHf",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/23/1914863085635973623_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2258,
+    "originVideos": "https://video.twimg.com/amplify_video/1914862736938319872/vid/avc1/480x270/ZyxFFxyViAeRZ-f5.mp4?tag=16"
   }
 ]
