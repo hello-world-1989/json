@@ -700,5 +700,23 @@
     "retweets": 5,
     "views": 4502,
     "originVideos": ""
+  },
+  {
+    "id": "1915058368420655545",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 23:01:09",
+    "content": "马斯克周二在会议上说，由于中国稀土出口管制，造成该公司“擎天柱”人形机器人的生产受到影响。中国希望保证其稀土磁铁不被用于军事目的。特斯拉正在与北京方面合作，以获得稀土磁铁的出口许可。 https://t.co/IbNGnFf1ON",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1915058368420655545_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 2,
+    "retweets": 0,
+    "views": 5128,
+    "originVideos": ""
   }
 ]
