@@ -358,5 +358,23 @@
     "retweets": 9,
     "views": 5630,
     "originVideos": "https://video.twimg.com/amplify_video/1914949692468989952/vid/avc1/320x568/nASV-Jagq-fEa87f.mp4?tag=16,https://video.twimg.com/amplify_video/1914949713331412992/vid/avc1/480x270/21tDYNN9V3Xv5oTz.mp4?tag=16"
+  },
+  {
+    "id": "1914959893884498049",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 16:29:51",
+    "content": "https://t.co/3p82wc9FHZ 武汉市第二十中学 学生投稿 https://t.co/orcrmvQ6EU",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914959893884498049_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
