@@ -142,5 +142,23 @@
     "retweets": 0,
     "views": 3726,
     "originVideos": ""
+  },
+  {
+    "id": "1914853821433487380",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 09:28:21",
+    "content": "4月22日，特朗普总统主持了新任证券交易委员会主席保罗·阿特金斯的宣誓就职仪式。期间，当记者又问到是否打算解雇美联储主席鲍威尔时，特朗普回答：“我没有解雇他的打算。我希望他能更积极地推动降低利率。现在是降低利率的绝佳时机。如果他做不到，那是他的终点吗？不，不是。” https://t.co/d9xzugMOmy https://t.co/kFFBCNXkYx",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/23/1914853821433487380_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 712,
+    "originVideos": "https://video.twimg.com/amplify_video/1914853760074997760/vid/avc1/480x270/A0uhWAlFJW3Et41Q.mp4?tag=16"
   }
 ]
