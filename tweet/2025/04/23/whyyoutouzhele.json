@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 2078,
     "originVideos": ""
+  },
+  {
+    "id": "1915016582251553049",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 20:15:07",
+    "content": "据报道，该桥建于1999年，是连接北京、顺义、平谷的重要枢纽，该桥曾在2015年、2017年进行过两次维修。去年10月大桥刚做完检查，但顺义公路分局工作人员表示，“(检查)报告不对外公布。” https://t.co/Jc4GjdQaZQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1915016582251553049_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1701,
+    "originVideos": ""
   }
 ]
