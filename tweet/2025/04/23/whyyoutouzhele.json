@@ -664,5 +664,23 @@
     "retweets": 2,
     "views": 3402,
     "originVideos": ""
+  },
+  {
+    "id": "1915042151412666558",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 21:56:43",
+    "content": "WSJ：据知情人士透露，特朗普政府正在考虑大幅削减对中国进口商品征收的高额关税，有些关税甚至会降低一半以上，以缓解与北京方面的紧张关系\n 知情人说特朗普尚未做出最终决定，并补充说讨论仍在进行中，并且有几种选择。一位白宫高级官员表示，对华关税税率可能会降至50%至65%左右。一些知情人士表示，美国政府还在考虑对美国认为不构成国家安全威胁的商品征收35%的关税，对被视为对美国利益具有战略意义的商品征收至少100%的关税。该法案提议在五年内逐步取消这些关税。白宫没有立即回应置评请求。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1915042151412666558_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1561,
+    "originVideos": ""
   }
 ]
