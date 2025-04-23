@@ -106,5 +106,41 @@
     "retweets": 1,
     "views": 2749,
     "originVideos": ""
+  },
+  {
+    "id": "1914837984270270777",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 08:25:26",
+    "content": "https://t.co/lc7GDE2uYW 重庆第一实验中学 学生投稿\n整个学校老师累得要死，学生累得要死，家长累且焦虑的要死，只有无能的领导在快乐 https://t.co/u8MLV9eFF8",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914837984270270777_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1598,
+    "originVideos": ""
+  },
+  {
+    "id": "1914837195611103246",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-23 08:22:18",
+    "content": "4月22日，创立于2009年的微博账户\"同志之声\"，近日在反对编剧汪海林对性少数群体的的污名化行为后，被强制修改ID https://t.co/1D9zWtQdwk",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/23/1914837195611103246_0.jpg,/tweet/image/whyyoutouzhele/2025/04/23/1914837195611103246_1.jpg,/tweet/image/whyyoutouzhele/2025/04/23/1914837195611103246_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 2,
+    "retweets": 0,
+    "views": 3726,
+    "originVideos": ""
   }
 ]
