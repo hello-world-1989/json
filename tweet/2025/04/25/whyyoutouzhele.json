@@ -52,5 +52,23 @@
     "retweets": 2,
     "views": 2427,
     "originVideos": "https://video.twimg.com/amplify_video/1915453869594992642/vid/avc1/720x1280/nm5js4jCdpnxrk_s.mp4?tag=16"
+  },
+  {
+    "id": "1915474105224274304",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 02:33:09",
+    "content": "港媒星岛日报报道，北京《环球时报》证实，中国海警曾在本月中旬登上和菲律宾有主权争议的南沙铁线礁，展示五星红旗宣宗主权。图片显示，中国海警执法员在铁线礁清理残留的塑料瓶、木棍和其他碎片垃圾。 https://t.co/JcYEIx0RJk",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915474105224274304_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915474105224274304_1.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915474105224274304_2.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915474105224274304_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 8,
+    "retweets": 0,
+    "views": 1945,
+    "originVideos": ""
   }
 ]
