@@ -628,5 +628,23 @@
     "retweets": 0,
     "views": 823,
     "originVideos": ""
+  },
+  {
+    "id": "1915410974968078490",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-24 22:22:17",
+    "content": "近日，有脉脉用户发帖称，小米要求员工日均工时不低于11.5小时，其中低于8小时需要提交说明，工时排名靠后的要被约谈，甚至劝退，并且“内部通知玩的贼溜，口头传达或发完马上撤回，根本不留书面痕迹”据就九派新闻报道，多位小米员工证实了这一情况。 https://t.co/JLpNyYTidb",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/24/1915410974968078490_0.jpg,/tweet/image/whyyoutouzhele/2025/04/24/1915410974968078490_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 40,
+    "replies": 8,
+    "retweets": 2,
+    "views": 4217,
+    "originVideos": ""
   }
 ]
