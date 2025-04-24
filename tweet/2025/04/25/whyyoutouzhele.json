@@ -178,5 +178,41 @@
     "retweets": 0,
     "views": 267,
     "originVideos": ""
+  },
+  {
+    "id": "1915551245885898787",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 07:39:40",
+    "content": "网友投稿\n江苏省苏州中学食堂出现卫生问题，同学们的食物中出现小虫、丝线、烟头等异物，校方拒不处理，并且还强迫发帖维权的同学删帖。 https://t.co/D9YeX5QDn6",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915551245885898787_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 18,
+    "originVideos": ""
+  },
+  {
+    "id": "1915549966266749060",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 07:34:35",
+    "content": "https://t.co/7M5bdn8Lqp 学生投稿\n武汉市新洲一中邾城校区，学生早上6：10就要到校，晚上10：00放学。节假日放个假不仅少了好几天假期还要调休，暑假就只放不到10天。而且时间长点的假期就要每天起床打卡，准时交作业。\n学校里面还有校霸打学生、勒索钱财，校领导也老师也不管。老师也可以随意辱骂，体罚学生，有学生不做作业老师直接扇耳光，之前有跳楼的被三个人拽了下去，然后学校的三四层就全被栏杆罩着，并且在窗户上安装了挡板使窗户只能开一个小缝。学校里面保安全天巡逻，每到临近放假的时候保安就会守在公告栏那里，不让学生贴任何东西，曾有学生在公告栏对于放假和教师行为举止提出过不满，后被校领导抓住大声责骂。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915549966266749060_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1509,
+    "originVideos": ""
   }
 ]
