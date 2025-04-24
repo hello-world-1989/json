@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 2561,
     "originVideos": ""
+  },
+  {
+    "id": "1915541907708510265",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 07:02:34",
+    "content": "在学生向教育局举报后，教育局调查通报偏袒学校，称举报问题不属实。 https://t.co/4vPONzTUBg",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915541907708510265_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1510,
+    "originVideos": ""
   }
 ]
