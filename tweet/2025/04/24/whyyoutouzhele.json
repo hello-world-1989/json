@@ -556,5 +556,23 @@
     "retweets": 3,
     "views": 4225,
     "originVideos": ""
+  },
+  {
+    "id": "1915381916712521838",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-24 20:26:49",
+    "content": "4月23日，广东揭阳。女子称去冷库取货时，被一位男同事故意关门锁住。视频显示，女子进入冷库后，另一名男工作人员朝里面看了一眼，迅速关门后笑着跑开，随后女子在冷库里拍门求救，但无人理会。女子称报警后，还被警告不要再发相关视频。女子还称，调监控时，两位警察愤怒的对她说：你还想怎样？ https://t.co/dYEugvsIRY",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/24/1915381916712521838_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/24/1915381916712521838_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1343,
+    "originVideos": "https://video.twimg.com/amplify_video/1915379536126181376/pl/bSMtixrs0o-RVL7J.m3u8?tag=16&v=ddc"
   }
 ]
