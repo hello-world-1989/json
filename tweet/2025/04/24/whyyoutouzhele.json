@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 346,
     "originVideos": ""
+  },
+  {
+    "id": "1915431147774898570",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-24 23:42:27",
+    "content": "4月23日(发布) 在伊朗伊斯兰革命卫队成立周年之际，伊朗人在德黑兰一座立交桥上悬挂横幅，横幅上写着：“伊朗革命卫队：自由的敌人。” https://t.co/w3vqdIse4v",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/24/1915431147774898570_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 5,
+    "retweets": 1,
+    "views": 4019,
+    "originVideos": "https://video.twimg.com/amplify_video/1915430831042207744/vid/avc1/320x398/5EiAOinlpMKHz_Fx.mp4?tag=16"
   }
 ]
