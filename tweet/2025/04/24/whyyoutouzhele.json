@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 1458,
     "originVideos": ""
+  },
+  {
+    "id": "1915427642838519938",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-24 23:28:31",
+    "content": "周四凌晨俄罗斯对基辅发动大规模导弹和无人机空袭，已造成至少12人死亡。另有90人受伤。\n美国总统特朗普对此发文称：“我对俄罗斯空袭基辅感到不满。这没必要，而且时机非常糟糕。普京，停手吧！每周有5000名士兵丧命。让我们尽快完成和平协议！ https://t.co/r87MYscen7",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/24/1915427642838519938_0.jpg,/tweet/image/whyyoutouzhele/2025/04/24/1915427642838519938_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 346,
+    "originVideos": ""
   }
 ]
