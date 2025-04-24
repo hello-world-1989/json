@@ -412,5 +412,23 @@
     "retweets": 5,
     "views": 1302,
     "originVideos": "https://video.twimg.com/amplify_video/1915336238070194179/vid/avc1/320x564/9hrBixSX9JIZuMlH.mp4?tag=16"
+  },
+  {
+    "id": "1915342432905920873",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-24 17:49:56",
+    "content": "4月24日(发布) 博主“獾的”挑战凌晨在地图上随机找一家日本商家，并拨打电话叫对方“起来重新睡觉” 博主的行为遭到网民批评指责，还有网民举报该视频表达不满。 https://t.co/c8fnMsQzUU",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/24/1915342432905920873_0.jpg,/tweet/image/whyyoutouzhele/2025/04/24/1915342432905920873_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/24/1915342432905920873_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 16,
+    "retweets": 2,
+    "views": 4789,
+    "originVideos": "https://video.twimg.com/amplify_video/1915341915861741568/vid/avc1/320x568/YG6t0BbIYGNwOvTV.mp4?tag=16"
   }
 ]
