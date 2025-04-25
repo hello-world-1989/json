@@ -538,5 +538,23 @@
     "retweets": 0,
     "views": 418,
     "originVideos": ""
+  },
+  {
+    "id": "1915687320466186592",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 16:40:23",
+    "content": "4月25日报道，中美贸易战谁赢？东莞一家包装企业负责人王辉称，美国人生产效率低，又很懒。还动不动抽烟休息喝咖啡，而论效率中国工人1个抵五个美国人。所以美国想要制造业回流难度很大。 https://t.co/5bC26BxRmB",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915687320466186592_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915687320466186592_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915687320466186592_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 18,
+    "retweets": 1,
+    "views": 5315,
+    "originVideos": "https://video.twimg.com/amplify_video/1915687146415173632/vid/avc1/320x568/hfuNXy4VyMHUsYnq.mp4?tag=16"
   }
 ]
