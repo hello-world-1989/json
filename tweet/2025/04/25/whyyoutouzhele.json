@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 95,
     "originVideos": ""
+  },
+  {
+    "id": "1915733772466831706",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 19:44:58",
+    "content": "4月25日(发布) 董明珠近日称不用海归派，因为有间谍。今日又被人扒出她此前接受采访时，称青菜买回去在格力冰箱里放置20天，保证是新鲜的，并且比菜市场买回来的还要新鲜。因为我们的冰箱有“成长性”这就叫技术。 https://t.co/6z0eOu0ELH",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915733772466831706_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915733772466831706_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915733772466831706_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 8,
+    "retweets": 1,
+    "views": 1923,
+    "originVideos": "https://video.twimg.com/amplify_video/1915733627700408320/vid/avc1/320x568/--N3fKkm278ufE-P.mp4?tag=16"
   }
 ]
