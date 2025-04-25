@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 955,
     "originVideos": ""
+  },
+  {
+    "id": "1915621259536388169",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 12:17:53",
+    "content": "网友投稿\n4月18日 福建理工宿舍区发生血案，一人持刀捅了舍友后跳楼自杀。\n网易新闻曾报道称血案是因为“打瓦”上头，对于事件起因有两个版本，“一个是打游戏上头，舍友嫌他吵，双方发生口角，最后变成刀战。另一个是，两人一起玩游戏，因为游戏输赢问题发生了刀战。”\n但目前网易报道已经被封无法查看。\n据悉，“打瓦”是对第一人称射击游戏无畏契约的戏称。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915621259536388169_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915621259536388169_1.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915621259536388169_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915621259536388169_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 2,
+    "views": 741,
+    "originVideos": "https://video.twimg.com/amplify_video/1915619078712287232/vid/avc1/320x584/tFJzV-JyxZWsScM3.mp4?tag=16"
   }
 ]
