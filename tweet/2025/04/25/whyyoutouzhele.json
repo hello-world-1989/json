@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 1474,
     "originVideos": ""
+  },
+  {
+    "id": "1915596626111979752",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 10:40:00",
+    "content": "https://t.co/JgSoAJUttQ 网友投稿\n朋友是一家地级市三甲医院的医生。工作10个月从来没有拿过绩效，并且经常连轴转没有任何休息。 https://t.co/Rb86zhCtzQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915596626111979752_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915596626111979752_1.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915596626111979752_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 5,
+    "views": 4201,
+    "originVideos": ""
   }
 ]
