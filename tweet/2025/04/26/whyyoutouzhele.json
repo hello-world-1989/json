@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 419,
     "originVideos": ""
+  },
+  {
+    "id": "1915836271177744851",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 02:32:16",
+    "content": "近日，曾控诉“德赛电池厂加班，且还被扣3天工资”的当事人“光遇”称，他最近走访了怀化市一些工厂，发现当地普遍存在不遵守劳动法的情况。\n 26日“光遇”称，他和朋友在怀化溆浦县，遭到公安和政府工作人员的上门审讯。“光遇”指控警方没有出示证件，警方称，我们是接到国保大队的指示上门。随后这则视频被平台下架。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1915836271177744851_0.jpg,/tweet/video/whyyoutouzhele/2025/04/26/1915836271177744851_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2091,
+    "originVideos": "https://video.twimg.com/amplify_video/1915835171808616448/pl/FU7UbCEhwZCw02vK.m3u8?tag=16&v=cf0,https://video.twimg.com/amplify_video/1915835193908465665/vid/avc1/320x710/LWHv8_LVbX6to_W3.mp4?tag=16"
   }
 ]
