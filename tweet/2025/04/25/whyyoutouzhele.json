@@ -394,5 +394,41 @@
     "retweets": 2,
     "views": 2143,
     "originVideos": "https://video.twimg.com/amplify_video/1915631728611516419/pl/0bTh8p1Rcas30hhq.m3u8?tag=16"
+  },
+  {
+    "id": "1915635402356252916",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 13:14:05",
+    "content": "https://t.co/YOQcREYkEr",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915635402356252916_0.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915635402356252916_1.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915635402356252916_2.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915635402356252916_3.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1884,
+    "originVideos": "https://video.twimg.com/amplify_video/1915635146541457408/vid/avc1/320x568/Usyzk7M_dn9SQdtd.mp4?tag=16,https://video.twimg.com/amplify_video/1915635161733226500/vid/avc1/320x568/EFIgjZwUJrnxqqMT.mp4?tag=16,https://video.twimg.com/amplify_video/1915635191424704512/vid/avc1/320x564/U4YCivJpZA4Dh9_J.mp4?tag=16,https://video.twimg.com/amplify_video/1915635306893893632/vid/avc1/320x564/SgP4acbzwwbUbYi1.mp4?tag=16"
+  },
+  {
+    "id": "1915634870027739453",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 13:11:58",
+    "content": "网友投稿\n4月24日，上海大沽路。海银财富受害者集体维权。\n现场海银受害者们高喊政府帮凶并要求见陈吉宁，要求政府出面解决问题，并要求将海银财富实控人韩啸判处死刑。\n之后，受害者们被上海警方强行带走。 https://t.co/uiZNTd9wcU",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915634870027739453_0.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915634870027739453_1.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915634870027739453_2.jpg,/tweet/video/whyyoutouzhele/2025/04/25/1915634870027739453_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 2,
+    "retweets": 6,
+    "views": 4176,
+    "originVideos": "https://video.twimg.com/amplify_video/1915633815957233671/vid/avc1/320x568/5On-PEdkwKjXICbk.mp4?tag=16,https://video.twimg.com/amplify_video/1915633867941437442/vid/avc1/320x568/W5z4Xy-8qdSBHm47.mp4?tag=16,https://video.twimg.com/amplify_video/1915634589797957632/vid/avc1/320x568/vdXeRHNvfejWoJ4R.mp4?tag=16,https://video.twimg.com/amplify_video/1915634589827268608/vid/avc1/320x568/mhk1l0NVk3yg3Ao9.mp4?tag=16"
   }
 ]
