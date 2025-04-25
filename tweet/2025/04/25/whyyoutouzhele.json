@@ -682,5 +682,23 @@
     "retweets": 2,
     "views": 2493,
     "originVideos": "https://video.twimg.com/amplify_video/1915720237858906116/vid/avc1/480x270/mB0S8p5Vwbk4gREW.mp4?tag=16"
+  },
+  {
+    "id": "1915727317965631523",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 19:19:19",
+    "content": "美国总统特朗普周四罕见批评普京，指责俄方向基辅发射导弹和无人机，导致至少12人死亡。特朗普说：“我们对俄罗斯施加很大压力，俄罗斯知道这一点”在被问及俄方做出哪些让步时特朗普回应：“停止战争、停止全面占领乌克兰，这是一项重大让步” https://t.co/OElThRUzb9",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915727317965631523_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 95,
+    "originVideos": ""
   }
 ]
