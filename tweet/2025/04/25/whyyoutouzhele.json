@@ -502,5 +502,23 @@
     "retweets": 1,
     "views": 2216,
     "originVideos": "https://video.twimg.com/amplify_video/1915663046657400834/vid/avc1/360x270/vXe23Rc0O7E3a7tn.mp4?tag=16"
+  },
+  {
+    "id": "1915671368865345670",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 15:37:00",
+    "content": "https://t.co/Rgg6SqmZEv 学生投稿\n长春市第二实验中学体罚现象普遍、严重，学生没有尊严。 https://t.co/xOGkf2DaRm",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915671368865345670_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 826,
+    "originVideos": ""
   }
 ]
