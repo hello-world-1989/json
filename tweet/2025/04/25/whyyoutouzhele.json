@@ -484,5 +484,23 @@
     "retweets": 1,
     "views": 2188,
     "originVideos": ""
+  },
+  {
+    "id": "1915663200286359938",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 15:04:32",
+    "content": "4月23日(发布) 贵州贵阳。一名奶茶店长称：我的店员此前在古茗奶茶店上班，月薪2500元，月休一天，每天工作十小时，现在来我的店上班，月薪3000元，月休3天。有网民表示这是值得炫耀的事请吗？还有台湾网民表示，“一个月休息一天这是人做的工作吗” https://t.co/gaE1OPn5vY",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915663200286359938_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915663200286359938_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915663200286359938_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2216,
+    "originVideos": "https://video.twimg.com/amplify_video/1915663046657400834/vid/avc1/360x270/vXe23Rc0O7E3a7tn.mp4?tag=16"
   }
 ]
