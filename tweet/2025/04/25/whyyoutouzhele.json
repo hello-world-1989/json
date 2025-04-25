@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 4067,
     "originVideos": ""
+  },
+  {
+    "id": "1915633233213141379",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 13:05:28",
+    "content": "4月24日，江苏。男子去银行取20万元，被银行询问取钱的用途，还要提供微信聊天截图、核实最近几笔进帐的来源。 https://t.co/JCiJad1Pev",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/25/1915633233213141379_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2143,
+    "originVideos": "https://video.twimg.com/amplify_video/1915631728611516419/pl/0bTh8p1Rcas30hhq.m3u8?tag=16"
   }
 ]
