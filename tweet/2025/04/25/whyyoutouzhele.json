@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 23,
     "originVideos": "https://video.twimg.com/amplify_video/1915701833965985792/vid/avc1/476x270/_WIYuOxUs71zzdr_.mp4?tag=16,https://video.twimg.com/amplify_video/1915701845349326848/vid/avc1/320x564/ZYmboNLWEr1P_zEz.mp4?tag=16,https://video.twimg.com/amplify_video/1915701870989021184/vid/avc1/1080x1920/v-v4nIH1YE3zeXOR.mp4?tag=16"
+  },
+  {
+    "id": "1915708043461071011",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-25 18:02:44",
+    "content": "彭博周五引述知情人士称，中国政府正在考虑免除美国进口医疗器材和乙烷，等部分工业和化学品的125%加征关税。知情人士还称，中国官员也在商讨免除飞机租赁的关税。北京上述举动凸显中国部分经济仍依赖美国进口商品。\n 中国是世界最大塑料生产商，但部分工厂依赖主要从美国输入的乙烷。中国医院也依赖美国先进医疗器材，像美国GE医疗集团制造的磁共振成像仪和超声波机等。\n 中国外交部发言人郭嘉昆表示，不了解具体情况，建议向中方的主管部门进行询问。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/25/1915708043461071011_0.jpg,/tweet/image/whyyoutouzhele/2025/04/25/1915708043461071011_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 7,
+    "retweets": 3,
+    "views": 3049,
+    "originVideos": ""
   }
 ]
