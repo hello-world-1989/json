@@ -70,5 +70,41 @@
     "retweets": 1,
     "views": 2091,
     "originVideos": "https://video.twimg.com/amplify_video/1915835171808616448/pl/FU7UbCEhwZCw02vK.m3u8?tag=16&v=cf0,https://video.twimg.com/amplify_video/1915835193908465665/vid/avc1/320x710/LWHv8_LVbX6to_W3.mp4?tag=16"
+  },
+  {
+    "id": "1915947653432832427",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 09:54:51",
+    "content": "RT @diyin2024: 📷 #低音 #拒绝遗忘 播客更新！关于 #高智晟 。\n\n《拒绝遗忘 | 苦行僧高智晟：失踪八年的人权律师》\nhttps://t.co/FHdlNzvw3X 欢迎点击收听！… https://t.co/yY0v5lrcmG",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1915947653432832427_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 2,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "1915947431830995364",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 09:53:58",
+    "content": "https://t.co/Mc7vtAT1OO \n4月20日，四川省广元市苍溪县一学生打电话给教育局举报学生晚自习安排不合理以及食堂饭菜吃出蛆等问题。\n结果教育局工作人员没有解决问题，反而辱骂举报的学生：“你他妈的给老子好好读书，你狗日的杂种老子要整你狗日的。” https://t.co/94O0VzPc0x",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1915947431830995364_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 4,
+    "retweets": 10,
+    "views": 3073,
+    "originVideos": "https://video.twimg.com/amplify_video/1915947060567928832/vid/avc1/320x710/9-cJRSMl7f4pZY6P.mp4?tag=16"
   }
 ]
