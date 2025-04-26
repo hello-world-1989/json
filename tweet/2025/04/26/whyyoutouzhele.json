@@ -286,5 +286,23 @@
     "retweets": 1,
     "views": 3251,
     "originVideos": "https://video.twimg.com/amplify_video/1916024850784915456/vid/avc1/480x270/xa67BO3gRea89Vyx.mp4?tag=16"
+  },
+  {
+    "id": "1916027847053136332",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 15:13:31",
+    "content": "数万名哀悼者涌入圣彼得广场，参加方济各的葬礼。有民众整夜等候，只为成为参加仪式的第一批人，世界各国领导人都将出席此次仪式。\n (图1：教皇方济各葬礼在梵蒂冈圣彼得广场举行前，信徒们安息在地；图2：教皇方济各葬礼前，牧师们在梵蒂冈圣彼得广场就座；图3：教皇方济各葬礼在梵蒂冈圣彼得广场举行前，信徒们聚集在圣彼得大教堂外)",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916027847053136332_0.jpg,/tweet/image/whyyoutouzhele/2025/04/26/1916027847053136332_1.jpg,/tweet/image/whyyoutouzhele/2025/04/26/1916027847053136332_2.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1649,
+    "originVideos": ""
   }
 ]
