@@ -502,5 +502,23 @@
     "retweets": 2,
     "views": 612,
     "originVideos": ""
+  },
+  {
+    "id": "1916101096285630695",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 20:04:35",
+    "content": "梵蒂冈在一份新声明中表示，约有 15 万人排列在意大利首都的街道两旁，观看教皇方济各的灵柩被送往他的最后安息之地——罗马的圣母大殿。\n 葬礼在庄严肃穆中结束，圣伯多禄大教堂今天下午2:30重新开放 https://t.co/js7yOWUvUN",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916101096285630695_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1916101096285630695_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1266,
+    "originVideos": "https://video.twimg.com/amplify_video/1916100990593601538/vid/avc1/582x270/IpjUBkqidHYzwcMV.mp4?tag=16"
   }
 ]
