@@ -304,5 +304,23 @@
     "retweets": 0,
     "views": 1649,
     "originVideos": ""
+  },
+  {
+    "id": "1916038564422553742",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 15:56:06",
+    "content": "4月25日，四川成都。多辆深蓝新能源问题车停在深蓝汽车4S店门外维权。 https://t.co/r8MyaQ1GPd",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1916038564422553742_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1184,
+    "originVideos": "https://video.twimg.com/amplify_video/1916038481580855298/vid/avc1/320x568/62fKDSjuITjF8bTM.mp4?tag=16"
   }
 ]
