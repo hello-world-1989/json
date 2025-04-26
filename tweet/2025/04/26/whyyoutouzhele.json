@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 1374,
     "originVideos": ""
+  },
+  {
+    "id": "1916059701063913791",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 17:20:06",
+    "content": "4月25日(发布)，湖北武汉。网传当地一家牛肉面馆发生无差别持刀砍人事件。视频显示，顾客们惊慌失措的跑出面馆，有多人被砍受伤，手臂流血不止。\n 当地人称：“无差别乱砍，好多人都受伤了，砍了好多人”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916059701063913791_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1916059701063913791_0.jpg,/tweet/video/whyyoutouzhele/2025/04/26/1916059701063913791_1.jpg,/tweet/video/whyyoutouzhele/2025/04/26/1916059701063913791_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 73,
+    "replies": 24,
+    "retweets": 13,
+    "views": 5967,
+    "originVideos": "https://video.twimg.com/amplify_video/1916058991882604544/vid/avc1/320x568/OcVUggvvJIwWI7wQ.mp4?tag=16,https://video.twimg.com/amplify_video/1916059007632195584/vid/avc1/320x568/4W7cxV1qsFN31hg7.mp4?tag=16,https://video.twimg.com/amplify_video/1916059016360546305/vid/avc1/320x568/zTUtWEUOPyH3SI9p.mp4?tag=16"
   }
 ]
