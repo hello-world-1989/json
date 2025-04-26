@@ -358,5 +358,23 @@
     "retweets": 0,
     "views": 25,
     "originVideos": ""
+  },
+  {
+    "id": "1916056101776195635",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 17:05:47",
+    "content": "美国总统特朗普今天飞往意大利罗马途中，在空军一号上接受媒体访问表示，除非中国有实质动作，否则他不会调降对中国的高额关税。他还说，可能不会延长90天的对等关税暂缓期，美国会和一些国家达成协议，但也会制定协议，即「设定关税」。 https://t.co/KQIc2O4EFP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916056101776195635_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1374,
+    "originVideos": ""
   }
 ]
