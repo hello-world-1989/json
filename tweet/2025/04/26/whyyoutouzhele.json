@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 1768,
     "originVideos": ""
+  },
+  {
+    "id": "1916138231768440847",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 22:32:09",
+    "content": "4月25日26日，刑辩律师蔡雅奇称：大同案和南昌案都不让提了，昨晚我在直播时只是提了这两个名字，直播间随即被封禁24小时。 https://t.co/wqDUdsaFiL",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916138231768440847_0.jpg,/tweet/image/whyyoutouzhele/2025/04/26/1916138231768440847_1.jpg,/tweet/image/whyyoutouzhele/2025/04/26/1916138231768440847_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 9,
+    "retweets": 1,
+    "views": 5394,
+    "originVideos": ""
   }
 ]
