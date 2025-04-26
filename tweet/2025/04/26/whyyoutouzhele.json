@@ -214,5 +214,23 @@
     "retweets": 0,
     "views": 1492,
     "originVideos": ""
+  },
+  {
+    "id": "1916010372311716232",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 14:04:05",
+    "content": "4月24日，广东广州。当天外面正下着倾盆大雨，而国光电器厂却让求职者们站在屋外淋雨等候面试入职。 https://t.co/IAtZFh0FYq",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916010372311716232_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/26/1916010372311716232_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2332,
+    "originVideos": "https://video.twimg.com/amplify_video/1916010229931905025/vid/avc1/320x564/eckXI5EIgs06PrAM.mp4?tag=16"
   }
 ]
