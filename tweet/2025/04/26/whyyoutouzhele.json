@@ -592,5 +592,23 @@
     "retweets": 3,
     "views": 6426,
     "originVideos": ""
+  },
+  {
+    "id": "1916131591891652648",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-26 22:05:46",
+    "content": "据报克里姆林宫发言人佩斯科夫 4 月 26 日表示，俄总统普京向美国表示，俄方愿意在不设先决条件的情况下与乌克兰谈判。\n 据佩斯科夫称，普京4月25日在莫斯科会见美国特使维特科夫时曾向他透露了此事。这位发言人还补充说，普京“已经多次谈及此事”。\n 克里姆林宫领导人多次宣称他准备进行和平谈判，但同时却提出最高要求，基辅则指责他故意拖延和平努力。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/26/1916131591891652648_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1768,
+    "originVideos": ""
   }
 ]
