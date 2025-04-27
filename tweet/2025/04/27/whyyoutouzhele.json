@@ -196,5 +196,41 @@
     "retweets": 4,
     "views": 5643,
     "originVideos": ""
+  },
+  {
+    "id": "1916356562144399696",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 12:59:43",
+    "content": "4月25日 有博主曝光广州人均500的高端日料店“水濑放题”回收顾客吃剩的食材重新使用。\n视频显示，员工将回收至后厨的菜进行分拣，其中没吃完的虾放进另一个碟子中，冰则倒进水桶中，水桶内已有半桶冰\n有网友质疑回收的食材是否只给员工食用，博主回复称员工即便有机会食用也是吃熟食，也要偷偷背着人吃\n涉事门店为水濑（天河店），位于广州市天河区维家思广场。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/27/1916356562144399696_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1916355409969111040/vid/avc1/320x568/lMvK9YvCkfrDcB55.mp4?tag=16"
+  },
+  {
+    "id": "1916354405479420033",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 12:51:09",
+    "content": "值得注意的是，错误答复的工程欠款问题的涉事项目疑似政府招标项目，于2022年8月完工，工程款仍未被全额支付。\n回复中称根据市委市政府安排，项目款的支付由西夏区政府移交给一个第三方管理。 https://t.co/KzlEFFXwF0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916354405479420033_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2420,
+    "originVideos": ""
   }
 ]
