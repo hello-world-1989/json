@@ -574,5 +574,41 @@
     "retweets": 0,
     "views": 1062,
     "originVideos": ""
+  },
+  {
+    "id": "1916499276118606183",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 22:26:48",
+    "content": "医院通报： https://t.co/dzNXft5vHA",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916499276118606183_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1060,
+    "originVideos": ""
+  },
+  {
+    "id": "1916498969687179354",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 22:25:35",
+    "content": "近日，中日友好医院胸外科副主任医师肖飞被妻子实名举报婚内出轨多名医护人员，举报信中还称肖飞甚至和出轨对象丢下已麻醉的病人，两人一起离开手术室长达40分钟。\n 中日友好医院通报：举报材料反映对肖某个人问题基本属实，对肖某予以开除党籍处分，并解除聘用关系。 https://t.co/MZMqBPojxP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916498969687179354_0.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916498969687179354_1.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916498969687179354_2.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916498969687179354_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2423,
+    "originVideos": ""
   }
 ]
