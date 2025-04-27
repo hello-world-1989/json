@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 146,
     "originVideos": "https://video.twimg.com/amplify_video/1916449112733696000/vid/avc1/320x568/PX_MhlOIhHRZur52.mp4?tag=16"
+  },
+  {
+    "id": "1916457580106506708",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 19:41:07",
+    "content": "4月23日，在日本回收二手设备的包先生称，“日本的废品回收市场，被我们中国人所垄断”三十年前，中国人来到日本和外国商家竞争，因中国人主动上门免费高价回收，导致竞争进一步激化。他表示，这就是我们能占领日本市场，并把其他国家赶走的原因。他还称：“我们所到之处，寸草不生，走别人的路让别人无路可走”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916457580106506708_0.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916457580106506708_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/27/1916457580106506708_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 11,
+    "retweets": 4,
+    "views": 4106,
+    "originVideos": "https://video.twimg.com/amplify_video/1916456917821759488/vid/avc1/320x568/ya3kG8CpZw1ST1mw.mp4?tag=16"
   }
 ]
