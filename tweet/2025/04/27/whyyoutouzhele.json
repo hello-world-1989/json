@@ -448,5 +448,23 @@
     "retweets": 4,
     "views": 4106,
     "originVideos": "https://video.twimg.com/amplify_video/1916456917821759488/vid/avc1/320x568/ya3kG8CpZw1ST1mw.mp4?tag=16"
+  },
+  {
+    "id": "1916464944595239019",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 20:10:23",
+    "content": "4月25日，北京杨航远律师发文，指出中国看守所存在一系列问题：1：饮食短缺，看守所只能维持基本的生理需求状态，主食基本都是馒头米粉，2：会见场所短缺，全国看守所在安排律师会见嫌疑人的场所方面，都很局促，要么会见场所非常糟糕，要么会见房间很少，律师会见还要排队抢号。3：各地的看守所还有很多奇奇怪怪的土规定，纯粹就是为了找你的麻烦。 \n 杨航远律师表示，看守所的功能异化，根源在于监管理念的根本错位—— 将 \"保障诉讼\" 异化为 \"惩罚预演\"，将 \"临时监管\" 扭曲为 \"人格改造\"。回归法律定位，首先需要确立 \"被监管者权力清单\"，明确除限制人身自由外，其公民基本权利不受额外剥夺。建立全国统一的监管标准，消除地方性法规带来的权利救济差异，是当务之急。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916464944595239019_0.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916464944595239019_1.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916464944595239019_2.jpg,/tweet/image/whyyoutouzhele/2025/04/27/1916464944595239019_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 4,
+    "retweets": 6,
+    "views": 4472,
+    "originVideos": ""
   }
 ]
