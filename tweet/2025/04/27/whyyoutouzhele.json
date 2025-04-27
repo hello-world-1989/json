@@ -412,5 +412,23 @@
     "retweets": 2,
     "views": 710,
     "originVideos": ""
+  },
+  {
+    "id": "1916449480947454240",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 19:08:56",
+    "content": "近日，媒体报道称，一名脑瘫女骑手七年累计送了73000多单外卖，换了六辆车。一名博主称，把这些东西当成正能量宣传，是这个社会的悲哀。像严重残疾的人应该得到社会的保护和保障，而不是靠常人无法承受的付出去获得生存，我觉得这是社会最大的悲哀，我们应该反思我们为什么没能照顾好他们。 https://t.co/P3OIDHg2an",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/27/1916449480947454240_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/27/1916449480947454240_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 1,
+    "views": 146,
+    "originVideos": "https://video.twimg.com/amplify_video/1916449112733696000/vid/avc1/320x568/PX_MhlOIhHRZur52.mp4?tag=16"
   }
 ]
