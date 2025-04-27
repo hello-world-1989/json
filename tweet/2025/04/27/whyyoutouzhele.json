@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 451,
     "originVideos": ""
+  },
+  {
+    "id": "1916419827280851273",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-27 17:11:06",
+    "content": "4月26日，广西柳州。一男子买了一只狗后因不满意要求退款，商家因为小狗没问题拒绝退款，男子一气之下将狗摔死，路人上前阻止无果，心疼抹泪。 https://t.co/rRiJuc7FjR",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/27/1916419827280851273_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 15,
+    "retweets": 4,
+    "views": 4854,
+    "originVideos": "https://video.twimg.com/amplify_video/1916419259917570049/vid/avc1/320x600/DivpFBOtEqd2p-8w.mp4?tag=16"
   }
 ]
