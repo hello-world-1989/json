@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 1029,
     "originVideos": ""
+  },
+  {
+    "id": "1916868702336868629",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 22:54:46",
+    "content": "4月27日，广西钦州。视频显示，当地一所小学门口，一辆黑色无牌轿车拒捕试图逃离现场，最终车上的司机被警察合力制服，警方在车后座搜出了砍刀等器械。\n 当地居民称，事发于实验小学后门“听说开台没车牌的车去撞学生”",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916868702336868629_0.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916868702336868629_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/28/1916868702336868629_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 7,
+    "retweets": 3,
+    "views": 3065,
+    "originVideos": "https://video.twimg.com/amplify_video/1916868472904273920/vid/avc1/320x564/2jAf9sW4Fdo6lXFv.mp4?tag=16"
   }
 ]
