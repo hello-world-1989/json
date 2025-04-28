@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 1360,
     "originVideos": ""
+  },
+  {
+    "id": "1916806580206817720",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 18:47:55",
+    "content": "朝鲜首次证实向俄罗斯派遣军队参加俄乌战争，还称朝鲜军队为夺回乌军在库尔斯克地区控制的俄罗斯领土做出了贡献。\n 朝鲜劳动党中央军事委员会在周一向朝鲜官方朝中社提供的一份声明中称，朝鲜领导人金正恩已派遣军队与俄罗斯军队并肩作战，这是莫斯科与平壤之间共同防御条约的一部分。 https://t.co/MbXFBCKCgG",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916806580206817720_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 4,
+    "retweets": 1,
+    "views": 493,
+    "originVideos": ""
   }
 ]
