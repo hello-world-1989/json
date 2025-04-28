@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 336,
     "originVideos": ""
+  },
+  {
+    "id": "1916839183752348060",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 20:57:29",
+    "content": "4月28日，胡锡进发文称：“昨晚在国内社交平台发文，抨击特朗普使用旧图片移花接木，制造海上垃圾带是“太平洋上的中国礼物”的虚假信息” 胡锡进还称他将同样的内容发布在了X(推特)上。对此网民问胡锡进：“凭什么你能翻墙？我也想上X骂特朗普”“我要举报你翻墙” https://t.co/WEjCtxCUdg",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916839183752348060_0.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916839183752348060_1.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916839183752348060_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 2,
+    "views": 813,
+    "originVideos": ""
   }
 ]
