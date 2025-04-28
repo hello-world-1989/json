@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 493,
     "originVideos": ""
+  },
+  {
+    "id": "1916807769484833250",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 18:52:39",
+    "content": "朝鲜首次证实向俄罗斯派遣军队参加俄乌战争，还称朝鲜军队为夺回乌军在库尔斯克地区控制的俄罗斯领土做出了贡献。\n 朝鲜劳动党中央军事委员会在周一向朝鲜官方朝中社提供的一份声明中称，朝鲜领导人金正恩已派遣军队与俄罗斯军队并肩作战，这是莫斯科与平壤之间共同防御条约的一部分。\n 俄罗斯国防部公布了朝鲜士兵作战训练画面。视频中，朝军士兵完成了包括自动步枪在内的多种武器实弹射击，并进行了手榴弹投掷训练。此外，画面里所有朝鲜士兵的头盔上都佩戴着圣乔治丝带。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916807769484833250_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/28/1916807769484833250_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 6,
+    "retweets": 2,
+    "views": 2933,
+    "originVideos": "https://video.twimg.com/amplify_video/1916807628694724608/vid/avc1/480x270/xPFZthMkx0eyvdaP.mp4?tag=16"
   }
 ]
