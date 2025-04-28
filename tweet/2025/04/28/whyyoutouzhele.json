@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 1719,
     "originVideos": ""
+  },
+  {
+    "id": "1916716012466307424",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 12:48:02",
+    "content": "4月28日 凤凰网报道“俄军官称部队有朝鲜人美国欧洲都害怕，吓死敌人”登上微博热搜。 https://t.co/lJBdZHlHe4",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916716012466307424_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/28/1916716012466307424_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 481,
+    "originVideos": "https://video.twimg.com/amplify_video/1916715366769885184/vid/avc1/480x270/oTHdcQ5Q01SNA24n.mp4?tag=16"
   }
 ]
