@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 1905,
     "originVideos": ""
+  },
+  {
+    "id": "1916939359317590145",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 03:35:32",
+    "content": "https://t.co/JgSoAJUttQ 上海卡倍亿新能源科技有限公司员工在网上发帖称，有同事连续夜班后回家猝死。但公司篡改上班打卡记录，把连续夜班改成了白班，一个月工作28天每天12个小时。 https://t.co/Cl3kuhJ3bK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/29/1916939359317590145_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 2,
+    "views": 682,
+    "originVideos": "https://video.twimg.com/amplify_video/1916939106979823616/vid/avc1/320x568/4sH4Wb9Aga6igJRp.mp4?tag=16"
   }
 ]
