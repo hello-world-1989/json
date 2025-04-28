@@ -502,5 +502,23 @@
     "retweets": 1,
     "views": 498,
     "originVideos": ""
+  },
+  {
+    "id": "1916829331516739746",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 20:18:20",
+    "content": "4月28日，俄罗斯克里姆林宫宣布，俄罗斯5月8日凌晨零时起在乌克兰停火3天，至5月11日凌晨零时，该时间为俄罗斯卫国战争胜利80周年庆典期间。克里姆林宫称，乌克兰也应该在当地卫国战争胜利80周年之际宣布休战。又指如果乌克兰方面在纪念卫国战争胜利80周年期间违反停火协议，俄罗斯武装力量将作出适当、有效的回应。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916829331516739746_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 3,
+    "retweets": 0,
+    "views": 336,
+    "originVideos": ""
   }
 ]
