@@ -646,5 +646,23 @@
     "retweets": 1,
     "views": 3023,
     "originVideos": ""
+  },
+  {
+    "id": "1916881089882361922",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 23:44:00",
+    "content": "4月28日，多位博主称，评论员“古原”疑似因批评京东和刘强东，今日被警方带走。博主“小柯柯基基”称，截至他发稿(28日18:12)，“古原”仍处于失联状态。“小柯柯基基”称，古原在近日接连发文批评刘强东的商业模式，以及刘强东通过系统性公关策略将商业行为包装为“道德标杆”的运作逻辑。目前古原批评刘强东的文章均已被删除。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916881089882361922_0.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916881089882361922_1.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916881089882361922_2.jpg,/tweet/image/whyyoutouzhele/2025/04/28/1916881089882361922_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 6,
+    "retweets": 5,
+    "views": 3940,
+    "originVideos": ""
   }
 ]
