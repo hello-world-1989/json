@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 3221,
     "originVideos": ""
+  },
+  {
+    "id": "1916712997520814190",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 12:36:04",
+    "content": "4月28日 路透社发布文章称，2024年世界各国在军事上支出总计超过2.7万亿美元，与23年相比增长达到9.7%，创下历史新高，也是自冷战以来，世界各国军费增长幅度最大的一年。\n俄罗斯的军事支出在2024年估计达到1490亿美元，比2023年增长了38%，是2015年的两倍。这占俄罗斯GDP7.1%，占所有政府支出的19%。\n乌克兰战争也导致欧洲的军事支出增长了17%，使欧洲军费超过了冷战结束的水平。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916712997520814190_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1719,
+    "originVideos": ""
   }
 ]
