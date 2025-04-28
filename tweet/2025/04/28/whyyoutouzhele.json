@@ -538,5 +538,23 @@
     "retweets": 2,
     "views": 813,
     "originVideos": ""
+  },
+  {
+    "id": "1916843944521994490",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-28 21:16:24",
+    "content": "据格隆汇数据：在华外企占中国贸易总额的比例从2008年的55%下降至2024年的29.6%，2024年，外企占中国贸易顺差的比例为16%。在贸易战下，外企面临着征收双重关税的影响，这很可能会导致中国外国直接投资流入进一步下降。 https://t.co/KUpKUjyLJ2",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/28/1916843944521994490_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1136,
+    "originVideos": ""
   }
 ]
