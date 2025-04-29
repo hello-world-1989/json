@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 2905,
     "originVideos": ""
+  },
+  {
+    "id": "1917196046637338992",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 20:35:31",
+    "content": "4月29日，媒体人彭远文整理发布了《关于中国养老制度每个人都应该知道的5个常识》文章对比了中国体制内、企业职工、城乡居民的养老待遇差异。 https://t.co/mjxovstABx",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/29/1917196046637338992_0.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917196046637338992_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 2,
+    "retweets": 3,
+    "views": 1975,
+    "originVideos": ""
   }
 ]
