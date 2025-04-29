@@ -664,5 +664,23 @@
     "retweets": 2,
     "views": 1418,
     "originVideos": ""
+  },
+  {
+    "id": "1917188255835132367",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 20:04:34",
+    "content": "29日上午，习近平在上海考察时，来到位于徐汇区的“模速空间”大模型创新生态社区调研。期间，习近平走进人工智能产品体验店，还饶有兴致地戴上智能眼镜亲身体验。 https://t.co/OGojXC58UP",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/29/1917188255835132367_0.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917188255835132367_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 17,
+    "retweets": 1,
+    "views": 2905,
+    "originVideos": ""
   }
 ]
