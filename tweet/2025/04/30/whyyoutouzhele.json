@@ -16,5 +16,23 @@
     "retweets": 0,
     "views": 881,
     "originVideos": ""
+  },
+  {
+    "id": "1917269607649534100",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 01:27:50",
+    "content": "4月28日，安徽合肥。一名女子称，自己明明已经交了300元摆摊费，结果还是遭到城管刁难，城管们将几个垃圾桶摆放在自己的摊位前，阻止自己经营。 https://t.co/Jj8wHKinJf",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/30/1917269607649534100_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 3,
+    "retweets": 1,
+    "views": 520,
+    "originVideos": "https://video.twimg.com/amplify_video/1917268997164396544/vid/avc1/320x568/tJzza3-qAM03lgLH.mp4?tag=16"
   }
 ]
