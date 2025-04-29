@@ -52,5 +52,23 @@
     "retweets": 3,
     "views": 3147,
     "originVideos": ""
+  },
+  {
+    "id": "1917339290226282571",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 06:04:43",
+    "content": "有该学校的学生投稿更正内容称，讲座和女生跳楼其实没有直接关联，讲座早在21号就已经准备好了。不过，讲座的确有批评女性不自爱，吃垃圾食品、勾引男性导致生育力下降的内容，有学生发表不同观点后也被学校施压删除。 https://t.co/tJt7JcnJzi",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917339290226282571_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 706,
+    "originVideos": ""
   }
 ]
