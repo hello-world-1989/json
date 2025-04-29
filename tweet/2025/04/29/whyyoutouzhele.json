@@ -556,5 +556,41 @@
     "retweets": 2,
     "views": 4484,
     "originVideos": "https://video.twimg.com/amplify_video/1917164642935414784/pl/HmVKHi1cYSCMiT0j.m3u8?tag=16&v=f6c"
+  },
+  {
+    "id": "1917174351281209593",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 19:09:19",
+    "content": "2023年7月，王辰院士参加北京协和医学院的毕业典礼，发表演讲寄语毕业生时提到，董袭莹是哥伦比亚大学经济学专业本科生。\n 不过目前，由于很多网友对董袭莹的本科学历提出了质疑；此外如今再搜索王辰院士的这篇演讲全文会发现，提及董袭莹的语句已经被删去。 https://t.co/CVsAYcFpwI",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/29/1917174351281209593_0.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917174351281209593_1.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917174351281209593_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 38,
+    "originVideos": ""
+  },
+  {
+    "id": "1917172172755554756",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 19:00:39",
+    "content": "近日，北京中日友好医院肖飞事件曝光，引发网民对协和4+4的讨论，北京朝阳医院普外科主治医师曾维根称，美国也有4+4模式，但是美国医学院校准入门槛非常高，需要通过全国的医学入学考试，并且四年毕业后不能马上从事医学专业，需要先找一个医院去做住院医师规范化的培训，培训至少需要三年。培训通过后，还要通过美国的执业医师资格考试，最后才有资格去当医生，过程非常漫长。\n 而协和是自主招生，没有全国考试，靠申请面试和笔试。此外，协和的准入机制、考核机制、没有美国严格，并且4年毕业后就可以从事医生的工作。当然也要参加规培，但是国内的规培水平参差不齐。理论上协和的规培也需要三年。但是可以通过一些方式减少规培时间，像事件当事人董袭莹，将规培时间从三年减到了一年，还能想办法不轮转到骨科，这种事情在美国不可能发生。他表示，国内医学教学培训比较混乱。难免会有漏洞和暗箱操作。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/29/1917172172755554756_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 3,
+    "retweets": 3,
+    "views": 4284,
+    "originVideos": "https://video.twimg.com/amplify_video/1917169022329917440/vid/avc1/640x360/ETONhWGwqvaMDboC.mp4?tag=16"
   }
 ]
