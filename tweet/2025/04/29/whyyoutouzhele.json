@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 886,
     "originVideos": "https://video.twimg.com/amplify_video/1917206199076024320/vid/avc1/360x270/9MgSrxZRUuVb4STQ.mp4?tag=16"
+  },
+  {
+    "id": "1917210223749824772",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 21:31:52",
+    "content": "视频补充：伤者被消防员抬出。 https://t.co/NHjW2AIO43",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/29/1917210223749824772_0.jpg,/tweet/video/whyyoutouzhele/2025/04/29/1917210223749824772_1.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2910,
+    "originVideos": "https://video.twimg.com/amplify_video/1917209703136083968/vid/avc1/490x270/0kbPU130XTjxWwZQ.mp4?tag=16,https://video.twimg.com/amplify_video/1917209763273990144/vid/avc1/320x488/B837E-FcgV_pf9c9.mp4?tag=16"
   }
 ]
