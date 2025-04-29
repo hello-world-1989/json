@@ -754,5 +754,23 @@
     "retweets": 1,
     "views": 2910,
     "originVideos": "https://video.twimg.com/amplify_video/1917209703136083968/vid/avc1/490x270/0kbPU130XTjxWwZQ.mp4?tag=16,https://video.twimg.com/amplify_video/1917209763273990144/vid/avc1/320x488/B837E-FcgV_pf9c9.mp4?tag=16"
+  },
+  {
+    "id": "1917215981027623190",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-29 21:54:44",
+    "content": "昨天自媒体博主“古原”因多次发文批评京东和刘强东，被六名警察带走并失联数小时。当天晚上古原发文称，他被要求解释最近的文章细节，甚至要解释多年前的文章，从早上11点到晚上9点，真正问问题的时间只有1个多小时，剩下的时间，他被要求穿上黄色背心，待在一个铁栅栏的房间里，然后是验尿，录入十个指头的指纹、面相、声纹等生物信息。最终古原迫于压力删除了所有批评京东的文章。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/29/1917215981027623190_0.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917215981027623190_1.jpg,/tweet/image/whyyoutouzhele/2025/04/29/1917215981027623190_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 7,
+    "retweets": 2,
+    "views": 3247,
+    "originVideos": ""
   }
 ]
