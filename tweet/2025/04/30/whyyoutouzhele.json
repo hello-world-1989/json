@@ -358,5 +358,23 @@
     "retweets": 1,
     "views": 4210,
     "originVideos": "https://video.twimg.com/amplify_video/1917346666425851904/vid/avc1/480x270/6216bUyadnemcFN_.mp4?tag=16"
+  },
+  {
+    "id": "1917474248567980195",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 15:01:00",
+    "content": "学生投稿\n山东省曲阜市杏坛中学，一女生跳楼自杀。学生间的说法是，女生跳楼是因为校园霸凌。但学校却将事件定性为意外事件。目前，校方严格管控信息，禁止讨论和传播。学生在微信中谈论竟然接到了本地警察的电话警告。 https://t.co/ive6n9ltz5",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917474248567980195_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 3,
+    "retweets": 2,
+    "views": 3949,
+    "originVideos": ""
   }
 ]
