@@ -790,5 +790,41 @@
     "retweets": 3,
     "views": 3906,
     "originVideos": "https://video.twimg.com/amplify_video/1917595349134499842/vid/avc1/320x564/_bEZWaDco8iG8BhT.mp4?tag=16"
+  },
+  {
+    "id": "1917607066077913103",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 23:48:46",
+    "content": "至于为什么大家都不爱去电影院看电影了，有网友表示是因为穷，电影票动辄40-80元一张，还不如在家里用手机或电视看。 https://t.co/zDoTrmY3mq",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917607066077913103_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917607066077913103_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/30/1917607066077913103_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 201,
+    "originVideos": "https://video.twimg.com/amplify_video/1917606218983694338/pl/sIWGICv6b45pzxSz.m3u8?tag=16"
+  },
+  {
+    "id": "1917605637317615689",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 23:43:05",
+    "content": "公众号“犀牛娱乐”：中国电影市场已退回到2012年水准。截至目前，4月累计票房刚刚突破11亿大关，这意味着，中国电影市场，单月体量已倒退了13年之多，回到2012年水准。去掉口罩时期的市场表现外，列表显示：今年4月份表现已经比2012年4月还要低，比巅峰期的2017年有着明显的差距，较巅峰期下滑多达74%之多。\n 更可怕的是，要知道2012年全国只有3200多家影院，如今早已来到了1.1万+的影院数量，两者的效率根本不可同日而语。影院数量翻了接近4倍，票价亦是大幅的提升，但最终票房依然不如13年前，这肯定出现了问题...",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917605637317615689_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917605637317615689_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917605637317615689_2.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917605637317615689_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 9,
+    "retweets": 1,
+    "views": 3970,
+    "originVideos": ""
   }
 ]
