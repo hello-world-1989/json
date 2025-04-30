@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1917467453598363963",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 14:34:00",
+    "content": "4月28日，中国驻韩大使馆门口，有在韩中国人举标语为熊猫福宝维权。\n上周，也有韩国民间组织在中国驻韩大使馆门口示威抗议，要求四川熊猫中心停止虐待福宝，并更换把福宝养病的饲养员值徐翔。他们使用了汪文斌和前驻韩大使的发言，这两位曾公开宣称，福宝回到中国之后一定会得到善待。但实际情况和他们说的相反。福宝回到中国不断遭受神树坪基地的虐待，造成身体严重抽搐生病，明显消瘦。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917467453598363963_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917467453598363963_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917467453598363963_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/30/1917467453598363963_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 1,
+    "views": 4210,
+    "originVideos": "https://video.twimg.com/amplify_video/1917346666425851904/vid/avc1/480x270/6216bUyadnemcFN_.mp4?tag=16"
   }
 ]
