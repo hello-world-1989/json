@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 3180,
     "originVideos": ""
+  },
+  {
+    "id": "1917425342874280160",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 11:46:40",
+    "content": "4月29日 网信办牵头发布了手机“未成年人模式”，涵盖包括各大手机厂商和热门软件应用，家长将可以控制和监视孩子的应用使用情况，每日上网总时长等。\n网信办称“该模式将更好满足未成年人的精神文化需求。”\n各个应用商店将建立未成年人专区，相应热门应用也会提供该模式切换。\n华为、OPPO和中兴将在手机系统更新后提供未成年人模式，小米、荣耀和vivo则在发布的新机上搭载未成年人模式。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917425342874280160_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1125,
+    "originVideos": ""
   }
 ]
