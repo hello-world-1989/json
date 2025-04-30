@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 3487,
     "originVideos": "https://video.twimg.com/amplify_video/1917508410666524672/vid/avc1/320x576/OtLay7BlO2zVOR5z.mp4?tag=16"
+  },
+  {
+    "id": "1917516026381754670",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 17:47:01",
+    "content": "4月30日(发布) 有用户在抖音上发布一张1989年国庆节天安门的图片，网友们纷纷在评论区用各种方式隐晦的表达64事件，随后所有评论被平台清空。 https://t.co/GvBipRjzMU",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917516026381754670_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917516026381754670_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917516026381754670_2.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917516026381754670_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1028,
+    "originVideos": ""
   }
 ]
