@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 1687,
     "originVideos": ""
+  },
+  {
+    "id": "1917582070890782852",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 22:09:27",
+    "content": "健康博主“蝶谷小青牛”发文五问协和医院教授、中国工程院士邱贵兴： https://t.co/5LquiOj5T0",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917582070890782852_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917582070890782852_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917582070890782852_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 57,
+    "originVideos": ""
   }
 ]
