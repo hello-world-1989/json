@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 3949,
     "originVideos": ""
+  },
+  {
+    "id": "1917477499040325893",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 15:13:55",
+    "content": "南美洲国家圭亚那 一名11岁女孩因疑似遭受暴力后溺水身亡，引发圭亚那全国举行抗议活动。抗议随后演变成骚乱，多条高速路被纵火，有消息称很多中国人在当地开的超市遭到洗劫，还有多名中国人受伤。\n 当地时间4月29日，圭亚那内政部长罗伯逊·本宣布，由于抗议活动演变成破坏活动，将实施全国宵禁，时间从30日零时30分到凌晨5时。",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917477499040325893_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917477499040325893_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917477499040325893_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/30/1917477499040325893_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2513,
+    "originVideos": "https://video.twimg.com/amplify_video/1917477346078248960/vid/avc1/320x568/wVuNifzQkTwjKMNI.mp4?tag=16"
   }
 ]
