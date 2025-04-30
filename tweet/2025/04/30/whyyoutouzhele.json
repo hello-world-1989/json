@@ -448,5 +448,41 @@
     "retweets": 2,
     "views": 4435,
     "originVideos": ""
+  },
+  {
+    "id": "1917511154576023699",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 17:27:39",
+    "content": "美国国家科学院周二在官网上公布新当选的院士和外籍院士，其中，屠呦呦当选为美国国家科学院外籍院士，截至目前，屠呦呦未入选中国院士。\n 2015年10月，屠呦呦以“从中医药古典文献中获取灵感，先驱性地发现青蒿素，开创疟疾治疗新方法”，获得诺贝尔生理学或医学奖。 https://t.co/A52rMRfz2x",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917511154576023699_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 881,
+    "originVideos": ""
+  },
+  {
+    "id": "1917509396084711707",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 17:20:40",
+    "content": "视频补充： https://t.co/0nJ6tSdOZi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/04/30/1917509396084711707_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3487,
+    "originVideos": "https://video.twimg.com/amplify_video/1917508410666524672/vid/avc1/320x576/OtLay7BlO2zVOR5z.mp4?tag=16"
   }
 ]
