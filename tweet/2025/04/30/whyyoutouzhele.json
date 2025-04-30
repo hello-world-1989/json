@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 1211,
     "originVideos": ""
+  },
+  {
+    "id": "1917440107638055232",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 12:45:20",
+    "content": "4月30日 公安部网安局发布个人信息保护指南，称有不法分子正通过非法获取和交易等方式，精准推销、盗用身份形成黑产链条。结果评论区充满了网友对实名制的吐槽，有网友评论“没有实名制，哪来的信息泄漏？运营商不泄漏，哪来的诈骗信息？”\n还有网友让公安先查查协和董小姐“诈骗只谋财，董小姐真害命” https://t.co/JuWmbQGfx2",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917440107638055232_0.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917440107638055232_1.jpg,/tweet/image/whyyoutouzhele/2025/04/30/1917440107638055232_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2253,
+    "originVideos": ""
   }
 ]
