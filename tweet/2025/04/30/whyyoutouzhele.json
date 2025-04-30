@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 4014,
     "originVideos": ""
+  },
+  {
+    "id": "1917430252709765167",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-04-30 12:06:11",
+    "content": "4月30日 微博热搜前15条中有5条关于董袭莹，一起个人情感事件已然转变为资源的公平分配问题。\n有网友整理了她诸多学术疑点：她是如何进入协和4+4模式的？她的研究方向为妇科影像，但博士论文指导老师却是骨科院士，内科学位却规培在胸外科，目前工作在泌尿外科，如何实现这种跨领域和职业路径的跳跃？\n董某莹在论文致谢中感谢了多位医学界大佬，甚至包括其父母，而其父母分别从事冶金和工程领域，却在她的医学论文中挂名，这又是怎么回事？她又是何德何能，可以得到众多大佬的指导？",
+    "images": "/tweet/image/whyyoutouzhele/2025/04/30/1917430252709765167_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1078,
+    "originVideos": ""
   }
 ]
