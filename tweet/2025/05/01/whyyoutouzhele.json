@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 1202,
     "originVideos": ""
+  },
+  {
+    "id": "1917712022852030504",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 06:45:50",
+    "content": "网友投稿 https://t.co/cQ4g8fRUEQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917712022852030504_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 758,
+    "originVideos": ""
+  },
+  {
+    "id": "1917710804259918276",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 06:40:59",
+    "content": "作为对比，有网友总结了普通医学生规培期间自杀的事件。 https://t.co/o7tYWRywdx",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917710804259918276_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1555,
+    "originVideos": ""
   }
 ]
