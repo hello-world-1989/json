@@ -70,5 +70,23 @@
     "retweets": 1,
     "views": 91,
     "originVideos": ""
+  },
+  {
+    "id": "1918042925088342376",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 04:40:43",
+    "content": "5月1日，特朗普在真相社交上表示：所有购买伊朗石油或石化产品的行为必须停止，任何从伊朗购买石油或石化产品的国家或个人都将立即受到二级制裁。他们将不被允许以任何方式、形式或形态与美国做生意。\n今年2月，特朗普恢复了对伊朗的“极限施压”政策，其中包括努力将伊朗的石油出口降至零，并帮助阻止伊朗发展核武器。据悉，中国是伊朗原油的最大买家。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918042925088342376_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2176,
+    "originVideos": ""
   }
 ]
