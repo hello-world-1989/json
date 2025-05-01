@@ -106,5 +106,41 @@
     "retweets": 0,
     "views": 85,
     "originVideos": "https://video.twimg.com/amplify_video/1918048014309994496/vid/avc1/480x270/pgJ1OUGO--NEu8se.mp4?tag=16"
+  },
+  {
+    "id": "1918054033987912154",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 05:24:52",
+    "content": "有学生跟帖补充，称北流市其他高中五一假期都放5天，只有北流市高级中学放3天，要求所有学生五月三日晚上去学校补课，不执行国务院、教育部、广西教育厅等文件精神，文件规定严禁各地各校以任何形式强制或打着“自愿”、签订“自愿申请书”等名义变相强制补课，严禁组织集体补课、安排考试、统一答疑，严肃查处收费补课，学生没有完整假期。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918054033987912154_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 562,
+    "originVideos": ""
+  },
+  {
+    "id": "1918053572517802432",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 05:23:02",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n玉林市高级中学强迫高三学生5月1日晚上回学校补课，高三学生只放假一天，补课4天，学生没有完整的假期，学校说了高三要补课，假期4天安排测试，也会安排教师坐班辅导，答疑，违反教育部关于严禁中小学节假日补课的文件规定。 https://t.co/BvkQybWvlQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918053572517802432_0.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918053572517802432_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "views": 884,
+    "originVideos": ""
   }
 ]
