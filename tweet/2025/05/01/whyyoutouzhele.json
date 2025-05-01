@@ -484,5 +484,23 @@
     "retweets": 1,
     "views": 538,
     "originVideos": ""
+  },
+  {
+    "id": "1917877497468969425",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 17:43:22",
+    "content": "广州医科大附属中医院肛肠科主任医师陈诗伟，质疑通过协和4+4毕业的博士生水平。从我个人的外科生涯来说，临床医生的经验积累是没法通过课本达到的，如果我躺在病床上由他们主刀，我想想都觉得可怕。 https://t.co/uQEGqBUoVT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/01/1917877497468969425_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 2,
+    "retweets": 3,
+    "views": 3022,
+    "originVideos": "https://video.twimg.com/amplify_video/1917874711259979776/vid/avc1/320x568/NVxVSxY_NzEyC75_.mp4?tag=16"
   }
 ]
