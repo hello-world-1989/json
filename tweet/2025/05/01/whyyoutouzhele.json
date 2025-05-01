@@ -358,5 +358,41 @@
     "retweets": 1,
     "views": 4036,
     "originVideos": ""
+  },
+  {
+    "id": "1917809960098095437",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 13:15:00",
+    "content": "近日，有网友在小红书上发布了云南大学（211，双一流B类）的就业率。表格上显示，截至3月24日，云南大学研究生仅有21%的就业率。 https://t.co/XBGM0PISb8",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917809960098095437_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 4,
+    "views": 2537,
+    "originVideos": ""
+  },
+  {
+    "id": "1917808778432634958",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 13:10:18",
+    "content": "战地记者诸浩正透露，一名远赴俄罗斯参军的中国人张育侨在近日阵亡，诸浩正称，张育侨来自内蒙古，“他一直渴望能够进入特种部队，为了消灭纳粹份子，保卫这片土地，他毅然投身于这场充满危险的战斗中，他最大的梦想就是成为俄罗斯公民，过上平凡幸福的生活，但命运往往让人措手不及，他未能实现这个梦想，牺牲在了胜利前夕”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917808778432634958_0.jpg,/tweet/image/whyyoutouzhele/2025/05/01/1917808778432634958_1.jpg,/tweet/image/whyyoutouzhele/2025/05/01/1917808778432634958_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2950,
+    "originVideos": ""
   }
 ]
