@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 22,
     "originVideos": ""
+  },
+  {
+    "id": "1918012293084004574",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 02:39:00",
+    "content": "学校声明，那位跳楼的女生是因为心理疾病休学在家时跳楼的，并非因为早恋被开除而跳楼。",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 91,
+    "originVideos": ""
   }
 ]
