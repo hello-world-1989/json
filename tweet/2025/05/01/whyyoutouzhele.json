@@ -520,5 +520,23 @@
     "retweets": 2,
     "views": 2575,
     "originVideos": ""
+  },
+  {
+    "id": "1917887232104677688",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 18:22:03",
+    "content": "4月30日，中国统计局发布数据显示，4月份官方制造业采购经理指数 (PMI) 降至49，录得16个月以来最大降幅，也低于路透社的49.8的预测值。\n 路透社报道称，制造业PMI的骤降同中国官方应对关税战冲击的自信形成鲜明对比，表明中国内需依然疲软，工厂难以在海外找到替代买家。摩根士丹利首席中国经济学家邢自强在彭博电视台受访时认为，情况肯定比预期更糟，并预测北京会推出更多刺激措施。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917887232104677688_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 5,
+    "retweets": 1,
+    "views": 3102,
+    "originVideos": ""
   }
 ]
