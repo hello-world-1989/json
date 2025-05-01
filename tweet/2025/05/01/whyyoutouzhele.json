@@ -556,5 +556,23 @@
     "retweets": 0,
     "views": 3169,
     "originVideos": ""
+  },
+  {
+    "id": "1917896136020689390",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-01 18:57:26",
+    "content": "北京协和医学院校长王辰院士先前在接受采访时谈4+4教育体系：就是选拔那些素质最优秀的、品德最高尚的、最有悲悯之心的学生，来组建中国医生的梦之队。 https://t.co/jKSKikUbzp",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/01/1917896136020689390_0.jpg,/tweet/image/whyyoutouzhele/2025/05/01/1917896136020689390_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/01/1917896136020689390_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 634,
+    "originVideos": "https://video.twimg.com/amplify_video/1917894746909073409/vid/avc1/320x504/lDPU7lmPY6watehN.mp4?tag=16"
   }
 ]
