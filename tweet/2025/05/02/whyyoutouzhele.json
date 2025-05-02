@@ -430,5 +430,41 @@
     "retweets": 0,
     "views": 2843,
     "originVideos": ""
+  },
+  {
+    "id": "1918169765065179622",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 13:04:44",
+    "content": "4月30日，江苏。昆山立臻精密厂宿舍的喇叭通知员工们今晚正常上夜班。\n 有人评论：“这个视频让我想到了当年在看守所的日子，大喇叭一喊，弹跳起床” https://t.co/ju9If1XnzV",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918169765065179622_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918169765065179622_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1780,
+    "originVideos": "https://video.twimg.com/amplify_video/1918169671754473472/vid/avc1/720x1280/PG7BTJr7sAEcLo4W.mp4?tag=16"
+  },
+  {
+    "id": "1918168746990158098",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 13:00:41",
+    "content": "近日 小米SU7 Ultra挖孔版终于开始交车，却被提车网友发现其价钱4.2万元选装的碳纤维机盖空气动力学套件只是样子货，开孔实际并未连通，小米涉嫌虚假宣传。\n而之前小米和雷军曾多次宣传该碳纤维机盖开孔选配将提供额外的空气动力学性能和散热能力。 https://t.co/goW0pLjCX3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918168746990158098_0.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918168746990158098_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918168746990158098_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 4,
+    "retweets": 3,
+    "views": 3620,
+    "originVideos": "https://video.twimg.com/amplify_video/1918167523541041152/vid/avc1/320x580/Lpn_JJbIu77DmhI5.mp4?tag=16"
   }
 ]
