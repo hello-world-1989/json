@@ -736,5 +736,23 @@
     "retweets": 1,
     "views": 2721,
     "originVideos": ""
+  },
+  {
+    "id": "1918281199191277949",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 20:27:32",
+    "content": "5月2日，四川巴中。一名瘸腿大爷去邮政银行想把100多元的养老金全部取出来，由于自动取款机只取出了100元整钞，于是大爷又去柜台想取出剩余的零钱，结果遭到工作人员一顿训斥。 https://t.co/x8CqP7Yq81",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918281199191277949_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 959,
+    "originVideos": "https://video.twimg.com/amplify_video/1918279593863331847/vid/avc1/320x564/uBj3HS9QYxjHtThP.mp4?tag=16"
   }
 ]
