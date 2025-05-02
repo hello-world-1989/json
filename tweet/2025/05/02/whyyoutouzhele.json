@@ -772,5 +772,23 @@
     "retweets": 0,
     "views": 712,
     "originVideos": ""
+  },
+  {
+    "id": "1918306934807253073",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 22:09:48",
+    "content": "爱尔兰监管机构数据保护委员会 (DPC) 周五表示，TikTok因将欧洲用户数据传输至中国，违反了欧盟《通用数据保护条例》对其罚款5.3亿欧元，并要求TikTok在6个月内使其数据处理合规。\n 委员会副主席多伊尔表示，TikTok没有按照数据保护委员会要求的那样，保证其欧洲用户数据能够像在欧盟一样受到保护。多伊尔指出，该公司未能考虑在中国《反恐法》和《反间谍法》的框架下，中国当局可能访问来自欧洲的数据的情况。\n TikTok表示强烈反对这一裁决，计划对这一裁决提起上诉。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918306934807253073_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
