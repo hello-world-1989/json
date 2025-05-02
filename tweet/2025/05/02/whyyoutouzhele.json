@@ -250,5 +250,23 @@
     "retweets": 1,
     "views": 1905,
     "originVideos": ""
+  },
+  {
+    "id": "1918100625436336169",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 08:30:00",
+    "content": "广西今年以来也发生大旱，有年长的农民表示，此次旱情严重程度几十年罕见，已经超过63年的大旱了。长期干旱的土壤在一场雨后还发生多处坍塌。 https://t.co/XL7IH2rkeY",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918100625436336169_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 3,
+    "retweets": 3,
+    "views": 2616,
+    "originVideos": "https://video.twimg.com/amplify_video/1918054737745780736/vid/avc1/320x568/O9M4gOi09i6k5MbC.mp4?tag=16"
   }
 ]
