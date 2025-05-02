@@ -592,5 +592,23 @@
     "retweets": 1,
     "views": 2574,
     "originVideos": "https://video.twimg.com/amplify_video/1918214713202311168/vid/avc1/320x640/bCbqUFMnjvh3A__X.mp4?tag=16"
+  },
+  {
+    "id": "1918223612387180919",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 16:38:42",
+    "content": "5月2日，丹山东核电在印度尼西亚的项目中，拖欠工人工资和扣押工人护照，工人们站住来维权，希望有关部门看到能出手解决。 https://t.co/gHhfKhxSG7",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918223612387180919_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 1,
+    "views": 131,
+    "originVideos": "https://video.twimg.com/amplify_video/1918221938352373762/vid/avc1/320x608/Zes3ASPZWRs-Wm5_.mp4?tag=16"
   }
 ]
