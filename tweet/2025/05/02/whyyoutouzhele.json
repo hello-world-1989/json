@@ -502,5 +502,41 @@
     "retweets": 5,
     "views": 4550,
     "originVideos": "https://video.twimg.com/amplify_video/1918183997194330112/vid/avc1/320x568/w_E2ea_ChKxuIYdW.mp4?tag=16,https://video.twimg.com/amplify_video/1918184036733992962/pl/TiUHTkj5rF62iZdt.m3u8?tag=16"
+  },
+  {
+    "id": "1918197765131076078",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 14:56:00",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n河北内丘中学，班主任口头告诉学生，5月2日上午8：00就要返校，家长群没有任何关于返校时间的消息，同学之间都为这件事感到愤怒。 https://t.co/EIxXTWmuBX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918197765131076078_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1196,
+    "originVideos": ""
+  },
+  {
+    "id": "1918196255403954361",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 14:50:00",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n西安国际港务区铁一中陆港高级中学自推行双休以来，强制要求高中学生周日下午三点返校，美其名曰参加“答疑”，五一假期也是如此，教育局的人每天都在学校的小区查补课班，却对学校的违规行为视若无睹。 https://t.co/bvqLkngvmq",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918196255403954361_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2947,
+    "originVideos": ""
   }
 ]
