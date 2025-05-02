@@ -826,5 +826,41 @@
     "retweets": 1,
     "views": 1266,
     "originVideos": ""
+  },
+  {
+    "id": "1918329203818443024",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 23:38:17",
+    "content": "微博话题#福州车祸#被平台封禁。 https://t.co/9iMnonCffe",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918329203818443024_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 415,
+    "originVideos": ""
+  },
+  {
+    "id": "1918328853275263267",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 23:36:54",
+    "content": "5月2日傍晚，福州五一广场附近协和医院路口发生一起汽车冲撞行人事件。\n 视频显示，一辆SUV没有减速径直冲向人群，导致多人被撞倒，一辆的士被撞报废。 https://t.co/aqcDb33BaB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918328853275263267_0.jpg,/tweet/video/whyyoutouzhele/2025/05/02/1918328853275263267_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 6,
+    "retweets": 3,
+    "views": 1675,
+    "originVideos": "https://video.twimg.com/amplify_video/1918327837951705088/vid/avc1/320x628/5SykUf-Xpw9Kh29R.mp4?tag=16,https://video.twimg.com/amplify_video/1918327849209217024/vid/avc1/320x564/OXEhZPmhaIBuNu0u.mp4?tag=16"
   }
 ]
