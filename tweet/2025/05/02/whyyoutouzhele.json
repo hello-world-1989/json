@@ -304,5 +304,23 @@
     "retweets": 2,
     "views": 2178,
     "originVideos": ""
+  },
+  {
+    "id": "1918124281591968170",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 10:04:00",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n安徽省舒城中学高三，劳动节就放2天，二号晚上就要返校上晚自习，3号4号就要考学校自主命题的卷子，6号7号，15号16号，二十几号还要考试。学生暑假被强制托管，国庆就放了3天，清明节本来就放1天，后来有领导巡视才改到了3天，学生表示，帮帮我们吧！ https://t.co/uW1UmgCsmu",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918124281591968170_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1879,
+    "originVideos": ""
   }
 ]
