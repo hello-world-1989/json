@@ -880,5 +880,23 @@
     "retweets": 1,
     "views": 1720,
     "originVideos": "https://video.twimg.com/amplify_video/1918330257171697664/vid/avc1/320x564/-sjbKNqv0RrPS48j.mp4?tag=16,https://video.twimg.com/amplify_video/1918330295360864258/vid/avc1/320x568/GqD5x9lm5fffa23q.mp4?tag=16"
+  },
+  {
+    "id": "1918333073336483920",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 23:53:40",
+    "content": "警方通报：系司机操作不当，2人死亡，肇事司机已被控制。 https://t.co/6BfwS8tZhT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918333073336483920_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 0,
+    "views": 3072,
+    "originVideos": ""
   }
 ]
