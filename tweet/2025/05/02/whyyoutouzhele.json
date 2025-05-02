@@ -862,5 +862,23 @@
     "retweets": 3,
     "views": 1675,
     "originVideos": "https://video.twimg.com/amplify_video/1918327837951705088/vid/avc1/320x628/5SykUf-Xpw9Kh29R.mp4?tag=16,https://video.twimg.com/amplify_video/1918327849209217024/vid/avc1/320x564/OXEhZPmhaIBuNu0u.mp4?tag=16"
+  },
+  {
+    "id": "1918331116400054499",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 23:45:53",
+    "content": "现场一片狼藉，多人被撞倒，惨不忍睹。 https://t.co/dJI7Aux1cG",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918331116400054499_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918331116400054499_0.jpg,/tweet/video/whyyoutouzhele/2025/05/02/1918331116400054499_1.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1720,
+    "originVideos": "https://video.twimg.com/amplify_video/1918330257171697664/vid/avc1/320x564/-sjbKNqv0RrPS48j.mp4?tag=16,https://video.twimg.com/amplify_video/1918330295360864258/vid/avc1/320x568/GqD5x9lm5fffa23q.mp4?tag=16"
   }
 ]
