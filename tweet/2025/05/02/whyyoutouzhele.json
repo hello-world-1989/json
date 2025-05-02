@@ -484,5 +484,23 @@
     "retweets": 2,
     "views": 5305,
     "originVideos": ""
+  },
+  {
+    "id": "1918184191923241402",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 14:02:04",
+    "content": "5月1日，安徽亳州。一位农民工在工地干活被拖欠工资，于是爬塔吊讨薪，她称目前已在塔吊上待了四五天都没解决，请求国家各个部门帮忙解决。“我五十多岁了，还有高血压” https://t.co/GDv9DgkskS",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918184191923241402_0.jpg,/tweet/video/whyyoutouzhele/2025/05/02/1918184191923241402_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 47,
+    "replies": 15,
+    "retweets": 5,
+    "views": 4550,
+    "originVideos": "https://video.twimg.com/amplify_video/1918183997194330112/vid/avc1/320x568/w_E2ea_ChKxuIYdW.mp4?tag=16,https://video.twimg.com/amplify_video/1918184036733992962/pl/TiUHTkj5rF62iZdt.m3u8?tag=16"
   }
 ]
