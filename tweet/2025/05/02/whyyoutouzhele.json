@@ -574,5 +574,23 @@
     "retweets": 0,
     "views": 794,
     "originVideos": ""
+  },
+  {
+    "id": "1918214981952389324",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 16:04:25",
+    "content": "4月27日(发布) 自媒体“昆明搜课网”采访昆明二十四中的学生们觉得自己有没有成长，一名女生受访时称“性格更加开朗了，也更成熟稳重了，自我管理能力也提高了，学习能力也加强了”但有细心观众发现，该女生的胳膊上有多条刀疤，引发大众质疑。 https://t.co/sTIZJsHWLR",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918214981952389324_0.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918214981952389324_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/02/1918214981952389324_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2574,
+    "originVideos": "https://video.twimg.com/amplify_video/1918214713202311168/vid/avc1/320x640/bCbqUFMnjvh3A__X.mp4?tag=16"
   }
 ]
