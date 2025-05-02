@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 131,
     "originVideos": "https://video.twimg.com/amplify_video/1918221938352373762/vid/avc1/320x608/Zes3ASPZWRs-Wm5_.mp4?tag=16"
+  },
+  {
+    "id": "1918227320265118141",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 16:53:26",
+    "content": "5月1日(发布) 王嘉禧的姐姐称，遭到打人家属的威胁，被警告不许开直播说此事，否则“有一天你被货车撞死，不要怪我”“你们穷人活该” https://t.co/McRrtvIRFN",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918227320265118141_0.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918227320265118141_1.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918227320265118141_2.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918227320265118141_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1446,
+    "originVideos": ""
   }
 ]
