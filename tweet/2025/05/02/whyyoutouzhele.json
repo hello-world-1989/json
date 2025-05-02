@@ -232,5 +232,23 @@
     "retweets": 2,
     "views": 765,
     "originVideos": ""
+  },
+  {
+    "id": "1918096598644441598",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-02 08:14:00",
+    "content": "学生投稿\n4月20日，太原理工大学一学生发生中毒性急性肠胃炎，合并、脓毒症 、多脏器功能障碍综合征 、脑水肿等严重症状，生命垂危。同时，还陆续有其他学生就医，高度怀疑学校食堂爆发严重食物中毒事件。目前，有学生已经整理了一份30多页的PDF证据文件作为备份。 https://t.co/O0JQrw9omC",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/02/1918096598644441598_0.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918096598644441598_1.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918096598644441598_2.jpg,/tweet/image/whyyoutouzhele/2025/05/02/1918096598644441598_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1905,
+    "originVideos": ""
   }
 ]
