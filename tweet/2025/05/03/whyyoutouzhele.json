@@ -250,5 +250,23 @@
     "retweets": 1,
     "views": 18,
     "originVideos": "https://video.twimg.com/amplify_video/1918562823191539712/vid/avc1/320x568/sDKkdazjlGAPYxNy.mp4?tag=16,https://video.twimg.com/amplify_video/1918562838161047553/vid/avc1/320x568/lTZSYxIBOL44loFC.mp4?tag=16,https://video.twimg.com/amplify_video/1918562889872621569/vid/avc1/320x568/CWgBn19ypnRv6W6b.mp4?tag=16"
+  },
+  {
+    "id": "1918566444545261627",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 15:21:00",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n巴彦淖尔市临河区第一中学，高三只休一天，高一高二则要补课两天。 https://t.co/6IS5GwPkFS",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918566444545261627_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2656,
+    "originVideos": ""
   }
 ]
