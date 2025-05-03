@@ -430,5 +430,23 @@
     "retweets": 4,
     "views": 3735,
     "originVideos": "https://video.twimg.com/amplify_video/1918616393370730496/vid/avc1/320x568/DwxA1OQayWzzduRM.mp4?tag=16,https://video.twimg.com/amplify_video/1918616404364038144/vid/avc1/320x564/8K1J35fhYT-DoQXB.mp4?tag=16"
+  },
+  {
+    "id": "1918625667002008058",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 19:16:20",
+    "content": "美国取消中国邮寄美国小额包裹关税豁免措施，于今日（当地5月3日凌晨零时零分）生效。为此，中国电商平台Temu宣布，已停止从中国直接向美国消费者发货，转为只由美国本地仓库发货，以应对特朗普政府这项新实施。\n 5月3日，安徽做Temu全托管的“崔崔”称，“完了全托管的天都塌了，前几天一天能出2千多单，今天到现在只有213单”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918625667002008058_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/03/1918625667002008058_0.jpg,/tweet/video/whyyoutouzhele/2025/05/03/1918625667002008058_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1289,
+    "originVideos": "https://video.twimg.com/amplify_video/1918625460524834816/pl/WpAgyDgytfA_LLTY.m3u8?tag=16&v=60b,https://video.twimg.com/amplify_video/1918625479852208128/vid/avc1/320x568/Uy2_pHkiDHuJ489h.mp4?tag=16"
   }
 ]
