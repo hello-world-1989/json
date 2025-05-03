@@ -160,5 +160,23 @@
     "retweets": 4,
     "views": 1148,
     "originVideos": ""
+  },
+  {
+    "id": "1918472072902377546",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 09:06:00",
+    "content": "学生投稿\n郑州经济技术开发区外国语中学，要求男生头发不得超过3.3厘米，每周二晚上都有老师带着学生会来检查，拿着尺子一个一个量。 https://t.co/7X3V08O8OL",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918472072902377546_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1325,
+    "originVideos": ""
   }
 ]
