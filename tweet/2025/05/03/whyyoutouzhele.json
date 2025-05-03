@@ -304,5 +304,23 @@
     "retweets": 0,
     "views": 309,
     "originVideos": ""
+  },
+  {
+    "id": "1918587489259782555",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 16:44:37",
+    "content": "1995年5月1日，中国正式宣布全国实行双休。不过30年后的今天，双休仍未在中国完全普及，仍有不少人反映没有双休，甚至一个月休息两天的情况。 https://t.co/X2U5dexWvz",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918587489259782555_0.jpg,/tweet/image/whyyoutouzhele/2025/05/03/1918587489259782555_1.jpg,/tweet/image/whyyoutouzhele/2025/05/03/1918587489259782555_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 8,
+    "retweets": 1,
+    "views": 2217,
+    "originVideos": ""
   }
 ]
