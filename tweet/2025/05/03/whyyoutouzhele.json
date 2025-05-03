@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 927,
     "originVideos": ""
+  },
+  {
+    "id": "1918542982011334824",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 13:47:46",
+    "content": "当地时间周五，美国总统特朗普在社交平台上发布了一张自己身穿教皇服的恶搞图片，白宫在X上的官方账号竟然转发了这张图片。\n 此前据报道，特朗普在4月29日离开白宫前往密歇根州参加庆祝其执政百日的集会时，曾对记者戏称“我想当教皇。”在被记者问及谁应该成为新教皇时，特朗普开玩笑称他本人会是担任天主教下一任领袖的“首选”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918542982011334824_0.jpg,/tweet/image/whyyoutouzhele/2025/05/03/1918542982011334824_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 1,
+    "retweets": 0,
+    "views": 804,
+    "originVideos": ""
   }
 ]
