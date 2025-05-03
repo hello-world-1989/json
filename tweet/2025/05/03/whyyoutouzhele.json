@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 2656,
     "originVideos": ""
+  },
+  {
+    "id": "1918575895541104707",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-03 15:58:33",
+    "content": "据彭博报道，中国已悄然对部分美国商品实施关税豁免，以减轻贸易战对中国经济的打击，豁免范围包括药品和工业化学品等131种商品，总价值约为400亿美元，据知情人士透露，至少有六家在华企业已在未缴纳关税的情况下，进口了清单上的商品。\n 兰德中国研究中心副主任皮波表示，“中国很可能是为了避免关键进口的崩溃，从而减轻对经济的损害。这些豁免措施不应被视为向美方释放信号，因为中国对豁免保持低调，主要通过企业渠道操作，未作公开声明。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/03/1918575895541104707_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "views": 355,
+    "originVideos": ""
   }
 ]
