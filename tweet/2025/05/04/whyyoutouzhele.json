@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 801,
     "originVideos": ""
+  },
+  {
+    "id": "1918913597075489047",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 14:20:27",
+    "content": "5月3日，广东。一名男子称，去年他因在X(推特) 和抖音评论区，发了一句“毒C必亡”四个字等言论，随后被警方传唤，并被以涉政为由拘留五日。男子认为自己的言论未针对任何组织，不知道触犯了那条法律，他找律师想发起行政诉讼，结果律师们都避而远之，畏惧如虎，其中一位他咨询过的异地律师竟然还遭到司法局施压。男子质疑，司法局是如何得知自己和律师的微信私聊内容的。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/04/1918913597075489047_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 10,
+    "retweets": 3,
+    "views": 6283,
+    "originVideos": "https://video.twimg.com/amplify_video/1918910038099501056/vid/avc1/320x564/92kC9RH82M9XkAPB.mp4?tag=16"
   }
 ]
