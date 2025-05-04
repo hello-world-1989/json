@@ -358,5 +358,23 @@
     "retweets": 3,
     "views": 6283,
     "originVideos": "https://video.twimg.com/amplify_video/1918910038099501056/vid/avc1/320x564/92kC9RH82M9XkAPB.mp4?tag=16"
+  },
+  {
+    "id": "1918924810320519583",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 15:05:01",
+    "content": "5月3日，北京熊达律师称，为何一审明明判错了二审仍要维持原判？因为各地一审判错后要改判的比例是需要控制的。他举了一个极端的例子称，比方说一审判3个人死刑判错了，到了二审以后只有1个人可以改判“另外两个人判错了也得死”熊达律师表示，这是一个非常邪恶可怕的制度，而且二审要改判，还得向上面反复请示。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/04/1918924810320519583_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 4,
+    "views": 2679,
+    "originVideos": "https://video.twimg.com/amplify_video/1918922909684535296/pl/x24h4yRGalZmYQha.m3u8?tag=16"
   }
 ]
