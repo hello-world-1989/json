@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 945,
     "originVideos": ""
+  },
+  {
+    "id": "1918896408008012217",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 13:12:09",
+    "content": "近日，《能工巧匠》第二季节目中，中国兵器工业集团工人钱得顺，在蒙眼状态下用8斤重电钻，将合金配重块一次性削掉一毫克，遭到不少网民的质疑和嘲讽。 https://t.co/gdfGgGHVXF",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918896408008012217_0.jpg,/tweet/image/whyyoutouzhele/2025/05/04/1918896408008012217_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/04/1918896408008012217_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 5,
+    "retweets": 0,
+    "views": 3842,
+    "originVideos": "https://video.twimg.com/amplify_video/1918895701112807424/vid/avc1/320x564/u5_gjDYiHM8_pPv1.mp4?tag=16"
   }
 ]
