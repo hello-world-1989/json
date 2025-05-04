@@ -682,5 +682,23 @@
     "retweets": 0,
     "views": 111,
     "originVideos": "https://video.twimg.com/amplify_video/1919027379282051072/vid/avc1/320x568/iiZ4vSqeQkhBirAc.mp4?tag=16,https://video.twimg.com/amplify_video/1919027386206846976/vid/avc1/320x568/kyjsnG9K7VEw9duA.mp4?tag=16"
+  },
+  {
+    "id": "1919035534946795663",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 22:25:00",
+    "content": "索马里政府日前宣布，从4月30日起不得持台湾签发护照及旅行证件入境或过境索马里，中国外交部对此表示高度赞赏。2名美国联邦众议员蒂芬尼与奥格兹致函索马里驻美大使并警告，索马里此举可能引发「严重的报复性后果」，会直接影响到居住于美国的索马里人，尤其是取得「临时保护身分」（TPS）者，因为恐会害到这些人被遣返。两人还表示，美国政府可能考虑对索马里采取外交回应，包括立即暂停核发签证给索马里、拒绝持索马里护照者入境美国、审查甚至停止对索马里日后的援助计划，最严重者可能关闭索马里驻美使馆，形同切断高层级外交关系。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1919035534946795663_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/04/1919035534946795663_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 12,
+    "retweets": 1,
+    "views": 2956,
+    "originVideos": "https://video.twimg.com/amplify_video/1919034994376507392/vid/avc1/480x852/CSIGMckvj-ymk-HN.mp4?tag=16"
   }
 ]
