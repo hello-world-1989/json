@@ -232,5 +232,41 @@
     "retweets": 3,
     "views": 5157,
     "originVideos": ""
+  },
+  {
+    "id": "1918887730823455183",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 12:37:40",
+    "content": "5月4日 据路透社报道，新加坡人民行动党毫无悬念的再次以压倒性多数获胜拿下了97个议会席位中的87个，获得了65.6%的选民支持，将继续其已经长达60年的连续统治。\n主要反对派中左派工人党（WP）则继续在议会中保持10个席位。 https://t.co/4g0j5dIXgD",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918887730823455183_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 2,
+    "retweets": 0,
+    "views": 540,
+    "originVideos": ""
+  },
+  {
+    "id": "1918886302746882420",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 12:32:00",
+    "content": "有网友表示，之所以不让打119，是因为村里着火出火警后会被罚款。 https://t.co/hFELVcWmBZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918886302746882420_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2083,
+    "originVideos": ""
   }
 ]
