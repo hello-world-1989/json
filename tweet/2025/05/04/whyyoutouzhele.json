@@ -538,5 +538,23 @@
     "retweets": 5,
     "views": 3462,
     "originVideos": ""
+  },
+  {
+    "id": "1918998950264057873",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 19:59:37",
+    "content": "5月4日，山东滕州善国路发生一起汽车冲撞行人事件。视频显示。一辆黑色汽车加速冲向路边公交站，现场多人被撞倒。 https://t.co/FwzMKdL4hh",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/04/1918998950264057873_0.jpg,/tweet/video/whyyoutouzhele/2025/05/04/1918998950264057873_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 25,
+    "originVideos": "https://video.twimg.com/amplify_video/1918998836716122112/vid/avc1/480x270/yLY2unhqOZLW6lCJ.mp4?tag=16,https://video.twimg.com/amplify_video/1918998848397258752/vid/avc1/320x564/aLO27gT1q6tyrgMR.mp4?tag=16"
   }
 ]
