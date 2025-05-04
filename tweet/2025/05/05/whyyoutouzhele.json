@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 2664,
     "originVideos": ""
+  },
+  {
+    "id": "1919119338042183718",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 03:58:00",
+    "content": "视频展示了事发时江面的情况：天空狂风暴雨，江面波涛汹涌，更要命的是一层的游客们都没穿救生衣，救生衣全部放在头顶的担架上。 https://t.co/10SG0KS3xi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/05/1919119338042183718_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 154,
+    "originVideos": "https://video.twimg.com/amplify_video/1919118643503460352/vid/avc1/320x568/vVoQU15GQgk5eVtY.mp4?tag=16"
   }
 ]
