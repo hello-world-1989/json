@@ -700,5 +700,23 @@
     "retweets": 1,
     "views": 2956,
     "originVideos": "https://video.twimg.com/amplify_video/1919034994376507392/vid/avc1/480x852/CSIGMckvj-ymk-HN.mp4?tag=16"
+  },
+  {
+    "id": "1919041203615773062",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 22:47:31",
+    "content": "据报道，游船侧翻事故已造成3人死亡、60人送医救治，另有14人正在搜救中。习近平对毕节黔西市游船倾覆事故做出重要指示。 https://t.co/iyL6g96blp",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1919041203615773062_0.jpg,/tweet/image/whyyoutouzhele/2025/05/04/1919041203615773062_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 1,
+    "views": 970,
+    "originVideos": ""
   }
 ]
