@@ -394,5 +394,23 @@
     "retweets": 1,
     "views": 1202,
     "originVideos": ""
+  },
+  {
+    "id": "1918937078043214007",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 15:53:46",
+    "content": "新华社：习近平将对俄罗斯进行国事访问并出席纪念苏联卫国战争胜利80周年庆典。 https://t.co/iiZXEoxf07",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918937078043214007_0.jpg,/tweet/image/whyyoutouzhele/2025/05/04/1918937078043214007_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 78,
+    "replies": 56,
+    "retweets": 6,
+    "views": 12936,
+    "originVideos": ""
   }
 ]
