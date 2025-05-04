@@ -196,5 +196,41 @@
     "retweets": 1,
     "views": 2012,
     "originVideos": ""
+  },
+  {
+    "id": "1918885343769837945",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 12:28:11",
+    "content": "5月4日 据路透社报道，普京再次对乌克兰首都基辅发动无人机攻击，造成数栋住宅楼起火，并点燃了几辆汽车。\n而在此之前，普京刚刚呼吁在5月8日至10日期间停火72小时，以保障俄罗斯胜利日阅兵仪式。 https://t.co/x8Or88bGw7",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918885343769837945_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 213,
+    "originVideos": ""
+  },
+  {
+    "id": "1918883669365703155",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-04 12:21:32",
+    "content": "加拿大右派反对党领袖丢掉自己的席位几天后，澳洲再次重演。\n5月3日 澳洲右派自由党领袖达顿丢掉了自己选区的席位。自由党承受了历史性大败，多个自由党铁票仓转投工党，南澳州首府阿德莱德甚至再无自由党议员。\n今年1月份自由党民调曾遥遥领先，但在特朗普上台后支持率缓慢下降，直到三月底彻底反转。 https://t.co/g0U4OqFXPi https://t.co/JbfTHkpJ6E",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/04/1918883669365703155_0.jpg,/tweet/image/whyyoutouzhele/2025/05/04/1918883669365703155_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 10,
+    "retweets": 3,
+    "views": 5157,
+    "originVideos": ""
   }
 ]
