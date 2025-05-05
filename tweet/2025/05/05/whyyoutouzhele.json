@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 191,
     "originVideos": "https://video.twimg.com/amplify_video/1919391071890702336/vid/avc1/320x568/FN-6yypVm8Xgqkpm.mp4?tag=16,https://video.twimg.com/amplify_video/1919391196977549312/vid/avc1/1920x1080/DUyKuXSX3ciVse_u.mp4?tag=16"
+  },
+  {
+    "id": "1919397486533501157",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 22:23:16",
+    "content": "多位游客吐槽称，五一期间上海外滩的凳子被用铁皮围了起来，游客们只能坐在地上。 https://t.co/MpCbwjkdOy",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/05/1919397486533501157_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 18,
+    "retweets": 9,
+    "views": 6667,
+    "originVideos": "https://video.twimg.com/amplify_video/1919396965416398848/vid/avc1/320x564/pLFbeLZCeP_2nSd2.mp4?tag=16"
   }
 ]
