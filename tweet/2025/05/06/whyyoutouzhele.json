@@ -142,5 +142,23 @@
     "retweets": 5,
     "views": 2445,
     "originVideos": ""
+  },
+  {
+    "id": "1919508653138182308",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 05:45:00",
+    "content": "学生投稿\n河北辛集中学5.26/27召开运动会，开幕式上有许多cos，是学校允许的，活动结束后，学校说不允许转发这些。其中一个奖项是开幕式方阵评选，班里有cos外国元素人物的均不入选，有人发抖音被年级主任要求删除，有人在表白墙求返图之类的，均无回复。 https://t.co/nuqgZrbRVA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919508653138182308_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919508653138182308_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 3,
+    "retweets": 2,
+    "views": 706,
+    "originVideos": ""
   }
 ]
