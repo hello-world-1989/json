@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 941,
     "originVideos": "https://video.twimg.com/amplify_video/1919243889824997376/vid/avc1/320x568/QJFB67t9uiFIwZrx.mp4?tag=16"
+  },
+  {
+    "id": "1919247665558143335",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 12:27:56",
+    "content": "据路透社报道：\n5月4日 特朗普宣布将对所有外国电影征收100%的关税，以拯救“濒死”的好莱坞。 https://t.co/kQxgyamOg9",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919247665558143335_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 676,
+    "originVideos": ""
   }
 ]
