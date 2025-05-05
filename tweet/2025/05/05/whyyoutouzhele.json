@@ -412,5 +412,23 @@
     "retweets": 1,
     "views": 4329,
     "originVideos": ""
+  },
+  {
+    "id": "1919351672658067923",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 19:21:13",
+    "content": "今年五一档票房惨不忍睹，截至目前五一票房仅有7亿。2023年和2024年五一档票房15亿。就连2021年疫情五一票房都有16亿。 https://t.co/ZvVLdkWM6e",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919351672658067923_0.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919351672658067923_1.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919351672658067923_2.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919351672658067923_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 17,
+    "retweets": 3,
+    "views": 5654,
+    "originVideos": ""
   }
 ]
