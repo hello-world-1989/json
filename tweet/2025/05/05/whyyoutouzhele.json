@@ -430,5 +430,23 @@
     "retweets": 3,
     "views": 5654,
     "originVideos": ""
+  },
+  {
+    "id": "1919353999238586727",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 19:30:27",
+    "content": "今年五一档票房惨不忍睹，截至目前五一票房仅有7亿，其中，“超长待机”的哪吒2贡献了6415万。\n2023年和2024年五一档票房15亿。就连2021年疫情五一票房都有16亿。 https://t.co/6tlOfTUp1J",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919353999238586727_0.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919353999238586727_1.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919353999238586727_2.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919353999238586727_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 16,
+    "retweets": 6,
+    "views": 5175,
+    "originVideos": ""
   }
 ]
