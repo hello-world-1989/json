@@ -106,5 +106,41 @@
     "retweets": 0,
     "views": 154,
     "originVideos": "https://video.twimg.com/amplify_video/1919118643503460352/vid/avc1/320x568/vVoQU15GQgk5eVtY.mp4?tag=16"
+  },
+  {
+    "id": "1919232429132239303",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 11:27:23",
+    "content": "https://t.co/K2kc0lLZij",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 544,
+    "originVideos": ""
+  },
+  {
+    "id": "1919232196734570785",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 11:26:27",
+    "content": "4 陈来顺\n#八九民运 #六四屠杀 1989年6月3日晚11时左右，23岁的中国人民大学新闻系学生陈来顺听说解放军开枪杀人了，他不敢相信这是真的，遂背相机和同学一起赶向天安门广场。遇戒严部队开枪扫射，于是爬上大会堂西侧附近平房房顶。在他拍照时，头部被射中，不治身亡。\n陈来顺 男，23岁，中国人民大学八五级新闻系新闻摄影专业学生。家庭所在地：北京市。\n陈来顺是陈家4个孩子中唯一的大学生。他是大学学生会广播站负责人，其广播深受全校师生的喜爱。1989年6月3日晚，陈来顺在一个同学家，11时左右，听邻居说外边解放军开枪杀人了，他不相信这是真的，遂背相机和同学一起赶向天安门广场。他们到达人民大会堂西侧时，正遇戒严部队开枪扫射，于是爬上附近平房的房顶。在他拍照时，头部左侧被戒严部队的“炸子”射中；当时被民众送到北京市急救中心抢救，不治身亡。其骨灰安葬于北京西郊金山陵园（南二区三排四号）。\n陈来顺的母亲张树森是“天安门母亲”群体成员。\nhttps://t.co/SpPp4W2PK4；https://t.co/iGhY2UaoeJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919232196734570785_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 2,
+    "retweets": 5,
+    "views": 2037,
+    "originVideos": ""
   }
 ]
