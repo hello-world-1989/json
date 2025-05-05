@@ -358,5 +358,23 @@
     "retweets": 1,
     "views": 2485,
     "originVideos": "https://video.twimg.com/amplify_video/1919308927759704064/vid/avc1/1080x1920/XO3j1XOYMo9muca2.mp4?tag=16"
+  },
+  {
+    "id": "1919322495334637580",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 17:25:16",
+    "content": "美国总统特朗普周日在空军一号专机上对记者表示，他本周没有与习近平通话的计划，特朗普再次指责中国在全球贸易中“多年来一直都占我们的便宜”并称美国前总统尼克逊与中国建交是他“做过最糟糕的事情” https://t.co/y8sI7gaJAz",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919322495334637580_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 6,
+    "retweets": 0,
+    "views": 2055,
+    "originVideos": ""
   }
 ]
