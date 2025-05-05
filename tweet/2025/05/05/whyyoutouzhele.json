@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 403,
     "originVideos": ""
+  },
+  {
+    "id": "1919408320361972077",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 23:06:19",
+    "content": "据日经中文报道，中国非代工类半导体厂商全球销售份额降至3.9%，因美国出口管制，中国企业无法获得用于最尖端半导体的制造设备。中国厂商所生产的半导体主要是线宽在28纳米及以上的通用产品和成熟品。用于生成式AI等高性能半导体的线宽被认为是3～4纳米，而中国则止步于中芯国际的7纳米。即便是DeepSeek，也在使用美国英伟达的GPU。中国厂商未能分享到生成式AI带来的市场扩大红利。中国距离“半导体强国”目标依然遥远。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919408320361972077_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1892,
+    "originVideos": ""
   }
 ]
