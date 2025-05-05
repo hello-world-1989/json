@@ -484,5 +484,23 @@
     "retweets": 7,
     "views": 1838,
     "originVideos": ""
+  },
+  {
+    "id": "1919365906972496024",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 20:17:46",
+    "content": "据韩联社报道，韩国国民健康保险公团的资料显示，去年被查出不当领取医保的人员有1万7087人，金额高达25.58亿韩元，按国籍划分，中国籍最多，有1万2033人，占比高达70%，其次为美国籍679人、越南籍605人等。从违规类型来看，大多数为在失去医保资格后仍违规继续受惠，被查人员达1万7011人。 https://t.co/HyQhImAjni",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919365906972496024_0.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919365906972496024_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 834,
+    "originVideos": ""
   }
 ]
