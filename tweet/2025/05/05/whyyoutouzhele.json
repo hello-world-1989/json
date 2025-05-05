@@ -520,5 +520,23 @@
     "retweets": 3,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1919372493254504641",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 20:43:57",
+    "content": "5月4日，山东滕州善国路发生一起汽车冲撞行人事件，当地连夜修好了事发地的公交站台，地面的血渍被重新粉刷掉，微博上的图片和视频也被屏蔽或删除，官方至今仍未发布通报， 一切好像从未发生过一样。\nhttps://t.co/l8CnsZDFLh https://t.co/Ho6qynbmzB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919372493254504641_0.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919372493254504641_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/05/1919372493254504641_0.jpg,/tweet/video/whyyoutouzhele/2025/05/05/1919372493254504641_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 8,
+    "retweets": 5,
+    "views": 3995,
+    "originVideos": "https://video.twimg.com/amplify_video/1919371133306195968/vid/avc1/320x568/qIQjDEh0Da-T5wRE.mp4?tag=16,https://video.twimg.com/amplify_video/1919371148778938369/vid/avc1/480x852/YPPuRx-OM6PxuGei.mp4?tag=16"
   }
 ]
