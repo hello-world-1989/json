@@ -448,5 +448,41 @@
     "retweets": 6,
     "views": 5175,
     "originVideos": ""
+  },
+  {
+    "id": "1919360888127041815",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 19:57:50",
+    "content": "https://t.co/nSizYp34pd",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919360888127041815_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 488,
+    "originVideos": ""
+  },
+  {
+    "id": "1919360564872302722",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-05 19:56:33",
+    "content": "wsj：中国在经济表现疲弱的大环境下，选择隐匿多项原本例行公布的数百项数据，这些消失的数据包括土地出让、外国投资、火化数据、失业率、商业信息，酱油产量数据等。还有民间智库发现，2020年中国接种结核病类疫苗的新生儿仅540万剂次，而官方公布的同年新生儿数量却达1210万人。这一差距，导致政府随即停止发布新生儿结核病及其他疫苗的接种数据。这些消失的数据曾是研究人员和投资人使用的数据，这导致外界更难了解中国的情况。\n 而这些数据的消失，正值中国在债务负担过重、房市摇摇欲坠及其他问题的重压下步履蹒跚，这些问题都促使官方采取强硬手段控制相关的言论。\n 为了获得更真实的评估，经济学家们已转向其他的数据来源分析中国经济，像是电影票房收入、卫星观测的夜间灯光亮度、水泥厂开工率、电力公司发电量，乃至于民营网路地图的人潮数据，以评估商业活动荣枯。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/05/1919360564872302722_0.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919360564872302722_1.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919360564872302722_2.jpg,/tweet/image/whyyoutouzhele/2025/05/05/1919360564872302722_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 6,
+    "retweets": 7,
+    "views": 1838,
+    "originVideos": ""
   }
 ]
