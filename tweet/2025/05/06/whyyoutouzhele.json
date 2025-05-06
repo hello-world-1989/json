@@ -484,5 +484,23 @@
     "retweets": 10,
     "views": 6163,
     "originVideos": "https://video.twimg.com/amplify_video/1919672729672024070/pl/43aN_-keyXh5pi2A.m3u8?tag=16,https://video.twimg.com/amplify_video/1919672748965822467/vid/avc1/480x852/FKMilriS8HoRaaNk.mp4?tag=16"
+  },
+  {
+    "id": "1919678320280510792",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 16:59:12",
+    "content": "中国外交部：中方和欧洲议会决定同步全面取消对外相互交往的限制。 https://t.co/Fuul5wsymC",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919678320280510792_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 140,
+    "originVideos": ""
   }
 ]
