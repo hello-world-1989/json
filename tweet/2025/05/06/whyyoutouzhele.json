@@ -160,5 +160,23 @@
     "retweets": 2,
     "views": 706,
     "originVideos": ""
+  },
+  {
+    "id": "1919592455651131888",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 11:18:00",
+    "content": "最近在小红书，中国驻英国大使馆开设了账户。然而，发帖三小时不到，评论区却骂声连连。 https://t.co/cuvk2fG9cq",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919592455651131888_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919592455651131888_1.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919592455651131888_2.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919592455651131888_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1062,
+    "originVideos": ""
   }
 ]
