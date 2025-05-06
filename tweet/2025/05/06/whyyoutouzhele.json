@@ -718,5 +718,23 @@
     "retweets": 5,
     "views": 1551,
     "originVideos": ""
+  },
+  {
+    "id": "1919752233006104776",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 21:52:54",
+    "content": "5月6日，广东潮州。一名警察骑摩托车不戴头盔，被摄像头当场抓拍。\n 5月1日，广东。多名交警骑摩托车巡逻不戴头盔。 https://t.co/1pR3cWd8sT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919752233006104776_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/06/1919752233006104776_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 11,
+    "retweets": 4,
+    "views": 4256,
+    "originVideos": "https://video.twimg.com/amplify_video/1919751997047373825/vid/avc1/320x568/sanPLUivdj1nWTRp.mp4?tag=16"
   }
 ]
