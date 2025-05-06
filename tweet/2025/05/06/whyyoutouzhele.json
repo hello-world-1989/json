@@ -646,5 +646,23 @@
     "retweets": 4,
     "views": 5906,
     "originVideos": ""
+  },
+  {
+    "id": "1919727729521332383",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 20:15:32",
+    "content": "央视报道，山东滕州善国路车祸致6人死亡，公安机关已对滕州一名涉醉驾肇事人员采取刑事拘留强制措施。 https://t.co/tStoJwfUoa",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919727729521332383_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1113,
+    "originVideos": ""
   }
 ]
