@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 2271,
     "originVideos": ""
+  },
+  {
+    "id": "1919663893661491369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 16:01:52",
+    "content": "5月6日，越南。一名男子称“都说在国外，大使馆是我们的坚强后盾” 随后他先后用中国号码和越南号码拨打中国大使馆电话，结果都无人接听。 https://t.co/JUStrLxESZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919663893661491369_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919663893661491369_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/06/1919663893661491369_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 12,
+    "retweets": 7,
+    "views": 3869,
+    "originVideos": "https://video.twimg.com/amplify_video/1919662331275182081/vid/avc1/1080x1920/B5BUxRjBZq5NdtQi.mp4?tag=16"
   }
 ]
