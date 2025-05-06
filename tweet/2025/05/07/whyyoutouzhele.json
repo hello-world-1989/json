@@ -52,5 +52,23 @@
     "retweets": 2,
     "views": 990,
     "originVideos": "https://video.twimg.com/amplify_video/1919810256529719299/vid/avc1/480x852/OwWphpEMpwiRnihK.mp4?tag=16,https://video.twimg.com/amplify_video/1919810507940495362/vid/avc1/320x566/XQjMcfvdwgazCFMz.mp4?tag=16,https://video.twimg.com/amplify_video/1919810542627389440/vid/avc1/320x626/7hJADY_6t6V3Qyn_.mp4?tag=16"
+  },
+  {
+    "id": "1919822444602208413",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 02:31:54",
+    "content": "据彭博社报道，苹果准备在 iOS 18.6 中首次推出其 Apple Intelligence 套件，而之前的 iOS 18.5 测试版中没有该功能。据消息人士透露，为了遵守中国法规，苹果将与阿里巴巴合作开发其内容过滤审查引擎，并与百度合作开发Siri和视觉智能。 https://t.co/6BhHvo0UXf",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919822444602208413_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1367,
+    "originVideos": ""
   }
 ]
