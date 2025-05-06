@@ -466,5 +466,23 @@
     "retweets": 7,
     "views": 3869,
     "originVideos": "https://video.twimg.com/amplify_video/1919662331275182081/vid/avc1/1080x1920/B5BUxRjBZq5NdtQi.mp4?tag=16"
+  },
+  {
+    "id": "1919673898398056547",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 16:41:37",
+    "content": "5月6日，北京。一位大爷在医院交费窗口现场交费30万元，大爷称他做手术一共花费了50万元。拍摄者称，老百姓看个病太难了。\n 去年，一名老外自称在中国看眼睛花了24元人民币，他拍视频感谢中国。 https://t.co/61QbfdhiCT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/06/1919673898398056547_0.jpg,/tweet/video/whyyoutouzhele/2025/05/06/1919673898398056547_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 76,
+    "replies": 18,
+    "retweets": 10,
+    "views": 6163,
+    "originVideos": "https://video.twimg.com/amplify_video/1919672729672024070/pl/43aN_-keyXh5pi2A.m3u8?tag=16,https://video.twimg.com/amplify_video/1919672748965822467/vid/avc1/480x852/FKMilriS8HoRaaNk.mp4?tag=16"
   }
 ]
