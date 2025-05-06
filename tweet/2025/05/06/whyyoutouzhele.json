@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 100,
     "originVideos": ""
+  },
+  {
+    "id": "1919609319680532602",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 12:25:01",
+    "content": "值得注意的是，印度和巴基斯坦两国都拥有核武器。\n据半岛电视台的估计，印度和巴基斯坦共拥有约300-400枚核弹头，甚至还拥有大威力氢弹。\n两国都有完备的核投射能力，包括战略轰炸机，陆基弹道核导弹核潜射弹道核导弹。 https://t.co/Wk4Ul82VMZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919609319680532602_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1313,
+    "originVideos": ""
   }
 ]
