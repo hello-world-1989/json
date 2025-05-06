@@ -664,5 +664,23 @@
     "retweets": 0,
     "views": 1113,
     "originVideos": ""
+  },
+  {
+    "id": "1919736442227716507",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 20:50:09",
+    "content": "近日，浙江宁波。保时捷弯道超车撞倒摩托车，司机下车后无视伤者，而是花了半分钟时间换车牌。事后网民涌入宁波交警抖音账号评论区询问怎么处理车主，目前宁波交警抖音号已开启“仅允许粉丝评论” https://t.co/S0zjRBDQIv",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919736442227716507_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919736442227716507_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/06/1919736442227716507_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 12,
+    "retweets": 7,
+    "views": 5778,
+    "originVideos": "https://video.twimg.com/amplify_video/1919736226183262208/vid/avc1/426x270/YaoLwES-BQdfSdPt.mp4?tag=16"
   }
 ]
