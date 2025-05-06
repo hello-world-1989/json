@@ -268,5 +268,41 @@
     "retweets": 0,
     "views": 2288,
     "originVideos": ""
+  },
+  {
+    "id": "1919620254608900566",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 13:08:28",
+    "content": "5月3日，福建(发布ip) 大姐面对交警执法时哭诉：“我看病看不起，买房子买不起，打了几十年的工一无所有，家也回不了”\n 5月3日，辽宁。火车上一位大叔晕倒，拍摄者称，大叔从中午到晚上一点东西都没吃所以晕倒了。 https://t.co/p0kWY2Natw",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919620254608900566_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/06/1919620254608900566_0.jpg,/tweet/video/whyyoutouzhele/2025/05/06/1919620254608900566_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 3,
+    "views": 449,
+    "originVideos": "https://video.twimg.com/amplify_video/1919619067239137281/vid/avc1/320x528/AohwcEVF-tL5PoQk.mp4?tag=16,https://video.twimg.com/amplify_video/1919619082015645696/vid/avc1/320x542/eGnwvfGsCA7R_FG1.mp4?tag=16"
+  },
+  {
+    "id": "1919619619981296124",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 13:05:56",
+    "content": "5月5日 央广网发布评论称“以旧换新持续火热，彰显中国经济活力”。\n在财政3000亿国补和以旧换新补贴的影响下，一季度社会消费品零售同比增长4.6%。增长最快的是消费类电子产品，增长高达26.9%。\n目前国补比例为20%，最高可达2000元。\n但也有人认为国补并未真正“补贴”，而是相当于对消费者退税。\n据悉，目前中国的增值税税率为13%，企业所得税为25%",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919619619981296124_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919619619981296124_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1975,
+    "originVideos": ""
   }
 ]
