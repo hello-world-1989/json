@@ -772,5 +772,23 @@
     "retweets": 0,
     "views": 515,
     "originVideos": ""
+  },
+  {
+    "id": "1919777663495057562",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 23:33:57",
+    "content": "景德镇融媒体中心报道，5月2日晚，一名来自安徽的游客向路边交管工作人员求助，她称来景德镇游玩散心，不料途中突发感冒，看病治疗花光了身上所有的钱，虽然提前购买了次日返回安徽的车票，但没钱再支付当晚的住宿费，陷入困境。执法员人得知后开启“暖心模式”为该游客泡了碗面，又在会议室铺好折叠床供其休息，游客感动不已表示：“你们让我感受到了家一般的温暖，谢谢你们”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919777663495057562_0.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919777663495057562_1.jpg,/tweet/image/whyyoutouzhele/2025/05/06/1919777663495057562_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 11,
+    "retweets": 1,
+    "views": 4399,
+    "originVideos": ""
   }
 ]
