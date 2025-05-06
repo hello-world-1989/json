@@ -682,5 +682,23 @@
     "retweets": 7,
     "views": 5778,
     "originVideos": "https://video.twimg.com/amplify_video/1919736226183262208/vid/avc1/426x270/YaoLwES-BQdfSdPt.mp4?tag=16"
+  },
+  {
+    "id": "1919740920460660912",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-06 21:07:57",
+    "content": "国家统计局发布的报告显示，去年我国农民工月均收入4961元，比上年增加181元，增长3.8%。其中，外出农民工月均收入5634元，增长3.5%；本地农民工月均收入4291元，增长3.9% https://t.co/qMriQtIMON",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/06/1919740920460660912_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 0,
+    "views": 644,
+    "originVideos": ""
   }
 ]
