@@ -268,5 +268,41 @@
     "retweets": 4,
     "views": 2755,
     "originVideos": ""
+  },
+  {
+    "id": "1919960194647273713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 11:39:16",
+    "content": "截至目前，巴基斯坦声称已击落6架印度战机，包括3架“阵风”战斗机、1架苏-30MKI以及1架米格-29战机。\n印度军方表示，又有三名印度平民在巴基斯坦军队对克什米尔的炮击中丧生。\n美国国务院表示，国务卿卢比奥已经与印度和巴基斯坦的国家安全顾问进行了交谈。他敦促双方保持沟通渠道畅通，避免事态升级。 https://t.co/kNgWVqb4l8",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919960194647273713_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 67,
+    "originVideos": ""
+  },
+  {
+    "id": "1919959759744336037",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 11:37:32",
+    "content": "5月7日凌晨 印度和巴基斯坦武装冲突再次升级\n在印度指控巴策划4月22日印度克什米尔地区恐袭并造成26位平民死亡后，5月7日凌晨印度用导弹攻击了巴基斯坦九个“恐怖基础设施”，巴基斯坦随后反击。\n巴基斯坦声称印度攻击的地点包括两座平民清真寺，并不是“恐怖分子营地”，目前已有8位平民死亡，35人受伤。\n印度表示，它针对的是伊斯兰激进组织，印度军队在巴基斯坦的导弹袭击中瞄准了伊斯兰军事团体的总部。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919959759744336037_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1211,
+    "originVideos": ""
   }
 ]
