@@ -376,5 +376,41 @@
     "retweets": 2,
     "views": 4070,
     "originVideos": ""
+  },
+  {
+    "id": "1919984281474236788",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 13:14:58",
+    "content": "5月6日，江苏苏州，昆山仁宝电子厂一男子跳楼。拍摄者称：他勤勤恳恳工作一个月，工资全让中介吃了，只发了2千多，所以要跳楼 https://t.co/PAGs5E5Leo",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919984281474236788_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1919984281474236788_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 4,
+    "retweets": 1,
+    "views": 2327,
+    "originVideos": "https://video.twimg.com/amplify_video/1919984104533348353/vid/avc1/320x690/jpcU-itTf7gPcgof.mp4?tag=16"
+  },
+  {
+    "id": "1919983783794667703",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 13:13:00",
+    "content": "5月6日，抖音。视频中，一女子只剩下右手两根手指，左手全无。该女子说，自己十年前干冲压工作时机器故障致残。每天活得生不如死，好好的一个人就这样毁了。即使赔了九十多万，自己仍然觉得的不值。 https://t.co/zriPjpVXCV",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1919983783794667703_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3971,
+    "originVideos": "https://video.twimg.com/amplify_video/1919891808730877953/vid/avc1/320x568/v-HYuXlt5OBjrk39.mp4?tag=16"
   }
 ]
