@@ -628,5 +628,23 @@
     "retweets": 5,
     "views": 2736,
     "originVideos": ""
+  },
+  {
+    "id": "1920095999122342357",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 20:38:54",
+    "content": "目前，关于滕州善国路车祸的多个微博话题已被封禁，甚至连内容都被一并清空。 https://t.co/FNlx4GKZOD",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1920095999122342357_0.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920095999122342357_1.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920095999122342357_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 236,
+    "originVideos": ""
   }
 ]
