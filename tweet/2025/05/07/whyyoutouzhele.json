@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 403,
     "originVideos": ""
+  },
+  {
+    "id": "1920141485187682562",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 23:39:39",
+    "content": "5月7日，贵州龙里县。一男子称为了要回工资，提前准备好了充电宝、雨衣、水和食物准备爬塔吊讨薪，他表示：“我今年可能要被关第四次了”“做了几个工地都要不到钱，真的是我的运气差吗？还是现实社会就是这样“ https://t.co/DsEZwUpuVK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1920141485187682562_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1920140933859004416/vid/avc1/320x568/rvHbX2WdyLhXvtNB.mp4"
   }
 ]
