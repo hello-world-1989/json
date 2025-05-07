@@ -646,5 +646,23 @@
     "retweets": 0,
     "views": 236,
     "originVideos": ""
+  },
+  {
+    "id": "1920102582879707237",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 21:05:04",
+    "content": "5月7日(发布) 浏阳市公安局民警朱朱：见死不救可能会违法甚至坐牢。有网友质疑：“救了被判有罪怎么办？” “你说的对，我没钱医院能先给抢救吗？” “见死救了被人讹诈你们管不” “亲眼见到医院急诊家属没赶过来签字，然后看着脑出血患者被晾在那里，最后盖上白布推走的” https://t.co/w32kuIlQan",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1920102582879707237_0.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920102582879707237_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1920102582879707237_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2149,
+    "originVideos": "https://video.twimg.com/amplify_video/1920101288920133633/vid/avc1/480x270/WwOGKTOpvuqSJpz_.mp4"
   }
 ]
