@@ -538,5 +538,23 @@
     "retweets": 2,
     "views": 4347,
     "originVideos": ""
+  },
+  {
+    "id": "1920068156305146237",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 18:48:16",
+    "content": "五一假期刚过，中国官媒交出了一份亮眼的数据：“五一消费爆了，中国游客消费同比增8%” 但人均消费却尚未恢复到疫情前的水平。2019年五一假期，全国国内旅游接待总人数1.95亿人次；人均消费150.08元；2025年五一假期，全国国内旅游出游3.14亿人次，人均每日消费114.82元。今年五一假期人均每日消费较2019年下降了23.86%",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1920068156305146237_0.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920068156305146237_1.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920068156305146237_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 460,
+    "originVideos": ""
   }
 ]
