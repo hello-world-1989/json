@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 1604,
     "originVideos": "https://video.twimg.com/amplify_video/1920008043921866752/vid/avc1/320x568/_xlRtp9PFMbPARgh.mp4?tag=16"
+  },
+  {
+    "id": "1920025904669196750",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 16:00:22",
+    "content": "中国外交部发言人林剑回应中美经贸高层会谈：美方近期不断表示，希望同中方进行谈判。这次会谈是应美方请求举行的。\n 有记者问，近日美方不断渲染中方难以承受加征高额关税带来的压力，请问发言人有何回应？林剑表示，任何的外部冲击都改变不了中国经济基础稳、优势多、韧性强、潜力大的基本面。\nhttps://t.co/bADYQAxg6S",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1920025904669196750_0.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920025904669196750_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 1,
+    "views": 4384,
+    "originVideos": ""
   }
 ]
