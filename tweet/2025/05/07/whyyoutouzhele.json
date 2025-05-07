@@ -808,5 +808,13 @@
     "retweets": 0,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1920140933859004416/vid/avc1/320x568/rvHbX2WdyLhXvtNB.mp4"
+  },
+  {
+    "id": "1920066309536247979",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-05-07 18:43:53",
+    "content": "五一假期刚过，中国官媒交出了一份亮眼的数据：“五一消费爆了，中国游客消费同比增8%”"
   }
 ]
