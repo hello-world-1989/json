@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 1260,
     "originVideos": ""
+  },
+  {
+    "id": "1920254136488010035",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 07:07:17",
+    "content": "5月7日，下午，江西南昌中航信托总部。民众抗议中航爆雷骗钱。 https://t.co/BoEgkFHewb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/08/1920254136488010035_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 604,
+    "originVideos": "https://video.twimg.com/amplify_video/1920253958506881024/vid/avc1/320x568/bhXXbBCM07akHDc7.mp4"
   }
 ]
