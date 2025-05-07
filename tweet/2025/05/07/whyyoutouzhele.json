@@ -574,5 +574,23 @@
     "retweets": 0,
     "views": 1889,
     "originVideos": ""
+  },
+  {
+    "id": "1920077421728186663",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 19:25:05",
+    "content": "五一假期刚过，网曝北京地铁突然升级安检措施，不少人在社交平台抱怨安检太严格影响上班出行。当地网友称，安检的工作人员甚至比乘客还多。还有网友称，现在大包小包都要接受检查，就连空的纸袋子都要单独接受检查。网友拍摄的视频显示，地铁安检处等待检查的乘客们大排长龙。 https://t.co/648md3PBB1",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1920077421728186663_0.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920077421728186663_1.jpg,/tweet/image/whyyoutouzhele/2025/05/07/1920077421728186663_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1920077421728186663_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 9,
+    "retweets": 4,
+    "views": 2210,
+    "originVideos": "https://video.twimg.com/amplify_video/1920077015774076928/vid/avc1/320x568/ZyeHEqyzr5daRzAe.mp4"
   }
 ]
