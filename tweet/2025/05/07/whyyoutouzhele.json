@@ -340,5 +340,41 @@
     "retweets": 2,
     "views": 1703,
     "originVideos": "https://video.twimg.com/amplify_video/1919896273454342145/vid/avc1/320x568/6cmM7iH6lVG6CxKr.mp4?tag=16"
+  },
+  {
+    "id": "1919977585787699254",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 12:48:22",
+    "content": "央视玉渊潭天称，当地时间5月6日，美国财长贝森特在接受媒体采访时回应了中美经贸高层会谈。当被问及“谁先给对方打的电话”时，贝森特开始含糊其辞，称“没有什么谁先打电话”。 https://t.co/O2Nniv87Nh",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919977585787699254_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 221,
+    "originVideos": ""
+  },
+  {
+    "id": "1919975757759029623",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 12:41:06",
+    "content": "5月7日 央视玉渊潭天发文称，中方决定“同意”与美方进行接触。\n国务部副总理何立峰将带队于5月9日至12日在瑞士与美国财政部长贝森特举行会谈。 https://t.co/un6jmTQDhG",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919975757759029623_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 8,
+    "retweets": 2,
+    "views": 4070,
+    "originVideos": ""
   }
 ]
