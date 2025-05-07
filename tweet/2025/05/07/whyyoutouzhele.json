@@ -304,5 +304,41 @@
     "retweets": 1,
     "views": 1211,
     "originVideos": ""
+  },
+  {
+    "id": "1919972558067405024",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 12:28:23",
+    "content": "5月7日 中国证券监督管理委员会主席吴清在记者会上表示，中国资本市场最重要的特征是“靠谱”。\n我们资本市场最重要的特征是“靠谱”，有一个靠谱的经济发展，靠谱的宏观政策，靠谱的制度保障，所以资本市场在为我们的经济和市场在注入更多的确定性。\n在这样一个不确定的市场环境下，我们前行的路上会有风有雨，不管是轻风细雨还是暴风骤雨，不管是风高浪急还是惊涛骇浪，我们都有信心，有条件、有能力来实现中国股市的稳定健康发展。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919972558067405024_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 1,
+    "views": 245,
+    "originVideos": ""
+  },
+  {
+    "id": "1919971955660439568",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 12:26:00",
+    "content": "2025年5月6日，印度尼西亚的中国央企12治拖欠中国农民工薪资，工人维权。 https://t.co/drqCyYkadJ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/07/1919971955660439568_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 5,
+    "retweets": 2,
+    "views": 1703,
+    "originVideos": "https://video.twimg.com/amplify_video/1919896273454342145/vid/avc1/320x568/6cmM7iH6lVG6CxKr.mp4?tag=16"
   }
 ]
