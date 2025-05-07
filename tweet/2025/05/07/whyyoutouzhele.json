@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 2223,
     "originVideos": ""
+  },
+  {
+    "id": "1919956909442138212",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-07 11:26:12",
+    "content": "5月7日凌晨 印度和巴基斯坦正式开战。\n在印度指控巴基斯坦策划4月22日印度克什米尔地区恐袭并造成26位平民死亡后，5月7日凌晨，印度用导弹攻击了巴基斯坦九个“恐怖基础设施”。\n巴基斯坦声称印度攻击的地点包括两座平民的清真寺，并不是“恐怖分子营地”，至少3平民死亡，12人受伤。\n印度表示，它针对的是伊斯兰激进组织，印度军队在巴基斯坦的导弹袭击中瞄准了伊斯兰军事团体的总部。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/07/1919956909442138212_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 4,
+    "views": 2755,
+    "originVideos": ""
   }
 ]
