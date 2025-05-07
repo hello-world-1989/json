@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 545,
     "originVideos": ""
+  },
+  {
+    "id": "1920187907983409275",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 02:44:07",
+    "content": "网曝近日河南新乡封丘县人民医院和当地医院，为了开源节流，裁掉了数百名低学历医护人员，其中有不少人疫情期间冲在一线。一份封丘县县直医疗卫生单位临聘人员优化工作方案指出;对于医疗卫生专业人员，全日制医学中专且取得中级以上职称、全日制医学大专且取得初级以上职称、全日制医学本科以上学历的人员，才可以采用「劳动服务形式」进行聘用。不符合上述3类条件的人员，一律予以清退。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920187907983409275_0.jpg,/tweet/image/whyyoutouzhele/2025/05/08/1920187907983409275_1.jpg,/tweet/image/whyyoutouzhele/2025/05/08/1920187907983409275_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1260,
+    "originVideos": ""
   }
 ]
