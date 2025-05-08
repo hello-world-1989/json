@@ -394,5 +394,41 @@
     "retweets": 1,
     "views": 188,
     "originVideos": "https://video.twimg.com/amplify_video/1920361002979192832/vid/avc1/480x270/NxWJUHmYIuSYVJMR.mp4,https://video.twimg.com/amplify_video/1920361017978097665/vid/avc1/480x270/zYgVz47E4mEbg_Em.mp4"
+  },
+  {
+    "id": "1920374860758573390",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 15:07:00",
+    "content": "韩联社报道，据韩国检方5月7日消息，一名前SK海力士中国法人员工因涉嫌非法泄露半导体核心技术，被以违反《产业技术保护法》等罪名，在被拘留状态下正式起诉。         首尔中央地方检察厅信息技术犯罪调查部表示，该嫌疑人金某（50多岁）于2022年间，非法窃取并泄露了SK海力士的先进半导体技术及与营业相关的商业机密。\n调查显示，金某在接到中国华为旗下子公司“海思半导体”（HiSilicon）的跳槽邀请后，为获得职位擅自打印公司内部文档，并偷拍了逾1万张含有机密资料的照片，严重违反公司信息安全规定。         \n此案引发韩国社会对高新技术流失问题的高度关注，检方也强调将严厉打击跨国技术泄密行为，以维护国家核心产业安全。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920374860758573390_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1039,
+    "originVideos": ""
+  },
+  {
+    "id": "1920373623166284075",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 15:02:05",
+    "content": "上海交通大学生物医学工程学院博士研究生魏静，实名举报实验室负责人邵志峰教授学术霸凌。魏静在公开信息中称，邵志峰教授现在担任学院的学位评定委员会的组长，实验室几乎每个博士都被拖到8、9年以上，甚至有10多年没毕业的。\n 魏静称，邵志峰教授强行攫取她的开题课题，哄骗威逼自己为其干私活，当魏静快到结业不想再干时，被报复不准进实验室做实验2年，还让她签协议，要自己出经费，限制课题怎么做，承诺毕不了业不是导师的责任等。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920373623166284075_0.jpg,/tweet/image/whyyoutouzhele/2025/05/08/1920373623166284075_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 6,
+    "retweets": 4,
+    "views": 4692,
+    "originVideos": ""
   }
 ]
