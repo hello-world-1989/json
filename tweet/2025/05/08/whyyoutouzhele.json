@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 2113,
     "originVideos": ""
+  },
+  {
+    "id": "1920408506693193801",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 17:20:42",
+    "content": "5月7日，网传江苏盐城外国语学校，一名初中生遭到霸凌后跳楼，家属在校外拉横幅维权，并呐喊：“这个社会还有没有公道了” https://t.co/vIHDuvg9tp",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920408506693193801_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/08/1920408506693193801_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 40,
+    "replies": 20,
+    "retweets": 0,
+    "views": 4709,
+    "originVideos": "https://video.twimg.com/amplify_video/1920408294620807168/vid/avc1/320x584/FJNeOjtGxmVdbVSb.mp4"
   }
 ]
