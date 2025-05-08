@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 387,
     "originVideos": "https://video.twimg.com/amplify_video/1920384485746429952/vid/avc1/320x568/YU4sfbEgkux42N6E.mp4"
+  },
+  {
+    "id": "1920399033635397942",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 16:43:03",
+    "content": "5月8日，一博主称，下列国家中，工人阶级地位最高的国家是：A:美国、B:中国、C:日本、D:印度。博主称，答案是B(中国) 引发网民嘲讽：“首先排除掉B”“自己骗自己”“又赢了” https://t.co/Av0LHvuRVd",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/08/1920399033635397942_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 9,
+    "retweets": 2,
+    "views": 4338,
+    "originVideos": "https://video.twimg.com/amplify_video/1920398606072168448/vid/avc1/320x564/WwlxYtoU2KTQyflZ.mp4"
   }
 ]
