@@ -646,5 +646,23 @@
     "retweets": 4,
     "views": 3115,
     "originVideos": "https://video.twimg.com/amplify_video/1920470749959094272/vid/avc1/480x270/1yMxjWC5tirTEGas.mp4"
+  },
+  {
+    "id": "1920485151664189840",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 22:25:15",
+    "content": "星期三，美国众议院通过一项法案，根据法案，与某些中国高校有关系的美国大学，将被禁止获得美国国土安全部的资助，包括那些与中国顶尖科学研究所有关系的大学。该法案主要提案人、共和党籍众议员普卢格说：“已有证据表明，中共通过孔子学院等项目恶意扩展在美国的影响力，而非它所声称的搭建桥梁和推广文化”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920485151664189840_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 1,
+    "retweets": 6,
+    "views": 2356,
+    "originVideos": ""
   }
 ]
