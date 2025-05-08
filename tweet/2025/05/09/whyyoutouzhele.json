@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 887,
     "originVideos": ""
+  },
+  {
+    "id": "1920546758033355188",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 02:30:03",
+    "content": "美国总统特朗普与英国首相斯塔默5月8日共同宣布，美国与英国达成贸易协议。英国政府表示，美国对英国汽车的进口关税立即从25%减至10%，钢铁和铝的关税降至0%。美国商务部长卢特尼克指，英国将向美国放宽多个市场准入，其中包括乙醇、牛肉、机械和农产品。英国同时同意价值100亿美元的波音飞机采购协议。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920546758033355188_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 6,
+    "retweets": 0,
+    "views": 4075,
+    "originVideos": ""
   }
 ]
