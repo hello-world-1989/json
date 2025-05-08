@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1920318136974459074",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 11:21:36",
+    "content": "5月7日 梵蒂冈西斯廷教堂烟囱冒出滚滚黑烟，这意味着枢机主教们的教皇选举秘密会议首日并未选出新任教皇。\n枢机主教们将进行多轮投票，每天最多进行四轮投票，直到有候选人获得2/3以上选票当选教皇，在此期间枢机主教们不能离开。\n如果当日投票未选举出新任教皇，西斯廷教堂的烟囱将在销毁选票时混上特殊药剂，排放黑烟。直到选出新任教皇，西斯廷教堂的烟囱会放出白烟。\n这是在推选新任教皇的投票流程中，外界唯一能获知相关结果的方式。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920318136974459074_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 3,
+    "retweets": 2,
+    "views": 4689,
+    "originVideos": ""
   }
 ]
