@@ -430,5 +430,23 @@
     "retweets": 4,
     "views": 4692,
     "originVideos": ""
+  },
+  {
+    "id": "1920387773439029363",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 15:58:18",
+    "content": "5月7日，男子反映广州白云区龙兴西路一处下水管道在今年1月破裂，但直到今日仍未维修，政府回复称是因为项目资金没批下来。男子称，政府每天派8个人守在井旁，一个人算月薪5000元，那么几个月下来就有20万工资。他质疑：“20万还不够修一个下水管道吗？这是在浪费我们纳税人的钱。” https://t.co/AKovt6dJFe",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920387773439029363_0.jpg,/tweet/image/whyyoutouzhele/2025/05/08/1920387773439029363_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/08/1920387773439029363_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 387,
+    "originVideos": "https://video.twimg.com/amplify_video/1920384485746429952/vid/avc1/320x568/YU4sfbEgkux42N6E.mp4"
   }
 ]
