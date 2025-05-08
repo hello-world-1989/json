@@ -160,5 +160,23 @@
     "retweets": 5,
     "views": 3701,
     "originVideos": "https://video.twimg.com/amplify_video/1920267722824314880/vid/avc1/320x614/-8i7TtzgAnYJic8g.mp4,https://video.twimg.com/amplify_video/1920267912654249985/vid/avc1/320x614/WKkpsyIr3PaE48SQ.mp4"
+  },
+  {
+    "id": "1920312624232714243",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-08 10:59:41",
+    "content": "5月8日 小米终于承认其SU7 Ultra挖孔版虚假宣传，碳纤维前盖风道并不连通。4.2万元选配的碳纤维前盖无法提供宣传的额外下压力，仅能减重1.3kg。\n对于未交付的订单，小米将限时允许车主更改配置。\n但对于已经提车的车主，小米只提供2万积分（相当于2000元左右）的补偿方案。很多车主对此方案并不满意。 https://t.co/y3GulwS1wJ https://t.co/mlkdobsJU6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/08/1920312624232714243_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
