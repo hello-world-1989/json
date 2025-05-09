@@ -682,5 +682,23 @@
     "retweets": 3,
     "views": 8115,
     "originVideos": ""
+  },
+  {
+    "id": "1920818445681123534",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 20:29:39",
+    "content": "彭博社引述知情人消息报道，特朗普政府正考虑本周末在瑞士与中国的贸易谈判中将对华关税降至 60% 以下。此次大幅下调将是第一步，并希望中国也愿意采取同样的措施，若谈判取得进展，最早下周就会下降关税。5月9日，特朗普在社交平台发文称：“对中国征收80%的关税是合适的，决定权在于财长贝森特” https://t.co/v3K2cpZ6w3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920818445681123534_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920818445681123534_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
