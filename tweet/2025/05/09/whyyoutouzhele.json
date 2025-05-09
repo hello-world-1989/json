@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 3222,
     "originVideos": ""
+  },
+  {
+    "id": "1920770115324572163",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 17:17:36",
+    "content": "俄罗斯纪念卫国战争80周年阅兵式今天在红场举行，今年有来自13个国家的阅兵方队出席仪式，包括中国、白俄罗斯、越南、埃及、哈萨克斯坦。普京此前称，中国方队是所有外国方队中规模最大的， 习近平当天出席典礼。\n 这是普京第22次以国家最高统帅身份参加5月9日阅兵式。他首次以总统身份出现在红场，是在2000年的胜利日。\n 据报道俄罗斯将在今年 5 月 9 日胜利日庆祝活动期间限制包括莫斯科在内的多个地区的互联网访问。有中介提醒在莫斯科的留学生们提前准备好现金。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920770115324572163_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920770115324572163_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/09/1920770115324572163_0.jpg,/tweet/video/whyyoutouzhele/2025/05/09/1920770115324572163_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1119,
+    "originVideos": "https://video.twimg.com/amplify_video/1920769241277702144/vid/avc1/480x270/s_UB5tDIThVqOuU7.mp4,https://video.twimg.com/amplify_video/1920769687874621440/vid/avc1/404x270/OA4eYar0e0py5wdc.mp4"
   }
 ]
