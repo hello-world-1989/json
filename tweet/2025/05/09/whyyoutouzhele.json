@@ -664,5 +664,23 @@
     "retweets": 0,
     "views": 2210,
     "originVideos": ""
+  },
+  {
+    "id": "1920811017145127233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 20:00:08",
+    "content": "沈阳近日出台新规，献血达到40次以上的人可免费乘坐市内线路的公交车和地铁。有人质疑：假如一年献血两次也要二十年后才能免费坐公交，期间身体还要一直保持健康，并且老年人本来就能免费乘坐公交车。 https://t.co/LjqvqCRMyl",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920811017145127233_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920811017145127233_1.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920811017145127233_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 46,
+    "replies": 13,
+    "retweets": 3,
+    "views": 8115,
+    "originVideos": ""
   }
 ]
