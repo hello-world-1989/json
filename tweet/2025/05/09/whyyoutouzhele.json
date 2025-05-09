@@ -538,5 +538,23 @@
     "retweets": 1,
     "views": 2662,
     "originVideos": ""
+  },
+  {
+    "id": "1920761999862231461",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 16:45:21",
+    "content": "5月8日，潇湘晨报：近日，湖南刘女士3岁女儿因不明原因眼神呆滞，无法正常走路，头发也大把大把掉，经检测孩子血铊、尿铊值均远超标，确诊为急性铊中毒。广州一名儿科医生质疑：按发病时间推算，孩子中毒应该和湖南耒水被污染有关，她估计还会有其他受害者陆续出现。该事件在引起热议后，潇湘晨报删掉了报道。\n 5月9日，大象新闻又报道称，系去年病例，孩子已痊愈出院。不过上述媒体在报道中均未提到孩子为什么会铊中毒，全篇几乎都在科普什么是铊中毒。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920761999862231461_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920761999862231461_1.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920761999862231461_2.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920761999862231461_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 2,
+    "retweets": 2,
+    "views": 3222,
+    "originVideos": ""
   }
 ]
