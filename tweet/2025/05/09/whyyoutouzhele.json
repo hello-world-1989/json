@@ -250,5 +250,23 @@
     "retweets": 3,
     "views": 4414,
     "originVideos": ""
+  },
+  {
+    "id": "1920656466471522344",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 09:46:00",
+    "content": "自5月3日以来，广东中山黄圃发电厂周围居民反映，发电厂持续排放有毒气体，致使附近几万居民出现 不同程度恶心呕吐等呼吸道问题，尤其老人小孩，多数均咳嗽不止。居民前往发电厂维权抗议。 https://t.co/WreVFLSLEQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920656466471522344_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/09/1920656466471522344_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2273,
+    "originVideos": "https://video.twimg.com/amplify_video/1920629604332544000/vid/avc1/480x270/o-6zSNb7ujhDwMdZ.mp4"
   }
 ]
