@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 52,
     "originVideos": ""
+  },
+  {
+    "id": "1920985004739362967",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 07:31:29",
+    "content": "在去年无锡工艺职业技术学院发生无差别砍人后，今年，无锡科技职业学院依然强制要求学生必须在校方指定的实习单位实习（疑似强制成校方的廉价劳动力）。 https://t.co/SNzsJJocUS https://t.co/fJ5DqoKTqw",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/10/1920985004739362967_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 8,
+    "retweets": 5,
+    "views": 6789,
+    "originVideos": "https://video.twimg.com/amplify_video/1920984948044926976/vid/avc1/1080x1920/gX2ITaeRDNZbdPFI.mp4"
   }
 ]
