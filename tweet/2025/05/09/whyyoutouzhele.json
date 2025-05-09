@@ -376,5 +376,23 @@
     "retweets": 1,
     "views": 2012,
     "originVideos": ""
+  },
+  {
+    "id": "1920692479302475779",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 12:09:06",
+    "content": "近日 小红书上充斥大量逃避美国关税的教程，包括通过出口加拿大/墨西哥再通过陆路运进美国；马来西亚换柜+工厂配合出假的原产地证等。目前转口贸易和洗产地似乎已经形成了完整的产业链。\n4月15日起美国海关也启用了新的原产地核查系统，严厉打击转口贸易规避关税，但小红书仍有商家声称可以转口逃税。 https://t.co/QAFYXU45YO",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920692479302475779_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920692479302475779_1.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920692479302475779_2.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920692479302475779_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 122,
+    "originVideos": ""
   }
 ]
