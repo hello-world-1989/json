@@ -736,5 +736,23 @@
     "retweets": 1,
     "views": 945,
     "originVideos": ""
+  },
+  {
+    "id": "1920838091042168953",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 21:47:43",
+    "content": "俄罗斯总统普京在胜利日阅兵仪式上发表讲话，普京表明：“真理和正义都在我们这边，整个国家、社会和人民都支持在乌克兰参加特别军事行动的人员”。他补充说：“我们为他们的勇气和决心感到骄傲，他们的坚韧始终为我们带来胜利”。普京还称，“(俄罗斯)过去是、将来也会是阻挡纳粹、仇俄心理和反犹主义的坚不可摧的屏障”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920838091042168953_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920838091042168953_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 858,
+    "originVideos": ""
   }
 ]
