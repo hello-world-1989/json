@@ -268,5 +268,23 @@
     "retweets": 1,
     "views": 2273,
     "originVideos": "https://video.twimg.com/amplify_video/1920629604332544000/vid/avc1/480x270/o-6zSNb7ujhDwMdZ.mp4"
+  },
+  {
+    "id": "1920672068858962400",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 10:48:00",
+    "content": "5月8日，广东省东莞市汀环路193号丽华鞋面厂重庆老板跑路，工人被欠薪，几个月没拿到工资。 https://t.co/2zV3qU5c68",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/09/1920672068858962400_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 0,
+    "views": 677,
+    "originVideos": "https://video.twimg.com/amplify_video/1920629095173414912/vid/avc1/320x568/SYZ01qb9nxd0bdk4.mp4"
   }
 ]
