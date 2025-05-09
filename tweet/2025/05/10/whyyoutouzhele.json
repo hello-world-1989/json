@@ -34,5 +34,23 @@
     "retweets": 5,
     "views": 9930,
     "originVideos": "https://video.twimg.com/amplify_video/1920884939169689601/vid/avc1/320x564/e3LuXDXGi6OjcYM0.mp4"
+  },
+  {
+    "id": "1920890604113809618",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 01:16:23",
+    "content": "近日，重庆三峡学院发布《防火墙及DNS设备采购》的招标公告，重庆洪正商贸有限公司中标。中标（成交）金额：85万元。中标商品为一台普联路由器单价75万元。电商平台显示，这款路由器单价151-209元不等。 https://t.co/A863UIfdjT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1920890604113809618_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1920890604113809618_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1817,
+    "originVideos": ""
   }
 ]
