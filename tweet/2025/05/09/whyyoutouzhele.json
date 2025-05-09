@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 721,
     "originVideos": ""
+  },
+  {
+    "id": "1920792303578616268",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 18:45:46",
+    "content": "【银行倒闭潮初现，去年近200家中小型银行注销】据第一财经报道，2024年以来，已有近200家中小型银行注销，主要为农村金融机构，数量远超2021年至2023年的总和。\n 央行最新发布的2024年《金融稳定报告》指出，全国一共有357家银行评级为高风险银行。\n 从类型来看，这些高风险银行主要是农村金融机构包括村镇银行、农村商业银行、农村合作银行和农村信用社。在地区分布上，最高危的地区多集中在东三省、河南、甘肃。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920792303578616268_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920792303578616268_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1948,
+    "originVideos": ""
   }
 ]
