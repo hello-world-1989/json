@@ -322,5 +322,41 @@
     "retweets": 4,
     "views": 6244,
     "originVideos": ""
+  },
+  {
+    "id": "1920686745781461444",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 11:46:19",
+    "content": "5月7日晚，上海交通大学生物医学工程学院博士研究生魏静实名举报邵某峰教授学术霸凌。\n涉事教授表示情况复杂，不是一两句话说得清楚的。“这些完全是她个人的臆想，相关情况学校都有调查也有报告，我不想多说，等学校回应吧。”\n上海交通大学生物医学工程学院工作人员表示，学院已经第一时间关注到该消息，学校正在积极跟进，具体调查信息暂不方便透露，后续情况会通过官方渠道公布。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920686745781461444_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 977,
+    "originVideos": ""
+  },
+  {
+    "id": "1920686665355719164",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 11:46:00",
+    "content": "5月8日，广东一工厂老板不愿意花钱加装铜管，于是把空调外机散热器安装在工人车间。车间温度高达40度，老板自己却空调间内享受。 https://t.co/0LcIfTSbIW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/09/1920686665355719164_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1840,
+    "originVideos": "https://video.twimg.com/amplify_video/1920628317364924416/vid/avc1/320x568/4bVDQgQUS_eOnALS.mp4"
   }
 ]
