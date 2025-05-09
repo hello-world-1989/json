@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 677,
     "originVideos": "https://video.twimg.com/amplify_video/1920629095173414912/vid/avc1/320x568/SYZ01qb9nxd0bdk4.mp4"
+  },
+  {
+    "id": "1920682801357013449",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 11:30:39",
+    "content": "https://t.co/WQUYnp3GsT",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2481,
+    "originVideos": ""
+  },
+  {
+    "id": "1920682652811882619",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 11:30:03",
+    "content": "8 孙辉\n#八九民运 #六四屠杀 孙辉，19岁，北京大学化学系学生。1989年6月4日晨8时左右，孙辉骑车去寻找从天安门广场撤出而未归来的几位同学，行至复兴门立交桥附近时中弹。遇上戒严部队士兵向人群开枪,子弹从他左腋窝穿过心脏由右腋窝射出，被送到医院时已停止呼吸。\n孙辉 男，19岁，北京大学化学系88级学生。家庭所在地：宁夏石咀山市。\n1989年学运开始时，孙辉参加了在天安门广场的静坐。6月4日晨8时左右，孙辉接受同学们的委托，骑车赶赴天安门方向，去寻找4日凌晨从天安门广场撤出而未归来的几位同学。当他行至复兴门立交桥附近时，遇上戒严部队士兵向人群开枪，子弹从他左腋窝穿过心脏由右腋窝射出，鲜血染红了印有“北京大学”字样的背心，被市民送到儿童医院抢救时已经停止呼吸。其骨灰一开始放在北京八宝山，三年后其父母带回宁夏放在家里，直到2008年看到国家还没有解决“六四”的意思，才把他入土为安，安葬在他奶奶的墓旁边。\n孙辉的父亲孙承康、母亲于清、姐姐孙宁是“天安门母亲”群体成员。\nhttps://t.co/GSJFerjfGL; https://t.co/iGhY2UaoeJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920682652811882619_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920682652811882619_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 1,
+    "retweets": 4,
+    "views": 6244,
+    "originVideos": ""
   }
 ]
