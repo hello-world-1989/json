@@ -718,5 +718,23 @@
     "retweets": 1,
     "views": 2838,
     "originVideos": ""
+  },
+  {
+    "id": "1920833003540054303",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 21:27:30",
+    "content": "据报上海微软大裁员，赔偿金N+8，有12年老员工感叹：拿20个月工资走人，每月3000失业补助，也是种幸福。网民对此表示羡慕：“小心资本主义的糖衣炮弹”“外企是真把人当人看啊”\n 此前，奔驰中国裁员赔偿N+9，如果未来两月没有入职新公司，奔驰中国还为其额外发放3月和4月工资，这意味着最高赔付相当于N+11",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920833003540054303_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920833003540054303_1.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920833003540054303_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 1,
+    "views": 945,
+    "originVideos": ""
   }
 ]
