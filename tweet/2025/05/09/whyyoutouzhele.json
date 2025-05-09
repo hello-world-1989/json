@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 782,
     "originVideos": ""
+  },
+  {
+    "id": "1920703854917898721",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 12:54:18",
+    "content": "据路透社消息人士称，英伟达正在修改H20计算芯片，并计划在未来两个月内为中国市场推出H20芯片的降级版本，以满足特朗普政府对华计算芯片出口管制。\nH20芯片本就是英伟达为中国市场定制的阉割版芯片，以满足之前美国对华芯片出口技术规格限制。上月美宣布H20出口将需要出口许可证后，相当于对华禁售。\n一个消息人士表示，新的对华芯片出口限制将导致新设计的降级芯片性能与原始H20相比大幅下降，包括大幅降低内存容量。\n根据路透社上个月的报道，自1月以来，英伟达积累了价值180亿美元的H20订单。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920703854917898721_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 3127,
+    "originVideos": ""
   }
 ]
