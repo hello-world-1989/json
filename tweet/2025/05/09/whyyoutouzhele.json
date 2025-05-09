@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1920824725804118154",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 20:54:36",
+    "content": "中国海关总署公布的数据显示：中国4月以美元计价出口同比增长8.1%，远超出接受路透社调查的经济师所预测的1.9%\n 4月中国以美元计价进口同比下降0.2%；4月中国对美国出口同比下降21.3%，而对东盟的出口则增长了21%\n路透社认为，上述数据显示，中国进出口贸易并未如预期出现更大幅度放缓情况 https://t.co/J8E1stsblZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920824725804118154_0.jpg,/tweet/image/whyyoutouzhele/2025/05/09/1920824725804118154_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2838,
+    "originVideos": ""
   }
 ]
