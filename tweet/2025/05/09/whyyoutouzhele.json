@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 858,
     "originVideos": ""
+  },
+  {
+    "id": "1920843963113894396",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 22:11:03",
+    "content": "网传有中国置业者在柬埔寨金边购房被骗，拉横幅维权。购房者们在镜头前齐声高喊：“希望总理能听到我们的心声，希望能尽快帮我们拿到房子的硬卡(不动产权证)，希望总理和政府能严惩房地产开发商” 横幅上写着“保利公馆，违法销售，欺骗购房者，还我血汗钱”\n    据悉，柬埔寨买房常见有三种骗局，骗局一：一房多主：在柬埔寨，房地产拥有权可以是硬产权或软产权，有时候两种产权都可能同时存在。因此，业主会借助这个漏洞，把房子卖给两个买主。一个买家获得软产权，另一个获得硬产权；骗局二：隐藏有争议的土地；骗局三：骗走订金。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920843963113894396_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/09/1920843963113894396_0.jpg,/tweet/video/whyyoutouzhele/2025/05/09/1920843963113894396_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 3,
+    "retweets": 3,
+    "views": 7792,
+    "originVideos": "https://video.twimg.com/amplify_video/1920843699405099009/vid/avc1/490x270/L7ayoYduYUX2gEeZ.mp4,https://video.twimg.com/amplify_video/1920843706191802373/vid/avc1/490x270/r2Z22bxKxrCeVyLc.mp4"
   }
 ]
