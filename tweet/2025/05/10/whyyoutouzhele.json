@@ -16,5 +16,23 @@
     "retweets": 2,
     "views": 5986,
     "originVideos": ""
+  },
+  {
+    "id": "1920886490990866529",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 01:00:02",
+    "content": "近日，广州。一名16岁男孩称，他在路边摆摊时，被便衣城管推倒受伤，事后家人去城管大队维权，城管大队不承认那是他们的人，直到警察介入后才肯承认，但他们表示，打人城管只是轻轻碰了一下，并且家人想进入城管大队的办公室维权，被城管以闹事为由赶出来。男孩称，自己和家人只是想要一个合理的说法和赔偿，没有任何无理取闹的行为。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/10/1920886490990866529_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 4,
+    "retweets": 5,
+    "views": 9930,
+    "originVideos": "https://video.twimg.com/amplify_video/1920884939169689601/vid/avc1/320x564/e3LuXDXGi6OjcYM0.mp4"
   }
 ]
