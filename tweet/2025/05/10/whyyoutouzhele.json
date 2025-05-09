@@ -106,5 +106,23 @@
     "retweets": 5,
     "views": 6789,
     "originVideos": "https://video.twimg.com/amplify_video/1920984948044926976/vid/avc1/1080x1920/gX2ITaeRDNZbdPFI.mp4"
+  },
+  {
+    "id": "1920988568278688128",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 07:45:39",
+    "content": "5月7日，深圳愉盛工业园宝安石岩料坑。老板跑路只留下一群被欠薪的工人无助的在风中凌乱。 https://t.co/5l1fb6VUPq",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1920988568278688128_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1920988568278688128_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 748,
+    "originVideos": ""
   }
 ]
