@@ -520,5 +520,23 @@
     "retweets": 3,
     "views": 1938,
     "originVideos": "https://video.twimg.com/amplify_video/1920736212362698752/vid/avc1/1280x720/Q-m2GbEAxivwtXnt.mp4"
+  },
+  {
+    "id": "1920749489247199397",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-09 15:55:38",
+    "content": "5月8日报道，安徽合肥多部门联合约谈房地产领域自媒体，整治“今年买房的钱明年买两套”“房价跳水榜”“跌的最惨的小区排行”等言论。 https://t.co/0JkBFveCmq",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/09/1920749489247199397_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2662,
+    "originVideos": ""
   }
 ]
