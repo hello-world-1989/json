@@ -214,5 +214,41 @@
     "retweets": 1,
     "views": 5073,
     "originVideos": "https://video.twimg.com/amplify_video/1921022495827619840/vid/avc1/320x568/0vw8gNYf1oWZyA9G.mp4"
+  },
+  {
+    "id": "1921028209136554054",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 10:23:10",
+    "content": "网友投稿称，学机械的工科生能找到工作，但难找到好工作。好工作名额太少，非常卷。找工作还要找关系、贿赂。 https://t.co/yePerCtEF0",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921028209136554054_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 3534,
+    "originVideos": ""
+  },
+  {
+    "id": "1921027410620764251",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 10:20:00",
+    "content": "5月9日（发布），广东惠州市博罗县。龙溪鑫佳源家具有限公司倒闭，已拖欠员工工资半年。员工维权讨薪。 https://t.co/jy79WPtNCk",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921027410620764251_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/10/1921027410620764251_0.jpg,/tweet/video/whyyoutouzhele/2025/05/10/1921027410620764251_1.jpg,/tweet/video/whyyoutouzhele/2025/05/10/1921027410620764251_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 1,
+    "retweets": 2,
+    "views": 7620,
+    "originVideos": "https://video.twimg.com/amplify_video/1921015293934989312/vid/avc1/320x568/OmR9jWZ2Rjo0-vRV.mp4,https://video.twimg.com/amplify_video/1921015294966829056/vid/avc1/320x486/hMWy3FLpqCAve_f9.mp4,https://video.twimg.com/amplify_video/1921015294970953728/vid/avc1/480x852/XgFT7aUdkr3iCxPm.mp4"
   }
 ]
