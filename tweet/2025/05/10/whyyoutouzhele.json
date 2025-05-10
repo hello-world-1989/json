@@ -178,5 +178,23 @@
     "retweets": 4,
     "views": 6912,
     "originVideos": "https://video.twimg.com/amplify_video/1921014656056938496/vid/avc1/320x568/yZJ9WLblGmFKEtml.mp4"
+  },
+  {
+    "id": "1921019357796389222",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 09:48:00",
+    "content": "5月5日（发布），索菲玛汽车（重庆）有限公司恶意裁员，并以不断轮岗和监视（甚至于吃饭喝水和如厕都要被监视）各种手段逼迫员工。 https://t.co/6OyjTT02HL",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921019357796389222_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/10/1921019357796389222_0.jpg,/tweet/video/whyyoutouzhele/2025/05/10/1921019357796389222_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 836,
+    "originVideos": "https://video.twimg.com/amplify_video/1921005608645296128/vid/avc1/320x568/IWElmLiigUKO1E3p.mp4,https://video.twimg.com/amplify_video/1921005608628609024/vid/avc1/320x568/CkJoCMiBBPLUyKsk.mp4"
   }
 ]
