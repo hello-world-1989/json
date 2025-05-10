@@ -304,5 +304,23 @@
     "retweets": 4,
     "views": 6775,
     "originVideos": "https://video.twimg.com/amplify_video/1921028465345650688/vid/avc1/320x568/sDjDyZJs376ARkQD.mp4"
+  },
+  {
+    "id": "1921033340758471040",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 10:43:34",
+    "content": "https://t.co/Rgg6SqmrOX 学生投稿\n蚌埠二中跳楼同学的遗书。据投稿同学称，到现在只有蚌埠铁中真正实现了双休，其他学校仍然单休。 https://t.co/U6J8q8iQVx",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921033340758471040_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1921033340758471040_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 4036,
+    "originVideos": ""
   }
 ]
