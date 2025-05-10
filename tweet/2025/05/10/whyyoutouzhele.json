@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 748,
     "originVideos": ""
+  },
+  {
+    "id": "1920999141737431399",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 08:27:40",
+    "content": "5月7日，桂林临桂地区顶岗教师也集体反映欠薪五个月。 https://t.co/qTvtCo4iOf",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1920999141737431399_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1920999141737431399_1.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1920999141737431399_2.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1920999141737431399_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 387,
+    "originVideos": ""
   }
 ]
