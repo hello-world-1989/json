@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 4232,
     "originVideos": "https://video.twimg.com/amplify_video/1921113418322636802/vid/avc1/320x568/qjb_eYT4pWfLjHn5.mp4,https://video.twimg.com/amplify_video/1921113435217010689/vid/avc1/1280x720/0d9WQYX9oiuo3m_u.mp4"
+  },
+  {
+    "id": "1921121946227667052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 16:35:39",
+    "content": "“大四本科生发14篇SCI论文” 重庆大学通报：经查，刘培乔系研究生副院长刘某华之女，刘某华被免职。 https://t.co/a2V5VmpOzc",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921121946227667052_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1921121946227667052_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1187,
+    "originVideos": ""
   }
 ]
