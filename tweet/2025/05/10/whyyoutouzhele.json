@@ -808,5 +808,23 @@
     "retweets": 0,
     "views": 51,
     "originVideos": ""
+  },
+  {
+    "id": "1921198953317462443",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 21:41:39",
+    "content": "最近，印度和巴基斯坦之间的冲突升级，社交平台出现不少自称是巴基斯坦军人的账号，并且视频里的字幕还说“我爱中国”“感谢中国人的支持”这些视频有的点赞超过了几十万，评论区也有大量网民支持。伊拉克驻华记者方浩明辟谣，视频大部份是叙利亚的视频“而且视频里说的和字幕完全不一样，这些都是虚假账号 https://t.co/8KaAtm5MHY",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921198953317462443_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/10/1921198953317462443_0.jpg,/tweet/video/whyyoutouzhele/2025/05/10/1921198953317462443_1.jpg,/tweet/video/whyyoutouzhele/2025/05/10/1921198953317462443_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 8,
+    "retweets": 3,
+    "views": 5419,
+    "originVideos": "https://video.twimg.com/amplify_video/1921197945161977856/vid/avc1/320x564/eUDfNErNCAlt1VQA.mp4,https://video.twimg.com/amplify_video/1921198086262591488/vid/avc1/320x684/G-6MZB-mKcrT8I4a.mp4,https://video.twimg.com/amplify_video/1921198117619130368/vid/avc1/720x1280/KgcqBX7aaVbuMJhD.mp4"
   }
 ]
