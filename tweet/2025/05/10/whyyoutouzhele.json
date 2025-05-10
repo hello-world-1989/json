@@ -772,5 +772,23 @@
     "retweets": 2,
     "views": 3758,
     "originVideos": "https://video.twimg.com/amplify_video/1921173641372278784/vid/avc1/480x270/c8ZTeqa7cGqXBVoj.mp4"
+  },
+  {
+    "id": "1921176579750633656",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 20:12:45",
+    "content": "美国总统特朗普在社交平台发文“在美国斡旋下，经过一夜漫长的谈判，我很高兴地宣布，印度和巴基斯坦已达成全面且立即生效的停火协议，感谢你们对此事的关注！” https://t.co/CvIrGek8kA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921176579750633656_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 8,
+    "retweets": 1,
+    "views": 5537,
+    "originVideos": ""
   }
 ]
