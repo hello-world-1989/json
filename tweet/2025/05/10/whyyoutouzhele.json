@@ -844,5 +844,23 @@
     "retweets": 5,
     "views": 7843,
     "originVideos": "https://video.twimg.com/amplify_video/1921203001177632770/vid/avc1/320x564/SGzYlemgkc5pyJZx.mp4,https://video.twimg.com/amplify_video/1921203047528615937/vid/avc1/320x568/KGA0AqXAAyBvfJlb.mp4"
+  },
+  {
+    "id": "1921217811940340104",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-10 22:56:35",
+    "content": "印巴双方同意立即停火。巴基斯坦副总理兼外交部长达尔宣布，巴基斯坦决定停止与印度的冲突。达尔通过社交媒体发文说，巴基斯坦始终致力于维护地区和平与安全，同时不损害其主权和领土完整。\n 印度外交部长苏杰生在X上发帖确认了停火，并说道：“印度始终对一切形式和表现的恐怖主义采取坚定不妥协的立场。我们将继续这样做。”\n 路透社引述印度外交部说，巴基斯坦军事行动负责人已于星期六（5月10日）下午与印度外交部长通话，双方同意停止一切交火。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/10/1921217811940340104_0.jpg,/tweet/image/whyyoutouzhele/2025/05/10/1921217811940340104_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1259,
+    "originVideos": ""
   }
 ]
