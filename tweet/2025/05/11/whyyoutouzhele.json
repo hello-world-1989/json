@@ -664,5 +664,23 @@
     "retweets": 2,
     "views": 2341,
     "originVideos": ""
+  },
+  {
+    "id": "1921595055032127549",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 23:55:37",
+    "content": "5月11日(发布) 重庆。精神病院数十名女子扒在铁丝网上，让外面的人快点打110，其中一名女子称：“我们都是被110送进去的，这里面好多人都是被警察送进去的” https://t.co/Cfx89eFuLp",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/11/1921595055032127549_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 14,
+    "retweets": 13,
+    "views": 4291,
+    "originVideos": "https://video.twimg.com/amplify_video/1921594163771985920/vid/avc1/320x568/4JYQXIYCrH2nl8_4.mp4"
   }
 ]
