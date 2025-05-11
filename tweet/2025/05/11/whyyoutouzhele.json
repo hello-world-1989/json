@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 555,
     "originVideos": ""
+  },
+  {
+    "id": "1921426397811101917",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 12:45:26",
+    "content": "近日 多家官媒密集报道“老外难逃中国品牌真香定律”，打飞的来华购物代购越发火热，不少老外带着行李箱来义乌扫货。\n官方数据声称2024年中国入境游客13190万人次，但实际上这包括了香港澳门和中华民国的数据。入境外国游客数仅2694万，这还包括转机免签过境旅客，仍低于19年的3188万人次。 https://t.co/nrcLxxT7Ua",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921426397811101917_0.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921426397811101917_1.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921426397811101917_2.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921426397811101917_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1863,
+    "originVideos": ""
   }
 ]
