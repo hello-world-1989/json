@@ -448,5 +448,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1921513137120956667",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 18:30:06",
+    "content": "香港首富李嘉诚周六晚到启德体育园观看五月天演唱会，李嘉诚离开时，被记者问:“李（先）生，巴拿马运河（港口交易如何）呢？”李嘉诚对此没有回应。一旁的李嘉诚基金会董事周凯旋说：“不要问这些，李生已经退休了。他难得第一次出来。” https://t.co/q4yY6ElcNr",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/11/1921513137120956667_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 13,
+    "retweets": 4,
+    "views": 7826,
+    "originVideos": "https://video.twimg.com/amplify_video/1921512038989275136/vid/avc1/1072x1920/M6xJaQ5-SmUqhrrb.mp4"
   }
 ]
