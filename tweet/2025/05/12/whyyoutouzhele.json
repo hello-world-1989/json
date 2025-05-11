@@ -16,5 +16,23 @@
     "retweets": 0,
     "views": 68,
     "originVideos": ""
+  },
+  {
+    "id": "1921603758888243652",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 00:30:12",
+    "content": "美国财长贝森特周日对记者说：“美国和中国在非常重要的贸易谈判中取得了实质性进展。”贝森特表示，他将于周一公布更多细节。同样出席会谈的美国贸易代表杰米森·格里尔则表示，双方的分歧并不像之前预想的那么大。 https://t.co/Kd9ri8xmxT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921603758888243652_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 12,
+    "retweets": 2,
+    "views": 12265,
+    "originVideos": ""
   }
 ]
