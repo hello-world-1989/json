@@ -340,5 +340,23 @@
     "retweets": 1,
     "views": 4131,
     "originVideos": ""
+  },
+  {
+    "id": "1921461322367344867",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 15:04:12",
+    "content": "彭博报道，在线招聘平台之一的智联招聘，已连续两个季度没有发布其追踪全国38个主要城市新入职员工平均工资的报告。按往年惯例，该平台通常会在季度结束后的一个月内公布相关数据。这项数据没有如期发布，反映出中国近年来在统计数据披露方面日益收紧的趋势。令分析师和投资者难以掌握一个日益敏感的现实：青年失业高、企业普遍降薪、裁员现象的持续蔓延。\n 此外，中国央行每季度对储户进行的调查，曾是另一项重要的家庭收入和消费信心数据来源。但自2023年年底以来，该调查的发布出现了显著延迟，官方并未给出具体解释。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921461322367344867_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2954,
+    "originVideos": ""
   }
 ]
