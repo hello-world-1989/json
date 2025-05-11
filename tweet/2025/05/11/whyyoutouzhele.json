@@ -142,5 +142,23 @@
     "retweets": 2,
     "views": 3143,
     "originVideos": ""
+  },
+  {
+    "id": "1921410291905987039",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 11:41:26",
+    "content": "5月11日 央视发起的“美国还能扛多久”话题登上微博热搜。 https://t.co/Exex0DV8rB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921410291905987039_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 12,
+    "retweets": 2,
+    "views": 7342,
+    "originVideos": ""
   }
 ]
