@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 5007,
     "originVideos": "https://video.twimg.com/amplify_video/1921496253076213760/vid/avc1/320x568/WMT4bQYmPQQiPLbv.mp4"
+  },
+  {
+    "id": "1921500436667961677",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 17:39:38",
+    "content": "据报道，有博主在社交平台发帖称，苹果应用商店无法下载国家反诈中心App，页面提示“无法安装国家反诈中心，苹果App Store已不再提供该App”。苹果客服回应：“应用商店搜不到的话，应该就是下架了，不太清楚是不是因为权限的一些问题，他好像是要读取设备的应用权限的问题，可能是因为这方面，但不确定，如果说你这边要用的话，尝试一下在微信的小程序里面能不能搜到他们的一些相关推荐程序。”\n 关于恢复时间，对方表示：“这个不由我们来确定的，这个东西应该是软件方那边，就是负责运营这个软件的，软件方公司和Apple这边，这个协商的事情，目前尚不确定。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921500436667961677_0.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921500436667961677_1.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921500436667961677_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 0,
+    "originVideos": ""
   }
 ]
