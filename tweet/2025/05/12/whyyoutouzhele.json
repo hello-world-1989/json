@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 3719,
     "originVideos": ""
+  },
+  {
+    "id": "1921627778731983045",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 02:05:39",
+    "content": "乌克兰总统泽连斯基在社交平台发文称，周四他将在土耳其与普京会面：“我们期待从明天开始实现全面持久的停火，为外交奠定必要的基础。延长杀戮毫无意义。周四我将在土耳其等候普京。就我个人而言。我希望俄罗斯人这次不会找借口。” https://t.co/1A9plrSr8m",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921627778731983045_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 768,
+    "originVideos": ""
   }
 ]
