@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 768,
     "originVideos": ""
+  },
+  {
+    "id": "1921629887342805415",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 02:14:01",
+    "content": "白宫：美国在日内瓦宣布与中国达成贸易协议 https://t.co/n1pXBB6brk",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921629887342805415_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1288,
+    "originVideos": ""
   }
 ]
