@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 761,
     "originVideos": ""
+  },
+  {
+    "id": "1921443133511905572",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 13:51:56",
+    "content": "中美双方在日内瓦举行的贸易谈判已于星期六（5月10日）结束首日磋商，将在星期天（11日）继续进行。美国总统特朗普在社交平台发文说：“这是一次全面重启的谈判，气氛友好，但具建设性……今天与中国在瑞士举行了非常不错的会谈。讨论了很多议题，也达成不少共识。” https://t.co/zyxVjDsqsu",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921443133511905572_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 1,
+    "views": 4131,
+    "originVideos": ""
   }
 ]
