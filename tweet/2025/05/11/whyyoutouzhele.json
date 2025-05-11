@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 1353,
     "originVideos": "https://video.twimg.com/amplify_video/1921516968617582592/vid/avc1/320x568/hf9lmjhFIt0Dszvo.mp4,https://video.twimg.com/amplify_video/1921517016940249089/vid/avc1/480x270/vDAF6eLT6bJT13U5.mp4"
+  },
+  {
+    "id": "1921531042994770362",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 19:41:15",
+    "content": "近日，拥有30多万粉丝的中医博主林波，在微博发布“不要喝母乳超过半年”“不要喝牛奶”“母亲的母乳中有淫欲，对孩子不好” 等言论。目前该博主的微博和抖音均被平台禁言。此前，还有一名中医博主“张玄化”鼓励大家用米汤代替母乳，也被平台禁言。 https://t.co/jsEmwG8muw",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921531042994770362_0.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921531042994770362_1.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921531042994770362_2.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921531042994770362_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 15,
+    "retweets": 4,
+    "views": 6037,
+    "originVideos": ""
   }
 ]
