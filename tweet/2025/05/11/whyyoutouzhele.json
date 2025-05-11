@@ -592,5 +592,23 @@
     "retweets": 2,
     "views": 6134,
     "originVideos": "https://video.twimg.com/amplify_video/1921557248717012992/vid/avc1/320x568/QDv5cDB3uCEX6QST.mp4"
+  },
+  {
+    "id": "1921564924729270471",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-11 21:55:53",
+    "content": "近日，复旦中山医院心血管病主任医师程蕾蕾发文称，她遇到一位鼻咽癌转移到颈部淋巴结的老人，老人表示看病太花钱了，自己什么都能忍耐，只要把脖子上的鼓包(转移病灶)切掉就行了，家里还有地，还要回去继续干活。\n 程蕾蕾感慨：“这就是我们的农民，一辈子劳动，直到生命的最后一刻..” https://t.co/t8TuSPkT97",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/11/1921564924729270471_0.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921564924729270471_1.jpg,/tweet/image/whyyoutouzhele/2025/05/11/1921564924729270471_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 7,
+    "retweets": 9,
+    "views": 3249,
+    "originVideos": ""
   }
 ]
