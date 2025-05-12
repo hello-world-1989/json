@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 2433,
     "originVideos": ""
+  },
+  {
+    "id": "1921745643204132979",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 09:54:00",
+    "content": "网友投稿\n近期，有郑州教师在社交媒体上曝光 河南郑州中原区发不出基本工资。 \n同时有网友表示，昨天领导开会，谁发社交媒体就给谁处分 https://t.co/YkHv6Zs0a0",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921745643204132979_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921745643204132979_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 3,
+    "retweets": 3,
+    "views": 4881,
+    "originVideos": ""
   }
 ]
