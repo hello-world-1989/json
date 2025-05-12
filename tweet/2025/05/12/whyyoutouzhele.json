@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 2329,
     "originVideos": ""
+  },
+  {
+    "id": "1921827492840472645",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 15:19:14",
+    "content": "彭博社根据内容整理，美国将把对中国商品加征关税从145%降至30%，为期90天，中国将把对美国商品关税税率从125%降至10%，为期90天。消息公布后，恒指急升暂最多817点或3.58%，是4月10日后最大升幅，高见23685.34点，是3月28日23775.3点后最高。",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 127,
+    "originVideos": ""
   }
 ]
