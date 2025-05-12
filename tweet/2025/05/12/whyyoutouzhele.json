@@ -304,5 +304,23 @@
     "retweets": 4,
     "views": 6384,
     "originVideos": "https://video.twimg.com/amplify_video/1921791895644344320/vid/avc1/320x568/mRn-L8EmWSzkTktj.mp4,https://video.twimg.com/amplify_video/1921792549741629440/vid/avc1/1080x1920/5qEbBG7vpiZMRZPx.mp4"
+  },
+  {
+    "id": "1921799995612664163",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 13:29:58",
+    "content": "沃尔玛在其官网的供应商行为准则中提到，沃尔玛要求供应商对工人的安全和福利负责。\n在供应商标准11页中明确写道，供应商应该采取适当的程序和保障措施，是工人免于接触有害化学品。\n喷漆基本都含有机溶剂，需要对喷漆及悬浮颗粒可能接触的皮肤黏膜和呼吸道进行保护。\n图二为沃尔玛供应链监督电话 https://t.co/StAKB8yCms",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921799995612664163_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921799995612664163_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 1,
+    "views": 3085,
+    "originVideos": ""
   }
 ]
