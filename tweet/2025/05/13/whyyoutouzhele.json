@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 1594,
     "originVideos": ""
+  },
+  {
+    "id": "1922036418332782878",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 05:09:26",
+    "content": "陕西，一网友称整个县都没发工资。“听说要等好几个月。” https://t.co/bWxrjPiM4c",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922036418332782878_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922036418332782878_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 39,
+    "originVideos": ""
   }
 ]
