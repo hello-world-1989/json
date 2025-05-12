@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 1806,
     "originVideos": "https://video.twimg.com/amplify_video/1922024071090282496/pl/krjEUiHXxDnmLl50.m3u8?v=f7e"
+  },
+  {
+    "id": "1922028039174492238",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 04:36:08",
+    "content": "5月7日，浙江中海地产。\n公司拖欠工资几个月，工人们集体罢工讨要血汗钱 https://t.co/TBkUdFHTVW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/13/1922028039174492238_0.jpg,/tweet/video/whyyoutouzhele/2025/05/13/1922028039174492238_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1004,
+    "originVideos": "https://video.twimg.com/amplify_video/1922027616661307392/vid/avc1/720x1420/R1LPfNChSXjUqFaV.mp4,https://video.twimg.com/amplify_video/1922027628522799105/vid/avc1/480x946/FDx-O8HHV1R80ptw.mp4"
+  },
+  {
+    "id": "1922027368140460444",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 04:33:28",
+    "content": "5月10日，广西临桂。\n小红书曝光，当地的编外人员，辅警，社区的工资和公积金以及绩效都被拖欠 https://t.co/vLP9iPCXMK",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922027368140460444_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922027368140460444_1.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922027368140460444_2.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922027368140460444_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1608,
+    "originVideos": ""
   }
 ]
