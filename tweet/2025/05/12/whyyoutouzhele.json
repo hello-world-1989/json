@@ -250,5 +250,41 @@
     "retweets": 1,
     "views": 9206,
     "originVideos": ""
+  },
+  {
+    "id": "1921791612063023155",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 12:56:40",
+    "content": "5月12日 在中美日内瓦贸易谈判达成共识后，环球时报却再发文称“美国今年夏天将更昂贵”，并登上微博热搜。 https://t.co/ROw9mvgavi",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921791612063023155_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 963,
+    "originVideos": ""
+  },
+  {
+    "id": "1921790269923766563",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 12:51:20",
+    "content": "5月11日 美国玩具公司Huntar的老板Jason Cheung接受路透社采访时称，他们一直在为美国沃尔玛供货玩具。但在特朗普145%关税后客户取消了订单。\n但经过调查后发现，这家美国公司疑似广东韶关光华玩具旗下公司，路透社新闻封面照片显示该公司在喷漆作业时仅给员工配备普通口罩，还没有护目镜手套！\n质量再好的喷漆在喷涂过程中也会有细小悬浮油漆颗粒和挥发性有机物，长期接触可能引发严重疾病，应该配备全身防护和活性炭滤毒盒。\n图3为美国Huntar玩具官网，其Logo却同时出现在图2韶关光华玩具官网中。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921790269923766563_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921790269923766563_1.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921790269923766563_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 8,
+    "retweets": 2,
+    "views": 5964,
+    "originVideos": ""
   }
 ]
