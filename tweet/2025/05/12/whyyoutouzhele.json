@@ -376,5 +376,23 @@
     "retweets": 4,
     "views": 6609,
     "originVideos": ""
+  },
+  {
+    "id": "1921820797456261249",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 14:52:38",
+    "content": "凤凰网报道：消息人士透露，这次中美双方降低的关税水平将超过100%。 https://t.co/vBewCuoRXW",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921820797456261249_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 13,
+    "retweets": 0,
+    "views": 7488,
+    "originVideos": ""
   }
 ]
