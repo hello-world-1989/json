@@ -520,5 +520,23 @@
     "retweets": 1,
     "views": 530,
     "originVideos": ""
+  },
+  {
+    "id": "1921875755409326459",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 18:31:01",
+    "content": "5月12日(发布)，一名初中生在社交平台倾诉：八九岁的时候就已经有很明显的抑郁症状了，而妈妈和继父不仅不在意与关心过她，还要责怪她不断地给家里添麻烦。在六一儿童节的那天，家里没人，她一个人去做了刚好够她和妹妹的晚饭，结果妈妈回到家还要埋怨她为什么没给自己做饭，看见她在写日记还在问她是不是在学校谈恋爱了，就连自己唯一一个宣泄情绪的渠道都要被怀疑..",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921875755409326459_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921875755409326459_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921875755409326459_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 7,
+    "retweets": 1,
+    "views": 7027,
+    "originVideos": "https://video.twimg.com/amplify_video/1921874396165390336/vid/avc1/320x568/TBqHUg_c-4Ymjm8H.mp4"
   }
 ]
