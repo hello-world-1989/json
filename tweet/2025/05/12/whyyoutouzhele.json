@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 189,
     "originVideos": ""
+  },
+  {
+    "id": "1921902323292578170",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 20:16:35",
+    "content": "今天是汶川512大地震17周年，汶川大地震发生于2008年5月12日，地震的面波震级达8.0级，地震共计造成69,227人遇难，17,923人失踪，374,643人不同程度受伤，1,993.03万人失去住所，受灾总人口达4,625.6万人。是中华人民共和国成立以来破坏力最大的地震。\n 当年汶川大地震发生后，央视记者李小萌在灾区采访一位路过的大哥，他面对镜头平静的叙述：“我孩子在学校都死了”“我母亲躺在医院里死了”“我爱人也死了，就剩我一个了”大哥背着仅剩的家当，几块腊肉和几瓶酒，继续往前走，像是活着里的福贵....\n 另一位挑着扁担的朱大爷称，房子都塌了，他打算回家把菜籽收回去，朱大爷离开后，记者李小萌再也无法控制住情绪，掩面痛哭....\n 汶川512大地震17周年，据李小萌透露，朱大爷已于2011年去世。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921902323292578170_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921902323292578170_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921902323292578170_0.jpg,/tweet/video/whyyoutouzhele/2025/05/12/1921902323292578170_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1943,
+    "originVideos": "https://video.twimg.com/amplify_video/1921901292311748608/vid/avc1/296x270/SqOxXBLfp8rKYMdN.mp4,https://video.twimg.com/amplify_video/1921901951861809152/vid/avc1/320x426/SeoLSscqhjeJpVAb.mp4"
   }
 ]
