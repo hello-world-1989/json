@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 127,
     "originVideos": ""
+  },
+  {
+    "id": "1921838503266029789",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 16:02:59",
+    "content": "5月12日，一名独立记者走访山东的一些村镇后称，当地一位大爷向他透露，现在村里要收取环保费、治安费、种地保险费，而且这三项费用还和小麦补贴挂钩，如果村民不交这三项费用，就不能领取小麦补贴。 https://t.co/19iKQ0Q7nB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921838503266029789_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 4,
+    "retweets": 2,
+    "views": 5733,
+    "originVideos": "https://video.twimg.com/amplify_video/1921837404488429568/vid/avc1/1280x720/sdHk6D45lEAtxeUf.mp4"
   }
 ]
