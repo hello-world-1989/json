@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 6924,
     "originVideos": ""
+  },
+  {
+    "id": "1921885123319886015",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 19:08:14",
+    "content": "5月12日是国际护士节，原本是一个向护理群体表达尊重和感谢的日子，可不少护士在社交平台抱怨，一到护士节“额外任务”反而更多。值班本来就够累了，还要抽出空隙排练和表演节目，听领导讲话。有护士感慨：“做364天的牛马，还要做1天的猴” https://t.co/gXgAJeBnaP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921885123319886015_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921885123319886015_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921885123319886015_0.jpg,/tweet/video/whyyoutouzhele/2025/05/12/1921885123319886015_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 586,
+    "originVideos": "https://video.twimg.com/amplify_video/1921884545466445824/vid/avc1/272x482/TtAB7mpeX4NuD5Tb.mp4,https://video.twimg.com/amplify_video/1921884602823561216/pl/USn39dG3EqSsGyro.m3u8"
   }
 ]
