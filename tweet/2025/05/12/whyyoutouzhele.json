@@ -682,5 +682,23 @@
     "retweets": 4,
     "views": 8512,
     "originVideos": ""
+  },
+  {
+    "id": "1921934015977976136",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 22:22:31",
+    "content": "香港近日欠薪事件频发：5月8日，薄扶林道一处建筑地盘被曝出拖欠工程费及工资近3000万元。60多名工人在地盘堵路，还有工人驶来4辆货车挂上横幅堵在地盘入口。\n 5月7日，将军澳日出康城12期项目发生欠薪事件，工人称遭金门建筑等大判及二判欠薪近4个月，涉款约1,300万元。过百名工人冒雨，在日出康城地盘外拉横额堵路追薪。\n 除了建筑行业频频被曝出欠薪，海皇粥店于上周三（7日）宣布终止全部业务，有100名员工向劳工处求助，追讨约1,500万元，大部份人遭欠薪约1个月。有员工要同时负责洗碗、收银、吧台等多个岗位。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921934015977976136_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921934015977976136_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921934015977976136_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 54,
+    "replies": 19,
+    "retweets": 2,
+    "views": 18327,
+    "originVideos": "https://video.twimg.com/amplify_video/1921933727078252544/vid/avc1/476x270/HY-08YwmMjT4tdNN.mp4"
   }
 ]
