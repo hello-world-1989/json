@@ -448,5 +448,23 @@
     "retweets": 2,
     "views": 5733,
     "originVideos": "https://video.twimg.com/amplify_video/1921837404488429568/vid/avc1/1280x720/sdHk6D45lEAtxeUf.mp4"
+  },
+  {
+    "id": "1921846395759124903",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 16:34:21",
+    "content": "网曝CCTV6电影频道今晚22点原本将播放《纽约，我爱你》在引发网民热议后，官方又悄悄改成了《欢迎到南方》 https://t.co/8yhUg2Ayxd",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921846395759124903_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921846395759124903_1.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921846395759124903_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 3,
+    "views": 7052,
+    "originVideos": ""
   }
 ]
