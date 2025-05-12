@@ -322,5 +322,23 @@
     "retweets": 1,
     "views": 3085,
     "originVideos": ""
+  },
+  {
+    "id": "1921808294261268511",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 14:02:57",
+    "content": "5月10日，北京。男子发视频称，家人病毒性感冒，医院一口气给开了700多元的药，除了一盒阿奇霉素外，其余全都是中成药，男子查询后还发现多数药的价格比电商平台贵好几倍。 https://t.co/GWjXWxXv0c",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/12/1921808294261268511_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 10,
+    "retweets": 5,
+    "views": 5245,
+    "originVideos": "https://video.twimg.com/amplify_video/1921806770445393920/vid/avc1/320x566/l9rr_MkvcAAJ3eN4.mp4"
   }
 ]
