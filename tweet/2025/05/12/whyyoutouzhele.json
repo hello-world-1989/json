@@ -214,5 +214,23 @@
     "retweets": 0,
     "views": 2099,
     "originVideos": ""
+  },
+  {
+    "id": "1921780444732801385",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-12 12:12:17",
+    "content": "5月11日下午，苹果应用商店恢复了国家反诈中心App的正常下载。\n据悉，反诈中心App从5月9日晚间起被苹果应用商店下架，在恢复前，已下载用户也无法正常打开使用。\n不少网友在官媒新闻下方点赞苹果的行为，有网友称“终于不用被逼着下载了”“当年是做核酸时让他安装的，不安装不让做核酸” https://t.co/UKn89c0lgz https://t.co/krxbCGfrtJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/12/1921780444732801385_0.jpg,/tweet/image/whyyoutouzhele/2025/05/12/1921780444732801385_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 2,
+    "views": 7519,
+    "originVideos": ""
   }
 ]
