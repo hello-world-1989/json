@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 2041,
     "originVideos": ""
+  },
+  {
+    "id": "1922320350039183569",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 23:57:41",
+    "content": "5月13日，工人们在湖南联通门口下跪讨薪。\n 5月10日视频发布者：“歼10身背几条机命不是想证明我有多么了不起，而是要告诉你们我失去的尊严一定要拿回来，下次航展必须给我搭个棚子，把那该死的塑料布扔远点！” https://t.co/wDS2TwPg54",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922320350039183569_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922320350039183569_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/13/1922320350039183569_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1122,
+    "originVideos": "https://video.twimg.com/amplify_video/1922318706111074305/vid/avc1/320x568/YWuBpHfiET09Fchz.mp4"
   }
 ]
