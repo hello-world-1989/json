@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 1539,
     "originVideos": "https://video.twimg.com/amplify_video/1922374881439555584/vid/avc1/320x568/AhegpxlgpxigfXls.mp4"
+  },
+  {
+    "id": "1922388712500953565",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 04:29:19",
+    "content": "5月9日，四川宜宾\n网友透露当地政府借钱发工资 https://t.co/KRmzqUYzwP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922388712500953565_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922388712500953565_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 15,
+    "originVideos": ""
   }
 ]
