@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 2482,
     "originVideos": ""
+  },
+  {
+    "id": "1922375132535771402",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 03:35:22",
+    "content": "5月13日，广西南宁。\n央企中国一冶拖欠农民工工资三年，引发工人讨薪。 https://t.co/Wa7IWbmdOc",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922375132535771402_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922375132535771402_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1539,
+    "originVideos": "https://video.twimg.com/amplify_video/1922374881439555584/vid/avc1/320x568/AhegpxlgpxigfXls.mp4"
   }
 ]
