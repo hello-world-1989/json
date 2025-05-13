@@ -322,5 +322,23 @@
     "retweets": 4,
     "views": 2906,
     "originVideos": "https://video.twimg.com/amplify_video/1922393514542780416/vid/avc1/320x426/vjplXnEgP3nLvI_V.mp4"
+  },
+  {
+    "id": "1922420590616752270",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 06:36:00",
+    "content": "5月12日，中国电建昆明设计院 拖欠农民工工资\n工人们聚集在项目部讨薪。 https://t.co/ABH8JCNOuT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922420590616752270_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1272,
+    "originVideos": "https://video.twimg.com/amplify_video/1922375245458980864/vid/avc1/480x270/Ex1O7SU9vDwPw6Za.mp4"
   }
 ]
