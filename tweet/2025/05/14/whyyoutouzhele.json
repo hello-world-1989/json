@@ -106,5 +106,41 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1922358513415970993",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 02:29:19",
+    "content": "5月20日赖清德总统即就职满周年，但按照惯例，中国官媒往往会在这些对台湾有意义的日子发表武统言论，并策动包含台湾艺人在内的公众人物转发相关言论，以此煽动中国网友情绪。陆委会主委邱垂正12日强调，针对这些在特定时刻，艺人有矮化或伤害国家主权的作为，可能涉及违反《两岸条例》33条之1，「任何人未经政府许可，不得与中共党政军有任何合作行为」，陆委会将会同主管机关文化部进行查处。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922358513415970993_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 15,
+    "originVideos": "https://video.twimg.com/amplify_video/1922358365180547072/vid/avc1/480x270/1pN7Ynv-GCzYgmJ4.mp4"
+  },
+  {
+    "id": "1922356984088502664",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 02:23:15",
+    "content": "中央纪委办公厅通报：河南罗山县政法委书记李献林等10名官员在餐馆聚餐，其中5人喝了4瓶白酒，1人当天死亡，事后，县政法委向县委报送报告，隐瞒死亡人员饮酒情况。县委书记余国芳明知报告不实却未上报。市委书记等多人被处理 https://t.co/sUe5N2RUod",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922356984088502664_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922356984088502664_1.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922356984088502664_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2199,
+    "originVideos": ""
   }
 ]
