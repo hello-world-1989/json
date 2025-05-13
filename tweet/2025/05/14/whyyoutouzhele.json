@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 3098,
     "originVideos": ""
+  },
+  {
+    "id": "1922364498691629462",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 02:53:06",
+    "content": "5月9日，广西防城港。\n有网友曝光当地去年12月的绩效一直拖欠，还有教师称已经欠薪七个月。 https://t.co/YSsJMJQxhg",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922364498691629462_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922364498691629462_1.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922364498691629462_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2482,
+    "originVideos": ""
   }
 ]
