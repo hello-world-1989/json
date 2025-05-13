@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 2199,
     "originVideos": ""
+  },
+  {
+    "id": "1922360444515135755",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 02:37:00",
+    "content": "4月17日，网友曝光扬州市江都区乡镇发不出工资和绩效 https://t.co/yGNBsLe6Wr",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922360444515135755_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922360444515135755_1.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922360444515135755_2.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922360444515135755_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1110,
+    "originVideos": ""
   }
 ]
