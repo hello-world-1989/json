@@ -52,5 +52,23 @@
     "retweets": 1,
     "views": 2116,
     "originVideos": ""
+  },
+  {
+    "id": "1922341864830902335",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 01:23:10",
+    "content": "5月12日晚，多位网友在社交平台发帖称收到迪奥（Dior）的短信。迪奥表示，公司于2025年5月7日发现，曾有未经授权的外部人员获取了其持有的部分客户数据。\n 迪奥相关工作人员表示，近期确实发生了客户信息泄露的事件，已立即采取措施并聘请专业网络安全专家团队进行调查。受影响的数据中不包含客户的银行卡等财务信息，主要涉及姓名、性别、联系方式等个人信息。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922341864830902335_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922341864830902335_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 0,
+    "views": 4521,
+    "originVideos": ""
   }
 ]
