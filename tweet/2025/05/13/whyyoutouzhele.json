@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 2512,
     "originVideos": "https://video.twimg.com/amplify_video/1922035279394680832/vid/avc1/320x568/94IQnHGBoiBVPsEf.mp4"
+  },
+  {
+    "id": "1922113445874331672",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 10:15:31",
+    "content": "RT @liqiaochu01: 大家好，我是李翘楚，现就之前申请修改1226回顾视频的事宜做补充说明（由于一次性只能发布四张图片，这是第一部分） https://t.co/JCoP9BHdaX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922113445874331672_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922113445874331672_1.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922113445874331672_2.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922113445874331672_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 4,
+    "views": 0,
+    "originVideos": ""
   }
 ]
