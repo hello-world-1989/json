@@ -862,5 +862,23 @@
     "retweets": 9,
     "views": 7903,
     "originVideos": "https://video.twimg.com/amplify_video/1922282421996896256/vid/avc1/480x270/joaLLjzsIV8gTkGZ.mp4"
+  },
+  {
+    "id": "1922288468992131319",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 21:51:00",
+    "content": "师范专业会成为下一个土木吗？近日，浙江余姚朗霞中心幼儿园停止办园。该园在公告中直言不讳称由于人口出生率的下降，我园遇到了招生困难，将无法继续办学，故今年9月1日起停止办园，不再招收幼儿。\n 余姚市统计局：去年全市户籍人口82.71万人，全年全市出生3723人，其中男性1964人，男女性别比为111.7：100。人口出生率、死亡率分别为4.49%和10.27%，自然增长率为—5.77%，比上年下降1.9个千分点。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922288468992131319_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922288468992131319_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/13/1922288468992131319_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 10,
+    "retweets": 1,
+    "views": 6006,
+    "originVideos": "https://video.twimg.com/amplify_video/1922288077256433664/vid/avc1/1920x1080/wLpJ3o-xYIstuvem.mp4"
   }
 ]
