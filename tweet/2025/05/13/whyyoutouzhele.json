@@ -574,5 +574,23 @@
     "retweets": 1,
     "views": 717,
     "originVideos": "https://video.twimg.com/amplify_video/1922171657688330241/vid/avc1/320x568/LjVTH4saAi1at42o.mp4"
+  },
+  {
+    "id": "1922185519619805397",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 15:01:55",
+    "content": "5月12日，湖北(发布ip) 一男子在社交平台晒自己退伍前拍摄的合照。照片上方的横幅写着“习主席指挥，对习主席负责，让习主席放心” https://t.co/V3mliN5ice",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922185519619805397_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922185519619805397_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 19,
+    "retweets": 2,
+    "views": 6692,
+    "originVideos": ""
   }
 ]
