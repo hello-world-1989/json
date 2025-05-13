@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 1272,
     "originVideos": "https://video.twimg.com/amplify_video/1922375245458980864/vid/avc1/480x270/Ex1O7SU9vDwPw6Za.mp4"
+  },
+  {
+    "id": "1922421597467525306",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 06:40:00",
+    "content": "5月13日，广东立丰工厂欠薪六个月，工人维权讨薪。 https://t.co/yK0ktc35wN",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922421597467525306_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922421597467525306_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 2,
+    "retweets": 2,
+    "views": 3720,
+    "originVideos": "https://video.twimg.com/amplify_video/1922376450918825984/vid/avc1/320x568/XDuU4INTLSpMN58q.mp4"
   }
 ]
