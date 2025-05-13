@@ -916,5 +916,23 @@
     "retweets": 1,
     "views": 2121,
     "originVideos": ""
+  },
+  {
+    "id": "1922305230630486422",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 22:57:36",
+    "content": "彭博社援引知情人士报导，在与美国的贸易谈判取得突破性进展，双方暂时削减了各自的关税之后，北京的官员本周已开始告知国内航空公司和政府机构，可以恢复接收美国制造的飞机。其中一位人士补充说，已允许航空公司根据自己的时间和条件组织交付。\n 一个月前，彭博报道称，中国要求国内航司暂停接收波音飞机，以及停止向美国购买飞机相关设备和零部件，以反制特朗普的关税战",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922305230630486422_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1125,
+    "originVideos": ""
   }
 ]
