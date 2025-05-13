@@ -754,5 +754,23 @@
     "retweets": 5,
     "views": 3339,
     "originVideos": "https://video.twimg.com/amplify_video/1922252912987648000/vid/avc1/480x270/nVoCJ8SDj4MQHy9p.mp4"
+  },
+  {
+    "id": "1922256034758066322",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-13 19:42:07",
+    "content": "【中国今年第一季的失业保险基金支出达465亿元，较去年同期大增22.4%。】人力资源社会保障部：今年前三月，有2.44亿人参保全国失业保险，同比增加256万人。财新网12日报道，在同一时期，失业保险基金的收入和支出分别为495.4亿元和465亿元。\n 相较去年，参保人数和基金收入分别同比增长0.8%及5.5%，基金支出则显著上涨高达22.4%。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/13/1922256034758066322_0.jpg,/tweet/image/whyyoutouzhele/2025/05/13/1922256034758066322_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 7,
+    "retweets": 5,
+    "views": 4372,
+    "originVideos": ""
   }
 ]
