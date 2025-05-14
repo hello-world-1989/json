@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 108,
     "originVideos": "https://video.twimg.com/amplify_video/1922738094421282816/vid/avc1/320x568/scWCy2KVp6GxpT-c.mp4"
+  },
+  {
+    "id": "1922744716799422617",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 04:03:58",
+    "content": "5月14日，河北邢台体制内透露，市直工资未发，1季度绩效未发。\n陕西西安体制内透露降薪20%。\n安徽淮南体制内透露绩效未发。 https://t.co/nuUVM29O4h",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922744716799422617_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922744716799422617_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922744716799422617_2.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922744716799422617_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1401,
+    "originVideos": ""
   }
 ]
