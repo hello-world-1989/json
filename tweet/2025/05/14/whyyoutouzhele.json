@@ -718,5 +718,23 @@
     "retweets": 1,
     "views": 1817,
     "originVideos": "https://video.twimg.com/amplify_video/1922601400640405505/vid/avc1/1920x1080/kL5Ts0BFHqSVf-7t.mp4"
+  },
+  {
+    "id": "1922605945840128134",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 18:52:32",
+    "content": "美国升级遏制中国科技进步的力度，美国工业安全局(BIS) 周二发布了有关人工智能应用芯片的新指南，其中一项称，在世界上任何地方使用华为的昇腾人工智能(AI) 芯片都会违反出口管制规定。\n 美国商务部还宣布，撤销前总统拜登临下台时推出、原定于5月15日生效的防AI扩散三级出口管制。知情人士称，特朗普政府正在起草自己的方案，可能转而与各国单独磋商协议",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922605945840128134_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 2,
+    "views": 2842,
+    "originVideos": ""
   }
 ]
