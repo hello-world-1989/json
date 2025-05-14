@@ -862,5 +862,41 @@
     "retweets": 2,
     "views": 2146,
     "originVideos": ""
+  },
+  {
+    "id": "1922662590947471557",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 22:37:37",
+    "content": "台教育部长郑英耀今表示，国际交流对学生来说是好事，但对于和中国交流，以现在来讲不鼓励，甚至是禁止、反对。 「我不鼓励中小学、甚至大学交流只想到中国」。\n 台师大政治所教授曲兆祥表示，学生想去哪里，应该是宪法保障的自由，若教育部要明令禁止，应该立即行函给学校，否则除非宪法改写，要不然师生照旧行事。\n 北教大语创系副教授杨宗翰认为，部长此语有误，台湾各大学交流从来就不曾「只想到中国」，中国大陆等同其他国家，都只是对外交流的对象或选项之一。\n 一名私立大学高层坦言，「现在两岸交流这一块，实在不知道怎么做。」落地招待在过去都是双边习以为常的事，对学生来说是减轻经济负担，又有实质交流体验，但现在若陆方提及是落地招待，学校反而不敢去了。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922662590947471557_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922662590947471557_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1026,
+    "originVideos": "https://video.twimg.com/amplify_video/1922662387938967552/vid/avc1/480x270/cAhvNf2U3QgMSqhw.mp4"
+  },
+  {
+    "id": "1922660858653507994",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 22:30:44",
+    "content": "https://t.co/fuIZu36Sg3",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 4298,
+    "originVideos": ""
   }
 ]
