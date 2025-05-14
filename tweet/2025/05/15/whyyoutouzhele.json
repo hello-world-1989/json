@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 1711,
     "originVideos": ""
+  },
+  {
+    "id": "1922738345672692071",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 03:38:39",
+    "content": "5月14日，广州碧莹化妆品有限公司欠薪，工人在工厂门口维权讨薪。\n据工人透露，目前工厂天天放假，逼工人自动离职。 https://t.co/IEoTc6UJjD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922738345672692071_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 1,
+    "views": 108,
+    "originVideos": "https://video.twimg.com/amplify_video/1922738094421282816/vid/avc1/320x568/scWCy2KVp6GxpT-c.mp4"
   }
 ]
