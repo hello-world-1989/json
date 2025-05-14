@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 120,
     "originVideos": "https://video.twimg.com/amplify_video/1922614629005467648/vid/avc1/320x566/WTtYfDxU9Hl-pMJ6.mp4"
+  },
+  {
+    "id": "1922623463799558552",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 20:02:09",
+    "content": "5月13日，广东。一名24届毕业生讲述寝室5名室友的就业情况：两名室友考研上岸；室友三准备考公，目前还在备考；室友四虽然进入国企，但第一年是见习期，月薪2500-3000，还经常加班没有加班费；室友五也进入了国企，但是在转正的前一天“被开了”目前仍在待业状态；而自己毕业进入私企后被开除，虽然目前找到工作了，但还处于实习期“很害怕自己被开了之后，又要痛苦找工作”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922623463799558552_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922623463799558552_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922623463799558552_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 8,
+    "retweets": 2,
+    "views": 4446,
+    "originVideos": "https://video.twimg.com/amplify_video/1922621467541295104/vid/avc1/1080x1920/M2o6zj8uPPAJYlVJ.mp4"
   }
 ]
