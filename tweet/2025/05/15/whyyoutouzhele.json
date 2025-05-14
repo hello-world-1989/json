@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 95,
     "originVideos": "https://video.twimg.com/amplify_video/1922730430513426433/vid/avc1/320x568/J24jWMJK1qZbFGrg.mp4"
+  },
+  {
+    "id": "1922731151744971064",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 03:10:03",
+    "content": "5月14日，湖南有医生透露，已经4个月没发绩效了。\n安徽有公务员透露，已经7个月没发绩效了。 https://t.co/rThKkEqhgc",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922731151744971064_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922731151744971064_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922731151744971064_2.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922731151744971064_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2337,
+    "originVideos": ""
   }
 ]
