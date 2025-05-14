@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 1435,
     "originVideos": "https://video.twimg.com/amplify_video/1922594844830314496/vid/avc1/480x852/SBBt0pq-rg9mqL9O.mp4"
+  },
+  {
+    "id": "1922601574876004401",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 18:35:10",
+    "content": "5月11日，摄影师“啊哈一”在云南采访了当地的老农民。老太太称“今年差不多就死了，当农民不安逸哦~九十几岁了，还要吃亏”\n 一旁的老伴也附和说“当农民苦，没有年轻人愿意当农民” https://t.co/T7BHhiPh6U",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922601574876004401_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922601574876004401_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922601574876004401_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1817,
+    "originVideos": "https://video.twimg.com/amplify_video/1922601400640405505/vid/avc1/1920x1080/kL5Ts0BFHqSVf-7t.mp4"
   }
 ]
