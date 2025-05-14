@@ -70,5 +70,23 @@
     "retweets": 2,
     "views": 565,
     "originVideos": "https://video.twimg.com/amplify_video/1922714414190559235/vid/avc1/320x568/ZrFzUJsMxpM9P6V6.mp4,https://video.twimg.com/amplify_video/1922714463536648192/vid/avc1/320x568/w2JJa9sQncwTb-KN.mp4"
+  },
+  {
+    "id": "1922730875273318742",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 03:08:57",
+    "content": "5月13日，深圳。\n中建三局拖欠工资，农民工跳楼讨薪。 https://t.co/DDSE6cJ6SP",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922730875273318742_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 95,
+    "originVideos": "https://video.twimg.com/amplify_video/1922730430513426433/vid/avc1/320x568/J24jWMJK1qZbFGrg.mp4"
   }
 ]
