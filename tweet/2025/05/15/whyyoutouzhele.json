@@ -160,5 +160,41 @@
     "retweets": 2,
     "views": 1401,
     "originVideos": ""
+  },
+  {
+    "id": "1922755974831415576",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 04:48:42",
+    "content": "网友投稿\n5月14日，广西梧州。交警半夜在马路上拦截电瓶车罚款。\n据悉，广西梧州是全国罚没收入排名第一的城市，罚没收入占税收比29.8%。 https://t.co/Q8IwyonKtk",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922755974831415576_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922755974831415576_0.jpg,/tweet/video/whyyoutouzhele/2025/05/15/1922755974831415576_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 130,
+    "originVideos": "https://video.twimg.com/amplify_video/1922755657633021952/vid/avc1/320x568/fCrhCrhfOukuF3b_.mp4,https://video.twimg.com/amplify_video/1922755662540410880/vid/avc1/320x568/2pTYbdV_YQZRLFsP.mp4"
+  },
+  {
+    "id": "1922754765122834538",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 04:43:53",
+    "content": "网友投稿\n度城乡罗雄街道对未缴纳医保的居民进行公示曝光。 https://t.co/tGH9ZP9YEc",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922754765122834538_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 5,
+    "retweets": 2,
+    "views": 1461,
+    "originVideos": "https://video.twimg.com/amplify_video/1922753617011814400/vid/avc1/320x568/iORz_BH6VAITDPN7.mp4"
   }
 ]
