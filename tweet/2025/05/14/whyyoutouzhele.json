@@ -934,5 +934,23 @@
     "retweets": 0,
     "views": 4479,
     "originVideos": ""
+  },
+  {
+    "id": "1922681977926262932",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 23:54:39",
+    "content": "5月10日，一名男子拍摄了上海内环一处街道，视频显示，多个店铺关门转让。男子表示“我总有种感觉，可能未来1-3年会有非常恐怖的事情发生....” https://t.co/PVQHBSObmS",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922681977926262932_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 3,
+    "retweets": 3,
+    "views": 3740,
+    "originVideos": "https://video.twimg.com/amplify_video/1922681858133020672/vid/avc1/320x564/QQKW-T0lFf-Eq9mq.mp4"
   }
 ]
