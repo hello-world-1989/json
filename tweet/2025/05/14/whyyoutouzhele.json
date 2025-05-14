@@ -916,5 +916,23 @@
     "retweets": 0,
     "views": 51,
     "originVideos": "https://video.twimg.com/amplify_video/1922670345175068673/vid/avc1/320x568/687lFP2Et0pXJTBm.mp4"
+  },
+  {
+    "id": "1922673785507107264",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 23:22:06",
+    "content": "【塞尔维亚总统武契奇表示，虽然他访问了莫斯科，但仍希望加入欧盟】武契奇周二（5月13日）表示，塞尔维亚仍致力于加入欧洲联盟，并希望加速其入盟进程。此前，他访问莫斯科参加二战胜利80周年纪念活动引发西方批评。武契奇坦言：“（欧盟内部的）氛围……并不十分友好，我相信这是因为莫斯科之行，但……我相信欧洲会理解基于成绩的进步。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922673785507107264_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 0,
+    "views": 4479,
+    "originVideos": ""
   }
 ]
