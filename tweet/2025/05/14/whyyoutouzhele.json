@@ -898,5 +898,23 @@
     "retweets": 0,
     "views": 4298,
     "originVideos": ""
+  },
+  {
+    "id": "1922670559214661852",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 23:09:17",
+    "content": "5月13日，四川冕宁县第二人民医院医生刘刚，向民众科普献血的好处，他称“献血的好处有很多”\n 但评论区的网民们不买账纷纷嘲讽：“献血有好处，能轮到我吗？” “火锅店的鸭血28一份，我身上的血却是免费的” https://t.co/o8X49V6Jti",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922670559214661852_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922670559214661852_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922670559214661852_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 51,
+    "originVideos": "https://video.twimg.com/amplify_video/1922670345175068673/vid/avc1/320x568/687lFP2Et0pXJTBm.mp4"
   }
 ]
