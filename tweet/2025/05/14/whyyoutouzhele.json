@@ -736,5 +736,23 @@
     "retweets": 2,
     "views": 2842,
     "originVideos": ""
+  },
+  {
+    "id": "1922615159098343840",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 19:29:09",
+    "content": "5月14日(发布)，四川成都。视频显示，一男子持刀连续捅刺一名女子，路人持棍试图制服捅人男子。另一张图片显示，男子的刀都被捅弯了。 https://t.co/oU7lMBemhB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922615159098343840_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922615159098343840_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922615159098343840_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 1,
+    "retweets": 0,
+    "views": 120,
+    "originVideos": "https://video.twimg.com/amplify_video/1922614629005467648/vid/avc1/320x566/WTtYfDxU9Hl-pMJ6.mp4"
   }
 ]
