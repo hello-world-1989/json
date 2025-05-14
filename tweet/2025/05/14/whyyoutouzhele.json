@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 2961,
     "originVideos": ""
+  },
+  {
+    "id": "1922580980671344897",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 17:13:20",
+    "content": "5月13日(发布) 辽宁沈阳。男子发视频称，虎台镇治安村上千亩土地被置换，巨额土地补偿款被干部贪污。他因向上级部门反映此事，遭到区政府和公安多次私闯民宅、捆绑殴打、关进精神病院，导致妻子至今生活仍不能自理。 https://t.co/BK5hOwWRpz",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/14/1922580980671344897_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 2,
+    "retweets": 6,
+    "views": 2841,
+    "originVideos": "https://video.twimg.com/amplify_video/1922579000637194240/vid/avc1/320x568/sG4esUZLWPO4CFdh.mp4"
   }
 ]
