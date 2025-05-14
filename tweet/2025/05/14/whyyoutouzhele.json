@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 5329,
     "originVideos": ""
+  },
+  {
+    "id": "1922512805678481479",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-14 12:42:26",
+    "content": "2023年 美团外卖骑手总数就达到了745万人，全国外卖骑手总数超过1000万，意味着超过千万同胞没有养老、职工医保等社会保障\n据网友投稿的一份签署于2020年的饿了么专送骑手合同显示，即使成为专送骑手也没有社保，在新一线城市南京每单也只有5元。\n没有休息日，一天不上班就要扣200，严重超时罚款50。\n差评每个罚款50，订单取消一次罚款100，用户或商家投诉罚的更多。如果蓝色风暴抽检没拍照或者没穿外卖服也要罚款200.\n并且即使他不承认是雇佣关系也不交社保，依然要求提前30天申请离职，否则罚款1200元。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/14/1922512805678481479_0.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922512805678481479_1.jpg,/tweet/image/whyyoutouzhele/2025/05/14/1922512805678481479_2.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 2,
+    "views": 2233,
+    "originVideos": ""
   }
 ]
