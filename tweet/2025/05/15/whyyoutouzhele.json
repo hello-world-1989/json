@@ -898,5 +898,23 @@
     "retweets": 1,
     "views": 2242,
     "originVideos": ""
+  },
+  {
+    "id": "1923004931058860468",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 21:17:57",
+    "content": "近日，复旦大学附属华山医院耿道颖教授在期刊发表的研究论文指出，研究显示，近30年来，中国的阿尔茨海默病和其他痴呆症(ADD)发病率飙升300%，中国是世界上ADD疾病负担最重的国家之一，中国ADD疾病负担高于大多数国家，且增长速度快于全球平均水平。 https://t.co/ynEKQRWV6c",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1923004931058860468_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1923004931058860468_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1923004931058860468_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 0,
+    "views": 498,
+    "originVideos": ""
   }
 ]
