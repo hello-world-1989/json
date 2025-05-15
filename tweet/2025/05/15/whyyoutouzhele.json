@@ -376,5 +376,41 @@
     "retweets": 0,
     "views": 912,
     "originVideos": "https://video.twimg.com/amplify_video/1921021883786399744/pl/m4hjycq604q3_C86.m3u8?v=cfc,https://video.twimg.com/amplify_video/1921021883769556992/vid/avc1/320x568/99q86dgRnfy9wJpN.mp4"
+  },
+  {
+    "id": "1922861875596792287",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 11:49:30",
+    "content": "当日普宁气温约32℃，下午两点时地表温度超过50℃。至少9名学生因教育局比赛中的平板支撑等项目，手部与地面接触出现起泡、磨破皮等烫伤症状。 https://t.co/qduo9Pqm19",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922861875596792287_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 59,
+    "originVideos": ""
+  },
+  {
+    "id": "1922861348611862621",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 11:47:25",
+    "content": "5月13日下午两点 广东普宁市第三中学在烈日下举行教育局的大课间评比展示活动，由于正值炎热午后，且有平板支撑等和地面接触的动作，多名学生被烫伤。\n事后学校不仅没有及时将烫伤学生送医，还给高一学生发“表扬信”称，“虽然今天操场地面温度较高，但在比赛过程中没有一人退缩，彰显了迎难而上的勇气” https://t.co/lNCa30YHFK",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922861348611862621_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 0,
+    "views": 767,
+    "originVideos": ""
   }
 ]
