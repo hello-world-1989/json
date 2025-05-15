@@ -124,5 +124,23 @@
     "retweets": 1,
     "views": 1614,
     "originVideos": "https://video.twimg.com/amplify_video/1923098741742972928/vid/avc1/320x568/ELMzxeWWHbCkbiRq.mp4"
+  },
+  {
+    "id": "1923103416634458228",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 03:49:18",
+    "content": "5月15日，湖南株洲。\n大唐华银电力股份有限公司拖欠工资，工人维权 https://t.co/CycQ8icMcs",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923103416634458228_0.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923103416634458228_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/16/1923103416634458228_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 21,
+    "originVideos": "https://video.twimg.com/amplify_video/1923102994163183616/vid/avc1/320x568/YQLxJm4vJqWpLp_0.mp4"
   }
 ]
