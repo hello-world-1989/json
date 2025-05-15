@@ -1024,5 +1024,23 @@
     "retweets": 0,
     "views": 2484,
     "originVideos": ""
+  },
+  {
+    "id": "1923040651131732451",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 23:39:54",
+    "content": "5月15日(发布) 安徽。女子称她硕士毕业。刚才发工资只有3800元，而上个月工资只有2千多，女子表示此前她陆陆续续找了很久都没有找到工作，所以选择了现在这份工作，目前工作三个月还没有挣到1万元“我上这么多年学的意义是什么？” https://t.co/pqljKSBAGp",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1923040651131732451_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 17,
+    "retweets": 1,
+    "views": 6582,
+    "originVideos": "https://video.twimg.com/amplify_video/1923039338411196416/vid/avc1/1080x1920/rUb9id6j5nHo8jhA.mp4"
   }
 ]
