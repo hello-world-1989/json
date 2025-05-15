@@ -52,5 +52,23 @@
     "retweets": 1,
     "views": 1031,
     "originVideos": "https://video.twimg.com/amplify_video/1923072071841538048/vid/avc1/720x1280/57J9Z0ba8vfUErGG.mp4,https://video.twimg.com/amplify_video/1923072093199241216/vid/avc1/480x852/Zexyj6CvoO_suXw9.mp4"
+  },
+  {
+    "id": "1923082712815985006",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 02:27:02",
+    "content": "在美国当过医生的神经外科刘柏麟教授称，董小姐的4+4只能算医学临床本科水平，不能简单等同于5+3+3出来的医学博士。\n 不过董小姐入学协和医学院两年，便上手术台参与荧光腔镜精准肺段手术，而且入学资格还是造假的 https://t.co/Eu2qzPb96S",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923082712815985006_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/16/1923082712815985006_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "views": 360,
+    "originVideos": "https://video.twimg.com/amplify_video/1923082371722575872/vid/avc1/1280x720/hh3Ro9koNPw1lZ__.mp4"
   }
 ]
