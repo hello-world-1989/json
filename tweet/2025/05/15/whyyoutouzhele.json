@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 19,
     "originVideos": ""
+  },
+  {
+    "id": "1922984603301679191",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 19:57:11",
+    "content": "网曝前几天湘雅二院一名专硕规培生自杀，原因据称与“替领导背锅”有直接关系。并且这名规培生死前还有一个多月就硕士毕业了。其生前留下的遗书称，上级医生一次都没来过，之后一名患者出了事让规培生背锅。但该规培生是个很负责任的医生，值夜班的情况下多次到床旁查看患者。 https://t.co/S7LYQgDrX7",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922984603301679191_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922984603301679191_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922984603301679191_2.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922984603301679191_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 3,
+    "retweets": 1,
+    "views": 841,
+    "originVideos": ""
   }
 ]
