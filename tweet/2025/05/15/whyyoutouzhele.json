@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 1317,
     "originVideos": ""
+  },
+  {
+    "id": "1922967111069995271",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 18:47:40",
+    "content": "5月15日，网传北京海淀区前进小学门口发生车辆冲撞行人事故。当地人称“一辆黑色特斯拉在海淀区花园路前进小学放学时，恶意冲撞人群！！撞了十几个人！” “我去的时候，地上躺了4个老人” “撞完人就跑了”(以上聊天截图为网友自述，尚无法核实真实性) \n 中国新闻周刊报道称，从北京市海淀区教委获悉，该小学附近确实发生一起车辆撞人事故，教委工作人员已赶赴现场。\n 15日下午，海淀区交通支队中关村大队工作人员表示，现场已处理完毕，肇事司机被控制，正在调查事故原因。目前伤者已送医，具体情况后续将发布通报。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922967111069995271_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922967111069995271_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922967111069995271_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922967111069995271_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 5,
+    "retweets": 0,
+    "views": 655,
+    "originVideos": "https://video.twimg.com/amplify_video/1922965495323742208/vid/avc1/320x684/wJyt4YQ6HHwMgWB1.mp4"
   }
 ]
