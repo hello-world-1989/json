@@ -1006,5 +1006,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": "https://video.twimg.com/amplify_video/1923030353750654977/vid/avc1/1280x720/YHJY1RLAqdrkG0Jd.mp4,https://video.twimg.com/amplify_video/1923030387535577088/vid/avc1/960x720/_LRO4TnJq0DNsClI.mp4,https://video.twimg.com/amplify_video/1923030429000519681/vid/avc1/480x270/7b_k1DleYwB7wK1V.mp4"
+  },
+  {
+    "id": "1923033765036822539",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 23:12:32",
+    "content": "【泽连斯基派代表团前往伊斯坦布尔，不会亲自参加与俄罗斯的和平谈判】泽连斯基周四在土耳其首都安卡拉会见土耳其总统埃尔多安后宣布，乌方将派遣由国防部长乌梅罗夫率领的代表团，到伊斯坦布尔与俄方代表讨论“结束战争的步骤，即名义上的停火”泽连斯基在安卡拉召开的记者会上表明，由于普京决定不亲自出席谈判，而是派一支“低级别代表团”赴会，他本人不会前往伊斯坦布尔参加谈判。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1923033765036822539_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2484,
+    "originVideos": ""
   }
 ]
