@@ -880,5 +880,23 @@
     "retweets": 3,
     "views": 3206,
     "originVideos": ""
+  },
+  {
+    "id": "1922999227577156084",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 20:55:18",
+    "content": "5月14日(发布) 一名网友在小红书发帖，呼吁中国人不要去日本爬清水寺，因为“台阶上有日本国旗，寓意着你必须向日本国旗低头，所谓上去低头，下来还得低头。如果你愿意向日本国旗低头，当我没说过” https://t.co/XQMJpw4G3A",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922999227577156084_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922999227577156084_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2242,
+    "originVideos": ""
   }
 ]
