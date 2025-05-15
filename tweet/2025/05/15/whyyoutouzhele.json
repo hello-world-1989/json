@@ -646,5 +646,23 @@
     "retweets": 3,
     "views": 2488,
     "originVideos": ""
+  },
+  {
+    "id": "1922947247966388661",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 17:28:45",
+    "content": "北京日报：不少账号日日炮制“军事爽文”、杜撰军事史实、编造军事谣言。从地区冲突到大国博弈，从作战部署到国际局势，怎么极端怎么编、怎么有量怎么演，附以AI炮制的视频，“赢麻了”“赚翻了”一通咋呼。涉军信息本就事关重大，这些虚假内容横行舆论场，不仅会误导公众对我国外交政策、军事立场的理解，还很容易被某些境外势力当枪使。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/15/1922947247966388661_0.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922947247966388661_1.jpg,/tweet/image/whyyoutouzhele/2025/05/15/1922947247966388661_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 177,
+    "originVideos": ""
   }
 ]
