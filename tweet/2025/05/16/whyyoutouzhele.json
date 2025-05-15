@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 261,
     "originVideos": ""
+  },
+  {
+    "id": "1923129572708557088",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 05:33:14",
+    "content": "5月15日，有广西体制内透露一直没发工资\n5月7日，佛山南海教师透露年终绩效不发 https://t.co/4Cfj9V3na3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923129572708557088_0.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923129572708557088_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1068,
+    "originVideos": ""
   }
 ]
