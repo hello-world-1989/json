@@ -790,5 +790,23 @@
     "retweets": 1,
     "views": 390,
     "originVideos": "https://video.twimg.com/amplify_video/1922970950628409344/vid/avc1/320x564/EA9kYbgIq6d4h_ED.mp4"
+  },
+  {
+    "id": "1922974697785856169",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-15 19:17:49",
+    "content": "5月15日，北京、河南等地的村镇银行储户反映，他们遭到不明人士24小时的跟踪尾随。每当储户拿起手机拍照取证，并询问对方身份时，这些人又会掉头跑开。 https://t.co/2pSx74YMZf",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/15/1922974697785856169_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 456,
+    "originVideos": "https://video.twimg.com/amplify_video/1922973861647396864/vid/avc1/320x564/rerZAwTcK9RwTeHh.mp4"
   }
 ]
