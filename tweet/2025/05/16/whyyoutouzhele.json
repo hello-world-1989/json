@@ -556,5 +556,23 @@
     "retweets": 2,
     "views": 3903,
     "originVideos": "https://video.twimg.com/amplify_video/1923271457574141952/vid/avc1/478x270/2uTPETkTkN_6YQDa.mp4"
+  },
+  {
+    "id": "1923285134859526221",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 15:51:23",
+    "content": "5月15日，广东。一群农民工在楼顶跳楼讨薪，其中一名工人站在楼顶边缘大喊：“做工拿不到钱呐！我们打工这么辛苦，我没办法了，我一家老小要吃饭，你们说我该怎么办啊” https://t.co/K2DQp2WPNI",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/16/1923285134859526221_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 6,
+    "retweets": 2,
+    "views": 3322,
+    "originVideos": "https://video.twimg.com/amplify_video/1923285024000049152/vid/avc1/320x568/tUuE79xKHTBwGTlH.mp4"
   }
 ]
