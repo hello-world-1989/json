@@ -916,5 +916,23 @@
     "retweets": 5,
     "views": 6421,
     "originVideos": "https://video.twimg.com/amplify_video/1923399890794881024/vid/avc1/480x270/q5gIZmHehDJ2dTsO.mp4,https://video.twimg.com/amplify_video/1923400187026055168/vid/avc1/480x270/nIatdKCBp7Cb6WvI.mp4"
+  },
+  {
+    "id": "1923407544657002839",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 23:57:48",
+    "content": "5月15日(发布) 雷军在最新的内部演讲中说：三月底，一场突如其来的交通事故把这一切都击碎了。我们受到了狂风暴雨般的质疑、批评和指责，我和同事们一样，一下子都懵了。谁也没有想到，这一场事故的影响如此之大，对我们小米的打击也如此之大…… https://t.co/CXqs6YANwm",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923407544657002839_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/16/1923407544657002839_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 825,
+    "originVideos": "https://video.twimg.com/amplify_video/1923407368467148800/vid/avc1/320x568/Z_RIBD46YZ4S5iO-.mp4"
   }
 ]
