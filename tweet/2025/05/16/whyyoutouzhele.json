@@ -772,5 +772,23 @@
     "retweets": 3,
     "views": 2187,
     "originVideos": ""
+  },
+  {
+    "id": "1923356731138023725",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 20:35:53",
+    "content": "国家统计局今天公布的数据显示，去年全国城镇非私营单位就业人员年平均工资124110元，比上年增加3412元。\n 去年全国城镇私营单位就业人员年平均工资69476元，比上年增加1136元。 https://t.co/AjjfhiA9N6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923356731138023725_0.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923356731138023725_1.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923356731138023725_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1147,
+    "originVideos": ""
   }
 ]
