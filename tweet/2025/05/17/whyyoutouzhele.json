@@ -322,5 +322,41 @@
     "retweets": 1,
     "views": 786,
     "originVideos": "https://video.twimg.com/amplify_video/1923499437252292609/vid/avc1/320x568/6WISUXs1thx8RsQi.mp4,https://video.twimg.com/amplify_video/1923499611907334144/vid/avc1/320x568/QhA6uXdluN-4T-Na.mp4"
+  },
+  {
+    "id": "1923523617851064644",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 07:39:02",
+    "content": "5月16日，云南网友透露，社区已经拖欠5个月工资。\n5月8日，广州网友透露，市直的绩效一直没有发。\n5月16日，郑州网友透露，金水区教师课后延时费不发\n5月15日，河北承德网友透露当地医院降薪，评论区有人表示甚至教师的薪水都从医院借 https://t.co/9HxxAYjvGM",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923523617851064644_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923523617851064644_1.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923523617851064644_2.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923523617851064644_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 50,
+    "originVideos": ""
+  },
+  {
+    "id": "1923523114668818869",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 07:37:02",
+    "content": "RT @LiYuan6: 有哪些投稿让李老师印象深刻，它们反映了怎样的现实？发布Li币之后饱受质疑的李老师有哪些想说的话？在海外是否还有影响中国的可能？这次采访李老师有脱胎换骨的感觉，他似乎对很多事情的想法更清晰了，也更坚决了。强烈推荐大家听一下，也想一下自己可以做些什么",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 3,
+    "views": 0,
+    "originVideos": ""
   }
 ]
