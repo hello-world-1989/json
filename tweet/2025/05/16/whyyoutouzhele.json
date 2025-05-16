@@ -574,5 +574,23 @@
     "retweets": 2,
     "views": 3322,
     "originVideos": "https://video.twimg.com/amplify_video/1923285024000049152/vid/avc1/320x568/tUuE79xKHTBwGTlH.mp4"
+  },
+  {
+    "id": "1923299287674290532",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 16:47:38",
+    "content": "海外网：“美国一份最新报告显示，大多数美国家庭收入不足以支撑基本生活费用”引发网民嘲讽。 https://t.co/hEKZX609JR",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/16/1923299287674290532_0.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923299287674290532_1.jpg,/tweet/image/whyyoutouzhele/2025/05/16/1923299287674290532_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 541,
+    "originVideos": ""
   }
 ]
