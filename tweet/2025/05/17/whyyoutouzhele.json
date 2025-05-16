@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 274,
     "originVideos": "https://video.twimg.com/amplify_video/1923487550951284736/vid/avc1/320x568/eXhrXPWXiBXzVBvu.mp4"
+  },
+  {
+    "id": "1923490397659001305",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 05:27:02",
+    "content": "5月16日，广东黄金谷有限公司拖欠农民工工资，工人上门讨薪 https://t.co/LwfO2VK8DX",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923490397659001305_0.jpg,/tweet/video/whyyoutouzhele/2025/05/17/1923490397659001305_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 402,
+    "originVideos": "https://video.twimg.com/amplify_video/1923489984700391424/vid/avc1/320x568/C4Vj3C5dOmjPdZcw.mp4,https://video.twimg.com/amplify_video/1923489998138957824/vid/avc1/320x568/3dZVsnfWGQYcAp8e.mp4"
+  },
+  {
+    "id": "1923490209561272661",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 05:26:17",
+    "content": "5月11日，广东佛山。北滘工地农民工讨薪 https://t.co/3TeWMKEBmW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923490209561272661_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 424,
+    "originVideos": "https://video.twimg.com/amplify_video/1923489788247605248/vid/avc1/320x568/2xKz7zOyWByU0dzN.mp4"
   }
 ]
