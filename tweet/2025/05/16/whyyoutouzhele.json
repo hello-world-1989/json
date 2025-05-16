@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 3126,
     "originVideos": ""
+  },
+  {
+    "id": "1923368843356823630",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-16 21:24:01",
+    "content": "5月16日，四川成都。王女士称，56岁的父亲在成都达利园食品厂上班，每天工作十几个小时，最终被活活累死，而工厂拒不处理也不赔偿。他们去工厂讨说法却被保安拦在门外不让进入。 https://t.co/B4kUrobhoO",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/16/1923368843356823630_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 7,
+    "retweets": 3,
+    "views": 2723,
+    "originVideos": "https://video.twimg.com/amplify_video/1923368619817553920/vid/avc1/320x568/SnWnkoMRxDzzGr9R.mp4"
   }
 ]
