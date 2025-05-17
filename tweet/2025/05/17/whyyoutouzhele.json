@@ -754,5 +754,23 @@
     "retweets": 2,
     "views": 1471,
     "originVideos": ""
+  },
+  {
+    "id": "1923697438814326969",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 19:09:44",
+    "content": "《彭博》引述消息人士报道，星巴克有可能出售中国业务股权，并且已联系私募股权公司及科技企业等潜在投资者，寻求对中国业务发展及增长的看法，今次交易的资产估值可能达到数十亿美元。 此前有传，星巴克正在评估中国业务，并警告中国市场竞争压力加剧。\n 消息人士表示，星巴克预期潜在竞标者将在未来数周内提交初步意见，不排除公司最终不推进交易。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923697438814326969_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 12,
+    "originVideos": ""
   }
 ]
