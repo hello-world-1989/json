@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 495,
     "originVideos": "https://video.twimg.com/amplify_video/1923852272599003137/vid/avc1/320x568/3AS8nhAwGeGSk40O.mp4"
+  },
+  {
+    "id": "1923854819745288701",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 05:35:07",
+    "content": "一些医务人员在社交媒体上展现了目前集采医疗器材的质量： https://t.co/LqhjKwMQQ4",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923854819745288701_0.jpg,/tweet/video/whyyoutouzhele/2025/05/18/1923854819745288701_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 1,
+    "views": 664,
+    "originVideos": "https://video.twimg.com/amplify_video/1923854597816299520/vid/avc1/320x568/kBh5LHyC1o6lQVaH.mp4,https://video.twimg.com/amplify_video/1923854614916403200/vid/avc1/320x568/EVpluny_CnGO5M6w.mp4"
   }
 ]
