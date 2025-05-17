@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 1,
     "originVideos": "https://video.twimg.com/amplify_video/1923807201941979136/vid/avc1/320x568/KsIWrPBxos0eM3s7.mp4,https://video.twimg.com/amplify_video/1923807212054462464/vid/avc1/320x568/OtE0vBN60IQI0O6U.mp4,https://video.twimg.com/amplify_video/1923807222863200256/vid/avc1/320x568/DI2Atb0V9XgZjSel.mp4"
+  },
+  {
+    "id": "1923849279132602473",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 05:13:06",
+    "content": "5月17日，深圳中建五局三公司拖欠工人薪水，工人们堵办公室讨薪。 https://t.co/cjcnOeU1JJ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923849279132602473_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1167,
+    "originVideos": "https://video.twimg.com/amplify_video/1923848922167902208/vid/avc1/320x568/SM0Eo0q86QL1OWxJ.mp4"
   }
 ]
