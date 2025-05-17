@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 511,
     "originVideos": ""
+  },
+  {
+    "id": "1923595016485863935",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 12:22:45",
+    "content": "5月10日 巴基斯坦军队在推特上发文称其成功干扰了印度通信卫星。据流出的图片显示其拥有多套完善的侦查、分析和干扰系统，这些系统针对印度、伊朗及阿富汗。\n据悉巴基斯坦并无卫星发射能力，其军事卫星的建造和发射基本都是由中国提供。巴曾向中国订购了多颗军事通信/干扰卫星、遥感卫星、雷达卫星等 https://t.co/0qdO7OgPuR",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923595016485863935_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923595016485863935_1.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923595016485863935_2.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923595016485863935_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2072,
+    "originVideos": ""
   }
 ]
