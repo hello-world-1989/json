@@ -232,5 +232,23 @@
     "retweets": 2,
     "views": 785,
     "originVideos": ""
+  },
+  {
+    "id": "1923862268770455830",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 06:04:43",
+    "content": "5月17日，陕西网友曝光，当地医院绩效已经拖欠四个月\n评论区甚至有人称广西的基本工资只有一半 而且五险只买了医保 https://t.co/LHUixV9hGI",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923862268770455830_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923862268770455830_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923862268770455830_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923862268770455830_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 691,
+    "originVideos": ""
   }
 ]
