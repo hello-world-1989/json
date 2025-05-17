@@ -664,5 +664,23 @@
     "retweets": 0,
     "views": 342,
     "originVideos": "https://video.twimg.com/amplify_video/1923658919798259712/vid/avc1/480x852/kWxu0mqvCJhoelkK.mp4"
+  },
+  {
+    "id": "1923662448734896167",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 16:50:42",
+    "content": "彭博社报道，特朗普在福克斯新闻星期五（5月16日）播出的访问中被问及是否希望到中国与习近平会面时，他说“我当然愿意”，并指中美关系“很重要”。\n特朗普自今年1月重返白宫后，多次表示渴望与习近平对话。本周早些时候，他预测两人可能会通电话。 https://t.co/DjXr3ieY7M",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923662448734896167_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 5,
+    "retweets": 0,
+    "views": 2545,
+    "originVideos": ""
   }
 ]
