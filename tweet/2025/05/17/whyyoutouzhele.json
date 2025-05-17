@@ -826,5 +826,23 @@
     "retweets": 2,
     "views": 1899,
     "originVideos": ""
+  },
+  {
+    "id": "1923721302298525808",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 20:44:34",
+    "content": "上周六Keeta香港荃湾区外卖员发起罢工，抗议平台降低单价及推行优先派单机制。本周六九龙城区外卖员接力发起罢工，数十名外卖员聚集在新蒲岗越秀广场示威及展示五大诉求，大多与上周罢工的诉求相同，亦有外卖员展示早前获派发港岛跨区孖单，仅得55元报酬，批评平台不合理，要求Keeta正视问题，调整外卖员的待遇。\n 香港警方以外卖员事先申请集会为由，要求散去，否则将会被检控非法集会。外卖员听从警方指示散去，但仍继续罢工，并指如Keeta不正面回应，不排除会将行动升级，包括考虑向警方申请集会罢工，估计届时参与人数或有500人。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923721302298525808_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923721302298525808_1.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923721302298525808_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923721302298525808_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1944,
+    "originVideos": "https://video.twimg.com/amplify_video/1923721109595172864/vid/avc1/480x270/dOtD6ZfTJabpZeIj.mp4"
   }
 ]
