@@ -808,5 +808,23 @@
     "retweets": 1,
     "views": 2100,
     "originVideos": "https://video.twimg.com/amplify_video/1923706860554604544/vid/avc1/320x564/Y2V2z6lPHKEssFSk.mp4"
+  },
+  {
+    "id": "1923711248560160975",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 20:04:37",
+    "content": "韩国个人资讯保护委员会15日表示，中国跨境电商平台Temu擅自将韩国用户个人资料转移至大陆等其他国家，违反个资保护法，而被处以近100万美元罚款。韩国SBS记者称：Temu在韩国招募卖家，但在这个过程中，却要收集卖家身份证号以及脸部视频，更离谱的是这些资料还被转移至中国、新加坡、日本等国家。\n 韩国个资保护委员会在声明稿中指出，Temu「未在隐私权政策中揭露或通知用户其个资将被委托给海外机构」。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923711248560160975_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 7,
+    "retweets": 2,
+    "views": 1899,
+    "originVideos": ""
   }
 ]
