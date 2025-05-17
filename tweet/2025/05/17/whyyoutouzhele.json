@@ -358,5 +358,23 @@
     "retweets": 3,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1923550032890036517",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 09:24:00",
+    "content": "5月13日，有网友曝光，贵州要求事业编退回公积金\n评论区有贵州各地体制内反馈有同样遭遇。 https://t.co/1wgC7J6fx9",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923550032890036517_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923550032890036517_1.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923550032890036517_2.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923550032890036517_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2562,
+    "originVideos": ""
   }
 ]
