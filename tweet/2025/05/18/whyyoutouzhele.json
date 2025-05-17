@@ -52,5 +52,23 @@
     "retweets": 1,
     "views": 1290,
     "originVideos": "https://video.twimg.com/amplify_video/1923782947582173184/pl/MHT1iPZI4Sicd10v.m3u8?v=e4d"
+  },
+  {
+    "id": "1923797756583535005",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 01:48:22",
+    "content": "5月17日报道，有民意调查机构发布的报告显示，对100个国家及地区调研，近八成对中国有好感，认为中国比美国更好。引发网民质疑嘲讽：“八成都是谁？”“是不是非洲部落说的” https://t.co/lWhdNHIeFs",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923797756583535005_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923797756583535005_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923797756583535005_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 266,
+    "originVideos": "https://video.twimg.com/amplify_video/1923795433752502272/vid/avc1/480x852/6_DXX5-f3_bk-gVa.mp4"
   }
 ]
