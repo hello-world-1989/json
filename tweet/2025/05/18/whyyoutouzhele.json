@@ -34,5 +34,23 @@
     "retweets": 0,
     "views": 852,
     "originVideos": "https://video.twimg.com/amplify_video/1923781520608673792/vid/avc1/320x568/Th7L69r6Il6WHNeL.mp4"
+  },
+  {
+    "id": "1923784725745074462",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 00:56:35",
+    "content": "5月17日，湖北。一名男子称：我是25届应届毕业生，我们班60多个人，找到工作的不到10%，前几届的就业状况都比现在要好，但到后面越来越差，我们是最难的，明年只会更难。 https://t.co/EWWmK3P7jA",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923784725745074462_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 12,
+    "retweets": 1,
+    "views": 1290,
+    "originVideos": "https://video.twimg.com/amplify_video/1923782947582173184/pl/MHT1iPZI4Sicd10v.m3u8?v=e4d"
   }
 ]
