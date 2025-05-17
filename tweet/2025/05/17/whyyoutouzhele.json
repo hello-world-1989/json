@@ -700,5 +700,23 @@
     "retweets": 1,
     "views": 1032,
     "originVideos": ""
+  },
+  {
+    "id": "1923673691193475357",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 17:35:22",
+    "content": "5月15日，一名女子发帖称，在boos直聘上看到深圳一家财务管理公司招聘文员，月薪2-3千，于是联系对方，结果对方直接回复“不行，(你)太丑了” https://t.co/yqo2TTPg4V",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923673691193475357_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923673691193475357_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1924,
+    "originVideos": ""
   }
 ]
