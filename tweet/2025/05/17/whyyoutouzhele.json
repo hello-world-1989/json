@@ -376,5 +376,23 @@
     "retweets": 2,
     "views": 2562,
     "originVideos": ""
+  },
+  {
+    "id": "1923553555929333920",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 09:38:00",
+    "content": "美国财政部数据显示，美国3月国际资本净流入2,543亿美元 中国跌至第三大美债持有国。 https://t.co/QbqmyFkEO7",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923553555929333920_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 360,
+    "originVideos": ""
   }
 ]
