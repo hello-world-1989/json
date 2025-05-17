@@ -448,5 +448,23 @@
     "retweets": 2,
     "views": 2072,
     "originVideos": ""
+  },
+  {
+    "id": "1923600747280859255",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 12:45:31",
+    "content": "小米虚假宣传，车主要求集体退车\n近日 小米SU7 Ultra挖孔版车主在得知其挖孔前机盖虚假宣传，并没有之前广告中宣传的增加下压力的效果后集体要求退车。\n车主代表和小米副总裁谈判后未达成解决方案，因“退订会直接造成小米汽车的崩塌”。小米客服称可以帮未提车车主取消订单并给60天冷静期，但不退定金。\n有b站小米车主制作视频，详细解释了小米SU7 Ultra虚假宣传，车主集体退车事件的前因后果",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923600747280859255_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923600747280859255_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2158,
+    "originVideos": "https://video.twimg.com/amplify_video/1923599702798348288/vid/avc1/480x270/9k6d8diN9L1h1473.mp4"
   }
 ]
