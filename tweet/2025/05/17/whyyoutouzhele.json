@@ -934,5 +934,23 @@
     "retweets": 1,
     "views": 823,
     "originVideos": ""
+  },
+  {
+    "id": "1923768652148711819",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 23:52:43",
+    "content": "5月17日，河北。农民工被拖欠工资，找有关部门领导求助：“我们一分钱都拿不到” “我们干活没拿到钱”\n 领导回复：“那是你倒霉” “没拿到钱是你的事，” “你们别说来80个，就是来100个人也没用” https://t.co/Hn5U9FMdpd",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923768652148711819_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 5,
+    "retweets": 3,
+    "views": 3351,
+    "originVideos": "https://video.twimg.com/amplify_video/1923767489642606592/vid/avc1/320x568/r1LXMPhNrq16geBq.mp4"
   }
 ]
