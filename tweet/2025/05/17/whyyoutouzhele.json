@@ -412,5 +412,23 @@
     "retweets": 1,
     "views": 177,
     "originVideos": "https://video.twimg.com/amplify_video/1923586255582887936/vid/avc1/320x568/CgReFwOBTB1l4RPY.mp4"
+  },
+  {
+    "id": "1923591146468786355",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 12:07:22",
+    "content": "5月16日 美国最高法院维持了禁止特朗普使用1798年战时法律驱逐移民的命令，理由政府错误地援引1798年的战时法律，并且目前驱逐时只提前24小时通知、且不告知如何抗辩，明显不符合“正当程序”。\n特朗普随后在社媒发文批评了最高法院的行动：“今天对美国来说是一个糟糕而危险的日子！” https://t.co/GKQ511cqB3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923591146468786355_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 3,
+    "retweets": 0,
+    "views": 511,
+    "originVideos": ""
   }
 ]
