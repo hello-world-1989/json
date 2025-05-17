@@ -862,5 +862,23 @@
     "retweets": 3,
     "views": 1972,
     "originVideos": ""
+  },
+  {
+    "id": "1923736793356382515",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 21:46:07",
+    "content": "被中国封杀的马来西亚歌手黄明志，近日公开艺人到中国发展的内幕，经纪合约充满各种不平等条款，一旦签下，私生活、言论就遭全面控制，违反至少赔上千万人民币。黄明志在视频中称，他2018年挑选1家风格相近公司，并在合约看到各种条例，例如，合约要求艺人，无论在公共场合、作品上，都要表达符合中国的立场，不得发表「台独」、「藏独」等政治敏感言论，包括黄明志先前写出批评性质歌词，像是「天子」、「雾霾」都要重新制作才能上架，这一切全由经纪公司自行定义，「在中国人眼里，只要批判政府或为弱势族群说话，就是没有维持正面良好的形象，我在台湾做的事情，他可以用中国法律叫我赔偿，蛮恐怖的！」",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923736793356382515_0.jpg,/tweet/image/whyyoutouzhele/2025/05/17/1923736793356382515_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/17/1923736793356382515_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1415,
+    "originVideos": "https://video.twimg.com/amplify_video/1923735742204772352/vid/avc1/480x270/y4K1aTBRZxQQm8sy.mp4"
   }
 ]
