@@ -196,5 +196,41 @@
     "retweets": 0,
     "views": 385,
     "originVideos": ""
+  },
+  {
+    "id": "1923860772188201182",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 05:58:46",
+    "content": "5月17日，广西防城港，教师增量绩效已经欠发4个月。 https://t.co/57OuFCzfrt",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923860772188201182_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923860772188201182_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923860772188201182_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923860772188201182_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 120,
+    "originVideos": ""
+  },
+  {
+    "id": "1923859753341452314",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 05:54:43",
+    "content": "5月17日，网友曝光河北邯郸合同制欠薪八个月\n5月16日，广西北海 24年班主任费欠发\n5月17日，宁夏网友曝光，当地拖欠教师取暖费\n5月17日，河北网友曝光，邯郸肥乡工资已经停发77天。 https://t.co/F2A7HVPjYQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923859753341452314_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923859753341452314_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923859753341452314_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923859753341452314_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 2,
+    "views": 785,
+    "originVideos": ""
   }
 ]
