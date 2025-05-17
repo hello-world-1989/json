@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 664,
     "originVideos": "https://video.twimg.com/amplify_video/1923854597816299520/vid/avc1/320x568/kBh5LHyC1o6lQVaH.mp4,https://video.twimg.com/amplify_video/1923854614916403200/vid/avc1/320x568/EVpluny_CnGO5M6w.mp4"
+  },
+  {
+    "id": "1923857799987044540",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 05:46:57",
+    "content": "5月17日，河南网友曝光，洛阳教师拖欠绩效 https://t.co/Jxszve1wsH",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923857799987044540_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923857799987044540_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923857799987044540_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923857799987044540_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 3,
+    "retweets": 0,
+    "views": 385,
+    "originVideos": ""
   }
 ]
