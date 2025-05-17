@@ -916,5 +916,23 @@
     "retweets": 0,
     "views": 2127,
     "originVideos": ""
+  },
+  {
+    "id": "1923759709800247723",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 23:17:11",
+    "content": "美国总统特朗普在社交平台发文：沃尔玛应停止试图将整个供应链价格上涨的原因归咎于关税。沃尔玛去年赚了数十亿美元，远远超出预期。他们应该“吃掉关税”，而不是向客户收取任何费用。我会关注的，你们的顾客也一样！！！ https://t.co/p38YP2Tim4",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923759709800247723_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 823,
+    "originVideos": ""
   }
 ]
