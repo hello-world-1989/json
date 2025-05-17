@@ -898,5 +898,23 @@
     "retweets": 1,
     "views": 317,
     "originVideos": "https://video.twimg.com/amplify_video/1923744261918322688/pl/4ZuvkfFXnndoJ9-L.m3u8?v=acc"
+  },
+  {
+    "id": "1923751805625975013",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-17 22:45:46",
+    "content": "从小学老师到正部级的广西政府主席蓝天立任上落马后，他的照片和言辞曾被制成展板宣传，如今却被人丢弃在垃圾堆里。\nhttps://t.co/The5Guayf6 https://t.co/cNcITHM3sc https://t.co/6FzyskdzVO",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/17/1923751805625975013_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 7,
+    "retweets": 0,
+    "views": 2127,
+    "originVideos": ""
   }
 ]
