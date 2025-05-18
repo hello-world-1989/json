@@ -160,5 +160,41 @@
     "retweets": 0,
     "views": 2408,
     "originVideos": "https://video.twimg.com/amplify_video/1924225604955639808/vid/avc1/320x562/jRH9hnOSrcqZBhB-.mp4"
+  },
+  {
+    "id": "1924229375009935664",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 06:23:28",
+    "content": "5月14日，广东中山。\n网友曝光 名鼎电子厂趁着工人放五一假期，关停跑路了。 https://t.co/qcUnTfZ4TJ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924229375009935664_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2296,
+    "originVideos": "https://video.twimg.com/amplify_video/1924229030141702144/vid/avc1/320x568/NUKnMAuuVitMwNOL.mp4"
+  },
+  {
+    "id": "1924229066137248233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 06:22:14",
+    "content": "5月18日，广东东莞。\n网友曝光吉羊模具厂发不出工资 拖了半年工资不发还要各种理由扣钱 https://t.co/E3yA5AZ10b",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924229066137248233_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1824,
+    "originVideos": "https://video.twimg.com/amplify_video/1924228641635835904/vid/avc1/320x568/BiSGf4aWem_A9SqU.mp4"
   }
 ]
