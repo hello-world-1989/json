@@ -574,5 +574,23 @@
     "retweets": 2,
     "views": 862,
     "originVideos": "https://video.twimg.com/amplify_video/1923968270693994496/vid/avc1/320x576/gryhIWhwI78TdEEw.mp4,https://video.twimg.com/amplify_video/1923968274720509952/pl/fC2k3jHIHB4dlTZb.m3u8"
+  },
+  {
+    "id": "1923983351687545215",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 14:05:51",
+    "content": "5月17日，多名医护人员发视频吐槽集采后的留置针质量差的情况。 https://t.co/pGBwsrD9cS",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923983351687545215_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923983351687545215_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923983351687545215_0.jpg,/tweet/video/whyyoutouzhele/2025/05/18/1923983351687545215_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1185,
+    "originVideos": "https://video.twimg.com/amplify_video/1923983207747158016/vid/avc1/320x568/geE06X1SkFXivNph.mp4,https://video.twimg.com/amplify_video/1923983216987242496/vid/avc1/1080x1920/RItJ9RfGWewG4EX-.mp4"
   }
 ]
