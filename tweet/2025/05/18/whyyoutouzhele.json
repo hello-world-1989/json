@@ -862,5 +862,41 @@
     "retweets": 0,
     "views": 1807,
     "originVideos": ""
+  },
+  {
+    "id": "1924122604807524592",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 23:19:12",
+    "content": "https://t.co/dKL1Xr07ij",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1924122604807524592_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924122604807524592_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 44,
+    "originVideos": ""
+  },
+  {
+    "id": "1924122304302461422",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 23:18:00",
+    "content": "越来越多的网民发文指出，当年雅安地震，他们只收到了微薄的补助甚至没有补助。网友称：“当年雅安地震后，所谓的救济餐，就是泡面和辣条，我们一家人挤在满是裂痕的危房里住了近一年半时间。后面房子修好了，也没有收到一分钱补助”“请问全国各地的捐款都去哪里了呢”\nhttps://t.co/Fb3gsbPmrI https://t.co/NY0VDYCwTX https://t.co/HfdeuAl4H9",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1924122304302461422_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924122304302461422_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924122304302461422_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924122304302461422_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 1,
+    "views": 625,
+    "originVideos": ""
   }
 ]
