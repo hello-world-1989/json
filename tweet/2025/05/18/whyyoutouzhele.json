@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 537,
     "originVideos": ""
+  },
+  {
+    "id": "1924063868269330673",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 19:25:48",
+    "content": "最近，甘肃、河南等地大旱，当地土地开裂河水干涸。甘肃华亭市融媒发布宣传片，呼吁民众节约用水。结果引来网民不满抵制。网民们表示：“纸醉金迷不带我，生育下降全赖我，熊掌鱼翅没吃过，保护动物叫上我，游艇潜艇没坐过，保护海洋呼吁我，高尔夫球没打过，节约用水全靠我，荣华富贵没有我，全球变暖先怪我”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1924063868269330673_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924063868269330673_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924063868269330673_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1924063868269330673_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1222,
+    "originVideos": "https://video.twimg.com/amplify_video/1924062917726478336/vid/avc1/480x270/Cqsb7BFgATYB1nJW.mp4"
   }
 ]
