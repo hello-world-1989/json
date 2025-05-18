@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 3698,
     "originVideos": ""
+  },
+  {
+    "id": "1923952251237958052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 12:02:16",
+    "content": "5月17日 据路透社报道，美国总统特朗普表示，沃尔玛应该自己吃掉关税，而不是上涨商品价格并将其归咎于他的新关税政策。\n“沃尔玛应该停止将商品涨价的原因归咎于关税。特朗普在社交媒体帖子中说：“沃尔玛去年赚了数十亿美元，远远超过预期。沃尔玛应该“自己吃掉关税”，而不是应该向顾客收取任何费用” https://t.co/fp78Ojw3ze",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923952251237958052_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2111,
+    "originVideos": ""
   }
 ]
