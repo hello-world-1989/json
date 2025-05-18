@@ -520,5 +520,41 @@
     "retweets": 0,
     "views": 2497,
     "originVideos": ""
+  },
+  {
+    "id": "1923968727642669120",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 13:07:44",
+    "content": "https://t.co/MPjJwJhwND",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 301,
+    "originVideos": ""
+  },
+  {
+    "id": "1923968657723621683",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 13:07:28",
+    "content": "17 叶伟航\n#八九民运 #六四屠杀 叶伟航，19岁，北京市57中高三学生。1989年6月3日晚，叶伟航为高考在家中复习功课，4日零点过后，骑车离家前往枪声大作的木樨地，2点左右在木樨地左臂、右胸和后脑三处中弹。叶伟航中弹后，被人背到海军总医院，抢救无效死亡。\n图1为叶伟航遇难前遗言。\n叶伟航 男，19岁，北京市57中高三学生。家庭所在地：北京市。\n6月3日晚，叶伟航为高考在家中复习功课，4日零点过后，骑车离家前往枪声大作的木樨地，2点左右在木樨地左臂、右胸和后脑三处中弹。叶伟航中弹后，被人背到海军总医院，抢救无效死亡。叶伟航在学校里品学兼优，很受老师同学的信任。叶伟航的骨灰一部分安置在家中父母的卧室里，一部分被撒入大海。\n叶伟航的母亲尹敏是“天安门母亲”群体成员。\nhttps://t.co/VIOea8FstL;\nhttps://t.co/iGhY2UaoeJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923968657723621683_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923968657723621683_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923968657723621683_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 713,
+    "originVideos": ""
   }
 ]
