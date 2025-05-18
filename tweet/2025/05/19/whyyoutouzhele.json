@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 126,
     "originVideos": ""
+  },
+  {
+    "id": "1924227392475738408",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 06:15:35",
+    "content": "5月18日，江苏南通。\n中迪纺织有限公司。老板安排员工喝酒导致猝死，厂里只认赔百分之二十的责任。家属维权 https://t.co/ccaKar98yb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924227392475738408_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 937,
+    "originVideos": "https://video.twimg.com/amplify_video/1924226777389346816/vid/avc1/320x584/hfmLEqhRinX5vYjm.mp4"
+  },
+  {
+    "id": "1924226061790806427",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 06:10:18",
+    "content": "5月17日，广东省汕头市。\n潮南区胪岗镇新中村村民曝光，当地村委会违法征收新中村村民农田320亩。 https://t.co/zZqvAXtjws",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924226061790806427_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2408,
+    "originVideos": "https://video.twimg.com/amplify_video/1924225604955639808/vid/avc1/320x562/jRH9hnOSrcqZBhB-.mp4"
   }
 ]
