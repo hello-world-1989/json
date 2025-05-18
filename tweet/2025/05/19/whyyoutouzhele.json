@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 3585,
     "originVideos": ""
+  },
+  {
+    "id": "1924247629321699627",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 07:36:00",
+    "content": "5月12日，广西南宁。\n中铁十九局集团南宁北站项目拖欠农名工工资， 工人架起床铺睡在公司门口讨薪 https://t.co/avtaqzH8T1",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924247629321699627_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 3,
+    "views": 1236,
+    "originVideos": "https://video.twimg.com/amplify_video/1924232276553891840/vid/avc1/480x640/JAChTHIPuWNRh27Y.mp4"
+  },
+  {
+    "id": "1924247612443578369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 07:35:56",
+    "content": "4月27日，宁夏网友曝光，银川市金凤区教师绩效拖欠好几个月不发。 https://t.co/fi1YRKEv9Y",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924247612443578369_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924247612443578369_1.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924247612443578369_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 3,
+    "views": 1103,
+    "originVideos": ""
   }
 ]
