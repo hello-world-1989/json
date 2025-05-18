@@ -682,5 +682,23 @@
     "retweets": 0,
     "views": 722,
     "originVideos": "https://video.twimg.com/amplify_video/1924043888223715328/vid/avc1/320x568/bR4j1UM44j9TS89b.mp4"
+  },
+  {
+    "id": "1924052331097891201",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 18:39:57",
+    "content": "近日，有人在济南章丘区一处爬满蔷薇花的围墙上创作了“蔷薇女孩”墙绘。该作品完成第三天，相关打卡视频在短视频平台播放量突破百万，前来打卡的市民络绎不绝。之后，这面墙被当地工作人员涂白恢复原状。城管表示，因很多人在这里打卡，容易造成拥堵，有安全隐患。创作者也表示：没有报备自行创作，再此道歉。\n 有博主质疑，“那大明湖人太多影响交通安全，难道也得把大明湖填平了？”另一位博主称“画和字都是让人高度紧张的”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1924052331097891201_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924052331097891201_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924052331097891201_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1924052331097891201_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 46,
+    "replies": 13,
+    "retweets": 4,
+    "views": 5009,
+    "originVideos": "https://video.twimg.com/amplify_video/1924052072313372672/vid/avc1/480x270/akzAXVDsW1IBv2WX.mp4"
   }
 ]
