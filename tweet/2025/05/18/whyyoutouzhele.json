@@ -808,5 +808,23 @@
     "retweets": 4,
     "views": 2143,
     "originVideos": ""
+  },
+  {
+    "id": "1924098019508789343",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 21:41:30",
+    "content": "5月15日，雷军发文宣布，小米自主研发设计的手机SoC芯片，名字叫玄界O1，将在5月下旬发布。然而就在这个节骨眼上，一名自称是上海玄戒公司(小米旗下芯片研发公司)的前员工“铃兰233”，多次发文指控小米自研芯片“玄戒O1”存在技术造假、公司管理混乱，没有加班费等问题。\n 目前尚无法证实“铃兰233”所言是否属实，截至目前发文，“铃兰233”已自行注销账号，有人认为这恰恰说明他自导自演抹黑小米，心虚了所有关闭账号跑路，也有人认为可能是被小米捂嘴了。小米官方尚未就此事发表声明回应。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1924098019508789343_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924098019508789343_1.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924098019508789343_2.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1924098019508789343_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 7,
+    "retweets": 4,
+    "views": 3778,
+    "originVideos": ""
   }
 ]
