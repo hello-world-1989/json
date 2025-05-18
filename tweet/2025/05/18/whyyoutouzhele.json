@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 1185,
     "originVideos": "https://video.twimg.com/amplify_video/1923983207747158016/vid/avc1/320x568/geE06X1SkFXivNph.mp4,https://video.twimg.com/amplify_video/1923983216987242496/vid/avc1/1080x1920/RItJ9RfGWewG4EX-.mp4"
+  },
+  {
+    "id": "1923998390729441589",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 15:05:37",
+    "content": "5月17日，辽宁沈阳。校园招聘会上，沈阳三洋电梯有限公司的HR介绍：机械设计岗位薪资3500-5000左右；初入公司约3500，转正后根据评级结果调整薪资。\n 网民们表示：“我7千都招不到人，你3500，这电梯以后会不会掉下来”“寒窗苦读换来月薪3000，这社会无敌了” https://t.co/5bfiXPEeeF",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923998390729441589_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923998390729441589_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923998390729441589_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 3,
+    "views": 1454,
+    "originVideos": "https://video.twimg.com/amplify_video/1923995923098562560/vid/avc1/480x852/MHfOe6DO0i5dUGK6.mp4"
   }
 ]
