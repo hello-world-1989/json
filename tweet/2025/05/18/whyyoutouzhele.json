@@ -556,5 +556,23 @@
     "retweets": 1,
     "views": 713,
     "originVideos": ""
+  },
+  {
+    "id": "1923970954197336313",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-18 13:16:35",
+    "content": "5月18日(发布) 一名山东男子自称从“长乐机场海滩下的海”开皮划艇抵达桃园市，并将五星红旗插在了台湾土地上，随后安全返回。\n 有人质疑他并未登岛，但他则晒出了卫星地图证明。他还在评论区称“等我们一起上湾湾岛，活捉小赖赖”“我自己去的，带了四桶油” https://t.co/PBAVtvs26W",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/18/1923970954197336313_0.jpg,/tweet/image/whyyoutouzhele/2025/05/18/1923970954197336313_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/18/1923970954197336313_0.jpg,/tweet/video/whyyoutouzhele/2025/05/18/1923970954197336313_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 3,
+    "retweets": 2,
+    "views": 862,
+    "originVideos": "https://video.twimg.com/amplify_video/1923968270693994496/vid/avc1/320x576/gryhIWhwI78TdEEw.mp4,https://video.twimg.com/amplify_video/1923968274720509952/pl/fC2k3jHIHB4dlTZb.m3u8"
   }
 ]
