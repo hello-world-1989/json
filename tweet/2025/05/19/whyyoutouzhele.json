@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 567,
     "originVideos": ""
+  },
+  {
+    "id": "1924142633536110755",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 00:38:47",
+    "content": "在中国审核员的努力下，目前，有关“网传武汉枪击”的内容已被全部清空，话题也被封禁。 https://t.co/rAnbuKwOuh",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924142633536110755_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924142633536110755_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 1,
+    "views": 953,
+    "originVideos": "https://video.twimg.com/amplify_video/1924142450643226624/vid/avc1/320x690/I1y8XOg0jqZ0tXEC.mp4"
   }
 ]
