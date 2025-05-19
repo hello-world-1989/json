@@ -430,5 +430,23 @@
     "retweets": 11,
     "views": 6219,
     "originVideos": "https://video.twimg.com/amplify_video/1924254377935597568/vid/avc1/320x640/wEOophB1if3jTm8x.mp4"
+  },
+  {
+    "id": "1924261380594487592",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 08:30:38",
+    "content": "5月18日晚，武汉除了发生一起枪击案外，江汉路还出现了一起持刀砍人事件 https://t.co/XhEMIVypBa https://t.co/W5m1GMrjo4",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924261380594487592_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924261380594487592_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 55,
+    "replies": 7,
+    "retweets": 10,
+    "views": 10380,
+    "originVideos": "https://video.twimg.com/amplify_video/1924261327049994240/vid/avc1/320x568/HBaRBl1hS3jw0v8u.mp4"
   }
 ]
