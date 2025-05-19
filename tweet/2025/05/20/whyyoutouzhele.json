@@ -124,5 +124,41 @@
     "retweets": 0,
     "views": 406,
     "originVideos": "https://video.twimg.com/amplify_video/1924564737150304256/vid/avc1/320x568/KCQTLrSKUNipk7I_.mp4"
+  },
+  {
+    "id": "1924567549619913204",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 04:47:15",
+    "content": "5月19日 河北多地教师吐槽称，在自己被工资拖欠的情况下，还要被校方强制捐款。 https://t.co/Mly7lULp9g",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924567549619913204_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567549619913204_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567549619913204_2.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567549619913204_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 1,
+    "views": 438,
+    "originVideos": ""
+  },
+  {
+    "id": "1924567360880411052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 04:46:30",
+    "content": "四月底开始，沈阳于洪区公立幼儿园，由于欠薪半年，老师们劝家长下个月的托管费不要再交了，也不要再等九月免费了，他们干不下去了。 https://t.co/GgR6HC8Kun",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924567360880411052_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567360880411052_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567360880411052_2.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924567360880411052_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 456,
+    "originVideos": ""
   }
 ]
