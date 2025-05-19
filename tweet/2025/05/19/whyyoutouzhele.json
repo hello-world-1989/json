@@ -466,5 +466,41 @@
     "retweets": 1,
     "views": 1320,
     "originVideos": ""
+  },
+  {
+    "id": "1924276821924733402",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 09:32:00",
+    "content": "5月18日，广西。有网友表示自己是崇左宁明县的一名事业单位控制数，已经两个月欠薪两个月了，评论区也表示防城港的已经三个月没发工资了，之前拖的最久是五个月没发工资。 https://t.co/kN1xYsiz1U",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924276821924733402_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924276821924733402_1.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924276821924733402_2.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924276821924733402_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 6,
+    "retweets": 3,
+    "views": 5256,
+    "originVideos": ""
+  },
+  {
+    "id": "1924276821886964033",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 09:32:00",
+    "content": "5月11日，深圳。深圳深汇大厦保交楼现在变烂尾楼，业主们无奈只能搬进烂尾楼住。工作人员来了也只能劝他们小心用火。 https://t.co/gLGzRHMypZ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924276821886964033_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 1,
+    "views": 4398,
+    "originVideos": "https://video.twimg.com/amplify_video/1924231075644989440/vid/avc1/320x564/Pem1IRB9Pnn3Kndt.mp4"
   }
 ]
