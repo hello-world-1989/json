@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 1224,
     "originVideos": ""
+  },
+  {
+    "id": "1924415970904613130",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 18:44:56",
+    "content": "近日，一篇题为《青岛市中学生抑郁症状现况及影响因素分析》的论文火了，论文称，采用分层随机抽样的方法,于19、20年选取青岛7765名中学生进行心理健康状况的问卷调查,最终纳入分析的学生有7 749名。结果显示青岛市中学生抑郁症状检出率为58.21%(4 511/7 749)。 https://t.co/Zkn3UT00kY",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924415970904613130_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924415970904613130_1.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924415970904613130_2.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924415970904613130_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 5,
+    "retweets": 1,
+    "views": 1946,
+    "originVideos": ""
   }
 ]
