@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 1108,
     "originVideos": ""
+  },
+  {
+    "id": "1924318799848931370",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 12:18:48",
+    "content": "小米官宣将于5月22日发布自研玄戒O1旗舰处理器，多家媒体声称其单核跑分仅略逊于苹果A18PRO，多核分数更是超过苹果A18PRO。单核和多核分数均超过安卓旗舰骁龙8Gen3处理器的1.5倍左右。\n网传小米玄戒O1采用台积电第二代 3nm 工艺制程，小米15S Pro、小米平板7 Ultra 将首发搭载。\n雷军称，玄戒至今已投入135亿，未来至少投资500亿。这是一项超长期的底层计划，小米会抱着巨大的勇气和决心，持续深耕半导体设计领域，力争跻身第一梯队。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924318799848931370_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924318799848931370_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 153,
+    "originVideos": ""
   }
 ]
