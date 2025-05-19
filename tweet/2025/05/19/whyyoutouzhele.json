@@ -1006,5 +1006,23 @@
     "retweets": 4,
     "views": 4303,
     "originVideos": "https://video.twimg.com/amplify_video/1924427270401212416/vid/avc1/320x572/cRcxYHXkfBrT4AQj.mp4"
+  },
+  {
+    "id": "1924433344919752997",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 19:53:58",
+    "content": "5月18日(发布)，广东佛山。一处墙上贴满了工厂的招聘信息，时薪普遍在17元-18元。 https://t.co/DN42aRkMBZ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924433344919752997_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 15,
+    "retweets": 2,
+    "views": 2996,
+    "originVideos": "https://video.twimg.com/amplify_video/1924433247867420672/vid/avc1/1080x1920/LZhsguB1hxcVNexS.mp4"
   }
 ]
