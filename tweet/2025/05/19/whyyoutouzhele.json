@@ -1096,5 +1096,23 @@
     "retweets": 0,
     "views": 1068,
     "originVideos": "https://video.twimg.com/amplify_video/1924460311429660672/vid/avc1/480x270/1dyuIjI7YS_3hdIY.mp4"
+  },
+  {
+    "id": "1924465265930367111",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 22:00:48",
+    "content": "5月17日(发布) 一名城管受伤捂着肚子，周围的路人们纷纷拍手叫好。 https://t.co/8TEcmnlFvW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924465265930367111_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 47,
+    "replies": 15,
+    "retweets": 2,
+    "views": 5686,
+    "originVideos": "https://video.twimg.com/amplify_video/1924465179187912704/vid/avc1/320x564/VrVn3pxgEt_qdiFt.mp4"
   }
 ]
