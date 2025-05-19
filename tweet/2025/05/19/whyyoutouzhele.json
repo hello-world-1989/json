@@ -1078,5 +1078,23 @@
     "retweets": 0,
     "views": 1101,
     "originVideos": ""
+  },
+  {
+    "id": "1924461945559855392",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 21:47:37",
+    "content": "5月19日下午，台湾新北市北大国民小学外，78岁的余姓男子驾驶小轿车闯红灯并以极快的速度冲撞10余人。事故造成15人轻重伤，分别被送往附近医院救治，4人到院前心肺功能停止。截至下午6时30分，其中1名身分不详年约40岁女子、2名10余岁的女学生伤重不治。\n 新北地检署组成专案小组，进驻新北市警察局三峡分局，指挥调查事发经过。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924461945559855392_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924461945559855392_1.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924461945559855392_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924461945559855392_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 8,
+    "retweets": 0,
+    "views": 1068,
+    "originVideos": "https://video.twimg.com/amplify_video/1924460311429660672/vid/avc1/480x270/1dyuIjI7YS_3hdIY.mp4"
   }
 ]
