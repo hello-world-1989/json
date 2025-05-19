@@ -556,5 +556,23 @@
     "retweets": 3,
     "views": 1705,
     "originVideos": "https://video.twimg.com/amplify_video/1924229987256733696/vid/avc1/320x568/KNVcvTpM-yFkQn7n.mp4"
+  },
+  {
+    "id": "1924293682737430667",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 10:39:00",
+    "content": "网友投稿\n中国银行软件中心员工，反映一下近期年终奖迟发以及加班的问题 https://t.co/3PVkVSyWfd",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924293682737430667_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 147,
+    "originVideos": ""
   }
 ]
