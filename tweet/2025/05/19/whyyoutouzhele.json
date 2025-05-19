@@ -1060,5 +1060,23 @@
     "retweets": 1,
     "views": 3687,
     "originVideos": "https://video.twimg.com/amplify_video/1924450034625712128/vid/avc1/320x564/gsVsLhMVleobQQAG.mp4"
+  },
+  {
+    "id": "1924456858376679672",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 21:27:24",
+    "content": "5月18日晚，山东青岛。一名医生发帖称，“今天会诊了一个被爸爸打完3小时，呼吸心跳骤停的9岁女孩”\n 医生透露，因为孩子充钱玩游戏，被爸爸知道后用电线毒打，孩子全身淤青，3个小时后反映身体不适，于是妈妈带着孩子到医院，刚到门口孩子呼吸心跳全部停止，没抢救回来。 https://t.co/5cv91FRzmU",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924456858376679672_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924456858376679672_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1101,
+    "originVideos": ""
   }
 ]
