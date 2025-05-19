@@ -322,5 +322,41 @@
     "retweets": 2,
     "views": 3664,
     "originVideos": ""
+  },
+  {
+    "id": "1924598937245123041",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 06:51:58",
+    "content": "5月6日，黑龙江公费师范生欠薪九个月。\n5月19日，广东普宁拖欠教师2024年绩效。 https://t.co/rAtnBFqYh9",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924598937245123041_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924598937245123041_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924598937245123041_2.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924598937245123041_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1407,
+    "originVideos": ""
+  },
+  {
+    "id": "1924598456724652078",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 06:50:04",
+    "content": "5月6日，山东济南教师课后延时费欠发。 https://t.co/53siVMuMU6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924598456724652078_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924598456724652078_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924598456724652078_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2776,
+    "originVideos": ""
   }
 ]
