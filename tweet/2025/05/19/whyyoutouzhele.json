@@ -970,5 +970,23 @@
     "retweets": 1,
     "views": 1946,
     "originVideos": ""
+  },
+  {
+    "id": "1924423190065168584",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 19:13:37",
+    "content": "5月19日，一名大V博主称，我献过两次血，献血的时候时候说的可好听了，等我父母住院时需要用血时，被告知之前献的过期了，需要现在重新去献血，医院才能给父母用血。\n 5月18日，山东。女子称，父亲住院需要用血，她拿着献血证也没用，医院表示你必须要现在献血，你的直系亲属才能用到血。女子表示，就算我献了血，老人得救了“我直接就趴那了”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924423190065168584_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/19/1924423190065168584_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 8,
+    "retweets": 4,
+    "views": 3045,
+    "originVideos": "https://video.twimg.com/amplify_video/1924422195796647936/vid/avc1/1268x720/q1ShZVh_sWbWGaOw.mp4"
   }
 ]
