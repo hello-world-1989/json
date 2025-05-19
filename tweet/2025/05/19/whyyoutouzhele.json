@@ -1024,5 +1024,23 @@
     "retweets": 2,
     "views": 2996,
     "originVideos": "https://video.twimg.com/amplify_video/1924433247867420672/vid/avc1/1080x1920/LZhsguB1hxcVNexS.mp4"
+  },
+  {
+    "id": "1924442920545063201",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 20:32:01",
+    "content": "国家统计局：4月份国民经济顶住压力稳定增长，延续向好的新发展态势。\n 1—4月份，新建商品房销售面积28262万平方米，同比下降2.8%，其中住宅销售面积下降2.1%。新建商品房销售额27035亿元，下降3.2%；其中住宅销售额下降1.9%。 1—4月份，房地产开发企业到位资金32596亿元，同比下降4.1%。个人按揭贷款4518亿元，下降8.5%。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924442920545063201_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924442920545063201_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 5,
+    "retweets": 1,
+    "views": 5124,
+    "originVideos": ""
   }
 ]
