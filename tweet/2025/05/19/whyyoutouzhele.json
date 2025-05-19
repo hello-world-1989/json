@@ -1132,5 +1132,23 @@
     "retweets": 2,
     "views": 103,
     "originVideos": "https://video.twimg.com/amplify_video/1924469718821605376/vid/avc1/320x568/RBz-ouMwkoiy7DDV.mp4"
+  },
+  {
+    "id": "1924479873520963774",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-19 22:58:51",
+    "content": "5月19日，一名北京网友晒出医院给开的中药单，他称“七天中药一千块，红曲栗花占800元，门口药店买只需2元，这可算是走医保，可劲儿要价啊”\n 小儿外科裴医生：我们还是知足吧，要不是我们中国医保灵魂砍价那么多次，这账单估还得翻倍吧 https://t.co/8cPGmcJdYl",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/19/1924479873520963774_0.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924479873520963774_1.jpg,/tweet/image/whyyoutouzhele/2025/05/19/1924479873520963774_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 0,
+    "views": 159,
+    "originVideos": ""
   }
 ]
