@@ -844,5 +844,41 @@
     "retweets": 0,
     "views": 8,
     "originVideos": ""
+  },
+  {
+    "id": "1924763861074509837",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 17:47:19",
+    "content": "5月12日，成都市民李阳，向成都市公安局金牛区分局申请集会游行示威。\n 5月14日，金牛区公安分局：“我局审查认为，该项申请有充分根据认定申请举行的集会、游行、示威将直接危害公共安全或者严重破坏社会秩序，根据法规，决定不予许可” https://t.co/xWKX5zeIwL",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924763861074509837_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 732,
+    "originVideos": ""
+  },
+  {
+    "id": "1924762123185619438",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 17:40:25",
+    "content": "GFW Report是一家专注于研究互联网审查机制的平台，主要关注中国的互联网审查。5月11日，他们发布了一份最新研究报告，指出在中国国家级的防火长城之外，河南省竟然出现了省级的互联网审查系统，且其审核机制更为严格。\n 该机构进行了广泛的测量实验后得出结论：“河南防火墙在复杂性和应对网络流量多样性方面有所欠缺，但其不稳定且激进的二级域名封锁策略，使其封锁的网站数量一度达到GFW的十倍”。其中，针对商业、经济、计算机和互联网信息领域的域名占比超过35%。\n 报告的一个重要发现是河南审查的单向性：河南防火墙主要监控出省流量，而非双向审查。\n GFW Report指出，这份报告的最大意义在于揭示中国互联网审查可能从集中化向区域化转变。他们表示，区域审查的兴起可能导致各地网络环境进一步碎片化，甚至形成“网络孤岛”。他们在社交媒体讨论中发现，有用户指出大学宿舍网络较家庭网络更容易绕过审查，而新疆等地的“墙度”更高，反映了审查强度的地域差异。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924762123185619438_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924762123185619438_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924762123185619438_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 8,
+    "retweets": 10,
+    "views": 5162,
+    "originVideos": ""
   }
 ]
