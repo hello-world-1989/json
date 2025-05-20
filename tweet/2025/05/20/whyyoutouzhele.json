@@ -574,5 +574,41 @@
     "retweets": 0,
     "views": 891,
     "originVideos": ""
+  },
+  {
+    "id": "1924688337098703036",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 12:47:13",
+    "content": "记者还曝光了死了很长时间且散发令人作呕气味的猪也可以进正规屠宰场屠宰。\n打上特殊标记后，死猪进入屠宰场摇身一变成为新鲜猪肉。 https://t.co/Pxvj1iHt9U",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924688337098703036_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 754,
+    "originVideos": "https://video.twimg.com/amplify_video/1924687785371537409/vid/avc1/320x568/kK0oC9Jr5BeuUknN.mp4"
+  },
+  {
+    "id": "1924687636905787814",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 12:44:26",
+    "content": "近日 山东卫视爆料，河北邯郸一生猪养殖场不仅给待屠宰的生猪灌水增重，还注射“封闭针阿索本”让猪快速吸收水份且不再产生尿液。\n阿索本在国内多个平台有售，价格在11000元3000只，卖家称该药可以让活猪吸收10-15%水份增重，还能让猪肉颜色更鲜艳。\n但“阿索本”并不是登记注册的正规药物。\n搜索“阿索本”除了广告外，并不能找到任何生产商信息或成分说明。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924687636905787814_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924687636905787814_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2436,
+    "originVideos": "https://video.twimg.com/amplify_video/1924682278208425984/vid/avc1/320x568/coKfdX19aSxSJvOz.mp4"
   }
 ]
