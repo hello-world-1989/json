@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 1655,
     "originVideos": ""
+  },
+  {
+    "id": "1924706713325994395",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 14:00:14",
+    "content": "中国驻以色列大使肖军正接受采访时说：“哈马斯的暴行不人道、不可饶恕、令人愤慨。中国反对并谴责哈马斯在10月7日的所作所为，这一点非常明确” https://t.co/9XRzOVqnWc",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924706713325994395_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924706713325994395_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 11,
+    "retweets": 2,
+    "views": 5072,
+    "originVideos": "https://video.twimg.com/amplify_video/1924705946246537216/vid/avc1/320x568/W_fm8GkaXkr4pEmb.mp4"
   }
 ]
