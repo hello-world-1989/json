@@ -1042,5 +1042,23 @@
     "retweets": 4,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1924824856132005889",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 21:49:41",
+    "content": "5月20日(发布) 江西。一名环卫工人称，上一个班月薪1400元，所以他上两个班，从凌晨五点上一直上到晚上八点半，平时舍不得吃穿；近日，山东，一名环卫大妈称，她扫大街月薪1400，大妈表示：“下辈子做小鸟也不愿做人，做人太辛苦了”\n 5月19日，一名在日本从事环卫工的上海人称，每天工作四小时，月薪30万日元(近1.5万人民币)",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924824856132005889_0.jpg,/tweet/video/whyyoutouzhele/2025/05/20/1924824856132005889_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 8,
+    "originVideos": "https://video.twimg.com/amplify_video/1924824623801368592/vid/avc1/320x568/k3nhWNhOZ1Eso4M_.mp4,https://video.twimg.com/amplify_video/1924824644865146880/vid/avc1/480x270/KfdYk9tEcxHB6W8E.mp4"
   }
 ]
