@@ -754,5 +754,23 @@
     "retweets": 5,
     "views": 3536,
     "originVideos": ""
+  },
+  {
+    "id": "1924722069360754843",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 15:01:15",
+    "content": "5月19日，男子采访路人“喜欢计划经济还是市场经济”第一位受访老人称：喜欢市场经济，计划经济时期，一切都被控制垄断，生活水平低，做什么事都要证。第二位老人也认同市场经济，他称市场经济有竞争；第三位老人没有做任何评价，但他称：我每个月养老金只有一百多，扫大街月薪两千多，我女婿在工地干活，去年还有一两万没拿到。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924722069360754843_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 5,
+    "retweets": 4,
+    "views": 5419,
+    "originVideos": "https://video.twimg.com/amplify_video/1924719547023765504/pl/wUJtM7e90Mzlm247.m3u8?v=2b2"
   }
 ]
