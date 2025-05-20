@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 142,
     "originVideos": ""
+  },
+  {
+    "id": "1924670203700576709",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 11:35:09",
+    "content": "钟南山称不必恐慌新冠，这轮疫情整体上可防可控\n5月19日 钟南山在接受采访时表示，这一轮疫情预计6月底结束，持续6至8周时间。\n“这一轮新冠感染整体上可防可控，不必恐慌。” https://t.co/V2GbmRs4qA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924670203700576709_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 12,
+    "retweets": 2,
+    "views": 2675,
+    "originVideos": ""
   }
 ]
