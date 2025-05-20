@@ -880,5 +880,23 @@
     "retweets": 10,
     "views": 5162,
     "originVideos": ""
+  },
+  {
+    "id": "1924764636844589396",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 17:50:24",
+    "content": "5月12日，成都市民李阳，向成都市公安局金牛区分局申请集会游行示威。\n 5月14日，金牛区公安分局：“我局审查认为，该项申请将直接危害公共安全或者严重破坏社会秩序，根据法规，决定不予许可” https://t.co/oACODfdpQb",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924764636844589396_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 47,
+    "replies": 19,
+    "retweets": 3,
+    "views": 4801,
+    "originVideos": ""
   }
 ]
