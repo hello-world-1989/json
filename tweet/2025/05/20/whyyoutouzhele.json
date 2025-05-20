@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 1585,
     "originVideos": ""
+  },
+  {
+    "id": "1924668622838104078",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 11:28:52",
+    "content": "5月19日 多地出现超过40度的极端高温。河南郑州、河北沙河最高气温分别达到了41℃、42.9℃，打破了当地5月的最高气温纪录。 https://t.co/3aIWIhhcIT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924668622838104078_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 142,
+    "originVideos": ""
   }
 ]
