@@ -700,5 +700,23 @@
     "retweets": 2,
     "views": 3774,
     "originVideos": "https://video.twimg.com/amplify_video/1924691402992320515/vid/avc1/320x710/l3wsK2WVHB20K2Xi.mp4"
+  },
+  {
+    "id": "1924704892133798229",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 13:53:00",
+    "content": "5月19日，山东东昌区拖欠第三方劳务派遣教师薪资博主表示“马上就要拖欠两个月了”，下面有网友表示东昌府都拖欠快半年了。\n5月19日，防城港文旅集团（国企）被曝欠薪。 https://t.co/YfYyzzBlz0",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924704892133798229_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924704892133798229_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924704892133798229_2.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924704892133798229_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1655,
+    "originVideos": ""
   }
 ]
