@@ -988,5 +988,23 @@
     "retweets": 5,
     "views": 3921,
     "originVideos": "https://video.twimg.com/amplify_video/1924804384845922304/pl/CqP7ANQiHOEWuVER.m3u8?v=dd6"
+  },
+  {
+    "id": "1924812718022000797",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 21:01:27",
+    "content": "5月19日晚，一段小猫被宝马车拖行致死、涉嫌虐猫的视频引发全网热议。当晚上百名热心市民聚集在派出所为猫讨说法。社交平台上也有大量网民对宝马女车主进行网暴，还有人扒出车主疑似是一家餐厅的主厨。20日，海口警方发布通报完整还原了事情经过：没发现虐猫行为，猫系意外挂在车上。然而网传女车主工作的餐厅因遭受网暴，目前处于停业状态。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924812718022000797_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924812718022000797_1.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924812718022000797_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924812718022000797_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 14,
+    "retweets": 2,
+    "views": 4109,
+    "originVideos": "https://video.twimg.com/amplify_video/1924812400508989440/vid/avc1/320x564/fmsvn3CzzcIB54OU.mp4"
   }
 ]
