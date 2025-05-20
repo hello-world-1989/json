@@ -448,5 +448,23 @@
     "retweets": 1,
     "views": 2599,
     "originVideos": ""
+  },
+  {
+    "id": "1924647766095286713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 10:06:00",
+    "content": "5月5日，海南，教师吐槽自去年九月份入职至今班主任费并未发放。拖欠至今。 https://t.co/vNCOsGJfVg",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924647766095286713_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924647766095286713_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1585,
+    "originVideos": ""
   }
 ]
