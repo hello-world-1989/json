@@ -250,5 +250,23 @@
     "retweets": 1,
     "views": 1881,
     "originVideos": ""
+  },
+  {
+    "id": "1924969385187508698",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 07:24:00",
+    "content": "5月18日，中国交建河北石家庄，欠薪，工人坐在公司门口讨薪。 https://t.co/adXLSNTMIV",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1924969385187508698_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 3,
+    "views": 1453,
+    "originVideos": "https://video.twimg.com/amplify_video/1924939209221001216/vid/avc1/320x568/e-llL3L7dh9yBVXK.mp4"
   }
 ]
