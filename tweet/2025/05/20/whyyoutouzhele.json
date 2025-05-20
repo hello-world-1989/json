@@ -1096,5 +1096,23 @@
     "retweets": 9,
     "views": 5044,
     "originVideos": "https://video.twimg.com/amplify_video/1924824623801368592/vid/avc1/320x568/k3nhWNhOZ1Eso4M_.mp4,https://video.twimg.com/amplify_video/1924824644865146880/vid/avc1/480x270/KfdYk9tEcxHB6W8E.mp4"
+  },
+  {
+    "id": "1924827894045671798",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-20 22:01:46",
+    "content": "5月20日，台总统赖清德发表就职一周年讲话并在讲话结束后接受媒体采访。中国央视主播在播报国台办回应时，口误将“祖国”说成了“两国” https://t.co/SJI7qb22aE",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/20/1924827894045671798_0.jpg,/tweet/image/whyyoutouzhele/2025/05/20/1924827894045671798_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/20/1924827894045671798_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 86,
+    "replies": 38,
+    "retweets": 14,
+    "views": 7597,
+    "originVideos": "https://video.twimg.com/amplify_video/1924827789032828928/vid/avc1/600x270/5_KjqG1MPIZE47eW.mp4"
   }
 ]
