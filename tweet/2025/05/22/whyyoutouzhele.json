@@ -322,5 +322,23 @@
     "retweets": 0,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1925330514933686714",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 07:19:00",
+    "content": "4月24日，玉林玉州顶岗教师欠薪\n5月20日，南宁市江南区教师欠薪 https://t.co/ZPielRAsiX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925330514933686714_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925330514933686714_1.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925330514933686714_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 91,
+    "originVideos": ""
   }
 ]
