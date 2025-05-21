@@ -988,5 +988,23 @@
     "retweets": 1,
     "views": 1024,
     "originVideos": ""
+  },
+  {
+    "id": "1925164768975098022",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 20:20:23",
+    "content": "后续：李女士发帖称，今天下午，美团的三位代表上门探望了外甥，并对外甥道歉，还表示将积极改进。\n 李女士还晒出了外甥工伤当月的工资条：6月1日-10日，共出工七天，总收入749元，在扣去保险租车费用后，实际收入320元。对于李女士提出的要求赔付商业保险诉求，美团代表称将与法务部门讨论后回复 https://t.co/73uxtO0pDB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925164768975098022_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 6,
+    "retweets": 0,
+    "views": 2621,
+    "originVideos": ""
   }
 ]
