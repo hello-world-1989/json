@@ -394,5 +394,23 @@
     "retweets": 1,
     "views": 1276,
     "originVideos": ""
+  },
+  {
+    "id": "1925032299978227896",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 11:34:00",
+    "content": "5月20日，山东青岛市南区欠薪。\n5月20日，中铁十七局五公司长春地铁七号线九工区欠薪。 https://t.co/ftkQqg220m",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925032299978227896_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925032299978227896_1.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925032299978227896_2.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925032299978227896_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2684,
+    "originVideos": ""
   }
 ]
