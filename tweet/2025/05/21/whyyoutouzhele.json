@@ -664,5 +664,23 @@
     "retweets": 4,
     "views": 9300,
     "originVideos": ""
+  },
+  {
+    "id": "1925066022052364713",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 13:48:00",
+    "content": "4月29日，山东临清教师拖欠两年绩效和取暖费。\n5月20日，河南新郑，教师拖欠薪水，2月入职拖欠到现在。 https://t.co/4mD05rBICF",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925066022052364713_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925066022052364713_1.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925066022052364713_2.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925066022052364713_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 400,
+    "originVideos": ""
   }
 ]
