@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 8,
     "originVideos": ""
+  },
+  {
+    "id": "1925069453748011337",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 14:01:38",
+    "content": "5月17日，云南。宁蒗彝族自治县。当地一处红十字会募捐箱里，没有一分钱捐款，箱子里全是垃圾。 https://t.co/j5EcnazciD",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925069453748011337_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925069453748011337_1.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925069453748011337_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 49,
+    "replies": 9,
+    "retweets": 3,
+    "views": 4134,
+    "originVideos": ""
   }
 ]
