@@ -1150,5 +1150,23 @@
     "retweets": 1,
     "views": 3523,
     "originVideos": ""
+  },
+  {
+    "id": "1925219793109762201",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 23:59:02",
+    "content": "5月21日，四川姚振宇律师称，有个案子问题非常多，但检察官表示：我知道案子有问题，但我也没办法，上面已经定了，我说的不算。\n 另一个职务犯罪案子，法官明确表示这个案子问题很大，但法官称：这是监委办的案子，上面已经定了，所以我不敢判无罪，如果我判了无罪，监委会找我麻烦。 https://t.co/H7SfylgpSN",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1925219793109762201_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 122,
+    "originVideos": "https://video.twimg.com/amplify_video/1925217045974765568/vid/avc1/320x568/UVEcaqawIMOoF0dw.mp4"
   }
 ]
