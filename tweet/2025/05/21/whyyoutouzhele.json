@@ -898,5 +898,23 @@
     "retweets": 2,
     "views": 2404,
     "originVideos": "https://video.twimg.com/amplify_video/1925128849018540032/vid/avc1/480x852/GMurY2AeZCM1Nb_J.mp4,https://video.twimg.com/amplify_video/1925128867150536704/vid/avc1/320x568/H-iYahgDHocgngUX.mp4,https://video.twimg.com/amplify_video/1925130684160704512/vid/avc1/320x568/zF97QKnMu4ylP9Yh.mp4"
+  },
+  {
+    "id": "1925136387042648346",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 18:27:36",
+    "content": "《南华早报》报导，公安部第三研究所在北京警博会上展示一款可监控 Telegram 的工具，声称可追踪使用中国实名手机号注册的账户，已收集逾 300 亿条信息、监控 7000 万个账户及 39 万个群组。该研究所称该工具可识别政治和香港相关言论，并展示了如何入侵带有中国手机号的 Telegram 帐号。报导指出，2019 年香港反修例抗议是推动开发该技术的动因之一。另有来自南京的公司展示可检测 VPN 使用行为的技术。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925136387042648346_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1925136387042648346_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 649,
+    "originVideos": "https://video.twimg.com/amplify_video/1925136195220279296/vid/avc1/480x852/x7axlBlNecleJa8H.mp4"
   }
 ]
