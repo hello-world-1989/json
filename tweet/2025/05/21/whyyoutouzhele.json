@@ -358,5 +358,23 @@
     "retweets": 0,
     "views": 1046,
     "originVideos": ""
+  },
+  {
+    "id": "1925013677658300554",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 10:20:00",
+    "content": "5月1日湖北，由于医保基金暂停拨付导致医院没钱，护士降薪两个月只发一千多。\n5月18日， 一博主吐槽公立学校上了三四个月的班只发了一千多块钱。 https://t.co/5CrsTDb6Px",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925013677658300554_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925013677658300554_1.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925013677658300554_2.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925013677658300554_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 3,
+    "retweets": 6,
+    "views": 4468,
+    "originVideos": ""
   }
 ]
