@@ -916,5 +916,23 @@
     "retweets": 1,
     "views": 649,
     "originVideos": "https://video.twimg.com/amplify_video/1925136195220279296/vid/avc1/480x852/x7axlBlNecleJa8H.mp4"
+  },
+  {
+    "id": "1925141892897091993",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 18:49:29",
+    "content": "东吴证券的报告显示，2010-2018年，20-39岁人口是消费增长的第一动能，贡献了30.3%的消费增长，超过其他年龄段；\n 但2018-2022年，20-39岁人口反而成为消费增速下降的主要原因，贡献了44%左右的消费增速降幅，其中主要是20-29岁人口对消费增长的贡献下降至0.8% https://t.co/djhKnq4EXN",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925141892897091993_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925141892897091993_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 1,
+    "views": 47,
+    "originVideos": ""
   }
 ]
