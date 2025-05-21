@@ -448,5 +448,41 @@
     "retweets": 5,
     "views": 3606,
     "originVideos": "https://video.twimg.com/amplify_video/1924956723569188864/vid/avc1/320x624/CtFZ3KdvY45-V5bm.mp4"
+  },
+  {
+    "id": "1925040859197931659",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 12:08:01",
+    "content": "据路透社报道：\n在美国之后，欧盟也宣布解除对叙利亚政府的制裁，以帮助叙利亚在独裁者阿萨德政权倒台后从多年战争中恢复。 https://t.co/xuqrfoxywZ https://t.co/LRmzxx8L70",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925040859197931659_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 2,
+    "views": 634,
+    "originVideos": ""
+  },
+  {
+    "id": "1925039840225329480",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 12:03:58",
+    "content": "同日 国家统计局发布多组数据展示中国经济“含科量”。\n声称工业转型升级持续，4月份高技术制造业增加值同比增长10%，集成电路和光电子制造增加值分别增长21.3%和19%。\n底下网友则纷纷评论“看看大A就知道含金量了！”“一发布就跌，中国股市完全没有投资的意义。” https://t.co/4fDKLFhsOK",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925039840225329480_0.jpg,/tweet/image/whyyoutouzhele/2025/05/21/1925039840225329480_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1437,
+    "originVideos": ""
   }
 ]
