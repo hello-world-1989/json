@@ -538,5 +538,41 @@
     "retweets": 2,
     "views": 8408,
     "originVideos": ""
+  },
+  {
+    "id": "1925049915991818600",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 12:44:00",
+    "content": "5月20日，陕西中建七局四公司，西安兴平第二人民医院，中建七局办公大楼项目欠薪，工人跳楼讨薪。 https://t.co/mdG5Qyj3Zb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1925049915991818600_0.jpg,/tweet/video/whyyoutouzhele/2025/05/21/1925049915991818600_1.jpg,/tweet/video/whyyoutouzhele/2025/05/21/1925049915991818600_2.jpg,/tweet/video/whyyoutouzhele/2025/05/21/1925049915991818600_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 1,
+    "retweets": 5,
+    "views": 2385,
+    "originVideos": "https://video.twimg.com/amplify_video/1924959077735501824/vid/avc1/320x568/gw_1MSQO4hmTDsDs.mp4,https://video.twimg.com/amplify_video/1924959312654323712/vid/avc1/320x568/JvMXSQ3kjvniaMU_.mp4,https://video.twimg.com/amplify_video/1924959371361992704/vid/avc1/320x568/nufguI7_V3C-Tnqz.mp4,https://video.twimg.com/amplify_video/1924959371361914880/vid/avc1/320x568/arSux6ZokaCC7MS7.mp4"
+  },
+  {
+    "id": "1925049342932734020",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 12:41:43",
+    "content": "5月20日 据路透社报道，俄罗斯对公开批评乌克兰战争的著名《美杜莎》出版物创始人兼记者蒂姆琴科提起刑事诉讼，该出版物对乌克兰三年战争进行了批判性报道。\n俄罗斯政府称，蒂姆琴科去年被宣布为外国代理人，并涉嫌发布视频煽动抗议情绪，让公众参与“非法”活动。\n如果她被定罪，将面临六年监禁。 https://t.co/CG88XXpAtI",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925049342932734020_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 3,
+    "views": 2459,
+    "originVideos": ""
   }
 ]
