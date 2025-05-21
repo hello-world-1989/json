@@ -952,5 +952,23 @@
     "retweets": 2,
     "views": 2693,
     "originVideos": ""
+  },
+  {
+    "id": "1925151576056041672",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 19:27:57",
+    "content": "5月21日(发布) 某地信访部门的文件指出：为了准确、深度掌握信访人动态，建立“信访人缠访闹访预警评估模型，并对具体信访人进行关联分析，判断出其潜在的缠访闹访风险值（信访值），以蓝、黄橙、红色，四个风险预警等级。\n 建模重点考核信访人一年来的信访表现，还要准确甄别出各种非法信访和缠访、闹访人；准确甄别出各种无序越级上访人；准确甄别出各种越级走访、特别是恶意进京走访人；准确甄别出其核心带头人；准确甄别出有信访潜力、并至今仍有活力的信访人。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/21/1925151576056041672_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 491,
+    "originVideos": ""
   }
 ]
