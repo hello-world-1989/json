@@ -808,5 +808,23 @@
     "retweets": 3,
     "views": 2681,
     "originVideos": ""
+  },
+  {
+    "id": "1925115577619841100",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 17:04:55",
+    "content": "5月21日(发布) 广东。一名大货车司机在大街上情绪实控，这时一名女子骑车带着孩子路过，司机见状突然一把将孩子抱下车，周围路人惊叫连连，随后司机被警察制服。 https://t.co/2JOrYrld2a",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1925115577619841100_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 2,
+    "views": 2265,
+    "originVideos": "https://video.twimg.com/amplify_video/1925115321645752320/vid/avc1/480x270/9GR6HTUfxyrjy-Jr.mp4"
   }
 ]
