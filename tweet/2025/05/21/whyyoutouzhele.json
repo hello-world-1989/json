@@ -286,5 +286,23 @@
     "retweets": 1,
     "views": 336,
     "originVideos": "https://video.twimg.com/amplify_video/1924939541619896321/vid/avc1/320x568/kASkAhZhrXZ4nd3R.mp4"
+  },
+  {
+    "id": "1924981716323860717",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-21 08:13:00",
+    "content": "5月20日,湖南长沙。\n海汇国际资金盘受害者发视频称，他们在当地维权抗议时候 ，当地政府派出一批公交车将他们遮挡了起来。 https://t.co/Ghcre4OnBB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/21/1924981716323860717_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2481,
+    "originVideos": "https://video.twimg.com/amplify_video/1924936241574744064/vid/avc1/320x568/Z6fY_LduZXixd-zQ.mp4"
   }
 ]
