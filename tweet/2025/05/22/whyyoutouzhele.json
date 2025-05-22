@@ -1024,5 +1024,41 @@
     "retweets": 1,
     "views": 1501,
     "originVideos": "https://video.twimg.com/amplify_video/1925523389424209920/vid/avc1/320x568/84cBknVtpTIw5ojE.mp4"
+  },
+  {
+    "id": "1925526494823997873",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 20:17:45",
+    "content": "5月22日，江西樟树，教师薪水被拖欠一年。老师称，学生都没月考了，教育早就乱套了。 https://t.co/YuH3L2YlHY",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925526494823997873_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925526494823997873_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 3,
+    "retweets": 1,
+    "views": 501,
+    "originVideos": ""
+  },
+  {
+    "id": "1925525768341279177",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 20:14:52",
+    "content": "5月14日，河南郑州管城区教师欠薪，网友表示，代课老师一月份到现在社保没交 工资也没发，还有的表示中原区事业编到现在还没发工资 现在只能靠贷款来生活了。 https://t.co/iueCezKNwy",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925525768341279177_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925525768341279177_1.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925525768341279177_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1526,
+    "originVideos": ""
   }
 ]
