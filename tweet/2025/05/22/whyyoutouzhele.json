@@ -1258,5 +1258,41 @@
     "retweets": 0,
     "views": 3862,
     "originVideos": ""
+  },
+  {
+    "id": "1925561984579248613",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 22:38:46",
+    "content": "5 月 16 日，健康四川官微发布，四川省卫生健康委员会、中共四川省委网络安全和信息化委员会办公室联合制订《四川省互联网健康科普负面行为清单（试行）》。  除禁止与不良营销团队合作、利用医疗委员会职务“擦边”博流量等行为外，本次《负面清单十条》还提到，第1条：禁止发布与国家方针政策、法律法规相违背，不利于推动健康中国战略和健康四川建设的信息；第2条：禁止发布未准确标注信息来源的涉及国内外时事、公共政策、社会事件等相关信息；第8条，除了明文禁止个人在未向所在单位申报并获得批准的情况下，擅自利用职务身份开设用于发布健康科普内容的个人自媒体账号。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925561984579248613_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 1,
+    "views": 297,
+    "originVideos": ""
+  },
+  {
+    "id": "1925559893244666178",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 22:30:28",
+    "content": "5月22日，一名抖音主播在直播间里预言习近平执政不超过五年，还和大家讨论下一任是谁，随后直播间被封禁 https://t.co/1Mu8uHHOxE",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925559893244666178_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 67,
+    "replies": 22,
+    "retweets": 8,
+    "views": 6605,
+    "originVideos": "https://video.twimg.com/amplify_video/1925559726089084928/vid/avc1/320x710/Li7eXfyLfy613jve.mp4"
   }
 ]
