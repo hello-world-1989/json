@@ -106,5 +106,23 @@
     "retweets": 2,
     "views": 3027,
     "originVideos": "https://video.twimg.com/amplify_video/1925609965856669697/vid/avc1/320x568/rnNwSuU5IzmO7wgw.mp4"
+  },
+  {
+    "id": "1925621054791127040",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 02:33:30",
+    "content": "5月22日，福建编制内教师拖欠几个月了。\n4月24日，河北滦南，上个学期的工资只发了两个月的。 https://t.co/nPeFmgq1ca",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925621054791127040_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925621054791127040_1.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925621054791127040_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1236,
+    "originVideos": ""
   }
 ]
