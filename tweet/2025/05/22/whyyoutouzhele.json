@@ -376,5 +376,23 @@
     "retweets": 5,
     "views": 1790,
     "originVideos": ""
+  },
+  {
+    "id": "1925338819844293076",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 07:52:00",
+    "content": "5月21日 河南，中铁华铁工程设计集团有限公司，农村综合性改革试点试验项目欠薪，工人们用锤子砸掉玻璃泄愤 https://t.co/kU6nPj8HXw",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925338819844293076_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 3,
+    "retweets": 5,
+    "views": 2780,
+    "originVideos": "https://video.twimg.com/amplify_video/1925308672604880897/vid/avc1/320x568/_W-_SwMMjs0cIEoY.mp4"
   }
 ]
