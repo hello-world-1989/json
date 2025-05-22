@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 1452,
     "originVideos": "https://video.twimg.com/amplify_video/1925500561618612224/vid/avc1/320x568/iS-tb14gcMdLFHTZ.mp4"
+  },
+  {
+    "id": "1925501918710735166",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 18:40:06",
+    "content": "网友投稿\n山东临沂13元公务员餐对比山东农民工的午饭 https://t.co/zrg2PEchTD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925501918710735166_0.jpg,/tweet/video/whyyoutouzhele/2025/05/22/1925501918710735166_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 10,
+    "retweets": 5,
+    "views": 4037,
+    "originVideos": "https://video.twimg.com/amplify_video/1925501796446822401/vid/avc1/320x568/5Lu9jrcHk_gJ3AIA.mp4,https://video.twimg.com/amplify_video/1925501796375490560/vid/avc1/320x624/gX2JbONK3ScmByFZ.mp4"
   }
 ]
