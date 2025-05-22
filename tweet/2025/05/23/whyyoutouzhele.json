@@ -196,5 +196,41 @@
     "retweets": 0,
     "views": 1726,
     "originVideos": ""
+  },
+  {
+    "id": "1925692759819632889",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:18:26",
+    "content": "5月22日，山东潍坊乡镇卫生院事业编欠薪，博主吐槽，拖欠了半年薪水， 还降薪，感觉不到生活下去的动力了。 https://t.co/P7Kv487aKB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925692759819632889_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925692759819632889_1.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925692759819632889_2.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925692759819632889_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 182,
+    "originVideos": ""
+  },
+  {
+    "id": "1925691972297060760",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:15:18",
+    "content": "5月22日，波士顿地区法官Myong Joun阻止了特朗普政府大规模拆除教育部的努力，称其在未经国会同意的情况下肢解了该机构。该法官表示，教育部的削减已经破坏了教育研究、民权执法和财政援助。他还禁止教育部将其职能转移至其他机构，并禁止其执行特朗普关于彻底关闭该部门的行政命令。 https://t.co/DfwBx5Jthw https://t.co/Pw3U6EegUH",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925691972297060760_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1533,
+    "originVideos": ""
   }
 ]
