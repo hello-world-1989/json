@@ -664,5 +664,41 @@
     "retweets": 0,
     "views": 247,
     "originVideos": ""
+  },
+  {
+    "id": "1925413536924385610",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 12:48:54",
+    "content": "据澳洲ABC新闻报道，枪击事件嫌疑人在枪击前曾在犹太博物馆来回踱步。在枪击两名以色列使馆工作人员后名嫌疑人走进博物馆，后被抓捕。在被拘留期间，嫌疑人高呼“自由巴勒斯坦。”\n以色列驻联合国大使Danny Danon称枪击事件是“堕落的反犹太恐怖主义行为”。 https://t.co/lA0i3dFSBA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925413536924385610_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 124,
+    "originVideos": ""
+  },
+  {
+    "id": "1925412036110164282",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 12:42:56",
+    "content": "上海也开始出现教师欠薪事件。\n5月21日 有上海教师在小红书发帖吐槽他们学校的近一年的课后服务费自2024年6月份起拖欠至今。 https://t.co/6dEZhHUxeA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925412036110164282_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925412036110164282_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 5,
+    "retweets": 2,
+    "views": 3015,
+    "originVideos": ""
   }
 ]
