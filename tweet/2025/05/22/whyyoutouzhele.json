@@ -1006,5 +1006,23 @@
     "retweets": 0,
     "views": 177,
     "originVideos": ""
+  },
+  {
+    "id": "1925523470210748535",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 20:05:44",
+    "content": "5月9日 ，广东，有网友拍到洒水车下雨天给绿化带浇水。 https://t.co/i02rf3a75C",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925523470210748535_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 6,
+    "retweets": 1,
+    "views": 1501,
+    "originVideos": "https://video.twimg.com/amplify_video/1925523389424209920/vid/avc1/320x568/84cBknVtpTIw5ojE.mp4"
   }
 ]
