@@ -142,5 +142,23 @@
     "retweets": 0,
     "views": 1115,
     "originVideos": "https://video.twimg.com/amplify_video/1925611079050125312/vid/avc1/320x568/PryEwODtbVp6Wiyi.mp4"
+  },
+  {
+    "id": "1925687630227787784",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 06:58:03",
+    "content": "5月22日，国土安全部取消哈佛大学招收国际学生的资格，且目前在校的外国学生必须转学，否则将面临失去合法身份的风险。\n国土安全部部长克里斯蒂·L·诺姆下令该机构终止哈佛大学的学生和交流访问者项目（SEVP）认证，原因是哈佛大学涉嫌允许“反美、支持恐怖主义”的外国人“骚扰和人身攻击他人……并阻碍其曾经令人尊敬的学习环境”。部长还指责哈佛大学与中国共产党合作，接待和训练其准军事组织成员。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925687630227787784_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 337,
+    "originVideos": ""
   }
 ]
