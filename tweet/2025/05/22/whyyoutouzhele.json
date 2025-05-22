@@ -1150,5 +1150,41 @@
     "retweets": 0,
     "views": 29,
     "originVideos": ""
+  },
+  {
+    "id": "1925542791653843065",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 21:22:31",
+    "content": "5 月 16 日，健康四川官微发布，四川省卫生健康委员会、中共四川省委网络安全和信息化委员会办公室联合制订《四川省互联网健康科普负面行为清单（试行）》。  除禁止与不良营销团队合作、利用医疗委员会职务“擦边”博流量等行为外，本次《负面清单十条》还提到，第1条：禁止发布与国家方针政策、法律法规相违背，不利于推动健康中国战略和健康四川建设的信息；第2条：禁止发布未准确标注信息来源的涉及国内外时事、公共政策、社会事件等相关信息；第8条，除了明文禁止个人在未向所在单位申报并获得批准的情况下，擅自利用职务身份开设用于发布健康科普内容的个人自媒体账号。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925542791653843065_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 0,
+    "views": 3334,
+    "originVideos": ""
+  },
+  {
+    "id": "1925542542801608744",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 21:21:31",
+    "content": "5月22日，山东德州，博主吐槽，山东德州加油站普通职工月薪只有可怜的1800块。他们如何养家呢 ？ https://t.co/9KVdQGZZkY",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925542542801608744_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2996,
+    "originVideos": "https://video.twimg.com/amplify_video/1925542399515697152/vid/avc1/320x568/7o_yLtscAxyLYvAd.mp4"
   }
 ]
