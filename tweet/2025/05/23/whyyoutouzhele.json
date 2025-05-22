@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 679,
     "originVideos": "https://video.twimg.com/amplify_video/1925545791801712640/vid/avc1/320x568/9Y4vo95hygEVb44s.mp4"
+  },
+  {
+    "id": "1925610588694012357",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 01:51:55",
+    "content": "5月22日，贵州一学校歌唱大会上，一名身穿毛式军服、身上佩戴满毛头像徽章的学生正在声情并茂的歌唱毛时代歌曲，戏剧性的是他脚上穿的是价值457的美国耐克球鞋。 https://t.co/DxJKyiQREY",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925610588694012357_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925610588694012357_1.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925610588694012357_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925610588694012357_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 10,
+    "retweets": 2,
+    "views": 3027,
+    "originVideos": "https://video.twimg.com/amplify_video/1925609965856669697/vid/avc1/320x568/rnNwSuU5IzmO7wgw.mp4"
   }
 ]
