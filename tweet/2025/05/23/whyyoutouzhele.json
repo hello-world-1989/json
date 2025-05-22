@@ -160,5 +160,41 @@
     "retweets": 1,
     "views": 337,
     "originVideos": ""
+  },
+  {
+    "id": "1925689529396080904",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:05:36",
+    "content": "5月22日，湖南，中国建筑第五工程局 ，承建中建，桃李第九章二期总承包工程。项目欠薪半年。 https://t.co/bEE6P2zFDI",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925689529396080904_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 881,
+    "originVideos": "https://video.twimg.com/amplify_video/1925689412635021313/vid/avc1/320x568/XAG3nAG7EFKB65k0.mp4"
+  },
+  {
+    "id": "1925688854385729595",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:02:55",
+    "content": "5月23日，柳州融水，教师吐槽绩效欠发，有网友跟帖回复，柳州下面几个县城都没有发。 https://t.co/cU1yTUdeq6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925688854385729595_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925688854385729595_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1726,
+    "originVideos": ""
   }
 ]
