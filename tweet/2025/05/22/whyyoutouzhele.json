@@ -862,5 +862,23 @@
     "retweets": 1,
     "views": 1453,
     "originVideos": ""
+  },
+  {
+    "id": "1925461016424718760",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 15:57:34",
+    "content": "5月21日，一名网友发帖，称在日本捡到了“小日子”的钱包，发现钱包内有银行卡、购物小票、3000元现金等物品，他表示“有种偷窥别人隐私的快感”。他还称：“要是三万还可以考虑，3千就算了” 后来他把钱包送到警察局，并通过警察转告失主：“钱包是中国人捡到的，希望小日子能对中国人印象好一点” https://t.co/QrAIdxNJQs",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925461016424718760_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925461016424718760_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 0,
+    "views": 796,
+    "originVideos": ""
   }
 ]
