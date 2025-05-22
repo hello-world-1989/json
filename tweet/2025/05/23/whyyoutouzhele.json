@@ -268,5 +268,41 @@
     "retweets": 0,
     "views": 1151,
     "originVideos": "https://video.twimg.com/amplify_video/1925693727021887488/vid/avc1/320x568/HGjf1CYUm6hkh58h.mp4"
+  },
+  {
+    "id": "1925695822219321490",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:30:36",
+    "content": "5月22日，江西乐平工业区每到下半夜就开始排放有害的工业废气，居民呼吸困难，蔬菜种植基地的蔬菜也无人敢吃，居民接连患病，当地的井水也无法饮用，当地居民只能改喝瓶装水。 https://t.co/8TdOvMHENo",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925695822219321490_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 5,
+    "retweets": 3,
+    "views": 2489,
+    "originVideos": "https://video.twimg.com/amplify_video/1925695739801255936/vid/avc1/320x426/0DTOVTrG2fDf83l_.mp4"
+  },
+  {
+    "id": "1925695803055579167",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 07:30:31",
+    "content": "特朗普宣布，他计划于周四晚上在弗吉尼亚州的高尔夫俱乐部为其川普币Official Trump的最大持有者们举办一场备受期待的“独家”晚宴。其中，加密货币亿万富翁孙宇晨也在顶级买家之列，并获得了出席晚宴的资格。\n据《华盛顿邮报》上周数据分析显示，自这款表情包币于今年1月首次亮相以来，与特朗普相关的企业已从加密货币销售中获得了3.12亿美元的收入，并收取了总计4300万美元的费用。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925695803055579167_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2550,
+    "originVideos": ""
   }
 ]
