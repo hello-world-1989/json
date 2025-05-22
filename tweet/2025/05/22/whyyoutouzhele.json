@@ -700,5 +700,41 @@
     "retweets": 2,
     "views": 3015,
     "originVideos": ""
+  },
+  {
+    "id": "1925416114320023679",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 12:59:08",
+    "content": "5月22日 河北遵化一博主吐槽五月过半了公务员乡镇补贴还发吗，下面有不少网友跟帖称他们的乡镇补贴、山区补贴都欠了几年了。 https://t.co/ATLt2m72x2",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925416114320023679_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925416114320023679_1.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925416114320023679_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 61,
+    "originVideos": ""
+  },
+  {
+    "id": "1925414626663309483",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 12:53:14",
+    "content": "5月21日 福建泉州一教师吐槽鲤城区某小学，都2025年了工资只有1400一个月，如果不交五险可以涨到2100.\n教师吐槽“牛马的命也是命” https://t.co/02mXwjlHbo",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/22/1925414626663309483_0.jpg,/tweet/image/whyyoutouzhele/2025/05/22/1925414626663309483_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 6,
+    "retweets": 0,
+    "views": 3108,
+    "originVideos": ""
   }
 ]
