@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 1467,
     "originVideos": ""
+  },
+  {
+    "id": "1925604319539106227",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 01:27:00",
+    "content": "5月22日，广东，广州峰安消防工程江门分公司欠工人薪水。 https://t.co/WBgp26gaAZ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925604319539106227_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 679,
+    "originVideos": "https://video.twimg.com/amplify_video/1925545791801712640/vid/avc1/320x568/9Y4vo95hygEVb44s.mp4"
   }
 ]
