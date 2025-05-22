@@ -970,5 +970,23 @@
     "retweets": 5,
     "views": 4037,
     "originVideos": "https://video.twimg.com/amplify_video/1925501796446822401/vid/avc1/320x568/5Lu9jrcHk_gJ3AIA.mp4,https://video.twimg.com/amplify_video/1925501796375490560/vid/avc1/320x624/gX2JbONK3ScmByFZ.mp4"
+  },
+  {
+    "id": "1925504740554612855",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-22 18:51:18",
+    "content": "5月22日，福建，莫鞋厂不签劳动合同，不交医社保，恶意克扣员工工资，工人维权讨薪。 https://t.co/X5DfK7uTbF",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/22/1925504740554612855_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 2,
+    "views": 2442,
+    "originVideos": "https://video.twimg.com/amplify_video/1925504664151154688/vid/avc1/320x568/8gKQ8bS55uIZGgoq.mp4"
   }
 ]
