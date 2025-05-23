@@ -1168,5 +1168,41 @@
     "retweets": 0,
     "views": 3423,
     "originVideos": ""
+  },
+  {
+    "id": "1925931340282675572",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 23:06:28",
+    "content": "23日的外交部例行记者会上，毛宁回应：中美教育合作是互利的，中方一贯反对将教育合作政治化，美方有关做法只会损害美国的形象和国际信誉。中方将坚定维护海外中国学生和学者的正当合法权益。 https://t.co/gKHoafv4xg https://t.co/NNBbv986d2",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925931340282675572_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2061,
+    "originVideos": ""
+  },
+  {
+    "id": "1925929769301843995",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 23:00:13",
+    "content": "西方不亮东方亮。5月23日，香港科技大学发文公开邀请就读于哈佛大学的国际本科生及研究生，以及获取哈佛录取的学生到科大就读。香港科技大学表示，该校将顺应全球学术变局，向哈佛大学的国际生敞开大门，为有意转学的学生提供无条件录取资格、简化入学流程及学术支持，助力学生完成学业和生活上的过渡阶段。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925929769301843995_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 15,
+    "retweets": 1,
+    "views": 7323,
+    "originVideos": ""
   }
 ]
