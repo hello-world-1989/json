@@ -376,5 +376,41 @@
     "retweets": 2,
     "views": 5017,
     "originVideos": "https://video.twimg.com/amplify_video/1926056833354997760/vid/avc1/320x584/ZlO9j40NRt17kt5b.mp4,https://video.twimg.com/amplify_video/1926056992193314816/vid/avc1/320x564/ao95rldPjMWozWts.mp4"
+  },
+  {
+    "id": "1926062278455046422",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 07:46:46",
+    "content": "5月21日，博主爆料西安曲江大明宫投资集团有限公司及下属二级公司长期拖欠员工工资及绩效工资。 https://t.co/5vTOkqg1IX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926062278455046422_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 979,
+    "originVideos": ""
+  },
+  {
+    "id": "1926061654938194168",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 07:44:17",
+    "content": "5月20日下午，泰国移民局第二分局联合暖武里府警方在素万那普国际机场成功逮捕两名中国籍男子，分别是41岁的Zhao Chuanbo与39岁的Huang Jianping，二人因涉嫌重大洗钱案件而被国际刑警组织通缉。\n网友发现，被捕者曾与中国统战部副部长陈旭合照。 https://t.co/jNu27iEA1f",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926061654938194168_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926061654938194168_1.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926061654938194168_2.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926061654938194168_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2436,
+    "originVideos": ""
   }
 ]
