@@ -1078,5 +1078,23 @@
     "retweets": 0,
     "views": 952,
     "originVideos": ""
+  },
+  {
+    "id": "1925900370183676180",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 21:03:24",
+    "content": "周五，哈佛大学就国际学生入学禁令起诉特朗普政府。据路透社报道，哈佛大学在向波士顿联邦法院提起的诉讼中称，撤销该学位的决定“公然违反”了美国宪法第一修正案和其他联邦法律。它还表示，撤销签证对该大学和 7,000 多名签证持有者产生了“直接和毁灭性的影响”。 https://t.co/NNBbv986d2",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 0,
+    "views": 6059,
+    "originVideos": ""
   }
 ]
