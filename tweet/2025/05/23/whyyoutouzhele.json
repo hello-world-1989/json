@@ -520,5 +520,23 @@
     "retweets": 3,
     "views": 3653,
     "originVideos": "https://video.twimg.com/amplify_video/1925818326682324992/vid/avc1/320x568/tTY0hCJ0-tvYpnA_.mp4,https://video.twimg.com/amplify_video/1925818474682568704/vid/avc1/1080x1172/ImIeRAHaPlrbOJgG.mp4"
+  },
+  {
+    "id": "1925823712583901361",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 15:58:47",
+    "content": "5月20日，华为发布了鸿蒙折叠电脑——HUAWEI MateBook Fold非凡大师，售价23999元起。\n期间，一段工作人员现场展示鸿蒙折叠电脑创新功能的视频，引发大众嘲讽。 https://t.co/LykBnOqfC4",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925823712583901361_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 183,
+    "originVideos": "https://video.twimg.com/amplify_video/1925821764971397120/vid/avc1/320x554/cyC9r7bdjvx0n1U0.mp4"
   }
 ]
