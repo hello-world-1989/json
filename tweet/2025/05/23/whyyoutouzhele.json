@@ -1042,5 +1042,41 @@
     "retweets": 2,
     "views": 879,
     "originVideos": ""
+  },
+  {
+    "id": "1925894328037027889",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 20:39:23",
+    "content": "5月23日，特朗普警告，如果苹果不在美国生产iPhone，将被征收25%的关税。 https://t.co/M746C0b3ut",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925894328037027889_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 31,
+    "originVideos": ""
+  },
+  {
+    "id": "1925893774296641939",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 20:37:11",
+    "content": "5月23日，特朗普发文表示，美国与欧盟的谈判毫无进展，建议从6月1日起对欧盟直接征收50%的关税。 https://t.co/AK370wvIQb",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925893774296641939_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925893774296641939_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 0,
+    "views": 952,
+    "originVideos": ""
   }
 ]
