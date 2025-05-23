@@ -934,5 +934,23 @@
     "retweets": 5,
     "views": 5968,
     "originVideos": ""
+  },
+  {
+    "id": "1925873055307358291",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 19:14:52",
+    "content": "为避免个人的明文信息泄露，网号、网证开始取代姓名、身份证号。\n5月23日，公安部、国家网信办等6部门联合对外发布《国家网络身份认证公共服务管理办法》，自2025年7月15日起施行。\n管理办法明确，根据法律、行政法规规定，在互联网服务中需要登记、核验用户真实身份信息的，可以使用网号、网证依法进行登记、核验。减少个人身份信息的采集、留存，实现身份数据“可用不可见”的效果，同时也降低个人信息保护方面投入成本。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925873055307358291_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 8,
+    "retweets": 1,
+    "views": 2908,
+    "originVideos": ""
   }
 ]
