@@ -1240,5 +1240,23 @@
     "retweets": 1,
     "views": 2581,
     "originVideos": ""
+  },
+  {
+    "id": "1925938718327660642",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 23:35:47",
+    "content": "黄子韬卫生巾被指成分用料虚假宣传。前不久，知名歌手艺人黄子韬宣布要做卫生巾引起全网热议。5月18日，黄子韬主理的卫生巾品牌朵薇在浙江东阳工厂举办新品发布会。5月22日，有网友发视频质疑黄子韬的卫生巾为虚假宣传。该网友表示，包装盒上印的“积雪草”“维生素原B5”有什么用呢？包装上印有蚕丝纤维，结果成分表里根本没有。卫生巾表层不仅看着粗糙用着更是难受。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925938718327660642_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2401,
+    "originVideos": "https://video.twimg.com/amplify_video/1925938084597710848/vid/avc1/320x426/K25gzsiaiB5AP9sE.mp4"
   }
 ]
