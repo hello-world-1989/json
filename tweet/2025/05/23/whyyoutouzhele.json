@@ -1222,5 +1222,23 @@
     "retweets": 0,
     "views": 4255,
     "originVideos": ""
+  },
+  {
+    "id": "1925936066537615691",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 23:25:15",
+    "content": "5月23日，“廉洁东风”通报，东风公司4名高管涉嫌严重违纪违法，正接受纪律审查和监察调查。东风汽车公司是是中国大陆第二大汽车制造商，也是国有控股企业，总部位于湖北武汉。 https://t.co/XP1RnWIR1u",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925936066537615691_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2581,
+    "originVideos": ""
   }
 ]
