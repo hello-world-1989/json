@@ -1150,5 +1150,23 @@
     "retweets": 2,
     "views": 9953,
     "originVideos": ""
+  },
+  {
+    "id": "1925912997899149489",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 21:53:35",
+    "content": "5月22日，丹麦议会通过法案，决定到2040 年将退休年龄提高至 70 岁，成为欧洲最高退休年龄。自2006年以来，丹麦的退休年龄与预期寿命挂钩，目前为81.7岁。该年龄每五年修订一次，预计到2030年将提高至68岁，到2035年将提高至69岁。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925912997899149489_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 5,
+    "retweets": 0,
+    "views": 3423,
+    "originVideos": ""
   }
 ]
