@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 2100,
     "originVideos": "https://video.twimg.com/amplify_video/1925824527503679488/vid/avc1/320x568/kBRY4fB58_RABiNG.mp4"
+  },
+  {
+    "id": "1925828509626220712",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 16:17:51",
+    "content": "5月22日，广东。一位农民工因要不到工钱，在街头甩下锤子愤怒大喊。 https://t.co/wJFFaHJ9n6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925828509626220712_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 0,
+    "views": 504,
+    "originVideos": "https://video.twimg.com/amplify_video/1925827844430528512/vid/avc1/320x568/R7Ox77wF8xAoYIVG.mp4"
   }
 ]
