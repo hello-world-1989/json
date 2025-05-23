@@ -430,5 +430,41 @@
     "retweets": 0,
     "views": 5118,
     "originVideos": ""
+  },
+  {
+    "id": "1925817804541898987",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 15:35:19",
+    "content": "5月23日，网传长沙中南大学梁步阁教授在会上要求学生不要举报学校。\n他表示：投诉和举报只会增加我们的工作量，还会给学校打上不好的烙印，影响以后你们的学习工作和生活。 https://t.co/INpnz4V567",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925817804541898987_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 4,
+    "views": 2408,
+    "originVideos": "https://video.twimg.com/amplify_video/1925817135416107008/vid/avc1/480x270/e09XiYs-ruVatRO7.mp4"
+  },
+  {
+    "id": "1925817133411217422",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 15:32:39",
+    "content": "5月23日，河北石家庄。有网友曝光当地教师欠薪，博主称看别的消息确定了取暖费也没有了 https://t.co/LwHi9uYtEB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925817133411217422_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925817133411217422_1.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925817133411217422_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 3,
+    "retweets": 3,
+    "views": 3387,
+    "originVideos": ""
   }
 ]
