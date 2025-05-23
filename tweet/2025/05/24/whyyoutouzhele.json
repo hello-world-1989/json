@@ -232,5 +232,41 @@
     "retweets": 0,
     "views": 1241,
     "originVideos": ""
+  },
+  {
+    "id": "1926052872015188033",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 07:09:23",
+    "content": "互相拐卖？北京官方账号证实中国叛卖缅甸妇女。据知名打拐人士上官正义描述：\"团伙将缅甸籍女子经云南边境偷渡后'销'往全国各地，每一名女性订金约20万元。\" https://t.co/ziO9AamZt8",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926052872015188033_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 6,
+    "originVideos": "https://video.twimg.com/amplify_video/1926051682518966272/vid/avc1/320x568/6zk5PZFXfGPeCmF_.mp4"
+  },
+  {
+    "id": "1926051347364786675",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 07:03:20",
+    "content": "美国媒体报道，特朗普已经意识到普京无意结束俄乌战争，并暗示可能放弃调解。5月19日，特朗普曾与普京通电话，普京当时拒绝了立即停火的建议。 https://t.co/uvIRRhMnjj",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926051347364786675_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2030,
+    "originVideos": ""
   }
 ]
