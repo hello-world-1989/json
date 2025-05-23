@@ -160,5 +160,41 @@
     "retweets": 2,
     "views": 2723,
     "originVideos": "https://video.twimg.com/amplify_video/1926037980898037760/vid/avc1/320x560/pwJrA4Ws7utLxaP-.mp4,https://video.twimg.com/amplify_video/1926038109298290688/vid/avc1/320x566/3IJ-a4ccOguSn4Oo.mp4"
+  },
+  {
+    "id": "1926044167563616766",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 06:34:48",
+    "content": "5月18日，北京房山区，房山城关，工地欠薪两个月，工人讨薪。\n5月23日，内蒙古，中国交建欠薪，工人坐在办公室讨薪。\n4月30日，深圳市安托山 ，中国建筑第五工程局有限公司欠薪，工人跳楼讨薪。 https://t.co/zYwwgKvboT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926044167563616766_0.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926044167563616766_1.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926044167563616766_2.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926044167563616766_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1044,
+    "originVideos": "https://video.twimg.com/amplify_video/1926043787752583168/vid/avc1/320x564/K-btfA0p_ysFMCTZ.mp4,https://video.twimg.com/amplify_video/1926043795545534464/vid/avc1/320x568/UnHk_hpGDUttVJF4.mp4,https://video.twimg.com/amplify_video/1926044070171877376/vid/avc1/320x568/cY3Lv7WkSYCAIxyE.mp4,https://video.twimg.com/amplify_video/1926044085128679425/vid/avc1/320x568/gnad2te6sO9SO4-h.mp4"
+  },
+  {
+    "id": "1926043921743786030",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 06:33:49",
+    "content": "5月23日，江西中昌公司拖欠工人工资一年至今不发，当天，工人们终于堵住公司经理，要求立刻结清工资否则不放人。 https://t.co/1mygtZO1vD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926043921743786030_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 5,
+    "views": 1277,
+    "originVideos": "https://video.twimg.com/amplify_video/1926043468775780352/vid/avc1/320x568/iv-VslQwLKxullAg.mp4"
   }
 ]
