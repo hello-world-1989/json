@@ -1096,5 +1096,23 @@
     "retweets": 0,
     "views": 6059,
     "originVideos": ""
+  },
+  {
+    "id": "1925902435203072310",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 21:11:36",
+    "content": "5月22日，美国疾病控制与预防中心(CDC)在机场的筛查项目已检测到多种新型新冠病毒变体NB.1.8.1病例，该变体与中国病毒的大规模激增有关。CDC机场检测合作伙伴Ginkgo Bioworks上传的记录显示，与NB.1.8.1变异株相关的病例已在加州、华盛顿州、弗吉尼亚州和纽约市地区的机场入境国际旅客中报告。这些国际旅客来自日本、韩国、法国、泰国、荷兰、西班牙、越南、中国和台湾等地。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925902435203072310_0.jpg,/tweet/image/whyyoutouzhele/2025/05/23/1925902435203072310_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 2,
+    "views": 4709,
+    "originVideos": ""
   }
 ]
