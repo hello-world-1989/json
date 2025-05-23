@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 234,
     "originVideos": "https://video.twimg.com/amplify_video/1925836089782075393/vid/avc1/320x568/QM2UApnCZCLvA5Eg.mp4"
+  },
+  {
+    "id": "1925840513837478321",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 17:05:33",
+    "content": "5月23日 深圳平湖\n全利丰玩具厂工人跳楼讨薪，现场有工人从楼上跳下，落入消防气垫后没有动静。还有工人的手腕上有疑似血迹。\n即便有工人跳楼，老板也没有出面给工人们一个交代。 https://t.co/3BiQvyqcoQ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/23/1925840513837478321_0.jpg,/tweet/video/whyyoutouzhele/2025/05/23/1925840513837478321_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1525,
+    "originVideos": "https://video.twimg.com/amplify_video/1925839510337667072/vid/avc1/320x568/bpVhud8jEYKS_GDx.mp4,https://video.twimg.com/amplify_video/1925839510325092352/vid/avc1/320x568/SBVGNIXZITITZDF0.mp4"
   }
 ]
