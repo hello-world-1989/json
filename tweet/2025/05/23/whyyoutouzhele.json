@@ -970,5 +970,23 @@
     "retweets": 0,
     "views": 2787,
     "originVideos": ""
+  },
+  {
+    "id": "1925881173798002920",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 19:47:07",
+    "content": "警方通报“宜宾800哥”事件，目前犯罪嫌疑人文某已被刑事拘留。 https://t.co/7pF9hbm4ZM https://t.co/WhLLlBk8m2",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925881173798002920_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1328,
+    "originVideos": ""
   }
 ]
