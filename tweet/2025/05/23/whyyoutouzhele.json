@@ -304,5 +304,23 @@
     "retweets": 1,
     "views": 2550,
     "originVideos": ""
+  },
+  {
+    "id": "1925765094656385044",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-23 12:05:52",
+    "content": "5月23日 路透社报道揭露了在华盛顿枪击以色列使馆工作人员的嫌疑人罗德里格斯身份，其在被捕时声称“我为巴勒斯坦做了这件事，我为加沙做了这件事。”\n嫌疑人18年毕业于伊利诺伊大学芝加哥分校。被捕时，其正在医疗保健NGO美国骨科信息协会工作\n嫌疑人在7年前曾参加芝加哥极左组织社会主义和解放党。一份新闻照片还确认其在18年是ASWERNER的成员，该团体名称是立即采取行动停止战争和结束种族主义首字母缩写，该团体曾组织了声援巴勒斯坦的示威活动。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/23/1925765094656385044_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2316,
+    "originVideos": ""
   }
 ]
