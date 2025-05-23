@@ -196,5 +196,23 @@
     "retweets": 5,
     "views": 1277,
     "originVideos": "https://video.twimg.com/amplify_video/1926043468775780352/vid/avc1/320x568/iv-VslQwLKxullAg.mp4"
+  },
+  {
+    "id": "1926047374817820716",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 06:47:33",
+    "content": "5月23日，哈尔滨外卖骑手开始集体罢工，主要是京东外卖骑手。骑手反映待遇差、挣得少，选全职还有内幕。 https://t.co/7HAzmytHZ3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926047374817820716_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926047374817820716_1.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926047374817820716_2.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926047374817820716_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 478,
+    "originVideos": ""
   }
 ]
