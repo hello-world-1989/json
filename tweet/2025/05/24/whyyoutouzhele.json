@@ -34,5 +34,23 @@
     "retweets": 130,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1926026422612594927",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 05:24:17",
+    "content": "5月18日 ，四川航天建筑工程有限公司，承建翔宇医疗智能康复设备（西南）研制营销中心工程，欠薪几年，工人直接用铲车把项目门口堵了 https://t.co/h3nhlPpLg6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926026422612594927_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1269,
+    "originVideos": "https://video.twimg.com/amplify_video/1926026101530193920/vid/avc1/320x568/6uZoegM_bm-KOn68.mp4"
   }
 ]
