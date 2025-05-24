@@ -916,5 +916,23 @@
     "retweets": 1,
     "views": 1296,
     "originVideos": "https://video.twimg.com/amplify_video/1926242546344251392/pl/3ud94DYCW4fkXaE3.m3u8?v=cfc"
+  },
+  {
+    "id": "1926245359438704780",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 19:54:16",
+    "content": "在周五与教皇良十四世会面后，几位欧洲主教表示，他们共同关心的一个主要问题是，美国将欧盟排除在关键国际谈判之外，例如有关乌克兰战争的和平谈判。他们希望帮助欧洲大陆重新获得发言权。\n会议讨论了各种问题，例如战争、移民、人工智能以及与政治有关的问题，包括右翼民族主义民粹主义的兴起、美国关税以及欧盟在全球舞台上的弱化。\n此外，主教们还表达了对新教皇能对特朗普政府采取积极行动的期望。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926245359438704780_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926245359438704780_1.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926245359438704780_2.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926245359438704780_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2248,
+    "originVideos": ""
   }
 ]
