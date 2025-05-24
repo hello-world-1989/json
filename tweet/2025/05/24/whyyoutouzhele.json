@@ -700,5 +700,41 @@
     "retweets": 0,
     "views": 2032,
     "originVideos": ""
+  },
+  {
+    "id": "1926193438753427584",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 16:27:57",
+    "content": "5月22日，河南碧桂园凤凰湾二期欠薪，工人躺在项目十多天，以此“文明”讨薪。\n5月23日，济阳帝华富贵园烂尾，业主无奈天台跳楼维权。 https://t.co/8NCnw0aRUQ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926193438753427584_0.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926193438753427584_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 887,
+    "originVideos": "https://video.twimg.com/amplify_video/1926193045600407553/vid/avc1/320x568/iR2q6WxAHdgK0haR.mp4,https://video.twimg.com/amplify_video/1926193055331229696/vid/avc1/320x568/jsvvR0X8TtVKQg13.mp4"
+  },
+  {
+    "id": "1926191823313142087",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 16:21:32",
+    "content": "该博主还吐槽，学校不去处理违规补课、跟学生谈恋爱的老师。反而在会上阴阳大家都很支持的勇于投诉举报的老师。和学校沟通过学校也解决不了，老师不投诉还能干嘛？投诉不是合法渠道吗？\n学校把欠债2000万的亏空原因归咎于教师和工会福利以及免费宿舍水电，却不敢提正正的原因是领导把钱贪污了。 https://t.co/7CdGtLpUaA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926191823313142087_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926191823313142087_1.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926191823313142087_2.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926191823313142087_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1759,
+    "originVideos": ""
   }
 ]
