@@ -790,5 +790,41 @@
     "retweets": 1,
     "views": 1683,
     "originVideos": ""
+  },
+  {
+    "id": "1926198289495466120",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 16:47:13",
+    "content": "4月23日 河南 有网友发视频分享农民工的不易：“42度的烈日下，一群守工者期待被雇主带走，半开的车窗前趴了好几个脑袋，这份渴望被带走的情绪已淹没了高温的灼烤，能带走的即是下力者，又是幸运者，车辆启动的瞬间，酸楚的笑容与失落共存！无奈的生活、需要耐心的等待、还有家人的期待！！” https://t.co/n04BDHqqsB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926198289495466120_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1020,
+    "originVideos": "https://video.twimg.com/amplify_video/1926197760920805376/vid/avc1/320x568/1bymPq_Oy_CamWOQ.mp4"
+  },
+  {
+    "id": "1926197547158102110",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 16:44:16",
+    "content": "近期不少欠薪事件的评论区都有“带上打火机”相关的言论。\n5月23日 河北省沙河市 金港地产拖欠十几位农民工工资。工人代表发视频向金港地产讨薪。\n5月23日，广东省佛山市 洲际建工有限公司佛山呼研所健康广佛产业园B区项目欠薪，工人们堵住大门讨薪。\n两个讨薪视频评论区均有“打火机”相关评论。 https://t.co/9oMWw5Gx3P",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926197547158102110_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926197547158102110_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926197547158102110_0.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926197547158102110_1.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1082,
+    "originVideos": "https://video.twimg.com/amplify_video/1926196770960281600/vid/avc1/320x568/9n5xpl7g5l-eGBiy.mp4,https://video.twimg.com/amplify_video/1926196800580435968/vid/avc1/320x594/N1uxMI1lVWBFGbKq.mp4"
   }
 ]
