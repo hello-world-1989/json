@@ -430,5 +430,23 @@
     "retweets": 0,
     "views": 8,
     "originVideos": "https://video.twimg.com/amplify_video/1926354394460635136/vid/avc1/320x568/90k-d8QkeiYzLda5.mp4"
+  },
+  {
+    "id": "1926413652590199021",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 07:03:00",
+    "content": "5月25日凌晨，广西北海。\n万佳连锁超市北海店在门口张贴了一张“骑手与狗禁止入内”的告示牌，引发广大骑手不满，当晚大量骑手围堵超市，要求超市老板道歉。最后在警察的协调下，超市老板向骑手道歉。 https://t.co/C81ppOviF0",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926413652590199021_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 6,
+    "retweets": 2,
+    "views": 2069,
+    "originVideos": "https://video.twimg.com/amplify_video/1926368434247368705/vid/avc1/1920x1080/YZvxE3cWWJaOiIr_.mp4"
   }
 ]
