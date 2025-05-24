@@ -934,5 +934,41 @@
     "retweets": 0,
     "views": 2248,
     "originVideos": ""
+  },
+  {
+    "id": "1926248688310948163",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 20:07:29",
+    "content": "受特朗普关税新威胁影响，欧洲斯托克600指数、意大利富时MIB指数、德国法兰克福股市DAX指数、法国巴黎股市CAC40指数、西班牙股市IBEX35指数跌幅均超1.5%。其中，德国DAX指数跌至两周以来最低水平，当天一度下跌至23325.5点。 https://t.co/J8YKvTNjtS https://t.co/Y2yj0bXjkJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926248688310948163_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 783,
+    "originVideos": ""
+  },
+  {
+    "id": "1926247701571674252",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 20:03:34",
+    "content": "5月24日，浙江临海汛东村一印染厂发生火灾。 https://t.co/yuEuU7Rjkg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926247701571674252_0.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926247701571674252_1.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926247701571674252_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 6,
+    "retweets": 0,
+    "views": 3499,
+    "originVideos": "https://video.twimg.com/amplify_video/1926247504653246464/vid/avc1/320x568/sf7QLiZW0tB15FIf.mp4,https://video.twimg.com/amplify_video/1926247589667549184/vid/avc1/320x568/XBVJuqYX8hRvb_is.mp4,https://video.twimg.com/amplify_video/1926247634609582080/vid/avc1/320x568/z4dOGRXZwBmLJGFt.mp4"
   }
 ]
