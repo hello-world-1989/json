@@ -466,5 +466,23 @@
     "retweets": 0,
     "views": 327,
     "originVideos": ""
+  },
+  {
+    "id": "1926425339707731995",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 07:49:26",
+    "content": "5月24日，玉林旺峰公司恶意拖欠工人工资十五个月，拖欠社保三年，工人多次维权讨薪无果。 https://t.co/B5khJEYKb6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926425339707731995_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2,
+    "originVideos": "https://video.twimg.com/amplify_video/1926424945606668288/vid/avc1/320x568/HzPrDHUGheQTjT0c.mp4"
   }
 ]
