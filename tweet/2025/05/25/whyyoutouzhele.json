@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 70,
     "originVideos": ""
+  },
+  {
+    "id": "1926329444492341355",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 01:28:23",
+    "content": "5月23日 贵州中建三局欠薪，工人堵门口讨薪。 https://t.co/3GGPq4QE1u",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926329444492341355_0.jpg,/tweet/video/whyyoutouzhele/2025/05/25/1926329444492341355_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 563,
+    "originVideos": "https://video.twimg.com/amplify_video/1926327325148254208/vid/avc1/320x568/c-xfJ6PFt6bK9RiG.mp4,https://video.twimg.com/amplify_video/1926327325139910658/vid/avc1/320x568/BGSlEqSDMl9PPYL-.mp4"
   }
 ]
