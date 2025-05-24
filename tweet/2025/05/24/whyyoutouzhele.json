@@ -610,5 +610,41 @@
     "retweets": 0,
     "views": 54,
     "originVideos": "https://video.twimg.com/amplify_video/1926135107049426945/vid/avc1/320x564/VeP9kGo9M5B4XvmS.mp4"
+  },
+  {
+    "id": "1926138312667873381",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 12:48:54",
+    "content": "5月22日，一位博主在湖南长沙嘻院饭店工作了一年，每天工作十小时，单位没有签订合同，也没有缴纳社保。博主被迫离职后申请劳动仲裁，尽管法院支持了博主全部诉求，但公司仍然装死表示没钱赔。\n第二个视频中公司管理层更是直接威胁，如果你要执意这样要求公司赔偿，以后你在餐饮界就不要混了。\n（每个行业的HR都有圈子，员工如果申请仲裁，马上就会被HR全行业通报拉入黑名单，让你永远找不到工作）",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926138312667873381_0.jpg,/tweet/video/whyyoutouzhele/2025/05/24/1926138312667873381_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 174,
+    "originVideos": "https://video.twimg.com/amplify_video/1926137614353956864/vid/avc1/320x568/QbSrNQsbiXPHKaD0.mp4,https://video.twimg.com/amplify_video/1926137783422275584/vid/avc1/320x568/duLqcVDH2Hqffgv7.mp4"
+  },
+  {
+    "id": "1926136141209624578",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 12:40:16",
+    "content": "5月23日 湖南一网友发视频称，有人因在河里抓蚌壳引来至少7位身穿制服的执法人员，并被罚款3000元。\n根据视频中的车牌湘F判断，事件疑似发生在湖南省岳阳市。 https://t.co/RSr20sxGI0",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926136141209624578_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 11,
+    "retweets": 7,
+    "views": 5351,
+    "originVideos": "https://video.twimg.com/amplify_video/1926135107049426945/vid/avc1/320x564/VeP9kGo9M5B4XvmS.mp4"
   }
 ]
