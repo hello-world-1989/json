@@ -826,5 +826,23 @@
     "retweets": 0,
     "views": 1082,
     "originVideos": "https://video.twimg.com/amplify_video/1926196770960281600/vid/avc1/320x568/9n5xpl7g5l-eGBiy.mp4,https://video.twimg.com/amplify_video/1926196800580435968/vid/avc1/320x594/N1uxMI1lVWBFGbKq.mp4"
+  },
+  {
+    "id": "1926227609869791314",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 18:43:44",
+    "content": "5月24日，广东中国建筑第一集团拖欠工人工资。工人们无奈堵大门讨薪。评论区暗示“800哥”。 https://t.co/W0wmqKSC5V",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926227609869791314_0.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926227609869791314_1.jpg,/tweet/image/whyyoutouzhele/2025/05/24/1926227609869791314_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926227609869791314_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 2,
+    "retweets": 0,
+    "views": 3630,
+    "originVideos": "https://video.twimg.com/amplify_video/1926227188417748992/vid/avc1/320x568/xi0W6UJn7QYUdrz9.mp4"
   }
 ]
