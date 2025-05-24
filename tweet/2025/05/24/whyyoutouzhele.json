@@ -1024,5 +1024,23 @@
     "retweets": 2,
     "views": 482,
     "originVideos": ""
+  },
+  {
+    "id": "1926304510223233200",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 23:49:18",
+    "content": "5月24日，新华社消息称，近期，国家网信办会同金融管理部门依法处置一批散布资本市场不实信息、开展非法荐股、炒作虚拟货币交易等的账号、网站。 https://t.co/VLts5G0aHO",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926304510223233200_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 13,
+    "originVideos": ""
   }
 ]
