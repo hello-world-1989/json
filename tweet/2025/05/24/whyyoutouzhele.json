@@ -988,5 +988,23 @@
     "retweets": 1,
     "views": 8971,
     "originVideos": ""
+  },
+  {
+    "id": "1926267690433356171",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 21:23:00",
+    "content": "5月24日，广东中烽国联有限公司拖欠员工工资，员工无奈只能拍说唱视频讨薪。 https://t.co/Cj2gUw70kW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926267690433356171_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 1,
+    "views": 656,
+    "originVideos": "https://video.twimg.com/amplify_video/1926237657589313536/vid/avc1/320x624/nMk3eIi7S0U6Y93J.mp4"
   }
 ]
