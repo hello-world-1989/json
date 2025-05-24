@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 49,
     "originVideos": "https://video.twimg.com/amplify_video/1926347411015741440/vid/avc1/320x568/5rctBS3sZOK464UY.mp4"
+  },
+  {
+    "id": "1926371373842141331",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 04:15:00",
+    "content": "5月24日，湖南博主拍摄到绿皮火车的硬座上很多失业的年轻人都是回洛阳的，他们未来的出路在哪里呢？博主表示自己也失业两个月了。 https://t.co/C0rX1qf2Ci",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926371373842141331_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1626,
+    "originVideos": "https://video.twimg.com/amplify_video/1926347694735282176/vid/avc1/320x568/kyV_jHcuDdoe6O0f.mp4"
   }
 ]
