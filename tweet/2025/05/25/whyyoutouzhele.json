@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 603,
     "originVideos": "https://video.twimg.com/amplify_video/1926344325404786688/vid/avc1/320x568/L0WI_PxJK7JiGSv_.mp4,https://video.twimg.com/amplify_video/1926344325408931840/vid/avc1/476x270/1JLRrK-NTege1Gjo.mp4,https://video.twimg.com/amplify_video/1926344213567873024/vid/avc1/320x564/-vnX_5fV_upDSLfZ.mp4"
+  },
+  {
+    "id": "1926367601963233620",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 04:00:01",
+    "content": "5月24日，河南潢川定城府，拖欠工人工资不还还打人。 https://t.co/axql3YiuBH",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926367601963233620_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 5,
+    "retweets": 0,
+    "views": 49,
+    "originVideos": "https://video.twimg.com/amplify_video/1926347411015741440/vid/avc1/320x568/5rctBS3sZOK464UY.mp4"
   }
 ]
