@@ -898,5 +898,23 @@
     "retweets": 0,
     "views": 2762,
     "originVideos": "https://video.twimg.com/amplify_video/1926237018436071424/vid/avc1/1080x1906/zzbUiECMjH-tcM7F.mp4"
+  },
+  {
+    "id": "1926243504667107415",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 19:46:54",
+    "content": "5月24日，有博主在空无一人的雄安新区直播，引发广大网友嘲讽：“路上的行人还没有红绿灯多”。 https://t.co/prSFd8LBhk",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926243504667107415_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1296,
+    "originVideos": "https://video.twimg.com/amplify_video/1926242546344251392/pl/3ud94DYCW4fkXaE3.m3u8?v=cfc"
   }
 ]
