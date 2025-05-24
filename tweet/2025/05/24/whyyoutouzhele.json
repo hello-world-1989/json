@@ -1006,5 +1006,23 @@
     "retweets": 1,
     "views": 656,
     "originVideos": "https://video.twimg.com/amplify_video/1926237657589313536/vid/avc1/320x624/nMk3eIi7S0U6Y93J.mp4"
+  },
+  {
+    "id": "1926297373350711771",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 23:20:57",
+    "content": "有网友透露，被砍老人是砍人男子的房东，该男子因押金问题与老人发生纠纷。老人声称男子弄坏房内物品拒绝退还押金，争执过程中老人用手中拐杖打向男子，男子被激怒随后持刀砍人",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 2,
+    "retweets": 2,
+    "views": 482,
+    "originVideos": ""
   }
 ]
