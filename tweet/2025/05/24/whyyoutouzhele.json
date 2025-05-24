@@ -664,5 +664,23 @@
     "retweets": 2,
     "views": 2722,
     "originVideos": ""
+  },
+  {
+    "id": "1926188393391612322",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 16:07:54",
+    "content": "5月13日，河北遵化，有网友发帖吐槽当地的见习老师工资从2023年拖欠至今。 https://t.co/Y009bEAd7V",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/24/1926188393391612322_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 0,
+    "views": 684,
+    "originVideos": ""
   }
 ]
