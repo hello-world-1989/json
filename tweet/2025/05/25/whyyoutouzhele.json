@@ -358,5 +358,23 @@
     "retweets": 0,
     "views": 850,
     "originVideos": "https://video.twimg.com/amplify_video/1926350682673545216/vid/avc1/320x564/VZ7uaY3H2gjs6c-e.mp4"
+  },
+  {
+    "id": "1926388612679021003",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 05:23:30",
+    "content": "5月21日，西安航天第三初级中学项目拖欠工人工资，讨要三年无果。 https://t.co/wnYiQN8wOb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926388612679021003_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1342,
+    "originVideos": "https://video.twimg.com/amplify_video/1926351423538597888/vid/avc1/320x568/rlWcK9bAFMgSR9CT.mp4"
   }
 ]
