@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 6013,
     "originVideos": "https://video.twimg.com/amplify_video/1926332761100423168/vid/avc1/320x568/qCo3s7CYCCcmd2Il.mp4"
+  },
+  {
+    "id": "1926336247829508159",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 01:55:25",
+    "content": "5月24日早上八点半，东莞长安财政局门口忽然冒起浓烟，疑似着火。 https://t.co/AHgt7xOBrn",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926336247829508159_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926336247829508159_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 4,
+    "retweets": 0,
+    "views": 3576,
+    "originVideos": "https://video.twimg.com/amplify_video/1926335807540834304/vid/avc1/320x612/7khNFEq8SmV1eDYj.mp4"
   }
 ]
