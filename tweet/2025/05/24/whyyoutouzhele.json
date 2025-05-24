@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 422,
     "originVideos": ""
+  },
+  {
+    "id": "1926135875613712809",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-24 12:39:13",
+    "content": "5月23日 湖南一网友发视频称，有人因在河里抓蚌壳引来至少7位身穿制服的执法人员，并被罚款3000元。 https://t.co/ukRmfYLiHg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/24/1926135875613712809_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 54,
+    "originVideos": "https://video.twimg.com/amplify_video/1926135107049426945/vid/avc1/320x564/VeP9kGo9M5B4XvmS.mp4"
   }
 ]
