@@ -1060,5 +1060,23 @@
     "retweets": 0,
     "views": 3058,
     "originVideos": "https://video.twimg.com/amplify_video/1926512558074138624/vid/avc1/320x568/nFZBobySfdI59Jma.mp4"
+  },
+  {
+    "id": "1926521613509419517",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 14:12:00",
+    "content": "5月15日，广东，博乙制衣厂的一则淡季放假通知，由于客户没下单导致订单稀少无奈给员工放假两个月，有网友表示，等放假回来，厂子都搬空了，这是老板跑路前的套路。 https://t.co/1YiYwGLxSI",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926521613509419517_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926521613509419517_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 2,
+    "retweets": 2,
+    "views": 4750,
+    "originVideos": "https://video.twimg.com/amplify_video/1926430704310620160/vid/avc1/320x568/xKtj8-pJT3daSHLt.mp4"
   }
 ]
