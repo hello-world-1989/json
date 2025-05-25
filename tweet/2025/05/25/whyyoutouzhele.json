@@ -1564,5 +1564,23 @@
     "retweets": 0,
     "views": 2462,
     "originVideos": ""
+  },
+  {
+    "id": "1926646447123874011",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 22:28:03",
+    "content": "英国查理三世国王将于 5 月 27 日在加拿大发表御座演讲，这是英王第二次主持加拿大议会的开幕。此次访问旨在加强加拿大的主权，此前特朗普总统发表了关于吞并加拿大成为美国第 51 个州的有争议的言论。\n加拿大总理马克·卡尼和自由党政府向国王发出了请求，此前伊丽莎白二世女王曾于 1957 年和 1977 年两次请求召开议会。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926646447123874011_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926646447123874011_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 1,
+    "views": 440,
+    "originVideos": ""
   }
 ]
