@@ -700,5 +700,23 @@
     "retweets": 2,
     "views": 1490,
     "originVideos": ""
+  },
+  {
+    "id": "1926478831763812859",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 11:22:00",
+    "content": "据知情同学说，前段时间在太原理工大学思源食堂学生食物中毒进ICU的当事学生已经不幸离世，学校没有任何公开回应，并且原小红书帖子已经被删除。 https://t.co/hyhGZzfJrn https://t.co/mnsCCaCiNN",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926478831763812859_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926478831763812859_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 5,
+    "retweets": 6,
+    "views": 3920,
+    "originVideos": ""
   }
 ]
