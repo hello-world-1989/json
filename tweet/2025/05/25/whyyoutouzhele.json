@@ -1276,5 +1276,23 @@
     "retweets": 0,
     "views": 2914,
     "originVideos": ""
+  },
+  {
+    "id": "1926562051482087737",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 16:52:41",
+    "content": "5月25日，澎湃新闻报道，23日上午，湖南郴州北湖区发改局一干部从办公楼坠楼，目前伤情好转“能开口说话”。 https://t.co/NmipZnPRLW",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926562051482087737_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 5,
+    "retweets": 2,
+    "views": 3407,
+    "originVideos": ""
   }
 ]
