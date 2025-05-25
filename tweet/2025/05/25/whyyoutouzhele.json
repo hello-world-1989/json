@@ -790,5 +790,23 @@
     "retweets": 2,
     "views": 6508,
     "originVideos": ""
+  },
+  {
+    "id": "1926495561743569372",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 12:28:29",
+    "content": "近日 有博主曝光上海市中心快餐店4菜1粥价格高达173元，引发网友热议。博主结账时被震惊感叹这么贵，店员便逐一报菜名和售价解释，29元的凉拌黄瓜、39元娃娃菜、18元小米粥。\n5月24日 商家回应称，门店位于南京路旅游商圈，菜品是明码标价的，顾客可自由选购。\n不过博主视频中菜品周围疑似并无价签。 https://t.co/yahV7QhduU",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926495561743569372_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926495561743569372_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 297,
+    "originVideos": "https://video.twimg.com/amplify_video/1926493877160001536/vid/avc1/320x568/ZmliY0fiL1M0vtM2.mp4"
   }
 ]
