@@ -682,5 +682,23 @@
     "retweets": 3,
     "views": 7313,
     "originVideos": "https://video.twimg.com/amplify_video/1926434179224350720/vid/avc1/320x564/YyCIXD731ePrgnk4.mp4"
+  },
+  {
+    "id": "1926472288045793615",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 10:56:00",
+    "content": "5月24日7时6分，北京通州永顺镇永顺南街万福家园在施工地发生火灾，现场黑烟冲天。7时25分，明火被扑灭。经初步核查，现场为万福家园施工项目6号楼楼顶可燃材料起火，无人员被困伤亡。火灾原因正在调查中。 https://t.co/V4jCMDptYy",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926472288045793615_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 2,
+    "views": 1490,
+    "originVideos": ""
   }
 ]
