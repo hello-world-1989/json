@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 584,
     "originVideos": "https://video.twimg.com/amplify_video/1926750165987115008/vid/avc1/480x270/zSdfWBfw1HtM96wn.mp4"
+  },
+  {
+    "id": "1926774782101479747",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 06:58:00",
+    "content": "5月25日，辽宁兴旗比亚迪卷钱跑路。 https://t.co/flkJxyYSvi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926774782101479747_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 423,
+    "originVideos": "https://video.twimg.com/amplify_video/1926751959463124992/vid/avc1/320x564/odtX7Su2g3bi1cnV.mp4"
   }
 ]
