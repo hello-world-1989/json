@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 2529,
     "originVideos": ""
+  },
+  {
+    "id": "1926431771157213192",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 08:15:00",
+    "content": "5月24日，上海交通大学台湾研究中心主任盛九元发视频称：台湾地区和乌克兰没有可比性，美西方不会为了一个岛制裁中国，制裁中国只会两败俱伤，统一对我们来说是至高无上的价值，为了统一，中国可以承受任何潜在的损失，中国民众一定会支持。 https://t.co/93NmpIbKX5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926431771157213192_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2615,
+    "originVideos": "https://video.twimg.com/amplify_video/1926398932667568128/vid/avc1/320x568/NyJPAWtOb5xEDNJK.mp4"
   }
 ]
