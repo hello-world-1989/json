@@ -1186,5 +1186,41 @@
     "retweets": 3,
     "views": 3423,
     "originVideos": "https://video.twimg.com/amplify_video/1926431403463282688/vid/avc1/320x568/pLUt7s0xIaa-sIEO.mp4"
+  },
+  {
+    "id": "1926554664377425940",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 16:23:20",
+    "content": "https://t.co/kC72Pzjh6H",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2326,
+    "originVideos": ""
+  },
+  {
+    "id": "1926554638829990239",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 16:23:14",
+    "content": "5月25日，有网友透露，其实至今防疫依然在进行，如果有特别大的会议在北京开，或者省里的大人物去中央，还要做核酸。 https://t.co/87aTOJUIvL",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926554638829990239_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3413,
+    "originVideos": ""
   }
 ]
