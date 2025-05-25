@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 279,
     "originVideos": ""
+  },
+  {
+    "id": "1926722438122848415",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 03:30:00",
+    "content": "5月22日，重庆宸北建设工程有限公司欠薪，工人堵在门口讨薪。 https://t.co/KseXwvWu6Z",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926722438122848415_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1796,
+    "originVideos": "https://video.twimg.com/amplify_video/1926717259130531840/vid/avc1/320x568/JugliXc0tpYPuT2d.mp4"
   }
 ]
