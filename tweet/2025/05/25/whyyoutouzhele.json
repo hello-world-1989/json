@@ -628,5 +628,23 @@
     "retweets": 1,
     "views": 470,
     "originVideos": ""
+  },
+  {
+    "id": "1926461216857481482",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 10:12:00",
+    "content": "5月24日，山东兰陵博主表示之前都是期中期末考完试半个月就发工资，这都一个月了，还没见着工资影子。 https://t.co/QJ5k7Yyh0c",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926461216857481482_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3755,
+    "originVideos": ""
   }
 ]
