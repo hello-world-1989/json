@@ -610,5 +610,23 @@
     "retweets": 3,
     "views": 4563,
     "originVideos": "https://video.twimg.com/amplify_video/1926435641585283072/vid/avc1/320x568/qUnTGyouIjIwYf5h.mp4"
+  },
+  {
+    "id": "1926457692287086669",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 09:58:00",
+    "content": "https://t.co/3p82wc9FHZ 学生投稿\n海口市第一中学端午期间返校补课。 https://t.co/f4mVR3BHNt",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926457692287086669_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 470,
+    "originVideos": ""
   }
 ]
