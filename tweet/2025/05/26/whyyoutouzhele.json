@@ -106,5 +106,23 @@
     "retweets": 2,
     "views": 1894,
     "originVideos": "https://video.twimg.com/amplify_video/1926745529611939840/vid/avc1/320x568/gaWPPlniHDIcGbWN.mp4"
+  },
+  {
+    "id": "1926752640253263948",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 05:30:01",
+    "content": "5月25日，江苏南通长乐镇，一横幅上警告民众：严查诬告陷害行为，保护干部创业激情。 https://t.co/awHbRfRewa",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926752640253263948_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 3,
+    "retweets": 3,
+    "views": 1942,
+    "originVideos": "https://video.twimg.com/amplify_video/1926745953974833153/vid/avc1/320x568/1ljL9gO13BQXX_b7.mp4"
   }
 ]
