@@ -538,5 +538,23 @@
     "retweets": 1,
     "views": 4012,
     "originVideos": ""
+  },
+  {
+    "id": "1926439573124522147",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 08:46:00",
+    "content": "5月24日，上海浦东新区彭镇工业园区里发生火灾。 https://t.co/erRuhoZbWO",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926439573124522147_0.jpg,/tweet/video/whyyoutouzhele/2025/05/25/1926439573124522147_1.jpg,/tweet/video/whyyoutouzhele/2025/05/25/1926439573124522147_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1379,
+    "originVideos": "https://video.twimg.com/amplify_video/1926393356034158592/vid/avc1/320x568/VprnEFWjA5rBYqo7.mp4,https://video.twimg.com/amplify_video/1926394152620531714/vid/avc1/320x568/tv6mEZbh0d15wvte.mp4,https://video.twimg.com/amplify_video/1926394152259874816/vid/avc1/476x270/ujXB3xmgsB_fDrkQ.mp4"
   }
 ]
