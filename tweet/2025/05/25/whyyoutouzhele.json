@@ -1492,5 +1492,23 @@
     "retweets": 2,
     "views": 3249,
     "originVideos": ""
+  },
+  {
+    "id": "1926635843298472316",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 21:45:54",
+    "content": "英伟达即将推出的面向中国市场的 Blackwell 架构的AI芯片预计将被称为 B40 或RTX Pro6000D，该芯片将采用GDDR7内存替代高带宽内存，并避开台积电的CoWoS封装技术，从而导致规格缩减，价格也更低。新芯片的售价在 6,500 美元至 8,000 美元之间，比被禁的 H20 型号便宜得多，后者的售价为 10,000 美元至 12,000 美元。\n四天前，英伟达首席执行官黄仁勋在台北国际电脑展上表示，“四年前，英伟达在中国的市场份额高达95%。如今只有50%。” ，“剩下的都是中国技术。如果没有英伟达，他们也会使用很多本土技术。” 黄仁勋直言美国的管制策略“完全错误”“如果限制令的目标是确保美国保持领先，那么按照目前的规定来看，这反而会导致我们失去领先地位”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926635843298472316_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926635843298472316_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1617,
+    "originVideos": ""
   }
 ]
