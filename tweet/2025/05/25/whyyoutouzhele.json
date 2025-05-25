@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 234,
     "originVideos": ""
+  },
+  {
+    "id": "1926489653013827627",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 12:05:00",
+    "content": "5月23日，博主表示，坐标上海，是央企三级公司牛马一枚。因工作需要，经常在各地出差。今天接到通知，要把自2022年以来的所有差旅打车费全部从工资里扣除，“我愿称之为压垮当代国企吗喽的又一块大板砖。”\n有网友跟帖，坐标浙江，从4年多前开始,就是省内出差不能报销，没有餐补，平时私车公用。从去年开始，每月没新签合同，扣除预发的2000，个月到手只有1300。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926489653013827627_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926489653013827627_1.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926489653013827627_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 8,
+    "retweets": 3,
+    "views": 2982,
+    "originVideos": ""
   }
 ]
