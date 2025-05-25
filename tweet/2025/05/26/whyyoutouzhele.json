@@ -16,5 +16,23 @@
     "retweets": 1,
     "views": 2421,
     "originVideos": ""
+  },
+  {
+    "id": "1926707603096170994",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 02:31:03",
+    "content": "5月25日，有网友提问：微信服务器会保留聊天记录吗？会保存多久?\n网友回答：法律只规定了最低要求, 没有设置上限, 根据我国层层加码的国情, 我倾向于认为文字聊天是永久保存, 因为成本实在是太低,只需要花2块多, 就能随时随地调出你这一生的聊天记录, 你猜一下, 他们有没有动力去这么做。 https://t.co/UwHXdhPtuo",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926707603096170994_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 3,
+    "retweets": 3,
+    "views": 2405,
+    "originVideos": ""
   }
 ]
