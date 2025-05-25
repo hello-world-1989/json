@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 423,
     "originVideos": "https://video.twimg.com/amplify_video/1926751959463124992/vid/avc1/320x564/odtX7Su2g3bi1cnV.mp4"
+  },
+  {
+    "id": "1926778808415187097",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 07:14:00",
+    "content": "5月26日清晨，有网友拍到防暴警察值守在许昌六中门口。 https://t.co/BeIp607BB8 https://t.co/KZO6h9i505",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926778808415187097_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1824,
+    "originVideos": ""
   }
 ]
