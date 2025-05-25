@@ -844,5 +844,23 @@
     "retweets": 1,
     "views": 2470,
     "originVideos": "https://video.twimg.com/amplify_video/1926426108192243712/vid/avc1/320x568/vtvHNxgdgNe2lMVQ.mp4,https://video.twimg.com/amplify_video/1926426108041236480/vid/avc1/320x568/gFUFBQSgk1P0opKi.mp4"
+  },
+  {
+    "id": "1926503497941299297",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 13:00:01",
+    "content": "5月24日，网友反映山西拖欠代课老师薪资长达一年。 https://t.co/WCJRaJWviA",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926503497941299297_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 0,
+    "views": 4620,
+    "originVideos": ""
   }
 ]
