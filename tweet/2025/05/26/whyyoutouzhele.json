@@ -124,5 +124,23 @@
     "retweets": 3,
     "views": 1942,
     "originVideos": "https://video.twimg.com/amplify_video/1926745953974833153/vid/avc1/320x568/1ljL9gO13BQXX_b7.mp4"
+  },
+  {
+    "id": "1926759430143832356",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 05:57:00",
+    "content": "5月24日，重庆润泽五州工地拖欠渣土车司机工资，司机无奈只能坐在工地门口讨薪。 https://t.co/O1Ydz7SJSy",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926759430143832356_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 464,
+    "originVideos": "https://video.twimg.com/amplify_video/1926746518335156225/vid/avc1/320x568/UPrCa2evVG46qc3d.mp4"
   }
 ]
