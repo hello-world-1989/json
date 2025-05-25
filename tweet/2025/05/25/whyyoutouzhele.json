@@ -1294,5 +1294,23 @@
     "retweets": 2,
     "views": 3407,
     "originVideos": ""
+  },
+  {
+    "id": "1926566145974239285",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 17:08:57",
+    "content": "近日，有博主采访两位农民工母亲，她们吃着4块钱的午餐，在危险的高空作业，忍受炎热的宿舍，辛苦工作只为给儿子攒上百万的房子彩礼钱。\n一位母亲哭着感叹：“下辈子不做人了，做个鸟做个石头，也不做人了”\n当被问及“婚姻为你带来什么”，另一位母亲表示，啥也没带来，还没有我自己过的舒服。 https://t.co/LZfr1pJZ08",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926566145974239285_0.jpg,/tweet/video/whyyoutouzhele/2025/05/25/1926566145974239285_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 204,
+    "originVideos": "https://video.twimg.com/amplify_video/1926563828386365440/vid/avc1/320x568/aZaIsUQcYFCxjLEk.mp4,https://video.twimg.com/amplify_video/1926564544576450560/vid/avc1/320x568/zYJJn-lwI2IcT7jN.mp4"
   }
 ]
