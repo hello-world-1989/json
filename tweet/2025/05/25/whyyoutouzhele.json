@@ -1150,5 +1150,41 @@
     "retweets": 1,
     "views": 1806,
     "originVideos": "https://video.twimg.com/amplify_video/1926429922651721728/vid/avc1/320x568/hpS-QniGulNbWMp_.mp4,https://video.twimg.com/amplify_video/1926429939810574336/vid/avc1/320x568/az-zOpDkQMDSWx57.mp4"
+  },
+  {
+    "id": "1926553503150821580",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 16:18:43",
+    "content": "5月25日，山东，一博主发文表示代课老师已经被拖欠五个月工资了。\n有网友跟帖表示，我今天发了一条欠我工资的小红书,没半个小时，局里就给校长打电话,校长给我打电话让我删了而且我离职了还是欠的22年的工资。\n还有一名甘肃的网友表示，特岗，三四个月才发一次工资。 https://t.co/5ShHwUMiPX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926553503150821580_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926553503150821580_1.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926553503150821580_2.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926553503150821580_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 210,
+    "originVideos": ""
+  },
+  {
+    "id": "1926551812385222707",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 16:12:00",
+    "content": "5月24日，山东青岛汇丰海新材料科技有限公司拖欠员工工资，以各种形式强迫员工签署资源离职合同，拒绝签署自愿离职合同的员工，公司不予发放工资。（公司强迫员工签署自愿离职合同就是想0赔偿裁员） https://t.co/oOjyniEAMO",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/25/1926551812385222707_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 5,
+    "retweets": 3,
+    "views": 3423,
+    "originVideos": "https://video.twimg.com/amplify_video/1926431403463282688/vid/avc1/320x568/pLUt7s0xIaa-sIEO.mp4"
   }
 ]
