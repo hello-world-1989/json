@@ -1528,5 +1528,41 @@
     "retweets": 1,
     "views": 640,
     "originVideos": "https://video.twimg.com/amplify_video/1926641175458361344/vid/avc1/320x388/Lg4uN9OSjtu0WKPN.mp4"
+  },
+  {
+    "id": "1926643105396150657",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 22:14:46",
+    "content": "英国查理三世国王将于 5 月 27 日在加拿大发表御座演讲，这是英王第二次主持加拿大议会的开幕。此次访问旨在加强加拿大的主权，此前特朗普总统发表了关于吞并加拿大成为美国第 51 个州的有争议的言论。\n加拿大总理马克·卡尼和自由党政府向国王发出了请求，此前伊丽莎白二世女王曾于 1957 年和 1977 年两次请求召开议会。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926643105396150657_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 0,
+    "views": 2189,
+    "originVideos": ""
+  },
+  {
+    "id": "1926642707507642486",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-25 22:13:11",
+    "content": "5月23日，法广报道，韩国国家情报院国家网络安全中心（NCSC）和电脑杀毒软件开发企业安博士（AhnLab）周五发布的一份报告显示，疑似与中国有关的黑客组织长期控制全球2000多个电脑系统，遭控制的韩国服务器达457台。该组织名为“TA-ShadowCricket”，2012年就开始进行网络攻击活动。 https://t.co/Zu37EsY3qC",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/25/1926642707507642486_0.jpg,/tweet/image/whyyoutouzhele/2025/05/25/1926642707507642486_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "views": 2462,
+    "originVideos": ""
   }
 ]
