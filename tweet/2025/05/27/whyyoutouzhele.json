@@ -160,5 +160,23 @@
     "retweets": 2,
     "views": 1299,
     "originVideos": "https://video.twimg.com/amplify_video/1927071851986993153/vid/avc1/320x568/swW_QKGSRS86wech.mp4"
+  },
+  {
+    "id": "1927096685420806369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 04:17:08",
+    "content": "遇害女孩表妹在朋友圈称\n现场参与打砸学校的人都被抓走了，有便衣拿辣椒水喷群众 https://t.co/1FwSQuUmql",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927096685420806369_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 204,
+    "originVideos": ""
   }
 ]
