@@ -1006,5 +1006,41 @@
     "retweets": 2,
     "views": 4046,
     "originVideos": "https://video.twimg.com/amplify_video/1926924017610502144/vid/avc1/320x568/kugrnrVEf_f-Z6Cb.mp4,https://video.twimg.com/amplify_video/1926924022421295104/vid/avc1/320x568/9hrFPjDT6oE7HJtp.mp4"
+  },
+  {
+    "id": "1926991462887027065",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 21:19:01",
+    "content": "5月26日，《人民日报》发表评论文章，呼吁叫停外卖行业的“内卷式”恶性竞争，以确保行业在规范轨道上健康运行。 https://t.co/2uTN3XfXvI",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926991462887027065_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 222,
+    "originVideos": ""
+  },
+  {
+    "id": "1926989195777593385",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 21:10:00",
+    "content": "5月26日，山东日照。一名博主拍摄到黄墩某村，一位90多岁的“抗美援朝”老兵住的房子。 https://t.co/ilj7hMolP5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926989195777593385_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 9,
+    "retweets": 2,
+    "views": 4901,
+    "originVideos": "https://video.twimg.com/amplify_video/1926924734899306496/vid/avc1/480x270/-zAQ_xVN5OAb9Mz1.mp4"
   }
 ]
