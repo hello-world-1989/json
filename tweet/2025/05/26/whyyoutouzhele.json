@@ -808,5 +808,23 @@
     "retweets": 3,
     "views": 5299,
     "originVideos": "https://video.twimg.com/amplify_video/1926938278772498432/vid/avc1/320x508/bCPfgMpzDFZNJlkg.mp4,https://video.twimg.com/amplify_video/1926938282882936832/vid/avc1/320x550/Fc-OhQxs9v51Wfmv.mp4"
+  },
+  {
+    "id": "1926943055812104435",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 18:06:40",
+    "content": "5月25日，山西长治。一名老人过斑马线时不慎跌倒，在地上艰难爬行求救，但路过的行人皆未施出援手。直至交警赶到才有人上前搀扶。\n网友表示，该路段是市中心，距离市政府1公里。 https://t.co/UWwQ9tN1e8",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926943055812104435_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 4,
+    "retweets": 2,
+    "views": 1488,
+    "originVideos": "https://video.twimg.com/amplify_video/1926942409583144960/vid/avc1/480x270/OSqhnUXZqPq0WZYj.mp4"
   }
 ]
