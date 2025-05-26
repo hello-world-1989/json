@@ -1114,5 +1114,23 @@
     "retweets": 0,
     "views": 1139,
     "originVideos": "https://video.twimg.com/amplify_video/1926925291148005376/vid/avc1/320x568/sGhLg5XEmxjc6a0M.mp4"
+  },
+  {
+    "id": "1927022992967557570",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 23:24:18",
+    "content": "5月26日，朝日新闻报道，日本东京大学宣布，将临时接收哈佛留学生。\n由于近日美国特朗普政府取消了哈佛大学的国际招生资格，导致国际学生无法在哈佛继续学业。\n东京大学表示，将临时接收这些学生，以帮助他们继续学习。 https://t.co/li8AYaX7CZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1927022992967557570_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1927022992967557570_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 2,
+    "views": 3030,
+    "originVideos": ""
   }
 ]
