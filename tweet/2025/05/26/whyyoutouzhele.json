@@ -826,5 +826,41 @@
     "retweets": 2,
     "views": 1488,
     "originVideos": "https://video.twimg.com/amplify_video/1926942409583144960/vid/avc1/480x270/OSqhnUXZqPq0WZYj.mp4"
+  },
+  {
+    "id": "1926949457871995369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 18:32:06",
+    "content": "5月25日晚，家长在学校门口向路人控诉 https://t.co/M0RXzMttmT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926949457871995369_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1620,
+    "originVideos": "https://video.twimg.com/amplify_video/1926949303861358592/vid/avc1/320x426/bxisIg64sA1mTBus.mp4"
+  },
+  {
+    "id": "1926949052572147733",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 18:30:29",
+    "content": "5月26日清晨，90岁的河南村镇银行储户张冬法，来到河南面见中央巡视组。\n他要和中央巡视组讲：就算一步步挪、一步步爬，也要爬到河南。如果不把银行卡存款还给我，这把老骨头就送给河南了。 https://t.co/IV9cNXXKBO",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926949052572147733_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 1,
+    "retweets": 4,
+    "views": 4095,
+    "originVideos": "https://video.twimg.com/amplify_video/1926948849492295680/vid/avc1/320x568/uZupVlLmKglUAUZn.mp4"
   }
 ]
