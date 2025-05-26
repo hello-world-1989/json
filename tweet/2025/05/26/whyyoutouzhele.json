@@ -628,5 +628,23 @@
     "retweets": 1,
     "views": 1023,
     "originVideos": ""
+  },
+  {
+    "id": "1926916213420294291",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 16:20:00",
+    "content": "网友投稿\n每天凌晨三点，安徽合肥。\n肥东安乐路上，挤满了等待干日结的工人们。 https://t.co/veqfNrutVI",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926916213420294291_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 6,
+    "retweets": 2,
+    "views": 5302,
+    "originVideos": "https://video.twimg.com/amplify_video/1926780485813796864/vid/avc1/480x270/F_NLG3iCnNW_shSW.mp4"
   }
 ]
