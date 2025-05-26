@@ -1060,5 +1060,23 @@
     "retweets": 2,
     "views": 3889,
     "originVideos": "https://video.twimg.com/amplify_video/1926929914793529344/vid/avc1/320x564/W9jzmxlMoVNV5qrf.mp4"
+  },
+  {
+    "id": "1927000520679379408",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 21:55:00",
+    "content": "网友投稿\n5月24日，一位IP是新加坡的网友提问：内地真的会把双休当作公司福利吗？\n引发网友吐槽。有网友表示：读完小学就没度过双休了。 https://t.co/UBq8xJtlAj",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1927000520679379408_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1927000520679379408_1.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1927000520679379408_2.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1927000520679379408_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1563,
+    "originVideos": ""
   }
 ]
