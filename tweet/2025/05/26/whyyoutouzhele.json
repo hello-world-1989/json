@@ -754,5 +754,23 @@
     "retweets": 0,
     "views": 435,
     "originVideos": ""
+  },
+  {
+    "id": "1926932308918993233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 17:23:57",
+    "content": "5月25日，许昌六中被打砸前，愤怒的家长追打校长。 https://t.co/7Jfu73h8HH",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926932308918993233_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 5,
+    "retweets": 5,
+    "views": 3169,
+    "originVideos": "https://video.twimg.com/amplify_video/1926932123769815040/vid/avc1/320x564/S2oKrw2iDJj85OoT.mp4"
   }
 ]
