@@ -412,5 +412,23 @@
     "retweets": 2,
     "views": 3599,
     "originVideos": ""
+  },
+  {
+    "id": "1926821591045795919",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 10:04:00",
+    "content": "5月26日，河南香泉，有网友发视频表示，“谁给我解答一下，为什么健身设施安装到山顶，这种没有人烟的地方？”网友表示，骗到国家补贴就行了，盖在哪里不重要。 https://t.co/8SKNfE73V3",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926821591045795919_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926821591045795919_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 2,
+    "retweets": 1,
+    "views": 3515,
+    "originVideos": "https://video.twimg.com/amplify_video/1926764371801198592/vid/avc1/320x568/jK77MYz63Ry94Lrm.mp4"
   }
 ]
