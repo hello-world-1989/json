@@ -502,5 +502,23 @@
     "retweets": 2,
     "views": 3319,
     "originVideos": "https://video.twimg.com/amplify_video/1926766207492915200/vid/avc1/320x710/wEDt1f2WZdzHrnsD.mp4"
+  },
+  {
+    "id": "1926857073817735179",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 12:25:00",
+    "content": "5月25日，四川成都，网友中午在商场的悦百味用餐时，拍摄到惊险一幕：一名男子情绪激动欲跳楼轻生。所幸被一群工作人员及时按住才没有酿成悲剧。 https://t.co/jor9CjhuBM",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926857073817735179_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 0,
+    "views": 2614,
+    "originVideos": "https://video.twimg.com/amplify_video/1926766422799024128/vid/avc1/320x568/oh0vjgsbBvC2DAsE.mp4"
   }
 ]
