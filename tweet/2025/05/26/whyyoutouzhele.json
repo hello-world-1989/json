@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 5589,
     "originVideos": "https://video.twimg.com/amplify_video/1926777590980714496/vid/avc1/320x604/f8DplhsUtRwAH53I.mp4"
+  },
+  {
+    "id": "1926915458940236150",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 16:17:00",
+    "content": "5月24日（发布），山东省实验中学，一周前有高三老师跳楼自杀。自杀老师姓于，是化学组老师。传闻是检查出癌症，学校因为临近高考而不准请假，压力过大导致。然而，学校以方奎明校长为首的领导封禁消息，消极处理，并通过手段删除各渠道消息。 https://t.co/QHnRl4rfWd",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926915458940236150_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926915458940236150_1.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926915458940236150_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1023,
+    "originVideos": ""
   }
 ]
