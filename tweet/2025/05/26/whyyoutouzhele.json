@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 2921,
     "originVideos": "https://video.twimg.com/amplify_video/1926936466011074560/vid/avc1/320x568/eKuHJElNEcfxIWlp.mp4"
+  },
+  {
+    "id": "1926939232993464790",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 17:51:28",
+    "content": "5月25日，成都望平街，一辆问界M9追尾，导致一名骑自行车的市民被碾压。引发网友质疑其主动刹车系统。\n随后互联网上的相关视频被迅速删除，网友们只能用“小米 SUV M9”的名义发布。 https://t.co/9v8DCJz0t1",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926939232993464790_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926939232993464790_0.jpg,/tweet/video/whyyoutouzhele/2025/05/26/1926939232993464790_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 6,
+    "retweets": 3,
+    "views": 5299,
+    "originVideos": "https://video.twimg.com/amplify_video/1926938278772498432/vid/avc1/320x508/bCPfgMpzDFZNJlkg.mp4,https://video.twimg.com/amplify_video/1926938282882936832/vid/avc1/320x550/Fc-OhQxs9v51Wfmv.mp4"
   }
 ]
