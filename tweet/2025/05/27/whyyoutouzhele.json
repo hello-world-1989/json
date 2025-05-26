@@ -178,5 +178,23 @@
     "retweets": 0,
     "views": 204,
     "originVideos": ""
+  },
+  {
+    "id": "1927100850607947858",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 04:33:41",
+    "content": "5月26日，德国新任总理梅尔茨在公共广播公司WDR组织的论坛上宣布：“英国、法国和我们都不再对向乌克兰交付的武器范围进行任何限制。美国也没有任何限制。”\n这意味着，乌克兰现在使用这些武器直接攻击俄罗斯的本土上的军事设施。 https://t.co/tVBL07Cm28",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927100850607947858_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 2,
+    "views": 960,
+    "originVideos": ""
   }
 ]
