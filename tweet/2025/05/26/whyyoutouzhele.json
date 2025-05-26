@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 730,
     "originVideos": ""
+  },
+  {
+    "id": "1926903883219055004",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 15:31:00",
+    "content": "5.24晚，央视新闻频道的新闻周刊栏目专题报道了华为X90芯片，节目播出后个平台大V都纷纷转发，但是就在5.25晚上，这期节目被删了，各平台央视的切片视频也都消失。只剩下自媒体们在自己视频里面截取的片段了，在央视官网，网页留有新闻周刊20250524期的快照链接，但是点进去是无效页面，从央视官网内部查询历史节目单，5月份只有5.3、5.10、5.17三期节目了。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926903883219055004_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926903883219055004_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 8,
+    "retweets": 0,
+    "views": 5589,
+    "originVideos": "https://video.twimg.com/amplify_video/1926777590980714496/vid/avc1/320x604/f8DplhsUtRwAH53I.mp4"
   }
 ]
