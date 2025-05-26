@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 506,
     "originVideos": "https://video.twimg.com/amplify_video/1927078180801630209/vid/avc1/320x568/IFoIBEwnkFeKsI4l.mp4"
+  },
+  {
+    "id": "1927081050204754331",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 03:15:00",
+    "content": "网友投稿\n内蒙古大学中华民族共同体概论课上对中西方政治体系的对比，已赢麻。 https://t.co/MMLn2hFkDt",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927081050204754331_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927081050204754331_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1399,
+    "originVideos": ""
   }
 ]
