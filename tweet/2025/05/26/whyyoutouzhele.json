@@ -322,5 +322,41 @@
     "retweets": 1,
     "views": 2250,
     "originVideos": "https://video.twimg.com/amplify_video/1926782755066589184/vid/avc1/320x564/5cdPJuKzKRppRbDb.mp4"
+  },
+  {
+    "id": "1926789755510903064",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 07:57:30",
+    "content": "5月25日，山东泰山某中专拖欠代课教师薪资半年（博主提到独尊名山，推测是泰山）。\n5月7日，安徽一博主询问阜阳哪个地区现在还能发放工资，下面有网友跟帖，“能发工资都很不错了”，还有网友跟帖两千多的工资一直能正常发，其他的基本等于没有。还有的网友跟帖表示工资能正常发，但其他的拖欠很多了。 https://t.co/vXSReTi2vT",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926789755510903064_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926789755510903064_1.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926789755510903064_2.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926789755510903064_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 1,
+    "views": 585,
+    "originVideos": ""
+  },
+  {
+    "id": "1926788550495752609",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 07:52:43",
+    "content": "此前在这一事件中，有指责家长外出打工不管小孩的声音出现，并质疑家长是借小孩的死闹事要钱。这个视频中家长本人直接驳斥了这种指责：“说我们在外务工不监管小孩，难道留守儿童不配上学吗？”，“家庭条件不好，父母为了小孩外出打工挣钱，把小孩交给你们，（难道就不配被你们好好对待？）” https://t.co/J8xBMQZnPX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926788550495752609_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926788550495752609_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1361,
+    "originVideos": ""
   }
 ]
