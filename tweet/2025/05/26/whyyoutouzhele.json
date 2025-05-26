@@ -520,5 +520,23 @@
     "retweets": 0,
     "views": 2614,
     "originVideos": "https://video.twimg.com/amplify_video/1926766422799024128/vid/avc1/320x568/oh0vjgsbBvC2DAsE.mp4"
+  },
+  {
+    "id": "1926864875600355801",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 12:56:00",
+    "content": "近日，央视新闻直播了宇树科技的机器人格斗赛。视频中宇树机器人格斗时动作流畅、招式狠辣、十分灵活稳固。央视称这是宇树机器人深耕算法的结果，已经口碑彻底逆转。\n此前，在北京马拉松上，宇树机器人刚开跑就摔倒，曾引来大量质疑。不过宇树当时澄清，参赛的机器人并非官方团队操纵，未经过特化算法训练。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926864875600355801_0.jpg,/tweet/video/whyyoutouzhele/2025/05/26/1926864875600355801_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 5,
+    "retweets": 2,
+    "views": 2392,
+    "originVideos": "https://video.twimg.com/amplify_video/1926766766023118848/vid/avc1/320x568/L0do9qqK6WG1pIvG.mp4,https://video.twimg.com/amplify_video/1926768208180056064/vid/avc1/320x568/GqP-L9CoQJKma5pa.mp4"
   }
 ]
