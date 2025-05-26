@@ -448,5 +448,23 @@
     "retweets": 1,
     "views": 1615,
     "originVideos": "https://video.twimg.com/amplify_video/1926765020823597056/vid/avc1/320x568/pOPYFE3P25bl_dxj.mp4"
+  },
+  {
+    "id": "1926836186691272953",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 11:02:00",
+    "content": "5月26日，四川成都比亚迪食堂，有员工反映用糟头肉淋巴肉炒菜给员工吃，博主表示你们良心不会痛吗？ https://t.co/f31LmBd2X4",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926836186691272953_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 8,
+    "retweets": 2,
+    "views": 3909,
+    "originVideos": "https://video.twimg.com/amplify_video/1926765693745143808/vid/avc1/480x270/17zkaQqAAbj3vKe5.mp4"
   }
 ]
