@@ -664,5 +664,41 @@
     "retweets": 0,
     "views": 2,
     "originVideos": "https://video.twimg.com/amplify_video/1926923527669620736/vid/avc1/320x568/MWO3rSSpzJNrmFLp.mp4"
+  },
+  {
+    "id": "1926925756094922765",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 16:57:55",
+    "content": "5月25日，许昌六中的学生们打砸教室里的监控摄像头。 https://t.co/4Cvrcsgukr https://t.co/KZO6h9i505",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926925756094922765_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 1,
+    "retweets": 0,
+    "views": 654,
+    "originVideos": "https://video.twimg.com/amplify_video/1926925522283413505/vid/avc1/320x426/Zfl2IsXTRt2jcN_a.mp4"
+  },
+  {
+    "id": "1926925273305366701",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 16:56:00",
+    "content": "近日，有网友爆料，持中国护照者若欲在海外航空公司任职空乘，必须向北京外航人力服务有限公司(FASCO)缴纳27,000元服务费，用于办理机组通道手续。该费用为中国特有，合同续签时需再次缴纳。部分求职者因此不得不申请贷款以支付费用。 https://t.co/6EEVczoptB",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926925273305366701_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926925273305366701_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1819,
+    "originVideos": ""
   }
 ]
