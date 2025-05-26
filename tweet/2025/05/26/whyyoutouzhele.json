@@ -700,5 +700,41 @@
     "retweets": 0,
     "views": 1819,
     "originVideos": ""
+  },
+  {
+    "id": "1926928576210755754",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 17:09:07",
+    "content": "5月25日晚，许昌六中外不断增援的警车和特警 https://t.co/Lz2L0pZx1s",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926928576210755754_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 80,
+    "originVideos": "https://video.twimg.com/amplify_video/1926928462566060032/vid/avc1/320x568/iP43ahwYvnGHSyF8.mp4"
+  },
+  {
+    "id": "1926928026203234523",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 17:06:56",
+    "content": "5月25日，许昌六中的学生们打砸教室里的投影仪。 https://t.co/iNibWAtqqN https://t.co/KZO6h9i505",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926928026203234523_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1020,
+    "originVideos": "https://video.twimg.com/amplify_video/1926925522283413505/vid/avc1/320x426/Zfl2IsXTRt2jcN_a.mp4"
   }
 ]
