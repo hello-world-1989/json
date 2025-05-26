@@ -106,5 +106,41 @@
     "retweets": 1,
     "views": 1399,
     "originVideos": ""
+  },
+  {
+    "id": "1927083819112321514",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 03:26:00",
+    "content": "5月26日 广东清远，博主诉苦，自己在广东清远展欣工厂被人打了没人负责，工资也没有给够就被厂里开除了。\n评论区网友纷纷支招，让他面对不公平时，学学八百哥买个打火机。 https://t.co/gJDFhoqbmP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927083819112321514_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927083819112321514_1.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927083819112321514_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927083819112321514_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 751,
+    "originVideos": "https://video.twimg.com/amplify_video/1927083215732269056/vid/avc1/320x568/nf5zfnHuvruSNotO.mp4"
+  },
+  {
+    "id": "1927082871379890623",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 03:22:14",
+    "content": "5月24日，河北邢台\n恒大悦府烂尾楼业主在邢台信访局集体上访。 https://t.co/gWZ6Z5knWW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927082871379890623_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1257,
+    "originVideos": "https://video.twimg.com/amplify_video/1927082555167166464/vid/avc1/320x568/a3MchVFBNhkgD287.mp4"
   }
 ]
