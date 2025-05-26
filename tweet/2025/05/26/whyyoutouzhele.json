@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 170,
     "originVideos": ""
+  },
+  {
+    "id": "1926806239784153341",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 09:03:00",
+    "content": "5月25日，甘肃漳县塔吊出现事故，三个工人从高处摔下，当场摔死。 https://t.co/FrK7zZEaJj",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926806239784153341_0.jpg,/tweet/image/whyyoutouzhele/2025/05/26/1926806239784153341_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926806239784153341_0.jpg,/tweet/video/whyyoutouzhele/2025/05/26/1926806239784153341_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 4,
+    "retweets": 2,
+    "views": 5168,
+    "originVideos": "https://video.twimg.com/amplify_video/1926760807100006400/vid/avc1/320x564/qG91UzCPw3ONelO2.mp4,https://video.twimg.com/amplify_video/1926760847298183169/vid/avc1/320x568/C7At8rJlbJLi1e9j.mp4"
   }
 ]
