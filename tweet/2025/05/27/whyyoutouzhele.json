@@ -214,5 +214,23 @@
     "retweets": 1,
     "views": 779,
     "originVideos": "https://video.twimg.com/amplify_video/1927073500243603458/vid/avc1/320x568/xioJ5muK1k5vmxH4.mp4"
+  },
+  {
+    "id": "1927136605757727138",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 06:55:45",
+    "content": "5月26日，华尔街日报报道，前美联储顾问罗杰斯被控向中国泄密，被指遭伪装成学生的中国特工长期接触，以学术交流、金钱诱惑、婚姻关系等手段获取美联储内部信息。\n尽管他否认指控，称仅限学术沟通。但此案揭示中国情报部门对美金融系统的渗透策略，引发美方高度关注。\nhttps://t.co/3XYWy7KjUI https://t.co/0WKeHo6j0d",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927136605757727138_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927136605757727138_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1069,
+    "originVideos": ""
   }
 ]
