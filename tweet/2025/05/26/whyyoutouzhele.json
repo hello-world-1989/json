@@ -898,5 +898,23 @@
     "retweets": 5,
     "views": 5040,
     "originVideos": ""
+  },
+  {
+    "id": "1926964281062342899",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 19:31:00",
+    "content": "网友投稿\n5月25日，湖南，网友拍到一名大爷骑着电动三轮车身后贴着一块牌子，上面赫然写着：“特朗普打关税战，要打多久打多久！直到完全胜利！真理只在导弹射程之内！” https://t.co/vIAoWivquK",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/26/1926964281062342899_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 15,
+    "retweets": 1,
+    "views": 3470,
+    "originVideos": "https://video.twimg.com/amplify_video/1926924445605584896/vid/avc1/320x568/I-gWZ8j5PnP_xrlx.mp4"
   }
 ]
