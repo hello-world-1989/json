@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 1020,
     "originVideos": "https://video.twimg.com/amplify_video/1926925522283413505/vid/avc1/320x426/Zfl2IsXTRt2jcN_a.mp4"
+  },
+  {
+    "id": "1926930943933120690",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-26 17:18:32",
+    "content": "5月25日，许昌六中校门上被人涂鸦： https://t.co/0VxnsyjInR https://t.co/KZO6h9i505",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/26/1926930943933120690_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 435,
+    "originVideos": ""
   }
 ]
