@@ -394,5 +394,23 @@
     "retweets": 1,
     "views": 596,
     "originVideos": ""
+  },
+  {
+    "id": "1927207130655813665",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 11:36:00",
+    "content": "5月25日，四川成都。一名女工拍视频称，崇州比亚迪强制辞退年满50岁的员工，没有任何赔偿。\n同时，比亚迪还关闭了相关员工的权限，禁止他们进入厂区 https://t.co/sYwHSpSOiR",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927207130655813665_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1756,
+    "originVideos": "https://video.twimg.com/amplify_video/1927101337289793536/vid/avc1/320x568/7AsqQ8H1rBo-W9xs.mp4"
   }
 ]
