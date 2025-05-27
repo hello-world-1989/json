@@ -340,5 +340,23 @@
     "retweets": 2,
     "views": 3674,
     "originVideos": "https://video.twimg.com/amplify_video/1927074358394019840/vid/avc1/320x568/caePSzg8lYd14I9r.mp4"
+  },
+  {
+    "id": "1927172653338517535",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 09:19:00",
+    "content": "5月25日，山东淄博。下午六七点，人民公园发生持刀捅人事件。\n据悉，因打牌产生纠纷，凶手持刀捅人，受害人当场毙命，前来劝架的男子也被捅伤，26日早上抢救回来了，现在人在ICU。 https://t.co/R8qzqp8pXZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927172653338517535_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927172653338517535_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 158,
+    "originVideos": "https://video.twimg.com/amplify_video/1927097082583670784/vid/avc1/320x564/-shJwpFzJiR0_DZ9.mp4"
   }
 ]
