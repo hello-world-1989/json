@@ -718,5 +718,23 @@
     "retweets": 1,
     "views": 2377,
     "originVideos": ""
+  },
+  {
+    "id": "1927295641270579429",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 17:27:42",
+    "content": "5月26日，广东汕头市潮阳区，有网友举报汕头东家宫村村霸为了事良围堵农民水路，毁农民家园。有网友表示：潮阳的地都卖得差不多了,而且卖的钱都跟村民无关。 https://t.co/LFf4jDgHDx",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927295641270579429_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927295641270579429_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 827,
+    "originVideos": "https://video.twimg.com/amplify_video/1927295456792424448/vid/avc1/320x568/7MTpRca1FgtP5Y3a.mp4"
   }
 ]
