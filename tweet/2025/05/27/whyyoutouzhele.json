@@ -556,5 +556,41 @@
     "retweets": 0,
     "views": 4925,
     "originVideos": ""
+  },
+  {
+    "id": "1927266533002158309",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 15:32:03",
+    "content": "https://t.co/nnwIEiiLoI",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2068,
+    "originVideos": ""
+  },
+  {
+    "id": "1927266446293258479",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 15:31:42",
+    "content": "吴向东在天安门广场抗议时所写遗书，以及其母亲关于寻找他尸体的证词：\n父、母亲，卫东、小琪：\n今天天安门的事你们在外面的人可能都不了解，父母亲，政府通知学联今晚镇压，我作好了与学生同在的准备，就是死了也在所不惜，这是为了民主、自由，国家兴亡，匹夫有责。我做为中华民族的一个子孙，这是我的责任。以前，我常不听话，顶撞你们，请你们原谅我，我是爱你们的，永远爱你们。卫东：以后多听爸妈的话，代我尽孝吧。小琪：我知道你关心我，你爱我，你记住，我对你的感情也不会变。我在天之灵保佑你们。你们多保重。小琪，戒指我希望你永远带着。代我向其他朋友们问好。\n向东\n89.5.21晚6:35分\n单位：东风电视机厂四车间\n地址：海淀区小西天志强北园17 楼210号\n吴向东",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927266446293258479_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927266446293258479_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 1,
+    "views": 2022,
+    "originVideos": ""
   }
 ]
