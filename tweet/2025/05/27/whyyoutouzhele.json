@@ -1168,5 +1168,41 @@
     "retweets": 1,
     "views": 2167,
     "originVideos": ""
+  },
+  {
+    "id": "1927334990615900503",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:04:04",
+    "content": "https://t.co/2UYTWzpFis",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1816,
+    "originVideos": ""
+  },
+  {
+    "id": "1927333977154867614",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:00:02",
+    "content": "5月26日，胡锡进发表微博称，“性萧条” 问题是导致消费低迷的重要原因之一。\n年轻人如果“性萧条”，势必低欲望，所以社会需要维护正常性生活的氛围，对“黄色”“色情”的标准不要盯的太宽，以免损害人们的消费兴趣和动力。\n但由于争议太大，这条微博被删除。 https://t.co/lsBfS5sVBG",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927333977154867614_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 9,
+    "retweets": 1,
+    "views": 3729,
+    "originVideos": ""
   }
 ]
