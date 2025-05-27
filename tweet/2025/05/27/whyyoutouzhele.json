@@ -1456,5 +1456,23 @@
     "retweets": 0,
     "views": 96,
     "originVideos": ""
+  },
+  {
+    "id": "1927391274371293193",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 23:47:43",
+    "content": "截至19点25分，事故已造成5人死亡，6人失联，19人轻伤。 https://t.co/oBBRUMmp5Q",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1041,
+    "originVideos": ""
   }
 ]
