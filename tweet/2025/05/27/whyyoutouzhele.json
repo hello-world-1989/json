@@ -430,5 +430,23 @@
     "retweets": 1,
     "views": 4915,
     "originVideos": "https://video.twimg.com/amplify_video/1927149363299512320/vid/avc1/720x1270/8v02mH96YfmsC9I0.mp4"
+  },
+  {
+    "id": "1927222733265371624",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 12:38:00",
+    "content": "5月26日，深圳龙光地产，农民工讨薪被工作人员用隔离带围起来。 https://t.co/3kDetExNQy",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927222733265371624_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 2,
+    "views": 675,
+    "originVideos": "https://video.twimg.com/amplify_video/1927132240758116353/vid/avc1/320x568/PVrnFMKaB9wF_faC.mp4"
   }
 ]
