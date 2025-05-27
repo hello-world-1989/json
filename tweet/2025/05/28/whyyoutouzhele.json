@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 62,
     "originVideos": "https://video.twimg.com/amplify_video/1927454556834631681/vid/avc1/320x568/GjrXasovadjCe8F-.mp4"
+  },
+  {
+    "id": "1927503835670655239",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 07:15:00",
+    "content": "5月23日，浙江嘉兴许巷轻纺路三号，许巷轻纺科技工业园，欠薪，工人在司法所讨薪七天了。 https://t.co/sNJtmVZZSu",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927503835670655239_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1638,
+    "originVideos": "https://video.twimg.com/amplify_video/1927455122293989377/vid/avc1/320x568/XL4Ce2y5rDLYmxRP.mp4"
   }
 ]
