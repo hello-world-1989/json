@@ -1006,5 +1006,23 @@
     "retweets": 7,
     "views": 3834,
     "originVideos": "https://video.twimg.com/amplify_video/1927313696331612160/vid/avc1/480x270/KICGihEAtFEztn-5.mp4"
+  },
+  {
+    "id": "1927316326512578685",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 18:49:54",
+    "content": "爆炸发生后，受伤的员工正准备驾车离开。 https://t.co/D7jAcRmsmG",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927316326512578685_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2328,
+    "originVideos": "https://video.twimg.com/amplify_video/1927316000942288896/vid/avc1/320x568/tdiiwZ2LdQrS5V2W.mp4"
   }
 ]
