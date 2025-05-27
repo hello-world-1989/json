@@ -1240,5 +1240,41 @@
     "retweets": 1,
     "views": 2228,
     "originVideos": "https://video.twimg.com/amplify_video/1927312892644204544/vid/avc1/320x568/UZ316AMyyqMtouj-.mp4"
+  },
+  {
+    "id": "1927341205098021208",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:28:46",
+    "content": "据悉，涉事化工厂主要从事杀虫剂生产，主要产品包括氯虫苯甲酰胺原药。\n据ChatGPT的回答，氯虫苯甲酰胺本身毒性较低，但其合成过程中的中间体，包括吡啶、苯胺化合物等多为致癌物，甚至有神经毒性。现场的燃烧污染物也可能造成急性中毒。 https://t.co/a5UYpQMDNl",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927341205098021208_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 172,
+    "originVideos": ""
+  },
+  {
+    "id": "1927340466074185936",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:25:50",
+    "content": "有网友在网上分享了山东高密友道化工厂爆炸后其家中照片，玻璃全部被震裂，甚至窗框都已经变形。有的爆炸现场附近的汽车前挡风玻璃都整片脱落。 https://t.co/cUf9IOX5mf",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927340466074185936_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927340466074185936_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 836,
+    "originVideos": "https://video.twimg.com/amplify_video/1927339765122121728/vid/avc1/320x584/50L8xORIV0ROHkBn.mp4"
   }
 ]
