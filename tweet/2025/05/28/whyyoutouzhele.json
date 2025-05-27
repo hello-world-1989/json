@@ -70,5 +70,41 @@
     "retweets": 0,
     "views": 1620,
     "originVideos": ""
+  },
+  {
+    "id": "1927437723297616258",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 02:52:17",
+    "content": "王石朋友圈全文 https://t.co/jOmbba8vSP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927437723297616258_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 998,
+    "originVideos": ""
+  },
+  {
+    "id": "1927437394745209085",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 02:50:59",
+    "content": "特朗普称：普京正在玩火。\n5月27日，特朗普发文表示，俄罗斯总统弗拉基米尔·普京并未意识到，如果不是因为自己的存在，俄罗斯早就会遭遇“很多非常糟糕的事情”。真的非常糟糕，他在玩火。 https://t.co/g7qQZFPhaX",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927437394745209085_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2088,
+    "originVideos": ""
   }
 ]
