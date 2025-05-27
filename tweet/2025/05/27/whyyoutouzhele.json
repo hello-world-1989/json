@@ -1024,5 +1024,41 @@
     "retweets": 2,
     "views": 2328,
     "originVideos": "https://video.twimg.com/amplify_video/1927316000942288896/vid/avc1/320x568/tdiiwZ2LdQrS5V2W.mp4"
+  },
+  {
+    "id": "1927320009367343561",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 19:04:32",
+    "content": "5月26日下午，国家金融监管总局河南监管局门口，上百名河南村银行储户，与河南不明人员，再次爆发激烈冲突。 https://t.co/8poWfUubuY https://t.co/rvjMeJWpQc",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927320009367343561_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2861,
+    "originVideos": "https://video.twimg.com/amplify_video/1927319684870811648/vid/avc1/320x564/pKBuhRCaQMt2dbiJ.mp4"
+  },
+  {
+    "id": "1927319716592312830",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 19:03:22",
+    "content": "5月26日 香港旺角街头一位勇敢的阿伯用展板分享香港的现状。并且引用香港基本法第27条，香港居民享有言论、新闻、出版、结社、集会、游行、示威、组织和参与工会的权利和自由。但今日香港已经没有了这些天赋权利不容剥夺的自由。\n国安法下，法官、检察官、警察都不再遵循基本法，市民也因此坐冤狱 https://t.co/dvbSqcg0KD",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927319716592312830_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927319716592312830_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 43,
+    "replies": 1,
+    "retweets": 5,
+    "views": 3027,
+    "originVideos": ""
   }
 ]
