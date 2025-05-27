@@ -358,5 +358,23 @@
     "retweets": 0,
     "views": 158,
     "originVideos": "https://video.twimg.com/amplify_video/1927097082583670784/vid/avc1/320x564/-shJwpFzJiR0_DZ9.mp4"
+  },
+  {
+    "id": "1927192534163615974",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 10:38:00",
+    "content": "5月24日，武汉博宏建设集团有限公司拖欠工人工资长达一年未结算，工人在门口讨薪 https://t.co/qTnbg78Qj8",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927192534163615974_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 2,
+    "views": 569,
+    "originVideos": "https://video.twimg.com/amplify_video/1927132340217679872/vid/avc1/320x568/2dPj1KcOH1Qd4eMx.mp4"
   }
 ]
