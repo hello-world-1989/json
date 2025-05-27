@@ -610,5 +610,41 @@
     "retweets": 2,
     "views": 2757,
     "originVideos": "https://video.twimg.com/amplify_video/1927273824153702400/vid/avc1/320x568/-8s30uZRVuQADUhG.mp4"
+  },
+  {
+    "id": "1927278498709655685",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 16:19:35",
+    "content": "5月26日 广西一博主吐槽她在学校顶岗教师，即使工资不到2000元每月，却仍被拖欠，学校还要求她先交房租。她交不起，学校问她什么时候交，她说：什么时候发工资什么时候交。\n博主吐槽，工资还没发就要求先交房租，这是在付费上班。 https://t.co/acQhGyXvri",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927278498709655685_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927278498709655685_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 35,
+    "originVideos": ""
+  },
+  {
+    "id": "1927276196976365644",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 16:10:27",
+    "content": "5月25日，一则关于“上海动物园的游乐设施设施都旧成这样了，脖子那里缠了好几圈胶带还是要继续工作，命很苦的感觉”的视频被很多网友共鸣，获得数十万点赞。\n有网友评论“像极了为生活奔波的我。”“人一苦，看什么都能共情” https://t.co/fxGaha9sgt",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927276196976365644_0.jpg,/tweet/image/whyyoutouzhele/2025/05/27/1927276196976365644_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927276196976365644_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 6,
+    "retweets": 4,
+    "views": 5630,
+    "originVideos": "https://video.twimg.com/amplify_video/1927275641960861697/vid/avc1/320x568/L-znj6Toi6iHhVFu.mp4"
   }
 ]
