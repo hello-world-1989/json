@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1927486484119957627",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 06:06:03",
+    "content": "特朗普再度呼吁加拿大成为美国的第51个州。 https://t.co/26S8ewShV0 https://t.co/auSCD3fGNj",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927486484119957627_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1155,
+    "originVideos": ""
   }
 ]
