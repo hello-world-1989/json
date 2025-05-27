@@ -16,5 +16,41 @@
     "retweets": 0,
     "views": 24,
     "originVideos": ""
+  },
+  {
+    "id": "1927416627097657785",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 01:28:28",
+    "content": "5月27日，特朗普宣布对所有申请赴美留学的外国学生进行社交媒体审查。并暂停了新的学生签证面试。\n根据国务卿彭培奥周二签署的文件：“为准备扩大社交媒体筛查和审查范围，即日起，各领事部门不应增加任何学生或交流访问者（F、M 和 J）签证的预约名额，直至另行通知（预计在未来几天内发布）。” https://t.co/gXlnAGEkxS",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927416627097657785_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 1,
+    "views": 283,
+    "originVideos": ""
+  },
+  {
+    "id": "1927415211008434445",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 01:22:50",
+    "content": "赵祥睿生前在自己的日记中这样记载：我来美国留学不是为了挣大钱，不是为了扬名立万，是为了回报父母的付出，为了中华民族之崛起。\n在和朋友的聊天中自己也表示：“今年第三艘航母要造好了，中国一定会超过美国。” https://t.co/Iv3ok5iWzn",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927415211008434445_0.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927415211008434445_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 7,
+    "retweets": 0,
+    "views": 1786,
+    "originVideos": ""
   }
 ]
