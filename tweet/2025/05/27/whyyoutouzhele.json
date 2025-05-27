@@ -1204,5 +1204,41 @@
     "retweets": 1,
     "views": 3729,
     "originVideos": ""
+  },
+  {
+    "id": "1927338495665705468",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:18:00",
+    "content": "拼多多利润几乎减半，收入增长降至三年来最低水平。\n5月27日，拼多多母公司PDD Holdings公布财报，2025年第一季度营收同比增长10%，至956.7亿元，低于市场预期，为三年来最慢增速。净利润则同比大跌47%，降至147.4亿元，远低于FactSet预期的261.25亿元。\n截止目前，拼多多美股盘前下跌超20% 。\nhttps://t.co/uHrMIk45VG",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/27/1927338495665705468_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 467,
+    "originVideos": ""
+  },
+  {
+    "id": "1927337740947096053",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 20:15:00",
+    "content": "5月27日，河南驻马店。恒大悦府烂尾楼业主堵路维权\n高喊“黑心开发商，还我房子，还我血汗钱”。 https://t.co/fZfXhQPlSW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927337740947096053_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2228,
+    "originVideos": "https://video.twimg.com/amplify_video/1927312892644204544/vid/avc1/320x568/UZ316AMyyqMtouj-.mp4"
   }
 ]
