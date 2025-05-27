@@ -412,5 +412,23 @@
     "retweets": 1,
     "views": 1756,
     "originVideos": "https://video.twimg.com/amplify_video/1927101337289793536/vid/avc1/320x568/7AsqQ8H1rBo-W9xs.mp4"
+  },
+  {
+    "id": "1927213172777447686",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-27 12:00:00",
+    "content": "更多视频显示，许昌六中除了遭遇打砸和涂鸦外，现场还有人纵火。 https://t.co/JpZa6VvHIb https://t.co/KZO6h9iCPD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/27/1927213172777447686_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 9,
+    "retweets": 1,
+    "views": 4915,
+    "originVideos": "https://video.twimg.com/amplify_video/1927149363299512320/vid/avc1/720x1270/8v02mH96YfmsC9I0.mp4"
   }
 ]
