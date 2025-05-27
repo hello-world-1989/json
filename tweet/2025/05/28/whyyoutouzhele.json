@@ -178,5 +178,23 @@
     "retweets": 1,
     "views": 2545,
     "originVideos": "https://video.twimg.com/amplify_video/1927454680923222018/vid/avc1/320x568/ofAyqw3pFr5LsnxL.mp4,https://video.twimg.com/amplify_video/1927454688267374592/vid/avc1/320x568/hEH_mYQxT6q2XrLs.mp4"
+  },
+  {
+    "id": "1927499809012732096",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 06:59:00",
+    "content": "5月15日，湖南，青竹湖建设集团有限公司，承建揽江一品项目工程总承包项目，欠薪几个月，工人堵门口讨薪。 https://t.co/zK40XTK7iL",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927499809012732096_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 1,
+    "views": 62,
+    "originVideos": "https://video.twimg.com/amplify_video/1927454556834631681/vid/avc1/320x568/GjrXasovadjCe8F-.mp4"
   }
 ]
