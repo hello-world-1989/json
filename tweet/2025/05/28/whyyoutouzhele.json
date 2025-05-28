@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 3266,
     "originVideos": "https://video.twimg.com/amplify_video/1927686914146017280/vid/avc1/320x710/EIypIdUY5rGp72m9.mp4"
+  },
+  {
+    "id": "1927718378342359330",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 21:27:31",
+    "content": "5月25日，一网友在小红书上分享在美国读博突然被遣返的经历。他说他在美国top20的学校读CS博二，离境美国参加学术会议后，18日从休斯顿返美时直接被关进小黑屋48小时，后被遣返。博主奉劝在美国的STEM专业博士生现在不要轻易离开美国，很有可能回不来。 https://t.co/q64tQkbOaU",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927718378342359330_0.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927718378342359330_1.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927718378342359330_2.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927718378342359330_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1152,
+    "originVideos": ""
   }
 ]
