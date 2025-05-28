@@ -1024,5 +1024,23 @@
     "retweets": 5,
     "views": 3866,
     "originVideos": "https://video.twimg.com/amplify_video/1927723537130819584/pl/0jEwQQCWcjU1kWpw.m3u8?v=07d"
+  },
+  {
+    "id": "1927732089790529777",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 22:22:00",
+    "content": "5月26日，太康一高的杨德才老师被学生用刀刺中颈动脉杀害。起因是老师没收了学生的手机，而被学生怨恨，趁午睡时闯入办公室行凶。消息的热度被持续压低。 https://t.co/MhhjWEO5n4",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927732089790529777_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927732089790529777_0.jpg,/tweet/video/whyyoutouzhele/2025/05/28/1927732089790529777_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 10,
+    "retweets": 1,
+    "views": 6440,
+    "originVideos": "https://video.twimg.com/amplify_video/1927725109097193474/vid/avc1/768x1024/dk6YrKKSn-v_pTLn.mp4,https://video.twimg.com/amplify_video/1927725109218770944/vid/avc1/320x426/wlSkJrYB7jXxiG9Z.mp4"
   }
 ]
