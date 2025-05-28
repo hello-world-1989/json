@@ -142,5 +142,23 @@
     "retweets": 3,
     "views": 2650,
     "originVideos": "https://video.twimg.com/amplify_video/1927807541896962048/vid/avc1/480x270/oBe3AY-vN-xU7gkd.mp4"
+  },
+  {
+    "id": "1927815199781794225",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 03:52:15",
+    "content": "5月26日，全国哲学社会科学工作办公室发布了《2025年国家社会科学基金重大项目招标公告》，共列出315个选题，其中前五项全部是研究习近平思想相关内容，第一页几乎全是习近平、共产党之类的思政研究课题。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927815199781794225_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927815199781794225_1.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927815199781794225_2.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927815199781794225_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1891,
+    "originVideos": ""
   }
 ]
