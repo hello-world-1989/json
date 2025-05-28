@@ -718,5 +718,23 @@
     "retweets": 0,
     "views": 3555,
     "originVideos": ""
+  },
+  {
+    "id": "1927659396336701511",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 17:33:08",
+    "content": "5月28日，字节跳动安全与风控部门发布邮件表示，出于对防范数据泄露风险的考虑，自6月30日起，内部分批次禁用第三方人工智能开发软件，包括AI编程工具Cursor、Windsurf等，将字节跳动旗下编程助手Trae作为替代方案。 https://t.co/YEYQCXAHwm",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927659396336701511_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2620,
+    "originVideos": ""
   }
 ]
