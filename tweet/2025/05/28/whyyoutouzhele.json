@@ -214,5 +214,41 @@
     "retweets": 0,
     "views": 1638,
     "originVideos": "https://video.twimg.com/amplify_video/1927455122293989377/vid/avc1/320x568/XL4Ce2y5rDLYmxRP.mp4"
+  },
+  {
+    "id": "1927513776368050686",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 07:54:30",
+    "content": "5月27日山东，一博主表示设计院不发工资\n已经三年没有发过奖金了。公司一而再再而三的\n找理由拖欠工资，现在直接不发了,社保也给断了。每个月还要还房贷，还有基本生活需要维持。博主表示的情况现在已经是在贷款上班了。 https://t.co/IpRSE4DQSg",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927513776368050686_0.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927513776368050686_1.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927513776368050686_2.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927513776368050686_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 4,
+    "views": 2176,
+    "originVideos": ""
+  },
+  {
+    "id": "1927512895513928014",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 07:51:00",
+    "content": "石家庄铁道大学时间线 https://t.co/plToOtsmCy",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927512895513928014_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1882,
+    "originVideos": ""
   }
 ]
