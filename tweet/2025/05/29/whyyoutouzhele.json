@@ -232,5 +232,23 @@
     "retweets": 0,
     "views": 1861,
     "originVideos": "https://video.twimg.com/amplify_video/1927838691017302016/vid/avc1/480x270/mcd7imPOm-VOgpFP.mp4"
+  },
+  {
+    "id": "1927872407819211107",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 07:39:34",
+    "content": "刚刚，美国国务卿卢比奥在其官方推特账号上表示，特朗普政府将开始吊销中国学生的签证，“包括与中国共产党有联系或在关键领域学习的学生”。\n他还在一份声明中称，当局将“修改签证标准”，以加强对来自中国和香港的所有未来签证申请的审查。 https://t.co/pKEdPZP9ID",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927872407819211107_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 38,
+    "originVideos": ""
   }
 ]
