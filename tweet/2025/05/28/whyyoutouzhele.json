@@ -682,5 +682,41 @@
     "retweets": 1,
     "views": 1566,
     "originVideos": ""
+  },
+  {
+    "id": "1927652018694275496",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 17:03:49",
+    "content": "5月27日凌晨，因为郑州各大酒店禁止河南村镇银行储户入住。大量河南村镇银行储户露宿在国家金融监管总局河南监管局大门口。 \n而当地政府则用大巴车遮挡，防止路过车辆行人看见。 https://t.co/UGgI4pcpmQ https://t.co/0NgML1LAIf",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927652018694275496_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 1,
+    "views": 3106,
+    "originVideos": "https://video.twimg.com/amplify_video/1927651839685640192/vid/avc1/320x568/gX1Y949QMm6YaAY4.mp4"
+  },
+  {
+    "id": "1927651143338938399",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 17:00:21",
+    "content": "中国外交部宣布：中国对沙特、阿曼、科威特、巴林4国试行免签。\n5月28日，外交部发言人毛宁表示，自2025年6月9日至2026年6月8日，对上述四国持普通护照人员来华过境不超过30天，可以免办签证入境。\n加上2018年全面互免签证的海合会成员国阿联酋和卡塔尔，中方已经实现对海合会国家免签全覆盖。 https://t.co/G2DBg38B32",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927651143338938399_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 0,
+    "views": 3555,
+    "originVideos": ""
   }
 ]
