@@ -1042,5 +1042,23 @@
     "retweets": 1,
     "views": 6440,
     "originVideos": "https://video.twimg.com/amplify_video/1927725109097193474/vid/avc1/768x1024/dk6YrKKSn-v_pTLn.mp4,https://video.twimg.com/amplify_video/1927725109218770944/vid/avc1/320x426/wlSkJrYB7jXxiG9Z.mp4"
+  },
+  {
+    "id": "1927747931190264181",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 23:24:57",
+    "content": "5月28日，路透社报道，卫星图像显示，中国本月在南海有争议的西沙群岛部署了两架最先进的轰炸机“轰6”。此次部署标志着远程轰-6轰炸机自 2020 年以来首次降落在西沙群岛永兴岛。 https://t.co/Yz3lpxzxcv",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927747931190264181_0.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927747931190264181_1.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927747931190264181_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 0,
+    "views": 4049,
+    "originVideos": ""
   }
 ]
