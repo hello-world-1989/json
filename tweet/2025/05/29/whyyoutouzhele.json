@@ -52,5 +52,23 @@
     "retweets": 2,
     "views": 2445,
     "originVideos": ""
+  },
+  {
+    "id": "1927772401846153217",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 01:02:11",
+    "content": "德国新任总理梅尔茨告诉乌克兰总统泽连斯基，柏林将帮助基辅生产远程导弹，以抵御俄罗斯的攻击。本周早些时候，梅尔茨表示，西方盟友提供给乌克兰的武器将“不再”有任何射程限制。有记者提问是否会向基辅提供金牛座导弹时，梅尔茨表示不会公开讨论细节，但他提到，将于周三晚些时候签署一份关于远程导弹的“谅解备忘录”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927772401846153217_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 0,
+    "views": 3796,
+    "originVideos": ""
   }
 ]
