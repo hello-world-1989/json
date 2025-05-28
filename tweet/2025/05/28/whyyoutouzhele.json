@@ -1060,5 +1060,23 @@
     "retweets": 0,
     "views": 4049,
     "originVideos": ""
+  },
+  {
+    "id": "1927750025515266371",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 23:33:16",
+    "content": "5月28日，据官媒《中国日报》报道，中国可能放宽对中国和欧洲半导体公司及其供应链中其他公司的稀土出口限制。消息人士表示：“商务部产业安全与进出口管制局在会上对稀土出口管制政策进行了宣讲，以方便企业及其相关供应商了解如何申请出口许可。” https://t.co/zias4yGB0r",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927750025515266371_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 3,
+    "retweets": 1,
+    "views": 3502,
+    "originVideos": ""
   }
 ]
