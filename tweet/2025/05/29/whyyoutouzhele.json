@@ -34,5 +34,23 @@
     "retweets": 0,
     "views": 4076,
     "originVideos": ""
+  },
+  {
+    "id": "1927770565995045034",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 00:54:53",
+    "content": "印度因担心间谍活动对中国制造的摄像头展开调查。近日，印度以国家安全为由，要求所有闭路电视摄像机在销售前须通过政府实验室的软件、硬件与源代码测试，引发全球监控行业震动。新规主要针对来自中国的设备制造商，如海康威视、大华、小米等，源于印度政府对中国监视能力和数据外泄的长期担忧。 https://t.co/GuHyT9KDGV",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927770565995045034_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2445,
+    "originVideos": ""
   }
 ]
