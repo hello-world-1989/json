@@ -826,5 +826,41 @@
     "retweets": 0,
     "views": 146,
     "originVideos": "https://video.twimg.com/amplify_video/1927683372710563840/vid/avc1/320x568/_FwVDwKU4QwNNOhE.mp4"
+  },
+  {
+    "id": "1927686891345682494",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 19:22:24",
+    "content": "https://t.co/7TnyQGh0xq",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2171,
+    "originVideos": ""
+  },
+  {
+    "id": "1927686747468845066",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 19:21:49",
+    "content": "25 孙彦昌\n#八九民运 #六四屠杀 孙彦昌，24岁，北京建筑筑炉公司司机。1989年6月3日夜晚，孙彦昌离家出去找弟弟，在东郊红庙110车站总站广场南面，遭戒严部队士兵射杀，子弹击中颈椎第四节神经中枢，送朝阳医院救治，半年后死亡。\n孙彦昌的父亲孙恒尧、母亲王文华均为“天安门母亲”群体成员；孙恒尧已过世。\nhttps://t.co/q5I4uRl4iW;\nhttps://t.co/iGhY2UaoeJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927686747468845066_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 1,
+    "views": 4318,
+    "originVideos": ""
   }
 ]
