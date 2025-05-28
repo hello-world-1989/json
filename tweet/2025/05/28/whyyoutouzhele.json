@@ -286,5 +286,41 @@
     "retweets": 0,
     "views": 807,
     "originVideos": ""
+  },
+  {
+    "id": "1927534034563047708",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 09:15:00",
+    "content": "5月27日凌晨，因为郑州各大酒店禁止河南村镇银行储户入住。大量河南村镇银行储户露宿在国家金融监管总局河南监管局大门口。\n而当地政府则用大巴车遮挡，防止路过车辆行人看见。 https://t.co/0NgML1M8xN",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 5,
+    "retweets": 0,
+    "views": 2983,
+    "originVideos": ""
+  },
+  {
+    "id": "1927534034516857319",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 09:15:00",
+    "content": "5月27日，黑龙江佳木斯佳南收费站，一名货车司机表示，自己是空车，为什么在收费站过磅时会显示超重75吨？ https://t.co/JMjucACCIA",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927534034516857319_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1149,
+    "originVideos": "https://video.twimg.com/amplify_video/1927466777073586176/vid/avc1/320x564/gmEfIN-HlaTGRcjc.mp4"
   }
 ]
