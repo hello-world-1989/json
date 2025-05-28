@@ -106,5 +106,41 @@
     "retweets": 0,
     "views": 689,
     "originVideos": "https://video.twimg.com/amplify_video/1927806192736256000/vid/avc1/480x270/3vgyP5g_pgDBAhF2.mp4"
+  },
+  {
+    "id": "1927814286153289930",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 03:48:37",
+    "content": "5月26日，全国哲学社会科学工作办公室发布了《2025年国家社会科学基金重大项目招标公告》，共列出315个选题，其中第一页几乎全是习近平、共产党之类的思政研究课题。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927814286153289930_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927814286153289930_1.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927814286153289930_2.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927814286153289930_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 184,
+    "originVideos": ""
+  },
+  {
+    "id": "1927812116892823766",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 03:40:00",
+    "content": "唐纳德·特朗普总统周三表示，哈佛大学应该对其招收的外国学生人数设定 15% 的上限，并且这所常春藤盟校需要向校方提供其目前来自其他国家的学生名单。\n特朗普在椭圆形办公室对聚集的记者说：“哈佛大学必须规矩点。哈佛大学对我们国家极其不尊重，他们只会越陷越深。” https://t.co/LPePcqVvwv",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927812116892823766_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 4,
+    "retweets": 3,
+    "views": 2650,
+    "originVideos": "https://video.twimg.com/amplify_video/1927807541896962048/vid/avc1/480x270/oBe3AY-vN-xU7gkd.mp4"
   }
 ]
