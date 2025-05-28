@@ -484,5 +484,41 @@
     "retweets": 0,
     "views": 1726,
     "originVideos": ""
+  },
+  {
+    "id": "1927637785818915131",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 16:07:16",
+    "content": "5月26日，广西一学校老师吐槽，学校有钱展示直升飞机，给学生做体验,做宣传招生。却没钱发工资，连在群里通知延迟发都没个屁，真应了那句“无私奉献”。\n“天天不发工资，都不知道把钱花去哪里” https://t.co/e7ypb5QPWf",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927637785818915131_0.jpg,/tweet/image/whyyoutouzhele/2025/05/28/1927637785818915131_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 2,
+    "views": 987,
+    "originVideos": ""
+  },
+  {
+    "id": "1927637359073566922",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 16:05:34",
+    "content": "戏剧性的是，这位投诉辅导员多次挨个打电话骚扰学生“虚假就业”的博主是一名退伍军人，还是一名党员。 https://t.co/Cbz0ETxNf6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927637359073566922_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1211,
+    "originVideos": ""
   }
 ]
