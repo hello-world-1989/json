@@ -214,5 +214,23 @@
     "retweets": 0,
     "views": 706,
     "originVideos": "https://video.twimg.com/amplify_video/1927835691578212352/vid/avc1/320x568/8jvzzRk4EIPqUwBl.mp4"
+  },
+  {
+    "id": "1927853389112824275",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 06:24:00",
+    "content": "5月28日，中建八局厦航翔安新生产基地机务维修工程项目部员工发帖抱怨：又是没发工资的一天，倒计时3天就仨月没发工资了。 https://t.co/PqjRTk5pr9",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927853389112824275_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1927853389112824275_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927853389112824275_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1861,
+    "originVideos": "https://video.twimg.com/amplify_video/1927838691017302016/vid/avc1/480x270/mcd7imPOm-VOgpFP.mp4"
   }
 ]
