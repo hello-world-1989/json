@@ -196,5 +196,23 @@
     "retweets": 1,
     "views": 2584,
     "originVideos": "https://video.twimg.com/amplify_video/1927836032478679040/vid/avc1/320x594/UjENuC-2N85W8Sb_.mp4"
+  },
+  {
+    "id": "1927841309299183812",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 05:36:00",
+    "content": "5月15日，一大学老师怒斥学校行政化管理学生和老师，要求完成事先定好的就业率指标、规定时间内发规定数量的SCI论文等。 https://t.co/8xZVn2yUO0",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927841309299183812_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 706,
+    "originVideos": "https://video.twimg.com/amplify_video/1927835691578212352/vid/avc1/320x568/8jvzzRk4EIPqUwBl.mp4"
   }
 ]
