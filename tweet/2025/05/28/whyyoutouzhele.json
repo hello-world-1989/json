@@ -988,5 +988,23 @@
     "retweets": 0,
     "views": 2156,
     "originVideos": ""
+  },
+  {
+    "id": "1927728315227353589",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-28 22:07:00",
+    "content": "5月28日，福建晋江安海，有网友拍到黑色的污水被直接排入大海。 https://t.co/uXU2Kyr0Su",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/28/1927728315227353589_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/28/1927728315227353589_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 2,
+    "retweets": 5,
+    "views": 2122,
+    "originVideos": "https://video.twimg.com/amplify_video/1927724960165842945/vid/avc1/320x568/yJwuCXmO_eV1MBJ7.mp4"
   }
 ]
