@@ -430,5 +430,23 @@
     "retweets": 2,
     "views": 5224,
     "originVideos": "https://video.twimg.com/amplify_video/1927864214120439808/vid/avc1/320x568/nC1BUs3mCS7qwwii.mp4"
+  },
+  {
+    "id": "1927934422969438349",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 11:46:00",
+    "content": "5月28日，浙江，中国建筑第四工程局欠薪，工人堵门口讨薪。 https://t.co/EdcvNZK0YX",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927934422969438349_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 1,
+    "views": 1543,
+    "originVideos": "https://video.twimg.com/amplify_video/1927867873822691328/vid/avc1/320x568/aGi0l6keQYaC7sMA.mp4"
   }
 ]
