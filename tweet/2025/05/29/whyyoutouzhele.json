@@ -1276,5 +1276,23 @@
     "retweets": 1,
     "views": 7343,
     "originVideos": ""
+  },
+  {
+    "id": "1928118636788527610",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 23:58:00",
+    "content": "第一财经数据显示，2025年1-5月，全国已有184家中小银行解散，较去年同期增长7倍。其中内蒙古地区单日解散银行达120家。分析指出，经济下行、金融风险增加、不良贷款上升、利差收窄等多重因素导致中小银行经营困境加剧，生存压力显著提高。 https://t.co/E7PUGao80m",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1928118636788527610_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 4,
+    "retweets": 0,
+    "views": 707,
+    "originVideos": "https://video.twimg.com/amplify_video/1928113155030343680/vid/avc1/320x568/H4Fcobqlzn0YJian.mp4"
   }
 ]
