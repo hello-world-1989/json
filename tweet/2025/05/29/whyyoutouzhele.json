@@ -1114,5 +1114,23 @@
     "retweets": 7,
     "views": 15467,
     "originVideos": ""
+  },
+  {
+    "id": "1928081139844919712",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 21:29:00",
+    "content": "特朗普政府已暂停对华出售部分关键美国技术，包括与喷气发动机、半导体以及某些化学品和机械相关的技术。据两位知情人士透露，此举是对中国近期限制向美国出口关键矿产的回应。围绕关键供应链日益加剧的僵局可能会对依赖外国技术的公司产生重大影响，包括飞机、机器人、汽车和半导体制造商，包括向中国商飞机公司出售飞机引擎相关技术，以及向中国公司提供 EDA 软件。美国商务部工业和安全局已经联系业内部分公司，告知他们需停止向中国客户销售至少部分产品。这些知情人士称，在特朗普政府完成相关问题政策的制定之前，这些限制措施可能只是暂时的。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928081139844919712_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928081139844919712_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 2,
+    "retweets": 0,
+    "views": 313,
+    "originVideos": ""
   }
 ]
