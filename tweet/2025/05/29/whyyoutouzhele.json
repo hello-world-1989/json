@@ -538,5 +538,23 @@
     "retweets": 1,
     "views": 799,
     "originVideos": "https://video.twimg.com/amplify_video/1927866764739645440/vid/avc1/320x568/NOYhK_7MdBjhCJMu.mp4"
+  },
+  {
+    "id": "1927978966012375276",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 14:43:00",
+    "content": "5月28日，陕西，一名博主拍摄到一辆自燃过的比亚迪汽车上贴满“比亚迪自燃”、“请勿靠近”的标语维权。 https://t.co/yGaWeildpU",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927978966012375276_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 7,
+    "retweets": 2,
+    "views": 3477,
+    "originVideos": "https://video.twimg.com/amplify_video/1927869203874242561/vid/avc1/320x568/gwrm374FO7_UTPo9.mp4"
   }
 ]
