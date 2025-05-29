@@ -1132,5 +1132,23 @@
     "retweets": 0,
     "views": 313,
     "originVideos": ""
+  },
+  {
+    "id": "1928092967879024823",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 22:16:00",
+    "content": "近日，温州三所民办小学突然宣布接到通知停止办学，1000多名学生面临转学压力，学校称，停办是由于政策要求转公立所致。\n但温州市鹿城区教育局5月28日回应称，辖区内有三所民办小学擅自中止办学，教育局已责令其确保本学期继续办学。下学期如不能继续办学，将把学生转移到公立学校。 https://t.co/iPAzelS6gF",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928092967879024823_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1928092967879024823_0.jpg,/tweet/video/whyyoutouzhele/2025/05/29/1928092967879024823_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2339,
+    "originVideos": "https://video.twimg.com/amplify_video/1928067320183746560/vid/avc1/320x568/1XOt4_GwO6u3Yzgb.mp4,https://video.twimg.com/amplify_video/1928067905289117697/vid/avc1/320x568/fsHGuz0RcOtOdhOs.mp4"
   }
 ]
