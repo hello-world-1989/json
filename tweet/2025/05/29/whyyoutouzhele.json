@@ -880,5 +880,23 @@
     "retweets": 5,
     "views": 5815,
     "originVideos": "https://video.twimg.com/amplify_video/1928020777888272385/vid/avc1/720x1280/qGIBhh3-2CxqA6Um.mp4"
+  },
+  {
+    "id": "1928026756830605497",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 17:52:54",
+    "content": "起火的建筑是中国农业银行。 https://t.co/T125DU84m4",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 8,
+    "retweets": 2,
+    "views": 4573,
+    "originVideos": ""
   }
 ]
