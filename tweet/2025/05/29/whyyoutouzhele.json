@@ -718,5 +718,41 @@
     "retweets": 0,
     "views": 5369,
     "originVideos": ""
+  },
+  {
+    "id": "1928010358746120586",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 16:47:44",
+    "content": "网友投稿 \n5月29日上午 济南市历下区泉城路芙蓉街西写字楼爆炸着火 https://t.co/UPUOPfMSO6",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928010358746120586_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928010358746120586_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1185,
+    "originVideos": ""
+  },
+  {
+    "id": "1928009788329447592",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 16:45:28",
+    "content": "5月28日 俄罗斯外交部长威胁德国称：德国正在走上曾经导致其毁灭的道路。\n而此前德国新任总理刚刚批准乌克兰使用远程导弹直接攻击俄罗斯本土，德国将不再对提供给乌克兰的导弹施加任何射程限制，并将和乌克兰联合生产远程武器，还将额外提供50亿欧元军事援助。\n俄罗斯外交部长谢尔盖表示，德国的计划表明其已是俄乌战争的直接参与者，德国正在走上过去百年间曾导致其毁灭的道路。\n同时他还嘲讽德国坦克“大多在燃烧，而不是在运转。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928009788329447592_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2462,
+    "originVideos": ""
   }
 ]
