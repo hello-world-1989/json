@@ -484,5 +484,23 @@
     "retweets": 3,
     "views": 4949,
     "originVideos": "https://video.twimg.com/amplify_video/1927867634378276864/vid/avc1/320x568/Qzghu-n7_CqFMlwK.mp4"
+  },
+  {
+    "id": "1927957072097989007",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 13:16:00",
+    "content": "5月28日，深圳市桑达科技大厦拖欠工资十多天，工人们无奈顶着38度的高温在太阳底下讨要工资，博主称，这个老板心太黑了，这工资要是发还好不发的话不是你死就是我亡。 https://t.co/hZESgIGflH",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1927957072097989007_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927957072097989007_0.jpg,/tweet/video/whyyoutouzhele/2025/05/29/1927957072097989007_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 2,
+    "retweets": 2,
+    "views": 1871,
+    "originVideos": "https://video.twimg.com/amplify_video/1927866167240097792/vid/avc1/320x568/8wFbXsD0Js0A6zVy.mp4,https://video.twimg.com/amplify_video/1927866167223336960/vid/avc1/320x568/ADNyYBO950Qli_72.mp4"
   }
 ]
