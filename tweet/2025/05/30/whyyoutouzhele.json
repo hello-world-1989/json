@@ -106,5 +106,23 @@
     "retweets": 2,
     "views": 5477,
     "originVideos": ""
+  },
+  {
+    "id": "1928160493425844371",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 02:44:19",
+    "content": "5 月 28 日，美国国际贸易法院的三名法官裁定，特朗普出台全面关税政策，超越了《国际紧急经济权力法》赋予他的权力，这项裁决意味着，美国政府必须终止 10% 的基准关税，以及对中国、加拿大和墨西哥征收的额外“互惠”关税，或者寻找其他方式来征收这些关税。\n周四，美国司法部提起上诉，并表示可能最早于周五请求最高法院介入。司法部检察官 Sosun Bae 批评该裁决“史无前例且在法律上站不住脚”，并警告称，该裁决可能会破坏数月来的微妙外交谈判，并鼓励外国政府对美国出口商进行报复。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928160493425844371_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928160493425844371_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2371,
+    "originVideos": ""
   }
 ]
