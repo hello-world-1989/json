@@ -178,5 +178,41 @@
     "retweets": 0,
     "views": 3748,
     "originVideos": "https://video.twimg.com/amplify_video/1928143537641525248/vid/avc1/320x568/x-0d7Y8G2_SdktX2.mp4"
+  },
+  {
+    "id": "1928186016243884407",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 04:25:44",
+    "content": "5月29日，四川德阳，出租车司机集体罢工停运，抵制近期越来越多的网约车。 https://t.co/VXanpf34U3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928186016243884407_0.jpg,/tweet/video/whyyoutouzhele/2025/05/30/1928186016243884407_1.jpg,/tweet/video/whyyoutouzhele/2025/05/30/1928186016243884407_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 1,
+    "views": 831,
+    "originVideos": "https://video.twimg.com/amplify_video/1928185881178816512/vid/avc1/480x270/TOFwCPcn2OVvOO7z.mp4,https://video.twimg.com/amplify_video/1928185885779992576/vid/avc1/480x270/KsPxNPcogOo-pRmA.mp4,https://video.twimg.com/amplify_video/1928185890800631808/vid/avc1/320x564/qTbnjQ5dF3WoNfv6.mp4"
+  },
+  {
+    "id": "1928185074295656788",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 04:22:00",
+    "content": "5月29日，陕西咸阳，出租车司机集体罢工停运。 https://t.co/GHAYHhKEp3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928185074295656788_0.jpg,/tweet/video/whyyoutouzhele/2025/05/30/1928185074295656788_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1533,
+    "originVideos": "https://video.twimg.com/amplify_video/1928184769847689217/vid/avc1/320x568/qU47x2Fic0SEeEVM.mp4,https://video.twimg.com/amplify_video/1928184769851863040/vid/avc1/320x568/IzZyRsw8n0O9cfCo.mp4"
   }
 ]
