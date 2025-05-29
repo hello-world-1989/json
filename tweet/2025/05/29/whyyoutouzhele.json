@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 38,
     "originVideos": ""
+  },
+  {
+    "id": "1927875031348228290",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 07:50:00",
+    "content": "5月28日，安徽滁州，东鹏饮料生产厂商“安徽东鹏食品饮料有限公司”欠薪，工人堵门口讨薪。 https://t.co/NO0r15rtIH",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927875031348228290_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 7,
+    "retweets": 7,
+    "views": 3785,
+    "originVideos": "https://video.twimg.com/amplify_video/1927839179259392001/vid/avc1/320x568/ansjgNs8fZsdW5w0.mp4"
   }
 ]
