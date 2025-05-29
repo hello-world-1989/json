@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 3097,
     "originVideos": ""
+  },
+  {
+    "id": "1928232889935622233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 07:32:00",
+    "content": "近日，有一个名叫团长的抖音号控诉湖北商贸学院拖欠工程款，学校方面对此辟谣称已支付90%， 但很快，“团长”又发帖确认，学校分文未付。 https://t.co/zWQhODmxHl",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928232889935622233_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928232889935622233_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928232889935622233_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928232889935622233_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3346,
+    "originVideos": "https://video.twimg.com/amplify_video/1928204433835302912/vid/avc1/476x270/LKvN2SPUSJ0pZ_VR.mp4"
   }
 ]
