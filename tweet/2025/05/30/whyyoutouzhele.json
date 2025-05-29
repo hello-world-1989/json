@@ -232,5 +232,23 @@
     "retweets": 1,
     "views": 2390,
     "originVideos": "https://video.twimg.com/amplify_video/1928144665808617472/vid/avc1/1152x720/u5qMcYi4f3_Pa6wC.mp4"
+  },
+  {
+    "id": "1928209748161184042",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 06:00:03",
+    "content": "5月29日，陕西宝鸡，网友拍摄到吉利工厂外一眼望不到头的库存车。 https://t.co/aOmvs8nkvz https://t.co/iIuSbCwmtW",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928209748161184042_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 4,
+    "retweets": 3,
+    "views": 4105,
+    "originVideos": "https://video.twimg.com/amplify_video/1928182998471442432/vid/avc1/480x270/zNbF8xpwR1PZbKnI.mp4"
   }
 ]
