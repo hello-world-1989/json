@@ -88,5 +88,23 @@
     "retweets": 0,
     "views": 3992,
     "originVideos": "https://video.twimg.com/amplify_video/1928124892290887680/vid/avc1/320x568/6cA_CwMhI0wCJbmZ.mp4"
+  },
+  {
+    "id": "1928149343632318838",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 02:00:01",
+    "content": "5月29日，广东，一博主发帖询问中建节前能发工资吗?网友跟帖回复：别想了，2月份的工资都没发，明天感觉更没希望。 https://t.co/xfRBAeQrCs https://t.co/pMRhnpGnFn",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928149343632318838_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928149343632318838_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928149343632318838_2.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928149343632318838_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 3,
+    "retweets": 2,
+    "views": 5477,
+    "originVideos": ""
   }
 ]
