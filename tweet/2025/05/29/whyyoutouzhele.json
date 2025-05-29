@@ -1240,5 +1240,23 @@
     "retweets": 2,
     "views": 5956,
     "originVideos": ""
+  },
+  {
+    "id": "1928111593033978253",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 23:30:01",
+    "content": "5月29日，联合早报报道。特朗普政府下令移民官设新目标，每日逮捕3000人，目标是每年逮捕超过100万人。 https://t.co/WXqT4UwGbv",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928111593033978253_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928111593033978253_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 20,
+    "retweets": 0,
+    "views": 9577,
+    "originVideos": ""
   }
 ]
