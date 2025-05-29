@@ -268,5 +268,23 @@
     "retweets": 7,
     "views": 3785,
     "originVideos": "https://video.twimg.com/amplify_video/1927839179259392001/vid/avc1/320x568/ansjgNs8fZsdW5w0.mp4"
+  },
+  {
+    "id": "1927881322955161844",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 08:15:00",
+    "content": "5月28日，河南，博主表示，4.6亿抗旱补贴，就只是给井口加盖了？哪怕你多打几口井，也是好的，真讽刺。 https://t.co/zZ3iq3zNMD",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927881322955161844_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 1,
+    "retweets": 2,
+    "views": 2723,
+    "originVideos": "https://video.twimg.com/amplify_video/1927839730525220864/vid/avc1/320x568/hkKJEWtJPTaCcoaW.mp4"
   }
 ]
