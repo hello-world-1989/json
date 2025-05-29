@@ -934,5 +934,23 @@
     "retweets": 2,
     "views": 301,
     "originVideos": "https://video.twimg.com/amplify_video/1928040462905962496/vid/avc1/320x568/UJPOhTrLpOZ19A5d.mp4"
+  },
+  {
+    "id": "1928043649788694894",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 19:00:02",
+    "content": "5月27日，湖北武汉洪山区一名11岁男孩高某某在所居住小区高坠，送医抢救无效身亡。警方5月28日发布警情通报，排除刑事案件，正在会同有关部门做好善后工作。\n然而，家属在网络上发布长文，讲述孩子生前疑似在校遭遇霸凌和体罚。家属称，孩子当天在校被老师批评后情绪失控，曾被罚站墙角、遭遇同学欺负，并在家属报警后，校方与相关部门处理不力，直到孩子跳楼前也未有有效介入。\n家属质疑，学校与公安的处理过于仓促，未详细调查校园内的欺凌和教师行为，仅以“排除案件”结案，未解答他们对孩子坠亡原因的疑问。他们表示，孩子平时成绩优秀，有好朋友，突发事件让家人难以接受，期待全面调查真相并追责。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928043649788694894_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928043649788694894_1.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928043649788694894_2.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928043649788694894_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 10,
+    "retweets": 0,
+    "views": 7001,
+    "originVideos": ""
   }
 ]
