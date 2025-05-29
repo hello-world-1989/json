@@ -304,5 +304,23 @@
     "retweets": 3,
     "views": 4869,
     "originVideos": "https://video.twimg.com/amplify_video/1927868923505934336/vid/avc1/320x568/CbM3fA6r0o1lGvsV.mp4,https://video.twimg.com/amplify_video/1927868923510194176/vid/avc1/320x568/7yIpVg1FnL3Q-qke.mp4,https://video.twimg.com/amplify_video/1927868923514376192/vid/avc1/320x568/5U-RWrCqLBMdeCeM.mp4"
+  },
+  {
+    "id": "1927893151194435920",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 09:02:00",
+    "content": "5月26日，西安上户县比亚迪现状，产线只开了两条线，送货车都没有。 https://t.co/ljdmj7I4bZ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927893151194435920_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 4,
+    "views": 3927,
+    "originVideos": "https://video.twimg.com/amplify_video/1927868515379249152/vid/avc1/320x568/7vaMRhut0TTuhp7v.mp4"
   }
 ]
