@@ -1258,5 +1258,23 @@
     "retweets": 0,
     "views": 9577,
     "originVideos": ""
+  },
+  {
+    "id": "1928115025043951789",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 23:43:39",
+    "content": "5月29日，美国驻华大使馆也微博上转发了国务卿卢比奥的这一声明。 https://t.co/IjvkQUM5yq https://t.co/gZ7T9iMfgP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928115025043951789_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 2,
+    "retweets": 1,
+    "views": 7343,
+    "originVideos": ""
   }
 ]
