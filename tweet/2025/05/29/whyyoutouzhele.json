@@ -1042,5 +1042,23 @@
     "retweets": 2,
     "views": 2207,
     "originVideos": ""
+  },
+  {
+    "id": "1928062517596840369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 20:15:00",
+    "content": "网传5月28日晚，广西柳州一男子持刀追砍两名警察，警察落荒而逃。\n最终他被赶来增援的警察们合力制服。 https://t.co/ckXSj9Wt92",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1928062517596840369_0.jpg,/tweet/video/whyyoutouzhele/2025/05/29/1928062517596840369_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 9,
+    "retweets": 2,
+    "views": 3246,
+    "originVideos": "https://video.twimg.com/amplify_video/1928042159514492928/vid/avc1/320x564/61N5mGvn2kvwG9Z4.mp4,https://video.twimg.com/amplify_video/1928042470484410368/vid/avc1/320x568/ETvSYbVYaWHtjNik.mp4"
   }
 ]
