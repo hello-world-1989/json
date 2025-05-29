@@ -502,5 +502,23 @@
     "retweets": 2,
     "views": 1871,
     "originVideos": "https://video.twimg.com/amplify_video/1927866167240097792/vid/avc1/320x568/8wFbXsD0Js0A6zVy.mp4,https://video.twimg.com/amplify_video/1927866167223336960/vid/avc1/320x568/ADNyYBO950Qli_72.mp4"
+  },
+  {
+    "id": "1927963615065428179",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 13:42:00",
+    "content": "5月28日，四川富顺网友在网上发视频称，富顺出租车罢工后，交警疯狂对载客三轮车罚款。 https://t.co/IuqLwNAaks",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1927963615065428179_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 7,
+    "retweets": 2,
+    "views": 5008,
+    "originVideos": "https://video.twimg.com/amplify_video/1927867281045934081/vid/avc1/320x568/b1BhadwAKXF5uyAa.mp4"
   }
 ]
