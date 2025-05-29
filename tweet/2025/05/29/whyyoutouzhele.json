@@ -682,5 +682,41 @@
     "retweets": 2,
     "views": 5901,
     "originVideos": "https://video.twimg.com/amplify_video/1927999904284299266/vid/avc1/320x584/--wLzgUKsVRGo5Vt.mp4"
+  },
+  {
+    "id": "1928005329406615962",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 16:27:45",
+    "content": "网友投稿\n5月27日，湖北黄石 湖北理工学院有人砍人报复社会，造成两人受伤，现场有警察在敲宿舍门。 https://t.co/d14sUaMANi",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928005329406615962_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928005329406615962_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/29/1928005329406615962_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1256,
+    "originVideos": "https://video.twimg.com/amplify_video/1928004637556363264/vid/avc1/480x270/WhZ9X0Baoras9wGH.mp4"
+  },
+  {
+    "id": "1928003586404786615",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-29 16:20:50",
+    "content": "2025年5月底，六一儿童节来临之季，甘肃省陇南市某县城镇级学区学生庆祝六一游行活动，一群小学生像抬轿子一样抬着疑似钢管做的党徽和党的宣传标语游行。\n现场甚至还有幼儿园小朋友参与游街。\n一时竟分不清这到底是在庆祝孩子们的节日，还是让孩子们做苦力为党和领导们庆祝节日。 https://t.co/q6dY2ATaAb",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/29/1928003586404786615_0.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928003586404786615_1.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928003586404786615_2.jpg,/tweet/image/whyyoutouzhele/2025/05/29/1928003586404786615_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 6,
+    "retweets": 0,
+    "views": 5369,
+    "originVideos": ""
   }
 ]
