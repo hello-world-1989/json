@@ -1240,5 +1240,23 @@
     "retweets": 0,
     "views": 3719,
     "originVideos": ""
+  },
+  {
+    "id": "1928466978584281286",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 23:02:11",
+    "content": "5月30日，一位网友表示，最近多地发生出租车罢工的事情，他不理解为什么大家认为出租车罢工不关自己的事情。\n“你现在嘲笑出租车司机，不久的将来你们也会被淘汰，不明白为什么对中国人最狠的永远是中国人。” https://t.co/DxVbhyHkLQ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928466978584281286_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 13,
+    "retweets": 2,
+    "views": 4270,
+    "originVideos": "https://video.twimg.com/amplify_video/1928442915971371008/vid/avc1/480x852/avthP6h_XHGJHAPD.mp4"
   }
 ]
