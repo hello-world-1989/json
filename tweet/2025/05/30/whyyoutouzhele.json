@@ -1096,5 +1096,41 @@
     "retweets": 2,
     "views": 4368,
     "originVideos": "https://video.twimg.com/amplify_video/1928396942419148800/vid/avc1/320x568/S-ES07BW2j4hwiN9.mp4"
+  },
+  {
+    "id": "1928440004734521709",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 21:15:00",
+    "content": "网传记者到山东高密化工厂爆炸事故现场拍摄，警察要求其删掉拍到的所有素材，并声称“在前面拍的人都被抓了”。官方报道称，目前爆炸共造成5人死亡、6人失联，国务院安委会已经决定对该起事故查处实行挂牌督办。 https://t.co/g71pUOFzAV https://t.co/oBBRUMmWVo",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928440004734521709_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928440004734521709_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928440004734521709_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 2,
+    "views": 3199,
+    "originVideos": "https://video.twimg.com/amplify_video/1928436540058869760/vid/avc1/474x270/GadqGb36uXPyKJKr.mp4"
+  },
+  {
+    "id": "1928439039922688264",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 21:11:10",
+    "content": "https://t.co/fjVmR11j3x",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928439039922688264_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928439039922688264_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928439039922688264_2.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928439039922688264_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 0,
+    "views": 3514,
+    "originVideos": ""
   }
 ]
