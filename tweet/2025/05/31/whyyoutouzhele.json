@@ -70,5 +70,23 @@
     "retweets": 0,
     "views": 6360,
     "originVideos": ""
+  },
+  {
+    "id": "1928511731401117857",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 02:00:01",
+    "content": "5月28日，《联合早报》报道，美国国务卿鲁比奥宣布，美国将拒绝向审查美国人社交媒体帖子的外国官员发放签证。\n他说：“在美国平台发文的美国公民或居民，即使他们身处美国境内，但被外国官员发出或威胁发出逮捕令，这是不可接受的。”\n他也说，同样不可接受的是，外国官员要求美国科技平台采用全球内容审核政策，或进行越权的审查活动，影响到美国境内。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928511731401117857_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928511731401117857_1.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928511731401117857_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 7,
+    "retweets": 2,
+    "views": 5466,
+    "originVideos": ""
   }
 ]
