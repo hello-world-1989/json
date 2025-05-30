@@ -700,5 +700,41 @@
     "retweets": 0,
     "views": 3625,
     "originVideos": ""
+  },
+  {
+    "id": "1928355070544072999",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 15:37:30",
+    "content": "5月30日，河南桐柏 有博主曝光当地特岗教师工资带上五月的已经欠两个月了!上一次发工资是12月，还只发了1500让不让特岗老师活了？\n5月28日， 浙江泰德光学，三月份欠薪至今，工人们在工厂内讨薪。 https://t.co/P3NUQnXvMM",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928355070544072999_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928355070544072999_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928355070544072999_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928355070544072999_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 1,
+    "retweets": 0,
+    "views": 877,
+    "originVideos": "https://video.twimg.com/amplify_video/1928355015879708673/vid/avc1/320x568/0tRjillDq61mUxXo.mp4"
+  },
+  {
+    "id": "1928353405606519172",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 15:30:53",
+    "content": "德阳，出租车司机集体罢工现场视频补充 https://t.co/572O0NFsd2",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928353405606519172_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2209,
+    "originVideos": "https://video.twimg.com/amplify_video/1928353320567197699/vid/avc1/320x568/tMbp6JznjUFwYs4B.mp4"
   }
 ]
