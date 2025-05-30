@@ -988,5 +988,41 @@
     "retweets": 0,
     "views": 1299,
     "originVideos": "https://video.twimg.com/amplify_video/1928417248848355329/vid/avc1/320x568/SQSszJZiVRstgwmR.mp4,https://video.twimg.com/amplify_video/1928417256125435904/vid/avc1/320x568/KYDkAWLJ-xI7o17t.mp4"
+  },
+  {
+    "id": "1928421952848298086",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 20:03:16",
+    "content": "警方通报称，男子系情感纠纷，前往前女友工作单位并与之发生口角，后持随身携带的水果刀将前女友及上前劝阻的一名男同事划伤后自伤颈部。\n目前两名伤者和犯罪嫌疑人均无生命危险。 https://t.co/Vw9mV7QtGb",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928421952848298086_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1551,
+    "originVideos": ""
+  },
+  {
+    "id": "1928421133994360883",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 20:00:01",
+    "content": "https://t.co/1c1rBMKaXq 广西钦州第二中学学生投稿\n钦州第二中学以高考放假的名义侵占端午法定节假日，并且在实行双休后周五晚上仍然要上课，也就是说一周需要上6天晚自习，并且表面上响应号召取消了每天晚上的周测，实际上把周测名号换成了课后作业，却仍然要按时交答题卡并排名 https://t.co/u1guLmvcy2",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928421133994360883_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 1,
+    "retweets": 2,
+    "views": 3047,
+    "originVideos": ""
   }
 ]
