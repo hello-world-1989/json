@@ -736,5 +736,41 @@
     "retweets": 1,
     "views": 2209,
     "originVideos": "https://video.twimg.com/amplify_video/1928353320567197699/vid/avc1/320x568/tMbp6JznjUFwYs4B.mp4"
+  },
+  {
+    "id": "1928356237101650320",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 15:42:08",
+    "content": "5月28日，四川毕节，博主吐槽称这就是毕节市第三人民医院，中交四局的领导对农民工工资的承诺，2023至今，一分没拿到，拖欠十几个工人的工钱。 https://t.co/QIO3NtN0Pq",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928356237101650320_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 4,
+    "retweets": 2,
+    "views": 4217,
+    "originVideos": "https://video.twimg.com/amplify_video/1928356036735557632/vid/avc1/320x568/YyOVpC3-zU9wFDhW.mp4"
+  },
+  {
+    "id": "1928355772263715281",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 15:40:17",
+    "content": "央企中国建筑集团本月我们接到的第15起欠薪投稿：\n5月29日，深圳，中国建筑第三工程局，承建华为松山湖团泊洼11号地块，工业项目总承包工程欠薪，工人们罢工讨薪，博主表示三局的钱迟迟不到位，下个月退场，深圳的也不搞了。 https://t.co/he0mnA5LPG https://t.co/pMRhnpGnFn",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928355772263715281_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928355772263715281_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 1,
+    "retweets": 2,
+    "views": 4960,
+    "originVideos": "https://video.twimg.com/amplify_video/1928355677686353920/vid/avc1/320x564/Mt5ZXNvOS41AyhW4.mp4"
   }
 ]
