@@ -808,5 +808,23 @@
     "retweets": 3,
     "views": 3862,
     "originVideos": ""
+  },
+  {
+    "id": "1928375877630406961",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 17:00:11",
+    "content": "5月27日晚间，比亚迪在中国拉开新一轮的价格战，宣布借“6.18”对20多款车型进行新一轮降价，最高限时优惠5.3万元。\n随后吉利奇瑞也迅速跟进，宣布对旗下多款车型降价。 https://t.co/lHd3rOCjwL https://t.co/hMCR7tZNUh",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928375877630406961_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928375877630406961_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 3,
+    "retweets": 1,
+    "views": 6595,
+    "originVideos": ""
   }
 ]
