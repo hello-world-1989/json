@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 6191,
     "originVideos": ""
+  },
+  {
+    "id": "1928413583550869955",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 19:30:01",
+    "content": "5月30日，中铁三局太锡铁路河北段项目部二分部，工人用车堵住项目部维权讨薪。 https://t.co/4TSQxisLxn",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928413583550869955_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 2,
+    "retweets": 3,
+    "views": 3106,
+    "originVideos": "https://video.twimg.com/amplify_video/1928403380793155584/vid/avc1/320x754/cPE3owsB2oj5bsod.mp4"
   }
 ]
