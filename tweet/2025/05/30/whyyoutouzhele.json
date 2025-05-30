@@ -340,5 +340,23 @@
     "retweets": 0,
     "views": 5762,
     "originVideos": "https://video.twimg.com/amplify_video/1928242122555015169/vid/avc1/320x568/TjvxHmXHwnCQ8Fct.mp4"
+  },
+  {
+    "id": "1928262586694287668",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 09:30:00",
+    "content": "5月29日下午，广东深圳。有网友去深圳市市场监督管理局光明监管局办理行政处罚案件，被告知单位现在没有打印纸张，白跑一趟。该局办公室里工作人员议论说，局里财政非常紧张，砍了很多经费，办公打印纸的取用增加了审批流程，经常是拖着少给，而且局里编外人员还要裁减一半。其中一位女性工作人员公开抱怨，用纸紧张已严重影响办公。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928262586694287668_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928262586694287668_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 5,
+    "retweets": 2,
+    "views": 6886,
+    "originVideos": ""
   }
 ]
