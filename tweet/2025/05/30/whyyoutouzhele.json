@@ -880,5 +880,23 @@
     "retweets": 6,
     "views": 2723,
     "originVideos": "https://video.twimg.com/amplify_video/1928386597445160960/vid/avc1/320x564/M1Rcra_OHWCWN0hd.mp4"
+  },
+  {
+    "id": "1928390942920474625",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 18:00:03",
+    "content": "5月30日，中国科学技术协会宣布，我国基本具备科学素质的公民比例达到44.07%，对应18-69岁人口规模约4.4亿。 https://t.co/zfjAPQ0zQl",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928390942920474625_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 11,
+    "retweets": 1,
+    "views": 4553,
+    "originVideos": ""
   }
 ]
