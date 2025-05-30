@@ -790,5 +790,23 @@
     "retweets": 1,
     "views": 1959,
     "originVideos": ""
+  },
+  {
+    "id": "1928371944589525082",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 16:44:33",
+    "content": "“今天不恨”\n5月30日，日本官房长官林芳正宣布，日中双方已在技术层面达成共识，中国将开始重新进口日本水产品。 https://t.co/RNz0daZfYN https://t.co/9LYZ9D1cRf",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928371944589525082_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928371944589525082_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 7,
+    "retweets": 3,
+    "views": 3862,
+    "originVideos": ""
   }
 ]
