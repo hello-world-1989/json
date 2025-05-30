@@ -124,5 +124,23 @@
     "retweets": 0,
     "views": 3311,
     "originVideos": "https://video.twimg.com/amplify_video/1928467923233886208/vid/avc1/1080x1920/ja3DLI2YemUR38lf.mp4"
+  },
+  {
+    "id": "1928561555232141532",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 05:18:00",
+    "content": "美国暂停出口C919发动机\n5月29日，纽约时报报道，美国商务部已暂停部分美国公司向中国商飞出售产品和技术的许可证，这其中包括了中国国产大飞机C919的发动机——美国GE航空航天与法国赛峰集团合资生产的LEAP-1C发动机。\n对此，中国外交部回应称，中方反对经贸科技问题政治化。 https://t.co/AD4WoAOjAF",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928561555232141532_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 0,
+    "views": 336,
+    "originVideos": ""
   }
 ]
