@@ -934,5 +934,23 @@
     "retweets": 1,
     "views": 1016,
     "originVideos": "https://video.twimg.com/amplify_video/1928404697045471232/pl/MSSXtIEbqoNsclKp.m3u8,https://video.twimg.com/amplify_video/1928404710630764544/vid/avc1/480x270/_PUXGtbx-K9SBhv0.mp4"
+  },
+  {
+    "id": "1928406034756120710",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 19:00:01",
+    "content": "5月30日，比亚迪集团品牌及公关处总经理李云飞表示，中国主流车企根本不存在所谓的“车圈恒大”，任何唱衰中国新能源汽车的言论都是不可取的。\n公司已经向国家有关部门反映及上报了相关证据及线索，对于恶意带节奏的相关方，将追究其法律责任。 https://t.co/jFMpv6oup9 https://t.co/hMCR7u0lJP",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928406034756120710_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 11,
+    "retweets": 0,
+    "views": 6191,
+    "originVideos": ""
   }
 ]
