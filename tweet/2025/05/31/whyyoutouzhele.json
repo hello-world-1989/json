@@ -88,5 +88,23 @@
     "retweets": 2,
     "views": 5466,
     "originVideos": ""
+  },
+  {
+    "id": "1928526826021990449",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 03:00:00",
+    "content": "5月30日，陕西咸阳。融创时光宸悦烂尾楼业主大雨中站在市政府门口高喊要开发商交房。 https://t.co/sTQN50zWY5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928526826021990449_0.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928526826021990449_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 4,
+    "retweets": 1,
+    "views": 2552,
+    "originVideos": "https://video.twimg.com/amplify_video/1928467628135186432/vid/avc1/320x568/yDNHTnt-WpGsnd9i.mp4,https://video.twimg.com/amplify_video/1928467628491784192/vid/avc1/320x568/K4PmwfCskbHrHwNc.mp4"
   }
 ]
