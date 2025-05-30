@@ -826,5 +826,41 @@
     "retweets": 1,
     "views": 6595,
     "originVideos": ""
+  },
+  {
+    "id": "1928385691840295387",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 17:39:11",
+    "content": "5月30日，益华电脑(Cadence Design Systems)表示已收到美国商务部工业和安全局(BIS)的一封信函，告知该公司对华出口的新限制。\n信函称，根据周四提交给美国证券交易委员会(SEC)的一份公告，向中国出口某些电子设计自动化软件如今需要许可证，因为此类出口在该国构成不可接受的“军事最终用途”风险。\n芯片软件制造商新思科技(Synopsys)周四亦表示，该公司收到了该局关于新的出口限制的信函。该公司撤回了其当前财季和财年的业绩预期，着手评估这些新限制对其业务的潜在影响。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928385691840295387_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 129,
+    "originVideos": ""
+  },
+  {
+    "id": "1928383529852739735",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 17:30:35",
+    "content": "近日，上海，黑龙江等多地下发文件，要求未经报批，禁止医生做自媒体健康科普。\n有医院开始统计个人自媒体账号数量。 https://t.co/CXSgytyDej",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928383529852739735_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928383529852739735_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928383529852739735_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 8,
+    "retweets": 3,
+    "views": 7010,
+    "originVideos": ""
   }
 ]
