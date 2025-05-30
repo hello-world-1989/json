@@ -862,5 +862,23 @@
     "retweets": 3,
     "views": 7010,
     "originVideos": ""
+  },
+  {
+    "id": "1928387171691479098",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 17:45:04",
+    "content": "5月30日，四川成都。\n太古里商场发生一起持刀伤人事件，一男子持刀将一名女子捅伤后割颈自残。\n随后男子被商场工作人员和赶来的安保人员合力制服。 https://t.co/TxB8EenB1j",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928387171691479098_0.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928387171691479098_1.jpg,/tweet/image/whyyoutouzhele/2025/05/30/1928387171691479098_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/30/1928387171691479098_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 6,
+    "retweets": 6,
+    "views": 2723,
+    "originVideos": "https://video.twimg.com/amplify_video/1928386597445160960/vid/avc1/320x564/M1Rcra_OHWCWN0hd.mp4"
   }
 ]
