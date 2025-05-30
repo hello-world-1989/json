@@ -412,5 +412,23 @@
     "retweets": 0,
     "views": 4503,
     "originVideos": "https://video.twimg.com/amplify_video/1928195232195137537/vid/avc1/320x568/dXi2PcwJMmy7mwWe.mp4"
+  },
+  {
+    "id": "1928292786349989983",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-30 11:30:00",
+    "content": "网友投稿\n这名网友想去乌克兰旅行，他打算提前在淘宝买手机卡备用，问客服手机卡的流量是否支持在乌克兰当地使用Google之类的外国软件，出乎意料的是，他的淘宝瞬间就被禁言三天。 https://t.co/tOLi7bD3IO",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/30/1928292786349989983_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 6,
+    "retweets": 1,
+    "views": 6724,
+    "originVideos": ""
   }
 ]
