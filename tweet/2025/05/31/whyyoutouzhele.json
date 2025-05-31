@@ -430,5 +430,41 @@
     "retweets": 1,
     "views": 2570,
     "originVideos": "https://video.twimg.com/amplify_video/1928718557854199808/vid/avc1/320x568/b_8xLZ0MmVohzytl.mp4,https://video.twimg.com/amplify_video/1928718680764067843/vid/avc1/320x568/A8fDKL01WeBBAdGF.mp4"
+  },
+  {
+    "id": "1928723740671512899",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 16:02:28",
+    "content": "5月31日河南中牟，博主吐槽辛苦了一个月基本工资都不发。一名河南周口的教师跟帖，我们也是，端午节一声不吭补贴拖欠一年，现在连基本工资都不发了。 https://t.co/BfPSWVumU7",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928723740671512899_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928723740671512899_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 5,
+    "retweets": 2,
+    "views": 3909,
+    "originVideos": ""
+  },
+  {
+    "id": "1928723531631579364",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 16:01:38",
+    "content": "5月30日，一博主吐槽河北沧县教师三月份拖欠至今，网友回复 我们每天都是自费上班。\n还有网友吐槽称：在他们眼里编外的不配活着，可以不吃不喝不养家，纯奉献。 https://t.co/9mMYArE8pL",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928723531631579364_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928723531631579364_1.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928723531631579364_2.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928723531631579364_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3349,
+    "originVideos": ""
   }
 ]
