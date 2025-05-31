@@ -826,5 +826,23 @@
     "retweets": 5,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1928822022198472951",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 22:33:00",
+    "content": "5月30日，广州环境保护科学研究院一实验室发生爆炸事故。视频显示，现场爆炸声巨大。\n当地消防部门表示，当天下午明火已扑灭，无人员伤亡。 https://t.co/MlIbClkOmE",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928822022198472951_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928822022198472951_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928822022198472951_0.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928822022198472951_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 5,
+    "retweets": 0,
+    "views": 4802,
+    "originVideos": "https://video.twimg.com/amplify_video/1928806870057123840/vid/avc1/320x564/yyjPQLrNJr6T7Kp7.mp4,https://video.twimg.com/amplify_video/1928806982179311617/vid/avc1/320x568/DwwaR9W-7ohHSjfq.mp4"
   }
 ]
