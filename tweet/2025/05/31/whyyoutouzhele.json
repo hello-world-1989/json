@@ -700,5 +700,41 @@
     "retweets": 0,
     "views": 564,
     "originVideos": ""
+  },
+  {
+    "id": "1928792261334098022",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 20:34:44",
+    "content": "5月30日，四川西昌马道铁路桥发生垮塌。 https://t.co/x4hzBKPZvA",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928792261334098022_0.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928792261334098022_1.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928792261334098022_2.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928792261334098022_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 1,
+    "views": 1517,
+    "originVideos": "https://video.twimg.com/amplify_video/1928789585057710080/vid/avc1/320x586/aVuDXD82Y25DJKq8.mp4,https://video.twimg.com/amplify_video/1928789875022512128/vid/avc1/480x716/Zf1qTCJps3QODnmK.mp4,https://video.twimg.com/amplify_video/1928790322307309568/vid/avc1/320x568/Rh3aQB6k4vTMsAPp.mp4,https://video.twimg.com/amplify_video/1928790326421909504/vid/avc1/480x270/ZPftRZP80gl26kJY.mp4"
+  },
+  {
+    "id": "1928791319620837588",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 20:31:00",
+    "content": "近日，一部《霸王别姬之整顿职场》的小短剧引发广大网友共鸣。\n视频借用经典电影《霸王别姬》中的剧情，讽刺当下年轻人的牛马境遇。\n片中吐槽，你当现在单休且无偿加班合法吗？今天的内卷都是大家一步步忍让后退换来的！ https://t.co/T9ZpvtFE9F",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928791319620837588_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 5,
+    "retweets": 4,
+    "views": 3728,
+    "originVideos": "https://video.twimg.com/amplify_video/1928776510481072130/vid/avc1/480x270/R06GzbXEwntSKQj6.mp4"
   }
 ]
