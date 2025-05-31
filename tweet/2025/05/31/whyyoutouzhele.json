@@ -232,5 +232,23 @@
     "retweets": 5,
     "views": 4633,
     "originVideos": "https://video.twimg.com/amplify_video/1928599709620244480/vid/avc1/320x566/UoEBpk2_dhoxRNbY.mp4,https://video.twimg.com/amplify_video/1928599729216053249/vid/avc1/320x566/nsia-FHrmTaQ925u.mp4"
+  },
+  {
+    "id": "1928647623537303743",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 11:00:00",
+    "content": "5月30日，陕西西安。有游客掉入兵马俑3号坑， 并把兵马俑砸碎了。 https://t.co/UCkLC6Sqme",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928647623537303743_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928647623537303743_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928647623537303743_0.jpg,/tweet/video/whyyoutouzhele/2025/05/31/1928647623537303743_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 18,
+    "retweets": 5,
+    "views": 5570,
+    "originVideos": "https://video.twimg.com/amplify_video/1928601352051060736/vid/avc1/320x458/FWKHVfMM0HeKmCiw.mp4,https://video.twimg.com/amplify_video/1928601481734696960/vid/avc1/320x584/mpoFt5E1S3kL9D8j.mp4"
   }
 ]
