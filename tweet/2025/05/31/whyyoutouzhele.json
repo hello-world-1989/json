@@ -250,5 +250,23 @@
     "retweets": 5,
     "views": 5570,
     "originVideos": "https://video.twimg.com/amplify_video/1928601352051060736/vid/avc1/320x458/FWKHVfMM0HeKmCiw.mp4,https://video.twimg.com/amplify_video/1928601481734696960/vid/avc1/320x584/mpoFt5E1S3kL9D8j.mp4"
+  },
+  {
+    "id": "1928662723963109875",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 12:00:00",
+    "content": "5月30日，中国国家网信办发布关于开展人脸识别技术应用备案工作的公告。根据《人脸识别技术应用安全管理办法》第十五条规定，应用人脸识别技术处理的人脸信息存储数量达到10万人的个人信息处理者，应当向所在地省级网信部门履行备案手续。自2025年6月1日起，应用人脸识别技术处理的人脸信息存储数量达到10万人的，应当自数量达到之日起30个工作日内履行备案手续。之前已经达到10万人的，应当在今年 7月14日前履行备案手续。备案信息发生实质性变更的，应当在变更之日起30个工作日内办理备案变更手续。未按照办法规定履行备案手续的，依照有关法律、行政法规的规定处理。",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928662723963109875_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 6,
+    "retweets": 8,
+    "views": 4291,
+    "originVideos": ""
   }
 ]
