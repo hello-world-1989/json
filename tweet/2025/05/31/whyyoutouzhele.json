@@ -862,5 +862,23 @@
     "retweets": 1,
     "views": 513,
     "originVideos": ""
+  },
+  {
+    "id": "1928828826756243648",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 23:00:02",
+    "content": "5月26日，广东惠州潼桥劳动监察大队处理工人讨薪现场\n无人理会，博主表示劳动监察大队每次来处理问题都是推脱搪塞。工人们无奈只能在劳动监察大队大厅的长椅上躺着讨薪。 https://t.co/sHRMiF0luM",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928828826756243648_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 3,
+    "retweets": 1,
+    "views": 4104,
+    "originVideos": "https://video.twimg.com/amplify_video/1928823038100848640/vid/avc1/320x568/EbZBpYTAhptvacxc.mp4"
   }
 ]
