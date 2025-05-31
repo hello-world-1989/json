@@ -196,5 +196,23 @@
     "retweets": 3,
     "views": 4985,
     "originVideos": ""
+  },
+  {
+    "id": "1928617430349156678",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 09:00:02",
+    "content": "京东外卖百亿补贴，变成了商家出钱承担7-8成，引发餐饮商家的抗议。\n近日，媒体人项栋梁曝光：京东外卖在多个城市调整了平台和商家承担补贴的比例，由原先的一半一半调整为由商家承担70%-80%。在“满11元减10元”的活动中，京东平台请客3元，商家买单7元，再贴上配送费，一起维持给到用户的补贴优惠。 https://t.co/Yp5yIq3zez",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928617430349156678_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928617430349156678_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 7,
+    "retweets": 2,
+    "views": 5084,
+    "originVideos": "https://video.twimg.com/amplify_video/1928599069561090048/vid/avc1/320x568/nIM8ihktTQP9OkjF.mp4"
   }
 ]
