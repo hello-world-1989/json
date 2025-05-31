@@ -736,5 +736,41 @@
     "retweets": 4,
     "views": 3728,
     "originVideos": "https://video.twimg.com/amplify_video/1928776510481072130/vid/avc1/480x270/R06GzbXEwntSKQj6.mp4"
+  },
+  {
+    "id": "1928799935467598242",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 21:05:14",
+    "content": "事件后续：该博主的行为获得了网友们的响应，评论区里的一些网友自发加入维权行列帮博主看车，防止医院搞小动作 https://t.co/4TFntGmEuu",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928799935467598242_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928799935467598242_1.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928799935467598242_2.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928799935467598242_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1281,
+    "originVideos": ""
+  },
+  {
+    "id": "1928798627691925576",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 21:00:02",
+    "content": "5月23日，江苏连云港，一名医生发帖吐槽，自己在卫生院的薪水只有1252.66块。 https://t.co/zdvkaaFcey",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928798627691925576_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 4,
+    "retweets": 4,
+    "views": 3683,
+    "originVideos": "https://video.twimg.com/amplify_video/1928767422288351232/vid/avc1/320x568/oP6RPL31qex-4XME.mp4"
   }
 ]
