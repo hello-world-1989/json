@@ -520,5 +520,23 @@
     "retweets": 1,
     "views": 1882,
     "originVideos": ""
+  },
+  {
+    "id": "1928744142034841777",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 17:23:32",
+    "content": "5月30日，中国汽车工业协会针对近期国产汽车价格战发布倡议：\n5月23日以来，比亚迪率先发起大幅降价活动，多家车企跟进效仿，引发新一轮“价格战”恐慌。这将阻碍行业自身健康发展、危害消费者权益、带来安全隐患。要求所有企业自查整改。\n工信部将加力整治“内卷式”竞争，推动产业结构优化调整，加强产品一致性抽查，配合开展反不正当竞争执法。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 4,
+    "retweets": 0,
+    "views": 3847,
+    "originVideos": ""
   }
 ]
