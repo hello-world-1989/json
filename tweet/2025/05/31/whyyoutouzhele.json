@@ -664,5 +664,23 @@
     "retweets": 0,
     "views": 1467,
     "originVideos": ""
+  },
+  {
+    "id": "1928783518500352117",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 20:00:00",
+    "content": "近日，国内著名股评人李大霄，因花式鼓吹中国股市即将步入牛市，引发网友吐槽： https://t.co/4aW7hidH2G",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928783518500352117_0.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928783518500352117_1.jpg,/tweet/image/whyyoutouzhele/2025/05/31/1928783518500352117_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 10,
+    "retweets": 3,
+    "views": 5939,
+    "originVideos": ""
   }
 ]
