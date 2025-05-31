@@ -880,5 +880,41 @@
     "retweets": 1,
     "views": 4104,
     "originVideos": "https://video.twimg.com/amplify_video/1928823038100848640/vid/avc1/320x568/EbZBpYTAhptvacxc.mp4"
+  },
+  {
+    "id": "1928833622393377261",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 23:19:06",
+    "content": "@LSPactual https://t.co/Boo09pmzAd",
+    "images": "/tweet/image/whyyoutouzhele/2025/05/31/1928833622393377261_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 123,
+    "originVideos": ""
+  },
+  {
+    "id": "1928833337440841932",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-05-31 23:17:58",
+    "content": "6月1日，美国加州自由雕塑公园@LSPactual 将隆重揭幕「历史的垃圾」雕像，作为今年“六四”36周年的纪念活动。\n“ 为了纪念那些在清除历史垃圾的斗争中牺牲的勇士们，以及那些惨遭历史垃圾迫害的人们，我们将于加州时间6月1日下午，在加州Yermo隆重揭幕「历史的垃圾」雕像！” https://t.co/ceyd0sZc7R",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/05/31/1928833337440841932_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 1,
+    "views": 761,
+    "originVideos": "https://video.twimg.com/amplify_video/1928831482748870656/vid/avc1/480x270/nn900kQNVXRme-cb.mp4"
   }
 ]
