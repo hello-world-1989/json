@@ -232,5 +232,41 @@
     "retweets": 0,
     "views": 3237,
     "originVideos": "https://video.twimg.com/amplify_video/1929273895774736384/vid/avc1/480x270/MBB6ksffGZQE_tKc.mp4"
+  },
+  {
+    "id": "1929281219939766355",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 04:57:41",
+    "content": "6月1日晚，泽连斯基发表电视讲话称，此次袭击动用了 117 架无人机，摧毁了俄罗斯34% 的战略轰炸机。 https://t.co/xVZCu2euEY",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 612,
+    "originVideos": ""
+  },
+  {
+    "id": "1929280264263352553",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 04:53:53",
+    "content": "有网友补充，很多人在使用国补购买手机后，会立即找二手商出售变现。但实际上这是不允许的。 https://t.co/AvJeUFwkGi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929280264263352553_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 794,
+    "originVideos": "https://video.twimg.com/amplify_video/1929280153516900352/vid/avc1/320x568/jMYW75RkIUQQqUPz.mp4"
   }
 ]
