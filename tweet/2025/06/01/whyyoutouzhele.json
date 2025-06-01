@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 5382,
     "originVideos": "https://video.twimg.com/amplify_video/1929143070018187265/vid/avc1/478x270/_xQZYCzPAqwebp2n.mp4"
+  },
+  {
+    "id": "1929145911659352212",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 20:00:01",
+    "content": "网友投稿\n中国头部医院竞争白热化，各家医院要求实现门诊增长量。\n像华西这样的大院靠高增长甩开差距，省医院只能通过“周末常态化手术”，在有限资源内内卷式提效，力图缩小差距，反映出当前医疗体系对增长的高度焦虑。 https://t.co/yzHZYgtWMC",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1929145911659352212_0.jpg,/tweet/image/whyyoutouzhele/2025/06/01/1929145911659352212_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 8,
+    "retweets": 3,
+    "views": 5453,
+    "originVideos": ""
   }
 ]
