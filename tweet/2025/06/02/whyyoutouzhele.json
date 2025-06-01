@@ -376,5 +376,23 @@
     "retweets": 0,
     "views": 353,
     "originVideos": ""
+  },
+  {
+    "id": "1929312007607787743",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 07:00:02",
+    "content": "6月1日，一段来自俄罗斯第 102 团的自我介绍视频显示，一些来自中国、肯尼亚、孟加拉国、埃及和伊朗的士兵正在顿涅茨克地区托列茨克前线作战。\n视频中的中国人从22岁到36岁不等，他们说出了自己的中文名字。同时在视频开头，有清晰的汉语翻译告诉现场的中国人，“（现在要）录个视频”。 https://t.co/HQQNwohrhJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929312007607787743_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929312007607787743_1.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929312007607787743_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929312007607787743_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 5,
+    "retweets": 3,
+    "views": 4125,
+    "originVideos": "https://video.twimg.com/amplify_video/1929292164208447488/vid/avc1/320x568/2edU4gWJLql7aNyL.mp4"
   }
 ]
