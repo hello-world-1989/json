@@ -160,5 +160,23 @@
     "retweets": 1,
     "views": 5333,
     "originVideos": ""
+  },
+  {
+    "id": "1928987361137836283",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 09:30:00",
+    "content": "有兰州网友称，自己被警方以读者身份传唤，要求其按照他们准备好的模板指认海棠作者。在自己表达抗拒后，一名辅警对其进行威胁 https://t.co/3WbTT4gdDu https://t.co/uIYfdCv2xc",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1928987361137836283_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 12,
+    "retweets": 3,
+    "views": 6517,
+    "originVideos": ""
   }
 ]
