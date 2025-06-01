@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 1852,
     "originVideos": "https://video.twimg.com/amplify_video/1929215381677162496/vid/avc1/480x270/rnW_AHg2K3N7Vpp_.mp4"
+  },
+  {
+    "id": "1929219032659443924",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 00:50:35",
+    "content": "值得一提的是，乌克兰这次的无人机袭击，最远发生在距离基辅5000公里外的俄罗斯西伯利亚空军基地。 https://t.co/sluU3aKeje https://t.co/xVZCu2euEY",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929219032659443924_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 43,
+    "replies": 10,
+    "retweets": 3,
+    "views": 11450,
+    "originVideos": ""
   }
 ]
