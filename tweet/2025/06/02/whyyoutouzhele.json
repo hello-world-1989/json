@@ -304,5 +304,23 @@
     "retweets": 0,
     "views": 2059,
     "originVideos": ""
+  },
+  {
+    "id": "1929296900441641167",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 06:00:00",
+    "content": "5月9日，网友拍摄重庆渝北区恒大中渝广场实体店现状\n商城成为一座空城，到处都是家家关门闭户，只有几家咖啡还有手机店在营业，服装店也在苦苦挣扎其它都搬走了。 https://t.co/gvJQPSNhou",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929296900441641167_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 3,
+    "retweets": 1,
+    "views": 2738,
+    "originVideos": "https://video.twimg.com/amplify_video/1929276973852835840/vid/avc1/320x568/sPexR9PClAoeQbix.mp4"
   }
 ]
