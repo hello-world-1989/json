@@ -196,5 +196,23 @@
     "retweets": 0,
     "views": 135,
     "originVideos": ""
+  },
+  {
+    "id": "1929272589853012223",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 04:23:24",
+    "content": "刚刚，乌克兰再次向俄罗斯本土发动了一次大规模无人机袭击 https://t.co/RS7XehFSM6 https://t.co/xVZCu2euEY",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929272589853012223_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 0,
+    "views": 3383,
+    "originVideos": ""
   }
 ]
