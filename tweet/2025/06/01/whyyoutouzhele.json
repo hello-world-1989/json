@@ -124,5 +124,23 @@
     "retweets": 5,
     "views": 5524,
     "originVideos": "https://video.twimg.com/amplify_video/1928895693323653120/vid/avc1/320x564/069REx2SmSZJajYi.mp4"
+  },
+  {
+    "id": "1928971506224165219",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 08:27:00",
+    "content": "5月30日，日本驻重庆总领馆透露，一名日本男子在重庆使用网约车软件时，遭遇出租车司机拒载并遭到人身攻击。 https://t.co/8cCrbh25B6",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1928971506224165219_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 4,
+    "retweets": 0,
+    "views": 1252,
+    "originVideos": ""
   }
 ]
