@@ -322,5 +322,41 @@
     "retweets": 1,
     "views": 2738,
     "originVideos": "https://video.twimg.com/amplify_video/1929276973852835840/vid/avc1/320x568/sPexR9PClAoeQbix.mp4"
+  },
+  {
+    "id": "1929300985576329419",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 06:16:14",
+    "content": "https://t.co/uxeEkTiWwT",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929300985576329419_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 587,
+    "originVideos": ""
+  },
+  {
+    "id": "1929299720549380235",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 06:11:12",
+    "content": "6月2日凌晨，蒋雨融开通多个国内社交平台账号，并发布回应文章澄清相关事实。蒋雨融表示，自己从小父母就分居离婚，与父亲接触较少，和母亲颠沛流离。自己的初中条件不好，还遭遇过校园霸凌。高中第二年考取了英国学术最严格的高中，没有后门。之后进入英国华威大学攻读政治经济哲学。后以优异的成绩在大三转学美国杜克大学。\n自己在申请哈佛大学肯尼迪学院研究生时，提交的三封推荐信分别是自己两名导师和自己在瑞士信贷时工作的小组长的推荐信。\n其父亲任职高管的绿色发展基金会确实为她开具了一封推荐信，但是由于哈佛申请推荐信份数限制，最后这封信并没有被提交。\n而自己也并非“大女主”，原生家庭非常破碎，父母常年缺位，虽然自己非常清楚自己比其他人幸运，家里可以负担4年英国学费，但是哈佛的研究生学费是自己毕业后攒下的所有积蓄。\n最后，她说，她非常理解一些人恶语相向或者愤世嫉俗，而自己在哈佛学到最重要的，是尝试去理解，共情一个完全在你世界之外的人。\n“在艰难的时代，保持柔软，不让心变得坚硬，是我最大的英雄主义。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929299720549380235_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929299720549380235_1.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929299720549380235_2.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929299720549380235_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 8,
+    "retweets": 2,
+    "views": 4350,
+    "originVideos": ""
   }
 ]
