@@ -16,5 +16,41 @@
     "retweets": 7,
     "views": 9476,
     "originVideos": ""
+  },
+  {
+    "id": "1929210931688395010",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 00:18:23",
+    "content": "一架俄军图95被摧毁的视频画面： https://t.co/bhRgh5nPob",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929210931688395010_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 447,
+    "originVideos": "https://video.twimg.com/amplify_video/1929210554259775488/vid/avc1/348x270/j7nnxjWisrw_9iZP.mp4"
+  },
+  {
+    "id": "1929210131239116982",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 00:15:12",
+    "content": "乌克兰军方透露，在过去一年，他们悄悄将FPV无人机走私到俄罗斯境内，再将无人机藏匿在卡车集装箱的木质夹层中，之后再由卡车途径俄罗斯基地。当靠近目标后，货车车顶被远程激活（一说是由附近的指挥车激活），操纵无人机蜂群起飞展开攻击。 \n视频显示，一名路过的司机惊恐地看着无人机从卡车上起飞，随后远处响起枪声。还有一些卡车在俄罗斯人检查时发生爆炸。\n乌军表示，所有参与此次行动的乌克兰人在袭击发生前均已返回乌克兰。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929210131239116982_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929210131239116982_0.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929210131239116982_1.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929210131239116982_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 4,
+    "retweets": 1,
+    "views": 8238,
+    "originVideos": "https://video.twimg.com/amplify_video/1929209545567465472/vid/avc1/320x320/1mnzSeONs9UP00xJ.mp4,https://video.twimg.com/amplify_video/1929209777562763264/vid/avc1/320x574/ihsmQDiQF8FYDrYZ.mp4,https://video.twimg.com/amplify_video/1929210029422309376/vid/avc1/320x320/1N1TbOmiafDSub_o.mp4"
   }
 ]
