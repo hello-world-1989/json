@@ -700,5 +700,23 @@
     "retweets": 0,
     "views": 8055,
     "originVideos": ""
+  },
+  {
+    "id": "1929127282716623208",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 18:46:00",
+    "content": "6月1日清晨，四川阿坝汶川县发生3.3级地震 \n6月1日下午，四川成都崇州市发生3.9级地震。 https://t.co/DyCqdT6EwL",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/01/1929127282716623208_0.jpg,/tweet/video/whyyoutouzhele/2025/06/01/1929127282716623208_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 1,
+    "views": 1888,
+    "originVideos": "https://video.twimg.com/amplify_video/1929123757999697920/vid/avc1/320x568/R6tOP6aMG4tX4-Kf.mp4,https://video.twimg.com/amplify_video/1929123765297745920/vid/avc1/320x568/OJ1WQtVAmGOj3BBL.mp4"
   }
 ]
