@@ -610,5 +610,23 @@
     "retweets": 1,
     "views": 6146,
     "originVideos": ""
+  },
+  {
+    "id": "1929114005655662987",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 17:53:14",
+    "content": "有博主表示，兰州方面的传唤和审讯都很不合规，中国没有电话传唤的先例。 https://t.co/6j8XGROXU1",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1929114005655662987_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1580,
+    "originVideos": ""
   }
 ]
