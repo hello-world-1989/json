@@ -808,5 +808,23 @@
     "retweets": 3,
     "views": 5453,
     "originVideos": ""
+  },
+  {
+    "id": "1929149680967098673",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 20:15:00",
+    "content": "近日，有上海市民发现，徐家汇地铁站7号口长廊的五卅运动纪念展的标语被替换。\n两周前，标语为“从前做牛马，以后要做人”\n现在标语被替换成了“抵制东洋资本家，中国人当帮助中国人”。 https://t.co/CbKalqDUts",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1929149680967098673_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2310,
+    "originVideos": ""
   }
 ]
