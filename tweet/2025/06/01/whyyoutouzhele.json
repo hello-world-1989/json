@@ -916,5 +916,41 @@
     "retweets": 4,
     "views": 2810,
     "originVideos": "https://video.twimg.com/amplify_video/1929156795068502016/vid/avc1/480x270/thH3ZGiraiCu0in-.mp4"
+  },
+  {
+    "id": "1929168870641651817",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 21:31:15",
+    "content": "突发\n乌克兰宣布在6月1日当天，使用蜂群无人机对俄罗斯本土的多个军事基地发动袭击，超过 40 架俄罗斯战机受损。  \n据报道，受损的机队包括 A-50 预警机、Tu-95 和 Tu-22M3 战略轰炸机等等。 https://t.co/Zw6IT7Qcd6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/01/1929168870641651817_0.jpg,/tweet/video/whyyoutouzhele/2025/06/01/1929168870641651817_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 62,
+    "replies": 15,
+    "retweets": 2,
+    "views": 6355,
+    "originVideos": "https://video.twimg.com/amplify_video/1929166947133927424/vid/avc1/474x270/_u2kvMQbRLJ8jmqW.mp4,https://video.twimg.com/amplify_video/1929166950678114304/vid/avc1/320x402/WS7w4MaDllJA5NEy.mp4"
+  },
+  {
+    "id": "1929168555582382473",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 21:30:00",
+    "content": "5月29日，网传某设计院的设计师被欠薪后，反手举报设计院使用盗版绘图软件，导致公司工作被迫中断接受检查。 https://t.co/4a38OWBGaO",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1929168555582382473_0.jpg,/tweet/image/whyyoutouzhele/2025/06/01/1929168555582382473_1.jpg,/tweet/image/whyyoutouzhele/2025/06/01/1929168555582382473_2.jpg,/tweet/image/whyyoutouzhele/2025/06/01/1929168555582382473_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 6,
+    "retweets": 1,
+    "views": 6430,
+    "originVideos": ""
   }
 ]
