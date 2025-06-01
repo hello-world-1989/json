@@ -718,5 +718,23 @@
     "retweets": 1,
     "views": 1888,
     "originVideos": "https://video.twimg.com/amplify_video/1929123757999697920/vid/avc1/320x568/R6tOP6aMG4tX4-Kf.mp4,https://video.twimg.com/amplify_video/1929123765297745920/vid/avc1/320x568/OJ1WQtVAmGOj3BBL.mp4"
+  },
+  {
+    "id": "1929130810931613948",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-01 19:00:01",
+    "content": "6月1日，美国汽车行业组织警告，由于来自中国的稀土磁铁即将出现短缺，美国的汽车工厂可能会在数周内被迫关闭。\n美国汽车创新联盟在一封写于5月9日，但此前未公开的信中告诉特朗普政府官员：“如果无法可靠地获得这些稀土元素和磁铁，汽车供应商将无法制造关键的汽车零部件，美国汽车工厂的正常运作将受到影响。\n“在严重的情况下，可能必须减少产量，甚至关闭汽车装配线”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/01/1929130810931613948_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 10,
+    "retweets": 1,
+    "views": 8266,
+    "originVideos": ""
   }
 ]
