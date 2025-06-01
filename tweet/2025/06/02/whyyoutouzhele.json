@@ -268,5 +268,23 @@
     "retweets": 0,
     "views": 794,
     "originVideos": "https://video.twimg.com/amplify_video/1929280153516900352/vid/avc1/320x568/jMYW75RkIUQQqUPz.mp4"
+  },
+  {
+    "id": "1929283937462788220",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 05:08:29",
+    "content": "随着乌克兰再度发起袭击，俄罗斯西部库尔斯克上空出现爆炸和防空活动。\n但是与此同时，俄罗斯也发动无人机袭击了乌克兰奥德萨地区的港口 https://t.co/0nPPvjl2oF https://t.co/A5Ge1XfK7p",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929283937462788220_0.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929283937462788220_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 218,
+    "originVideos": "https://video.twimg.com/amplify_video/1929283800585977856/vid/avc1/320x320/TCEMz1ZXl9vIKb0K.mp4,https://video.twimg.com/amplify_video/1929283807531687936/vid/avc1/320x580/0WrCFlMbztVOQp4T.mp4"
   }
 ]
