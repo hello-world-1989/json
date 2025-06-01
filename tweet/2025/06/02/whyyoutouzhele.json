@@ -358,5 +358,23 @@
     "retweets": 2,
     "views": 4350,
     "originVideos": ""
+  },
+  {
+    "id": "1929306599501279322",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 06:38:32",
+    "content": "网传5月30日，祁县商登高速一高架桥下方吊死了三名儿童。现场照片显示，三名儿童中，两名年龄较大的女孩约在14岁左右，较小的男孩约在6岁左右。\n另一张照片显示，三名儿童的尸体被解下，桥上空悬三根绳子。\n当地网友称，凶手为报复社会，目前还未抓到。 https://t.co/C5EXdOlTNj",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929306599501279322_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929306599501279322_1.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929306599501279322_2.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929306599501279322_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 353,
+    "originVideos": ""
   }
 ]
