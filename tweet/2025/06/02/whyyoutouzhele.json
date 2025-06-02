@@ -754,5 +754,23 @@
     "retweets": 37,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1929465562599743508",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 17:10:12",
+    "content": "5月30日，《穿越火线》宣布因游戏BUG下架“改名卡” https://t.co/8UmZlSL3Eo",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929465562599743508_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 4,
+    "retweets": 1,
+    "views": 3387,
+    "originVideos": ""
   }
 ]
