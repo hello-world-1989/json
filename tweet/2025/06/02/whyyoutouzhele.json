@@ -646,5 +646,23 @@
     "retweets": 8,
     "views": 11249,
     "originVideos": "https://video.twimg.com/amplify_video/1929440539750907904/vid/avc1/320x584/PySiadWR_B7uSRFc.mp4"
+  },
+  {
+    "id": "1929451496950886419",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 16:14:19",
+    "content": "美团多次被曝骑手工伤后被删号，疑似阻止工伤赔偿和仲裁。\n5月31日，山东一骑手送餐中遭遇严重车祸，美团对接人在颠覆一次医药费后消失，现在孩子需要转院做进一步治疗，美团拒绝工伤赔偿。\n美团强制骑手花钱买了指定保险，站长不让自己报保险，说你们不懂别报错了\n但站长操作后所有美团app都打不开了\n其亲属无奈前往美团站点维权。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929451496950886419_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929451496950886419_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929451496950886419_0.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929451496950886419_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 7,
+    "retweets": 3,
+    "views": 4955,
+    "originVideos": "https://video.twimg.com/amplify_video/1929451310014939136/vid/avc1/320x568/cIY070bOAFH3iCXO.mp4,https://video.twimg.com/amplify_video/1929451337932324864/vid/avc1/320x568/yi87pcpkufpsk2_8.mp4"
   }
 ]
