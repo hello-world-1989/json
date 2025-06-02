@@ -952,5 +952,41 @@
     "retweets": 0,
     "views": 5218,
     "originVideos": ""
+  },
+  {
+    "id": "1929510074730307950",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 20:07:05",
+    "content": "俄乌双方停火谈判正式开始\n双方的着装形成鲜明对比\n落座后，俄方代表们面如死灰。 https://t.co/KqfGFcPRz5 https://t.co/5KJIUOZI5I",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929510074730307950_0.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929510074730307950_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 7,
+    "retweets": 1,
+    "views": 2222,
+    "originVideos": "https://video.twimg.com/amplify_video/1929509791384117248/vid/avc1/480x270/RBKHXd2lB2PecG5X.mp4,https://video.twimg.com/amplify_video/1929509795465142272/vid/avc1/480x270/KcGtEMmPmC_FkwV8.mp4"
+  },
+  {
+    "id": "1929508304272900295",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 20:00:02",
+    "content": "5月28日，国家金融监管总局河南监管局门口，夏书云、刘晓璇等七名河南村镇银行储户被黑社会疯狂施暴，手机被抢劫，随行幼童亲眼目睹自己的母亲被打的遍地鳞伤。 https://t.co/Ek8AXlffLq",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929508304272900295_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 28,
+    "replies": 13,
+    "retweets": 4,
+    "views": 5297,
+    "originVideos": "https://video.twimg.com/amplify_video/1929478080134844416/vid/avc1/320x564/ng8OOhPGMfv0R9KN.mp4"
   }
 ]
