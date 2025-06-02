@@ -772,5 +772,23 @@
     "retweets": 1,
     "views": 3387,
     "originVideos": ""
+  },
+  {
+    "id": "1929474319429652988",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 17:45:00",
+    "content": "6月2日，俄罗斯网友拍到，伊尔库茨克地区大批卡车在公路上排队等待安全排查。 https://t.co/wnJuFdGYh9 https://t.co/xVZCu2euEY",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929474319429652988_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3603,
+    "originVideos": "https://video.twimg.com/amplify_video/1929466622495903744/vid/avc1/374x270/2-Qskbtbrm4503tz.mp4"
   }
 ]
