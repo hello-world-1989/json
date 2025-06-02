@@ -1060,5 +1060,23 @@
     "retweets": 6,
     "views": 11833,
     "originVideos": ""
+  },
+  {
+    "id": "1929535554678657063",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 21:48:19",
+    "content": "洛杉矶“六四”纪念馆将于6月2日下午2点正式开放\n地址为：3024 Peck Rd, El Monte, CA 91732 https://t.co/CtLxxbAzTq",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1014,
+    "originVideos": ""
   }
 ]
