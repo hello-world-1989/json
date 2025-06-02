@@ -34,5 +34,23 @@
     "retweets": 0,
     "views": 4815,
     "originVideos": ""
+  },
+  {
+    "id": "1929577673019322646",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 00:35:41",
+    "content": "端午节期间，西安熙地港购物中心的吊顶突然坍塌掉落，现场一片慌乱。 https://t.co/oWSkRwB5AB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929577673019322646_0.jpg,/tweet/video/whyyoutouzhele/2025/06/03/1929577673019322646_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 0,
+    "views": 4979,
+    "originVideos": "https://video.twimg.com/amplify_video/1929576810745835520/vid/avc1/320x568/yqbew47Pdy79EPtP.mp4,https://video.twimg.com/amplify_video/1929576834762502144/vid/avc1/480x270/n9l-aAE64mvM5_xl.mp4"
   }
 ]
