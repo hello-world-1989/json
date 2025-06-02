@@ -592,5 +592,23 @@
     "retweets": 1,
     "views": 4207,
     "originVideos": "https://video.twimg.com/amplify_video/1929435115282890752/vid/avc1/320x568/XG6ZVr8xa5RafY0i.mp4"
+  },
+  {
+    "id": "1929438920133251250",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 15:24:20",
+    "content": "6月2日 成都双流韵达工人罢工现场，多辆公安大巴车到达现场，可以看到视频中聚集了大量警察。 https://t.co/S9yEuW5T8W https://t.co/YMVH5JxMMG",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929438920133251250_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 5,
+    "retweets": 1,
+    "views": 3184,
+    "originVideos": "https://video.twimg.com/amplify_video/1929437728896434176/vid/avc1/320x568/DyJs2wyYq_tQjHQ8.mp4"
   }
 ]
