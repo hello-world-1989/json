@@ -1114,5 +1114,23 @@
     "retweets": 2,
     "views": 9638,
     "originVideos": ""
+  },
+  {
+    "id": "1929546043932180849",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 22:30:00",
+    "content": "5月22日，北京，中国通号拖欠工人工资，工人坐在门口讨薪。博主问，天子脚下也敢欠薪，啥样的后台这么硬。 https://t.co/ISnzd4o5Wq",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929546043932180849_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 11,
+    "retweets": 0,
+    "views": 7143,
+    "originVideos": "https://video.twimg.com/amplify_video/1929538371430256641/vid/avc1/320x568/E1-kRs81_s03gzUg.mp4"
   }
 ]
