@@ -628,5 +628,23 @@
     "retweets": 0,
     "views": 4405,
     "originVideos": "https://video.twimg.com/amplify_video/1929439392340602880/vid/avc1/320x568/xAwzPy3hmpXCdniI.mp4,https://video.twimg.com/amplify_video/1929439394865586176/vid/avc1/320x568/gfkgHEjpl6vgcfS3.mp4"
+  },
+  {
+    "id": "1929447895620567243",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 16:00:00",
+    "content": "6月2日清晨，北京天安门。\n在当天升旗仪式即将结束时，一名黑衣男子突然跨越栏杆，试图冲向国旗，被现场警卫一拥而上扑倒抬走。 https://t.co/F4zBF5P5Bf",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929447895620567243_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 74,
+    "replies": 23,
+    "retweets": 8,
+    "views": 11249,
+    "originVideos": "https://video.twimg.com/amplify_video/1929440539750907904/vid/avc1/320x584/PySiadWR_B7uSRFc.mp4"
   }
 ]
