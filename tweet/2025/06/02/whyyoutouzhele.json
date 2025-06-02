@@ -898,5 +898,23 @@
     "retweets": 0,
     "views": 3452,
     "originVideos": ""
+  },
+  {
+    "id": "1929495962243813387",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 19:11:00",
+    "content": "6月2日，美国商务部长卢特尼克表示，特朗普无意延长其全球性关税计划的暂缓期。他预期总统会在7月初、90天暂缓期结束时会坚持其关税立场。\n其中关键的贸易协议对象是中国。贝森特表示，中国“并非可靠的伙伴”，并称其在全球供应链中刻意拖延产品流通。 https://t.co/G876po3kiG",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929495962243813387_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 7,
+    "retweets": 2,
+    "views": 4664,
+    "originVideos": ""
   }
 ]
