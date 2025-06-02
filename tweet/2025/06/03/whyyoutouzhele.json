@@ -142,5 +142,23 @@
     "retweets": 1,
     "views": 1394,
     "originVideos": ""
+  },
+  {
+    "id": "1929644192411603180",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 05:00:01",
+    "content": "6月2日，户晨风宣布直播休息三天。被网友质疑是完美避开敏感日期 https://t.co/gYaWSrrbFg",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929644192411603180_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 5,
+    "retweets": 2,
+    "views": 6051,
+    "originVideos": ""
   }
 ]
