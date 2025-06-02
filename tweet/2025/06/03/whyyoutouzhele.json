@@ -88,5 +88,23 @@
     "retweets": 2,
     "views": 10324,
     "originVideos": "https://video.twimg.com/amplify_video/1929579621248372736/vid/avc1/320x568/pcz2_t3EQpz0Q3ya.mp4"
+  },
+  {
+    "id": "1929598894725357927",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 02:00:01",
+    "content": "近日，韩国进行大选。韩国街头出现了”今日香港，明日韩国“的标语。 https://t.co/Uo9Ddvdyof",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929598894725357927_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 59,
+    "replies": 7,
+    "retweets": 3,
+    "views": 7460,
+    "originVideos": ""
   }
 ]
