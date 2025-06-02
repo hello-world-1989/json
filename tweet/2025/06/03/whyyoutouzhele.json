@@ -106,5 +106,23 @@
     "retweets": 3,
     "views": 7460,
     "originVideos": ""
+  },
+  {
+    "id": "1929613994035192275",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 03:00:01",
+    "content": "网友投稿\n天津市北辰区高新大道86号中逸安科生物技术股份有限公司拖欠员工工资社保公积金长达半年。从2024年的8月拖欠至今，中间发过两个月的工资。社保公积金却一直未缴纳，该公司的员工们4月去仲裁（约有130人）都被强迫“和解”。老板曾承诺6月30号之前补齐，但现已找不到老板，社保局投诉也无回复。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 0,
+    "views": 4799,
+    "originVideos": ""
   }
 ]
