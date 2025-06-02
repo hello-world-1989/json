@@ -988,5 +988,23 @@
     "retweets": 4,
     "views": 5297,
     "originVideos": "https://video.twimg.com/amplify_video/1929478080134844416/vid/avc1/320x564/ng8OOhPGMfv0R9KN.mp4"
+  },
+  {
+    "id": "1929518392563679439",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 20:40:08",
+    "content": "5月13日，四川，成都西南勘测设计院博主吐槽今天收到工资了，只有可怜的1370元，比上月多了165元，据说是社保降了。 https://t.co/4uVODxqHm1",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929518392563679439_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929518392563679439_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 8,
+    "retweets": 4,
+    "views": 8200,
+    "originVideos": ""
   }
 ]
