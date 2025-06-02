@@ -484,5 +484,23 @@
     "retweets": 2,
     "views": 4690,
     "originVideos": ""
+  },
+  {
+    "id": "1929402597200568553",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 13:00:00",
+    "content": "近日，2024年地铁年报公布数据显示，在全国开通地铁的28座城市中，如果扣除补贴之后，只有福州地铁、上海地铁是盈利的，剩余其他26个城市全部亏损。\n其中亏损最为严重的是深圳（-407亿），北京（-216亿），苏州，青岛，郑州，成都等地紧随其后。 https://t.co/Qa8OQVDujh",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/02/1929402597200568553_0.jpg,/tweet/image/whyyoutouzhele/2025/06/02/1929402597200568553_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 43,
+    "replies": 16,
+    "retweets": 4,
+    "views": 9502,
+    "originVideos": ""
   }
 ]
