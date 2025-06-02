@@ -862,5 +862,23 @@
     "retweets": 1,
     "views": 3088,
     "originVideos": ""
+  },
+  {
+    "id": "1929485647737176436",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-02 18:30:01",
+    "content": "乌克兰和俄罗斯的谈判代表团陆续抵达伊斯坦布尔的齐拉宫举行会议，将于当天下午1点开启停火谈判。 https://t.co/jSx3FKw6Mq https://t.co/2kRDeiA40O",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/02/1929485647737176436_0.jpg,/tweet/video/whyyoutouzhele/2025/06/02/1929485647737176436_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 9,
+    "retweets": 3,
+    "views": 6875,
+    "originVideos": "https://video.twimg.com/amplify_video/1929478996212736000/vid/avc1/476x270/HOk9BZm4ZbKf3WfL.mp4,https://video.twimg.com/amplify_video/1929479000520331264/vid/avc1/476x270/6QmtybmRvOnM24Pm.mp4"
   }
 ]
