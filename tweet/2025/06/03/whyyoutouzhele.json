@@ -1078,5 +1078,41 @@
     "retweets": 6,
     "views": 6803,
     "originVideos": ""
+  },
+  {
+    "id": "1929904915494621434",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 22:16:02",
+    "content": "6月3日，韩国大选结果出炉，共同民主党候选人李在明战胜前总统尹锡悦所在的国民力量候选人金文洙，赢得总统大选，预计李在明将在首尔的住所外发表讲话。 https://t.co/V7zYUW06XK",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929904915494621434_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929904915494621434_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929904915494621434_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 8,
+    "retweets": 1,
+    "views": 2604,
+    "originVideos": "https://video.twimg.com/amplify_video/1929904644160970752/pl/gOk9bDiACZrwIpbq.m3u8?v=cfc"
+  },
+  {
+    "id": "1929904655527456964",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 22:15:00",
+    "content": "近日，微博上418万的音乐博主“real干大滋”表示支持国家远洋捕捞抓捕海棠作者。据悉，该博主本人也是男同性恋，曾发表过一系列的厌恶腐女的言论。 https://t.co/IScyc0xqU7",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929904655527456964_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929904655527456964_1.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929904655527456964_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 9,
+    "retweets": 0,
+    "views": 2794,
+    "originVideos": ""
   }
 ]
