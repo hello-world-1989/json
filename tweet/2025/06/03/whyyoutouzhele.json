@@ -880,5 +880,23 @@
     "retweets": 0,
     "views": 473,
     "originVideos": ""
+  },
+  {
+    "id": "1929862246072488137",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 19:26:29",
+    "content": "6月3日，墙内各大互联网平台开启一年一度的主动防御模式，通过这一措施，让全国人民记住这是一个敏感的日子。\n微博海外用户无法发送图片，微信无法修改头像\n知乎关闭了对个人简介和标签的修改功能。\n网易把魔兽世界怀旧服的集合石和世界频道关闭了\n原神无法修改签名和昵称\n阴阳师海外用户无法发言 https://t.co/zcjFXippum",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929862246072488137_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929862246072488137_1.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929862246072488137_2.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929862246072488137_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 7,
+    "retweets": 1,
+    "views": 1601,
+    "originVideos": ""
   }
 ]
