@@ -358,5 +358,23 @@
     "retweets": 5,
     "views": 1115,
     "originVideos": ""
+  },
+  {
+    "id": "1930036775415595447",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 07:00:00",
+    "content": "宝鸡眉县，一企业向渭河排污水，并且把渭河用铁丝网围起来，排水道用水泥挡板盖住，该网友发布视频后账号被禁。值得一提的是，中央环保督察组就在眉县。 https://t.co/d07SbEJwNj",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930036775415595447_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930036775415595447_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930036775415595447_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 6,
+    "retweets": 3,
+    "views": 2528,
+    "originVideos": "https://video.twimg.com/amplify_video/1930002653766946816/vid/avc1/320x568/onAFYdmDlzsUCien.mp4"
   }
 ]
