@@ -628,5 +628,41 @@
     "retweets": 3,
     "views": 7175,
     "originVideos": ""
+  },
+  {
+    "id": "1929820277346914457",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 16:39:43",
+    "content": "6月3日 中铁23局，花垣县十八洞紫霞湖美综合开发有限公司项目，自去年8月起拖欠工资至今，工人们无奈堵项目部办公室讨薪。 https://t.co/ERXiHLAG8A https://t.co/Fnrwv8N3Hx",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929820277346914457_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2,
+    "originVideos": "https://video.twimg.com/amplify_video/1929820119129378819/vid/avc1/320x568/_nExCz-dkBZedpQ2.mp4"
+  },
+  {
+    "id": "1929819470606057620",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 16:36:30",
+    "content": "“动视暴雪为俄乌战争指明方向”\n6月2日，《今日俄罗斯》称，乌克兰袭击俄罗斯的阴谋或源自电子游戏《使命召唤》。 https://t.co/59wDuAuL6i",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929819470606057620_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929819470606057620_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 1,
+    "retweets": 2,
+    "views": 1245,
+    "originVideos": "https://video.twimg.com/amplify_video/1929819403052634113/pl/1q9Z-DcEvq6ufwez.m3u8?v=f83"
   }
 ]
