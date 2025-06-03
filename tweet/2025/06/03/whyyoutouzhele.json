@@ -232,5 +232,23 @@
     "retweets": 2,
     "views": 6308,
     "originVideos": ""
+  },
+  {
+    "id": "1929697037823394148",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 08:30:00",
+    "content": "6月2日，东莞大朗阵杨涌村围村收费，因引起民愤，闹起来了，博主表示武警和公安都过来了，6月2日，6点多到十点围起来的围栏被全部拆除。 https://t.co/L2n3cFy1tC",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929697037823394148_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 2,
+    "retweets": 4,
+    "views": 4661,
+    "originVideos": "https://video.twimg.com/amplify_video/1929671951653523456/vid/avc1/320x568/WODQLWriFzP4IefA.mp4"
   }
 ]
