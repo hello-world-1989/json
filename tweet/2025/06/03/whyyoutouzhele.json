@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 2543,
     "originVideos": "https://video.twimg.com/amplify_video/1929793328612364288/vid/avc1/320x568/8IQrrLQiX9IAbkdw.mp4"
+  },
+  {
+    "id": "1929795190510047566",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 15:00:01",
+    "content": "知乎提问：为什么记者和律师里面，公知特别多？\n很容易出公知的原因其实非常简单。因为他们发现自己在现有体系下，根本没有用。\n甚至可以说，在大陆刑事法庭上，律师几乎就是小丑。法官、检查看着他们表演，但凡理你，就算我输。 https://t.co/jJy0hl0EuM",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929795190510047566_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929795190510047566_1.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929795190510047566_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 48,
+    "replies": 4,
+    "retweets": 3,
+    "views": 4922,
+    "originVideos": ""
   }
 ]
