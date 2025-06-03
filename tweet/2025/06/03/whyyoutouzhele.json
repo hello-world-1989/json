@@ -394,5 +394,23 @@
     "retweets": 3,
     "views": 3939,
     "originVideos": "https://video.twimg.com/amplify_video/1929672211507429376/vid/avc1/320x568/DM9YECmE75D6JPFf.mp4"
+  },
+  {
+    "id": "1929749886250991661",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 12:00:00",
+    "content": "网友投稿：《为什么我们要记住六四》 https://t.co/FYmMpMZNKs",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929749886250991661_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 68,
+    "replies": 10,
+    "retweets": 12,
+    "views": 4098,
+    "originVideos": "https://video.twimg.com/amplify_video/1929615923029127168/vid/avc1/480x270/i_dsowCEoXuJHUT1.mp4"
   }
 ]
