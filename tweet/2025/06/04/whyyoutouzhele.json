@@ -376,5 +376,23 @@
     "retweets": 3,
     "views": 2528,
     "originVideos": "https://video.twimg.com/amplify_video/1930002653766946816/vid/avc1/320x568/onAFYdmDlzsUCien.mp4"
+  },
+  {
+    "id": "1930044327679410548",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 07:30:00",
+    "content": "6月3日，广东东城壹品，讨薪博主表示，农民工真的苦，辛辛苦苦打工，干了几月就连生活费都拿不到。又堵工地大门了。政府能不能帮农民工发发声，非要次次堵门口。堵了两天了。 https://t.co/2QQ40SJP4k",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930044327679410548_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930044327679410548_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930044327679410548_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 8,
+    "retweets": 1,
+    "views": 3109,
+    "originVideos": "https://video.twimg.com/amplify_video/1930026954926751744/vid/avc1/320x568/ISySbwNnnShBCqlC.mp4"
   }
 ]
