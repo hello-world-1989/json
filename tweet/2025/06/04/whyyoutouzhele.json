@@ -160,5 +160,23 @@
     "retweets": 0,
     "views": 2369,
     "originVideos": ""
+  },
+  {
+    "id": "1929961278681784398",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 02:00:00",
+    "content": "近日，有网友用《西游记》的画面和人物来制作官方反腐通报的模仿视频，收获大量点赞。 https://t.co/OyOdyRcwLl",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1929961278681784398_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 7,
+    "retweets": 4,
+    "views": 3067,
+    "originVideos": "https://video.twimg.com/amplify_video/1929922975429496832/vid/avc1/482x360/adlOVFeE2Md7MuFB.mp4"
   }
 ]
