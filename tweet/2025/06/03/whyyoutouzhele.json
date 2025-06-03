@@ -952,5 +952,23 @@
     "retweets": 0,
     "views": 857,
     "originVideos": ""
+  },
+  {
+    "id": "1929878233455251797",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 20:30:00",
+    "content": "6月3日凌晨，乌克兰安全局再度袭击了克里米亚大桥。\n这是该局第三次成功袭击该大桥，这次使用了水下炸药。  此次行动已筹划数月，包括在桥梁水下支撑架上放置炸药。根据初步评估，该桥目前状况危急。  \n乌克兰安全局局长瓦西里·马柳克中将亲自监督并协调了此次行动。他表示，由于俄罗斯军队使用这座桥进行后勤支援，因此该桥仍然是合法的军事目标。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929878233455251797_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929878233455251797_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929878233455251797_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 44,
+    "replies": 10,
+    "retweets": 1,
+    "views": 6141,
+    "originVideos": "https://video.twimg.com/amplify_video/1929876772486615040/vid/avc1/1280x720/kRudKNwgTChtssPN.mp4"
   }
 ]
