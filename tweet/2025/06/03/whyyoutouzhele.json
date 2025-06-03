@@ -484,5 +484,23 @@
     "retweets": 0,
     "views": 1303,
     "originVideos": "https://video.twimg.com/amplify_video/1929791309688311808/vid/avc1/320x568/JRrQxKlVa7Evvnt5.mp4,https://video.twimg.com/amplify_video/1929791309688274944/vid/avc1/320x568/Ja8UKjaY_Tb2qNvq.mp4"
+  },
+  {
+    "id": "1929793734972956889",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 14:54:14",
+    "content": "6月2日，福建莆田市城厢区，中建五局拖欠工人薪资，工人无奈冒雨用身体堵住马路，维权讨薪。 https://t.co/EURowhKS7O",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929793734972956889_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929793734972956889_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 0,
+    "views": 2543,
+    "originVideos": "https://video.twimg.com/amplify_video/1929793328612364288/vid/avc1/320x568/8IQrrLQiX9IAbkdw.mp4"
   }
 ]
