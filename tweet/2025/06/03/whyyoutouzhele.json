@@ -250,5 +250,23 @@
     "retweets": 4,
     "views": 4661,
     "originVideos": "https://video.twimg.com/amplify_video/1929671951653523456/vid/avc1/320x568/WODQLWriFzP4IefA.mp4"
+  },
+  {
+    "id": "1929702070040305882",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 08:50:00",
+    "content": "6月2日，网传西南交通大学130周年校庆募捐页面，出现大量冲塔昵称。 https://t.co/b2omqaCgd0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929702070040305882_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929702070040305882_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 71,
+    "replies": 19,
+    "retweets": 3,
+    "views": 14453,
+    "originVideos": ""
   }
 ]
