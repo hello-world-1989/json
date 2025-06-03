@@ -1024,5 +1024,41 @@
     "retweets": 4,
     "views": 5906,
     "originVideos": "https://video.twimg.com/amplify_video/1929885375285075968/vid/avc1/320x568/0FiDlWJpHtsav2aP.mp4"
+  },
+  {
+    "id": "1929900159908905439",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 21:57:08",
+    "content": "6月3日，重庆，广东陆续宣布国家补贴活动中止。 https://t.co/eE1U6LzvE4 https://t.co/sloWMrjbt0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/03/1929900159908905439_0.jpg,/tweet/image/whyyoutouzhele/2025/06/03/1929900159908905439_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 4,
+    "retweets": 0,
+    "views": 2074,
+    "originVideos": ""
+  },
+  {
+    "id": "1929898415069987282",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 21:50:12",
+    "content": "网友评论： https://t.co/lhosDfFp8G",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929898415069987282_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 2,
+    "retweets": 2,
+    "views": 4089,
+    "originVideos": "https://video.twimg.com/amplify_video/1929898336997228545/vid/avc1/320x568/jyvv0IpWpWyFY2hV.mp4"
   }
 ]
