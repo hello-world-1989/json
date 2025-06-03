@@ -250,5 +250,23 @@
     "retweets": 4,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1930019075981209898",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 05:49:40",
+    "content": "网友投稿\n6月4日午夜，学习通APP上，网友们开始冲塔。 https://t.co/yjuNohyvrD",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930019075981209898_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930019075981209898_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 4,
+    "originVideos": ""
   }
 ]
