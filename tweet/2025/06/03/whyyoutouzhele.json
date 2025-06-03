@@ -1276,5 +1276,23 @@
     "retweets": 0,
     "views": 5018,
     "originVideos": "https://video.twimg.com/amplify_video/1929882504221061121/vid/avc1/320x568/VrAXSIlWiRtasjIr.mp4,https://video.twimg.com/amplify_video/1929882505190031360/vid/avc1/480x270/YNWTSGhVj8Z8u266.mp4,https://video.twimg.com/amplify_video/1929882504246255616/vid/avc1/320x568/9mbRkJdYsqddkS4N.mp4"
+  },
+  {
+    "id": "1929927304475750741",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-03 23:45:00",
+    "content": "@LSPactual 网友拍摄的现场画面 https://t.co/eBbPnF0Qz8",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/03/1929927304475750741_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 0,
+    "retweets": 3,
+    "views": 935,
+    "originVideos": "https://video.twimg.com/amplify_video/1929907196520783872/vid/avc1/480x270/bbFGCB-KksNjDH-B.mp4"
   }
 ]
