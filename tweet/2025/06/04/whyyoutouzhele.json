@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 1940,
     "originVideos": ""
+  },
+  {
+    "id": "1929946183738269890",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 01:00:01",
+    "content": "6月3日，由于在移民问题上发生分歧，荷兰议会第一大党自由党（PVV）的党魁维尔德斯宣布退出执政联盟，荷兰政府垮台。PVV在荷兰被视为极右翼，主张限制移民，冻结庇护申请。 https://t.co/9rba3yXOWs",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1929946183738269890_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 6,
+    "retweets": 0,
+    "views": 4285,
+    "originVideos": ""
   }
 ]
