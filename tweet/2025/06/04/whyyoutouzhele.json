@@ -196,5 +196,23 @@
     "retweets": 4,
     "views": 3536,
     "originVideos": ""
+  },
+  {
+    "id": "1929991481491689943",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 04:00:01",
+    "content": "近日，中国多地宣布加强管控，严防战略矿产非法外流。 https://t.co/4SHGly4ppp",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1929991481491689943_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1929991481491689943_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 0,
+    "views": 1878,
+    "originVideos": ""
   }
 ]
