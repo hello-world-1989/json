@@ -106,5 +106,23 @@
     "retweets": 0,
     "views": 4285,
     "originVideos": ""
+  },
+  {
+    "id": "1929949953775865944",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 01:15:00",
+    "content": "6月3日，有网友拍到北京上空直升机编队飞行，疑似9.3阅兵排练。据官方消息，今年9月3日，中国将隆重纪念中国人民抗日战争暨世界反法西斯战争胜利80周年。 https://t.co/Rhqizucg1n",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1929949953775865944_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1929949953775865944_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 6,
+    "retweets": 2,
+    "views": 1957,
+    "originVideos": "https://video.twimg.com/amplify_video/1929915279791804416/vid/avc1/480x270/iT5TD7qFBVxnrj6k.mp4"
   }
 ]
