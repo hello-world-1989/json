@@ -322,5 +322,23 @@
     "retweets": 2,
     "views": 2163,
     "originVideos": ""
+  },
+  {
+    "id": "1930029227018981670",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 06:30:00",
+    "content": "6月3日，马斯克在推特上严厉抨击了特朗普政府与共和党国会议员通过的2025财年国会支出法案。他称，“这项巨大、荒谬、充斥着政治利益的开支法案是令人厌恶的丑恶行为，那些投票支持它的人应该感到羞耻”，“这将使已经巨大的预算赤字大幅增加到 2.5 万亿美元！并使美国公民背负沉重且不可持续的债务”。 https://t.co/8oSBYJd7U0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930029227018981670_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930029227018981670_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 9,
+    "retweets": 3,
+    "views": 3381,
+    "originVideos": ""
   }
 ]
