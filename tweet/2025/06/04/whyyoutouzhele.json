@@ -1006,5 +1006,23 @@
     "retweets": 5,
     "views": 8483,
     "originVideos": ""
+  },
+  {
+    "id": "1930190790619476005",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 17:12:00",
+    "content": "6月4日 140天内韩国换了3人总统登上微博热搜。\n6月4日 习近平也致电恭喜李在明当选韩国总统，并称“中韩互为重要近邻和合作伙伴”\n多家官媒报道称“中韩关系将回暖，李在明当选后韩国不会再完全倒向美国” https://t.co/nqQbQpf3EJ https://t.co/uAaRtkJV61",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930190790619476005_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930190790619476005_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 59,
+    "replies": 18,
+    "retweets": 1,
+    "views": 26580,
+    "originVideos": ""
   }
 ]
