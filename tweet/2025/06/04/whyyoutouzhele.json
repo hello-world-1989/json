@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 4722,
     "originVideos": ""
+  },
+  {
+    "id": "1930142062286123514",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 13:58:22",
+    "content": "6月4日 微信已经无法搜索到“坦克、天安门、蜡烛”等等的表情包。\n但搜索“战争”仍然可以找到4个坦克列队开的表情，搜索“悼念”可以找到蜡烛，搜索“故宫”也会跳出包含天安门的结果。 https://t.co/pZ8IkE8AK1",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930142062286123514_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930142062286123514_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930142062286123514_2.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930142062286123514_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 1,
+    "views": 696,
+    "originVideos": ""
   }
 ]
