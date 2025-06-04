@@ -484,5 +484,23 @@
     "retweets": 4,
     "views": 3801,
     "originVideos": "https://video.twimg.com/amplify_video/1930027811160350720/vid/avc1/320x568/G9Yndxryl78cEhpo.mp4"
+  },
+  {
+    "id": "1930082075346120782",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 10:00:00",
+    "content": "网友投稿\n京东秒送小队里存在黑幕，小队长能自己调单，在远少于别人的时间内完成更多的单子。有全职骑手看不过去举报，结果不起作用。 https://t.co/CxiYZrP3St",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930082075346120782_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930082075346120782_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930082075346120782_2.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930082075346120782_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 4,
+    "retweets": 0,
+    "views": 4720,
+    "originVideos": ""
   }
 ]
