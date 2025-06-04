@@ -628,5 +628,41 @@
     "retweets": 4,
     "views": 6263,
     "originVideos": ""
+  },
+  {
+    "id": "1930134607602823212",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 13:28:45",
+    "content": "北京时间下午1点，该视频在微博发出约2小时后，共有173条评论和762点赞，但评论全部被隐藏。\n有网友在英国大使馆其余微博下评论为其点赞，但也有网友评论威胁“让英国使馆识相一点”甚至辱骂“JianB”。 https://t.co/JlzuIIv12L",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930134607602823212_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930134607602823212_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 244,
+    "originVideos": ""
+  },
+  {
+    "id": "1930133398997377341",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 13:23:57",
+    "content": "6月4日 早上11点左右，英国驻华大使馆在其微博分享了一个纪念64的视频，视频的背景逐渐从马路变换成一张白纸，但是坦克人依然站立在那，似乎在面对着什么看不见的东西。\n北京时间下午1点10分，该视频仍在英国使馆微博首页。\n但1分钟后，它在我的眼前突然消失了，再也搜不到，仿佛好像从未出现过一样。 https://t.co/kpTnICjXIZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930133398997377341_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930133398997377341_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 53,
+    "replies": 9,
+    "retweets": 6,
+    "views": 4057,
+    "originVideos": ""
   }
 ]
