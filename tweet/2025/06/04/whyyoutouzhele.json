@@ -1186,5 +1186,23 @@
     "retweets": 0,
     "views": 1713,
     "originVideos": "https://video.twimg.com/amplify_video/1930222067800064000/vid/avc1/480x270/YLX5QEBqc5qbj_E-.mp4"
+  },
+  {
+    "id": "1930225412602318868",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 19:29:34",
+    "content": "网友投稿\nDeepSeek 在6月4日当天，展现出了超越人工智能的“情商”： https://t.co/1WA4FeyLCU https://t.co/dw97oLX6CR",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930225412602318868_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930225412602318868_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 4,
+    "retweets": 3,
+    "views": 12407,
+    "originVideos": ""
   }
 ]
