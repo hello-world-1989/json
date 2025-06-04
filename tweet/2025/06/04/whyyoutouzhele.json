@@ -538,5 +538,23 @@
     "retweets": 1,
     "views": 5356,
     "originVideos": "https://video.twimg.com/amplify_video/1929942659256184832/vid/avc1/320x710/zwiFfYRHCMCpUY41.mp4"
+  },
+  {
+    "id": "1930097175134191865",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 11:00:00",
+    "content": "6月3日，中国各大官媒报道，晨间咨询公司（Morning Consult）的最新民调显示，中国的全球好感度逐渐提升，与此同时，国际社会对美国的评价却明显下滑。根据调查，美国的净好感度已由2024年初的正数20以上，大幅下跌至2025年5月底的-1.5，而中国则上升至+8.8，这是中国首次在这项数据上超越美国。 https://t.co/Q7bhgOCv5z",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930097175134191865_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930097175134191865_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930097175134191865_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930097175134191865_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 9,
+    "retweets": 1,
+    "views": 5125,
+    "originVideos": "https://video.twimg.com/amplify_video/1929937406666342400/vid/avc1/320x710/GjuKlQr1b7B0P8uy.mp4"
   }
 ]
