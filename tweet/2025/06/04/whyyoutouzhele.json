@@ -1510,5 +1510,23 @@
     "retweets": 2,
     "views": 5456,
     "originVideos": ""
+  },
+  {
+    "id": "1930285919283884132",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:30:00",
+    "content": "6月4日，赖清德在脸书上发文纪念六四运动。他说：“纪念六四天安门事件，不只为了悼念历史，更是为了延续这段记忆。威权政府，往往对历史选择噤声与遗忘；民主社会，则是选择保存真相，拒绝遗忘那些为人权理念付出的人—以及他们所怀抱的梦想。” https://t.co/eyuUHVeZrQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930285919283884132_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930285919283884132_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 54,
+    "replies": 9,
+    "retweets": 4,
+    "views": 10204,
+    "originVideos": ""
   }
 ]
