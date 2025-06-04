@@ -520,5 +520,23 @@
     "retweets": 2,
     "views": 2328,
     "originVideos": "https://video.twimg.com/amplify_video/1930031897591083008/vid/avc1/320x568/zeK-hqCOtUNmTOmC.mp4"
+  },
+  {
+    "id": "1930089623738294479",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 10:30:00",
+    "content": "近日，有网友问deepseek它的审查机制，一开始deepseek拒绝回答，后面经过不断追问，deepseek才给出一个答案。评论区还有网友评论，他和ds讨论了一下威权主义，直接就被拦截了。 https://t.co/sWsOXGnUH5",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930089623738294479_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930089623738294479_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930089623738294479_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930089623738294479_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 2,
+    "retweets": 1,
+    "views": 5356,
+    "originVideos": "https://video.twimg.com/amplify_video/1929942659256184832/vid/avc1/320x710/zwiFfYRHCMCpUY41.mp4"
   }
 ]
