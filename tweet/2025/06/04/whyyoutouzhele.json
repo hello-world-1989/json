@@ -1438,5 +1438,41 @@
     "retweets": 0,
     "views": 158,
     "originVideos": ""
+  },
+  {
+    "id": "1930279626548621850",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:05:00",
+    "content": "6月4日，加拿大驻华大使馆发微博：反思历史及其教训非常重要。今天，我们向那些和平捍卫言论、集会和结社自由的人们致敬，无论他们身处何地。 https://t.co/xfmGrxDA2g",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930279626548621850_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 1,
+    "retweets": 1,
+    "views": 2250,
+    "originVideos": ""
+  },
+  {
+    "id": "1930278370040000584",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:00:00",
+    "content": "据玩家投稿称，《坦克世界闪电战》近期的审查有：没法改名，聊天没法发消息，军团名字被自动隐藏。 https://t.co/zu1x2ra7Ci",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930278370040000584_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 1,
+    "views": 4717,
+    "originVideos": ""
   }
 ]
