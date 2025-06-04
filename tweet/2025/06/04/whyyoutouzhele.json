@@ -610,5 +610,23 @@
     "retweets": 0,
     "views": 158,
     "originVideos": "https://video.twimg.com/amplify_video/1930029113600811008/vid/avc1/320x426/pmIkF8iOr_hT6Vb1.mp4"
+  },
+  {
+    "id": "1930127376912134640",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 13:00:01",
+    "content": "网友投稿\n今天的豆包AI不让画蜡烛了 https://t.co/fzHl0TwJty",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930127376912134640_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 44,
+    "replies": 11,
+    "retweets": 4,
+    "views": 6263,
+    "originVideos": ""
   }
 ]
