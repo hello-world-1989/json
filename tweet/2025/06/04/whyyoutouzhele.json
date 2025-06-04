@@ -1294,5 +1294,41 @@
     "retweets": 0,
     "views": 10254,
     "originVideos": "https://video.twimg.com/amplify_video/1930236265431003136/vid/avc1/320x710/1y3cdTYIeEfzNGla.mp4"
+  },
+  {
+    "id": "1930248496335995039",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 21:01:18",
+    "content": "网友投稿\n今天在北京某处，看到有人涂鸦，让我非常震撼： “坦克碾不碎真理，自由终将战胜专制。” \n不知是谁写的，但在这个日子，这几句话格外有力量。\n36年过去了，还有人没有忘记。 请您帮忙转发出去，让更多人看到，也许这是某位良心未泯者留下的一点呐喊！ https://t.co/5cu0VgwiYT",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930248496335995039_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930248496335995039_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930248496335995039_2.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930248496335995039_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 104,
+    "replies": 10,
+    "retweets": 7,
+    "views": 9673,
+    "originVideos": ""
+  },
+  {
+    "id": "1930248173370450241",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 21:00:01",
+    "content": "网友投稿：《星火》\n纪念六四36周年 https://t.co/WNoKazbsfE",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930248173370450241_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 2,
+    "retweets": 4,
+    "views": 5630,
+    "originVideos": "https://video.twimg.com/amplify_video/1930229975203958784/vid/avc1/320x690/3HM70pSudGO-gOmC.mp4"
   }
 ]
