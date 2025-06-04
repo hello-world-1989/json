@@ -1474,5 +1474,41 @@
     "retweets": 1,
     "views": 4717,
     "originVideos": ""
+  },
+  {
+    "id": "1930282143218852236",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:15:00",
+    "content": "瑞典驻华大使馆则用自己历史上的一次武力镇压民众示威造成悲剧的事件含沙射影隐喻六四。瑞典大使馆称，“作为奥达伦枪击事件的直接后果之一，瑞典从此禁止在和平时期的社会冲突中使用军队。” https://t.co/XykD2B8CVs",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930282143218852236_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 1,
+    "retweets": 2,
+    "views": 3099,
+    "originVideos": ""
+  },
+  {
+    "id": "1930280884600525250",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:10:00",
+    "content": "瑞士驻华大使馆引用《西线无战事》作家埃里希·玛利亚·雷马克发微博：\n记忆赋予我们声音，也铭刻着历史的印记；\n而没有记忆，我们将不知何去何从。 https://t.co/gu6pSdtJI9",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930280884600525250_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 49,
+    "replies": 2,
+    "retweets": 2,
+    "views": 5456,
+    "originVideos": ""
   }
 ]
