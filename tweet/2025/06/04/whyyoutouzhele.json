@@ -394,5 +394,23 @@
     "retweets": 1,
     "views": 3109,
     "originVideos": "https://video.twimg.com/amplify_video/1930026954926751744/vid/avc1/320x568/ISySbwNnnShBCqlC.mp4"
+  },
+  {
+    "id": "1930051875635662853",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 08:00:00",
+    "content": "https://t.co/Rgg6SqmrOX \n大连市第二中学 学生投稿 https://t.co/jOSJhI1aKs",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930051875635662853_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 4,
+    "retweets": 4,
+    "views": 4250,
+    "originVideos": ""
   }
 ]
