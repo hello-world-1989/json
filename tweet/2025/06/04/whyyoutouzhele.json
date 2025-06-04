@@ -1366,5 +1366,23 @@
     "retweets": 5,
     "views": 4960,
     "originVideos": ""
+  },
+  {
+    "id": "1930270820028362790",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 22:30:00",
+    "content": "有网友在户晨风宣布停播3天的动态下面发了一个“理解”，随后带了个白蜡烛🕯️，不出30秒评论就被删除了，再次发布相同的评论，却显示“重复评论，请勿刷屏”。 https://t.co/8vowWNim4k https://t.co/mIwIkyalCI",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930270820028362790_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930270820028362790_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 1,
+    "retweets": 6,
+    "views": 13282,
+    "originVideos": ""
   }
 ]
