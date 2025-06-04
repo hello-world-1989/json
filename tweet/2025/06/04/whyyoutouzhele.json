@@ -1078,5 +1078,41 @@
     "retweets": 4,
     "views": 5184,
     "originVideos": ""
+  },
+  {
+    "id": "1930214876242124966",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 18:47:42",
+    "content": "有聊天记录显示，现场至少有3人受伤，在被围堵后，该学生开始自残 https://t.co/w3VuQdviaU",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930214876242124966_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930214876242124966_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1381,
+    "originVideos": ""
+  },
+  {
+    "id": "1930214031299674182",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 18:44:21",
+    "content": "@visegrad24 If you want to know what happened in Beijing on June 4, please read this thread\nhttps://t.co/Edex56epFi",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 1,
+    "views": 329,
+    "originVideos": ""
   }
 ]
