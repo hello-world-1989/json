@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 4720,
     "originVideos": ""
+  },
+  {
+    "id": "1930085848889819181",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 10:15:00",
+    "content": "6月3日晚，山西临汾市西关彩虹桥，一名年轻男子跳桥，网友问这是临汾今年第几个自杀了啊，网友跟帖回复道，两天内就自杀了三个。 https://t.co/GGaaN3oejN",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930085848889819181_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930085848889819181_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930085848889819181_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 2,
+    "views": 2328,
+    "originVideos": "https://video.twimg.com/amplify_video/1930031897591083008/vid/avc1/320x568/zeK-hqCOtUNmTOmC.mp4"
   }
 ]
