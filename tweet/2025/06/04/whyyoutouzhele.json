@@ -1528,5 +1528,23 @@
     "retweets": 4,
     "views": 10204,
     "originVideos": ""
+  },
+  {
+    "id": "1930289273653068211",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 23:43:20",
+    "content": "6月4日晚，台北举行“六四36周年”悼念晚会。尽管遭遇炸弹威胁和大雨，现场依然聚集了大量市民前往支持。\n在香港沦陷的当下，我们应该怎样互相勉励、互相合作来对抗极权主义扩张？李老师通过视频发表讲话寄语台湾民众。 https://t.co/62IpYswhx3",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930289273653068211_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 157,
+    "replies": 15,
+    "retweets": 15,
+    "views": 15786,
+    "originVideos": "https://video.twimg.com/amplify_video/1930282587848585216/vid/avc1/780x360/ycdVo_PFWQXDqbFB.mp4"
   }
 ]
