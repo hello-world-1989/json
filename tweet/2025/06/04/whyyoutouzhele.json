@@ -1258,5 +1258,41 @@
     "retweets": 0,
     "views": 3,
     "originVideos": ""
+  },
+  {
+    "id": "1930242928829481019",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 20:39:11",
+    "content": "@JohnSimpsonNews To find out what happened in Beijing on June 4, read this threads：\nhttps://t.co/NeSoXza1Kc",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 13,
+    "originVideos": ""
+  },
+  {
+    "id": "1930240622008643629",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 20:30:01",
+    "content": "6月4日，网友发现微信转账金额如果设置为0.64或其它与八九六四相关的数字就无法成功转出，界面显示“系统繁忙，请稍后再试”。但设置为0.63就可以转出。网友称，这一控制大概发生在下午5点到晚上7点左右，私聊有概率触发，但群发一定会被触发。 https://t.co/HFZBIvUrb8",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930240622008643629_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930240622008643629_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930240622008643629_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 9,
+    "retweets": 0,
+    "views": 10254,
+    "originVideos": "https://video.twimg.com/amplify_video/1930236265431003136/vid/avc1/320x710/1y3cdTYIeEfzNGla.mp4"
   }
 ]
