@@ -970,5 +970,23 @@
     "retweets": 1,
     "views": 7628,
     "originVideos": ""
+  },
+  {
+    "id": "1930177955881488407",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 16:21:00",
+    "content": "武汉市监局今年第四期食品安全抽检，曝光武汉多家学校和大学食堂存在食品安全问题，目前此次检测公示文件已被删除。\n华中科技大学的鸡蛋，检出禁药甲硝唑，多西环素超标2650％\n武昌理工学院的花生米，黄曲霉毒素B超标1900%\n中南财经政法大学（学生十食堂）餐具检出大肠菌群、洗涤剂残留\n中国地质大学（武汉）的山药检出农残超标\n一外语学校的鸡蛋，检出禁药地美硝唑、甲氧苄啶超标2410%，磺胺类（总量）超标21900%",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930177955881488407_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930177955881488407_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930177955881488407_2.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930177955881488407_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 6,
+    "retweets": 4,
+    "views": 4861,
+    "originVideos": ""
   }
 ]
