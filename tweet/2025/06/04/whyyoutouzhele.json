@@ -574,5 +574,23 @@
     "retweets": 0,
     "views": 497,
     "originVideos": "https://video.twimg.com/amplify_video/1930028107919941632/vid/avc1/320x568/65kgqJZJWAMPXDCH.mp4,https://video.twimg.com/amplify_video/1930028442231132160/vid/avc1/320x568/sQMsRQ52WT3d4ucd.mp4,https://video.twimg.com/amplify_video/1930028647039045632/vid/avc1/320x568/ADcbtLPp56NtkCyD.mp4,https://video.twimg.com/amplify_video/1930028866032070656/vid/avc1/320x568/EuS_qXGIJJXtRUha.mp4"
+  },
+  {
+    "id": "1930112275324551266",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 12:00:00",
+    "content": "网友投稿\n6月4日，成都天桥上的守桥员。 https://t.co/YNKSRaLsw0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930112275324551266_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 74,
+    "replies": 10,
+    "retweets": 5,
+    "views": 7209,
+    "originVideos": ""
   }
 ]
