@@ -286,5 +286,23 @@
     "retweets": 0,
     "views": 8,
     "originVideos": "https://video.twimg.com/amplify_video/1930368844003991552/vid/avc1/320x568/g0Iv5Eh67DL6gDCm.mp4"
+  },
+  {
+    "id": "1930368970722553925",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 05:00:01",
+    "content": "6月3日，重庆一老人在网上申冤。老人叫刘源平，曾在原北京军区六十三军一八八师五六三团服役，他的孙子刘泓邑在重庆市涪陵区二中上学，期间被校园霸凌致死，案件一直没得到公正审理，二十一天过去，尸体仍未能安葬。老人无奈进京上访 ，结果被拦截，只拿到了案件受理回执，现在案情仍毫无进展。 https://t.co/hdg4HPdc7L",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930368970722553925_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 6,
+    "retweets": 1,
+    "views": 2142,
+    "originVideos": "https://video.twimg.com/amplify_video/1930308015917281280/vid/avc1/320x568/echWFPcE62OwT8pk.mp4"
   }
 ]
