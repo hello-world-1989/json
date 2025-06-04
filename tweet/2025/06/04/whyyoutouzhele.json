@@ -430,5 +430,23 @@
     "retweets": 3,
     "views": 4282,
     "originVideos": "https://video.twimg.com/amplify_video/1930027565801971712/vid/avc1/320x568/xwUDZL42dkaseEXJ.mp4"
+  },
+  {
+    "id": "1930066980859678746",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 09:00:01",
+    "content": "六四期间，音乐手游《初音未来缤纷舞台》禁止使用文字搜索歌曲；游戏内大部分文字输入功能，自定义名片也被暂时禁止。网友反映无法输入编队名称，只能使用系统自动提供的默认名称。为了防止玩家在虚拟演唱会期间利用公屏冲塔，游戏内的虚拟演唱会举办场次也跳过了6月4日。 https://t.co/z4YRVUTTzg",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930066980859678746_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930066980859678746_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930066980859678746_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 39,
+    "replies": 4,
+    "retweets": 3,
+    "views": 4890,
+    "originVideos": ""
   }
 ]
