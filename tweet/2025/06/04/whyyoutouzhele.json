@@ -1024,5 +1024,23 @@
     "retweets": 1,
     "views": 26580,
     "originVideos": ""
+  },
+  {
+    "id": "1930198591873921139",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 17:43:00",
+    "content": "6月4日 有抖音博主被抖音直播专员警告，“今日直播不要说64这个数字，不管是价格、圈口还是商品编号，非常敏感，一定要提醒主播注意。” https://t.co/k8u3BZUoVU",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930198591873921139_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 63,
+    "replies": 13,
+    "retweets": 4,
+    "views": 13777,
+    "originVideos": ""
   }
 ]
