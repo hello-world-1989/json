@@ -700,5 +700,41 @@
     "retweets": 1,
     "views": 696,
     "originVideos": ""
+  },
+  {
+    "id": "1930142977567142112",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 14:02:00",
+    "content": "英国使馆坦克人原视频补充，他们在下午1点10分微博视频被删除约10分钟后，在其推特账号再次分享了此视频。\nhttps://t.co/naLNiNnykp",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 2,
+    "retweets": 0,
+    "views": 4652,
+    "originVideos": ""
+  },
+  {
+    "id": "1930142473113813171",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 14:00:00",
+    "content": "六四纪录片《黄雀行动》\n这是一个鲜为人知的故事，1989年天安门广场抗议期间，这些年轻人因勇敢对抗中国政府而面临危险，随后他们神秘地被从中国营救....其中一位法国外交官扮演了主角。\n这部电影由Sophie Lepault编剧并执导，由Illégitime Défense出品。 https://t.co/J0XteHpd7c",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930142473113813171_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 50,
+    "replies": 6,
+    "retweets": 10,
+    "views": 3995,
+    "originVideos": "https://video.twimg.com/amplify_video/1929916037819969536/vid/avc1/1280x720/w2-GomEOMgv7FsxM.mp4"
   }
 ]
