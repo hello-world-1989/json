@@ -70,5 +70,23 @@
     "retweets": 5,
     "views": 25929,
     "originVideos": ""
+  },
+  {
+    "id": "1930309390185247109",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 01:03:16",
+    "content": "食堂随机砍人事件发生后，有网友发现，在微博搜索“武汉大学”，会出现大量黄V账户推荐来武大赏樱的搜索结果。但武大的赏樱季在三月，六月没有樱花。网友怀疑赏樱微博是买来洗版的。不过，在大量赏樱微博中也夹杂有展示武大食堂饭菜的微博，怀疑是反串冲塔。 https://t.co/CuzYCuh5jJ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930309390185247109_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930309390185247109_1.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930309390185247109_2.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930309390185247109_3.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 0,
+    "retweets": 1,
+    "views": 3681,
+    "originVideos": ""
   }
 ]
