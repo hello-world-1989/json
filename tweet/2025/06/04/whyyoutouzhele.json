@@ -592,5 +592,23 @@
     "retweets": 5,
     "views": 7209,
     "originVideos": ""
+  },
+  {
+    "id": "1930119571127652864",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 12:29:00",
+    "content": "6月1日，广东东莞，长安宵边，双龙路精熙光学(信泰联)起火。 https://t.co/QiEY9uBeo9",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930119571127652864_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930119571127652864_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 3,
+    "retweets": 0,
+    "views": 158,
+    "originVideos": "https://video.twimg.com/amplify_video/1930029113600811008/vid/avc1/320x426/pmIkF8iOr_hT6Vb1.mp4"
   }
 ]
