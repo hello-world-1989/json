@@ -466,5 +466,23 @@
     "retweets": 2,
     "views": 2340,
     "originVideos": "https://video.twimg.com/amplify_video/1930031495969718272/vid/avc1/320x568/vlFB8_m_Ayz2Nuef.mp4"
+  },
+  {
+    "id": "1930074524273520873",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 09:30:00",
+    "content": "6月3日，河南， 博主表示，比亚迪座椅质保期刚过座椅外皮就坏了，方向盘也换过了，前机盖出现掉车漆皮，前轮轴承八万公里就要更换轴承，后机芯盖出现异响，比拖拉机声音还难听。 https://t.co/AFMqLNwRnX",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930074524273520873_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 3,
+    "retweets": 4,
+    "views": 3801,
+    "originVideos": "https://video.twimg.com/amplify_video/1930027811160350720/vid/avc1/320x568/G9Yndxryl78cEhpo.mp4"
   }
 ]
