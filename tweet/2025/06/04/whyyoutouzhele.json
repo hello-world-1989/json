@@ -1330,5 +1330,23 @@
     "retweets": 4,
     "views": 5630,
     "originVideos": "https://video.twimg.com/amplify_video/1930229975203958784/vid/avc1/320x690/3HM70pSudGO-gOmC.mp4"
+  },
+  {
+    "id": "1930255718575485333",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 21:30:00",
+    "content": "6月4日，有网友在微信朋友圈发了这三张日历的图片，结果朋友圈和群聊被封号，禁止使用到明天。 https://t.co/7RHjorK9Qu",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930255718575485333_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930255718575485333_1.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930255718575485333_2.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930255718575485333_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 62,
+    "replies": 10,
+    "retweets": 2,
+    "views": 14383,
+    "originVideos": ""
   }
 ]
