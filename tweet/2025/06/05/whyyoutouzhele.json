@@ -250,5 +250,23 @@
     "retweets": 0,
     "views": 2465,
     "originVideos": ""
+  },
+  {
+    "id": "1930361415061143571",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 04:30:00",
+    "content": "6月4日，博主表示，自己在武汉一家民营的二级医院，基本工资都没有。\n6月3日，山东潍坊昌乐学校，一博主发帖吐槽，一年多没发工资了，我都佩服我自己怎么坚持下来的。 https://t.co/k3FIcPwMG2",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930361415061143571_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930361415061143571_1.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930361415061143571_2.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930361415061143571_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2528,
+    "originVideos": ""
   }
 ]
