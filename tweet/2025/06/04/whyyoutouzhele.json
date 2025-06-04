@@ -934,5 +934,23 @@
     "retweets": 0,
     "views": 5818,
     "originVideos": "https://video.twimg.com/amplify_video/1930165699982557184/vid/avc1/320x604/X_Nfb2GG0s3St7fi.mp4"
+  },
+  {
+    "id": "1930168033856905224",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 15:41:34",
+    "content": "6月4日 有网友在微博吐槽我的世界网易版无法进行联机游戏，提示系统升级中，甚至连本地局域网联机都被禁止。 https://t.co/abpAYdkbbi",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930168033856905224_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 6,
+    "retweets": 3,
+    "views": 14155,
+    "originVideos": ""
   }
 ]
