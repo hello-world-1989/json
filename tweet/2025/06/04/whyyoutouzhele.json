@@ -1150,5 +1150,23 @@
     "retweets": 5,
     "views": 6828,
     "originVideos": ""
+  },
+  {
+    "id": "1930217977909260577",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 19:00:02",
+    "content": "6月4日，河南工业和信息化职业学院\n食堂欠薪大半年不发，且发生食材断供现象\n引发商户们集体在摊位上拉横幅抗议 https://t.co/EshiNImi5m",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930217977909260577_0.jpg,/tweet/image/whyyoutouzhele/2025/06/04/1930217977909260577_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930217977909260577_0.jpg,/tweet/video/whyyoutouzhele/2025/06/04/1930217977909260577_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 2,
+    "retweets": 3,
+    "views": 9325,
+    "originVideos": "https://video.twimg.com/amplify_video/1930209590148300800/vid/avc1/320x710/NQP5sMV5c_y77LZf.mp4,https://video.twimg.com/amplify_video/1930209596603240448/vid/avc1/320x564/uea5IfJJ88vm-KP4.mp4"
   }
 ]
