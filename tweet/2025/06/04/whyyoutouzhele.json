@@ -1168,5 +1168,23 @@
     "retweets": 3,
     "views": 9325,
     "originVideos": "https://video.twimg.com/amplify_video/1930209590148300800/vid/avc1/320x710/NQP5sMV5c_y77LZf.mp4,https://video.twimg.com/amplify_video/1930209596603240448/vid/avc1/320x564/uea5IfJJ88vm-KP4.mp4"
+  },
+  {
+    "id": "1930222149484134700",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 19:16:36",
+    "content": "网友投稿\n《纪念六四和一个回不去的中国》 https://t.co/Xx7X27aeod",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930222149484134700_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 5,
+    "retweets": 0,
+    "views": 1713,
+    "originVideos": "https://video.twimg.com/amplify_video/1930222067800064000/vid/avc1/480x270/YLX5QEBqc5qbj_E-.mp4"
   }
 ]
