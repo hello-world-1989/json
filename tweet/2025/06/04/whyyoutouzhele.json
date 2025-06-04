@@ -448,5 +448,23 @@
     "retweets": 3,
     "views": 4890,
     "originVideos": ""
+  },
+  {
+    "id": "1930070749483544828",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 09:15:00",
+    "content": "2025年6月3日，江苏，博主发视频称，本来他打算去谈业务，结果发现是一地沟油窝点，被老板赶出来了，他质问，这些油都去了哪里？为何要昧良心赚底层老百姓的钱？都是自己人害自己人，悲哀啊。 https://t.co/dS2EN1uDuB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/04/1930070749483544828_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 6,
+    "retweets": 2,
+    "views": 2340,
+    "originVideos": "https://video.twimg.com/amplify_video/1930031495969718272/vid/avc1/320x568/vlFB8_m_Ayz2Nuef.mp4"
   }
 ]
