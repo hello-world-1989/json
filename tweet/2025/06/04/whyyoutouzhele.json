@@ -1240,5 +1240,23 @@
     "retweets": 0,
     "views": 169,
     "originVideos": ""
+  },
+  {
+    "id": "1930238015395225740",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-04 20:19:39",
+    "content": "6月4日晚，上海徐家汇天桥上的6名守桥员。 https://t.co/EQOkfKkt1f",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/04/1930238015395225740_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 3,
+    "originVideos": ""
   }
 ]
