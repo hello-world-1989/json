@@ -916,5 +916,41 @@
     "retweets": 1,
     "views": 4675,
     "originVideos": "https://video.twimg.com/amplify_video/1930578983051018240/vid/avc1/320x568/wYGTbsTOzVqw-UXS.mp4,https://video.twimg.com/amplify_video/1930578989136986112/vid/avc1/320x568/diC_zc01gN2Lf2Li.mp4"
+  },
+  {
+    "id": "1930595335690174797",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 19:59:31",
+    "content": "@dafeiyu159 我评论区的大规模机器人评论最多是在2023年。现在已经少了很多，只能偶尔在他们认为重要的帖子下面刷屏，感觉财政真的没钱了。",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 4,
+    "originVideos": ""
+  },
+  {
+    "id": "1930591682250305669",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 19:45:00",
+    "content": "6月5日，华尔街日报报道，花旗集团将在中国裁减约3500名技术人员，这是该公司旨在精简全球业务的重组举措的一部分。\n此次裁员影响到位于上海和大连的技术人员，这些员工为花旗的全球业务提供金融技术和运营服务。 https://t.co/lIRdxo3wLV",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930591682250305669_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 3,
+    "retweets": 3,
+    "views": 6966,
+    "originVideos": ""
   }
 ]
