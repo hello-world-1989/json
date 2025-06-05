@@ -556,5 +556,23 @@
     "retweets": 3,
     "views": 8351,
     "originVideos": "https://video.twimg.com/amplify_video/1930429125279227904/vid/avc1/320x568/uGna1lrlIiKRnlj3.mp4"
+  },
+  {
+    "id": "1930497310120952152",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 13:30:00",
+    "content": "5月31日，尽管在工程行业普遍欠薪的情况下，还是有少部分民营建筑企业能够坚守底线，给员工和供应商及时结清工程款。 https://t.co/adzliQZMXT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930497310120952152_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 11,
+    "retweets": 1,
+    "views": 4733,
+    "originVideos": "https://video.twimg.com/amplify_video/1930429915381284864/vid/avc1/320x608/hOmk9fIulsETe5m9.mp4"
   }
 ]
