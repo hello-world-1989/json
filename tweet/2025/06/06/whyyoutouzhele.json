@@ -16,5 +16,23 @@
     "retweets": 0,
     "views": 10619,
     "originVideos": ""
+  },
+  {
+    "id": "1930689512218280229",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 02:13:44",
+    "content": "特朗普：我对马斯克非常失望。\n6月5日，针对日前马斯克公开反对特朗普的“大漂亮法案”，特朗普在采访时公开表示，“马斯克知道法案的一切细节...他现在还没有对我出言不逊，但我想很快就会开始了...我对他非常失望....” https://t.co/5RpEVPBZJL",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1930689512218280229_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 8,
+    "retweets": 3,
+    "views": 3785,
+    "originVideos": "https://video.twimg.com/amplify_video/1930687572453314561/vid/avc1/480x270/hLr5KKdI1_GHC-4L.mp4"
   }
 ]
