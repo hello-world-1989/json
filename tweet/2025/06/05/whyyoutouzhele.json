@@ -574,5 +574,41 @@
     "retweets": 1,
     "views": 4733,
     "originVideos": "https://video.twimg.com/amplify_video/1930429915381284864/vid/avc1/320x608/hOmk9fIulsETe5m9.mp4"
+  },
+  {
+    "id": "1930504397278323124",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 13:58:10",
+    "content": "6月4日，广西建工集团（广西区直国企）中国东盟医疗保健合作中心项目欠薪，工人拉横幅讨薪。\n本月3日，该集团总部大楼也曾因拖欠工人的薪资被工人开渣土车堵门讨薪。 https://t.co/ukDZ1ITcyM https://t.co/sXR525nxX7",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930504397278323124_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 2,
+    "retweets": 0,
+    "views": 985,
+    "originVideos": "https://video.twimg.com/amplify_video/1930504262402076672/vid/avc1/320x568/tJTV5hQjDTCwDFvi.mp4"
+  },
+  {
+    "id": "1930502458129924404",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 13:50:27",
+    "content": "6月5日，博主吐槽，山东东营市河口区临聘教师四月份的工资拖到现在还没发。 https://t.co/UkDVueWkUN",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930502458129924404_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 5,
+    "retweets": 0,
+    "views": 5355,
+    "originVideos": ""
   }
 ]
