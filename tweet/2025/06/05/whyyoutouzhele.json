@@ -808,5 +808,23 @@
     "retweets": 2,
     "views": 5265,
     "originVideos": "https://video.twimg.com/amplify_video/1930523568120725504/vid/avc1/320x556/63uJBEAgmNH0giPr.mp4"
+  },
+  {
+    "id": "1930553430050853327",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 17:13:00",
+    "content": "网友投稿\n6月4日在字节跳动某平台发送白花图片，被一分钟内连续两次封号7天和30天。 https://t.co/EUqEDBQQAp",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930553430050853327_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 0,
+    "views": 4165,
+    "originVideos": ""
   }
 ]
