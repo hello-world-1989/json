@@ -1276,5 +1276,41 @@
     "retweets": 3,
     "views": 11503,
     "originVideos": "https://video.twimg.com/amplify_video/1930615429803683840/vid/avc1/320x568/nLVOzUJCDj7vAVf2.mp4"
+  },
+  {
+    "id": "1930633208246550903",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 22:30:00",
+    "content": "6月4日，广东，博主表示，中山市最大的排污工程，整条河都像石油一样黑\n6月5日，江苏，沭阳县西圩乡三才村牧原猪厂夜里向\n灌概渠和排水沟偷排放污水，污染水源污染空气，使三才到处黑水、臭气熏天，污水从东电站北遍流入东大河进后连河直奔大海。 https://t.co/h1ilsXxrB5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930633208246550903_0.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930633208246550903_1.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930633208246550903_2.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930633208246550903_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 7,
+    "retweets": 2,
+    "views": 5938,
+    "originVideos": "https://video.twimg.com/amplify_video/1930611458141790208/vid/avc1/320x568/68Kb3hyTXpl6ZY9y.mp4,https://video.twimg.com/amplify_video/1930611465834090496/vid/avc1/320x568/PDycanpRnzwI8W_G.mp4,https://video.twimg.com/amplify_video/1930611565155250176/vid/avc1/480x270/P1XOP17_gCZKn-Du.mp4,https://video.twimg.com/amplify_video/1930611573178990592/vid/avc1/320x568/sPO6H5wDrE_qfMMh.mp4"
+  },
+  {
+    "id": "1930630702980071526",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 22:20:03",
+    "content": "一些网友讲述自己的应聘经历\n在Boss上投了2000份简历，其他地方还没算，叫自己去面试的基本上都是小厂。\n这两天来深圳，看到好多大学生拖着箱子找工作，真的卷的可怕。 https://t.co/qqaKybmvdD",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930630702980071526_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930630702980071526_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 3,
+    "retweets": 2,
+    "views": 7691,
+    "originVideos": ""
   }
 ]
