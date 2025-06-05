@@ -448,5 +448,23 @@
     "retweets": 1,
     "views": 6704,
     "originVideos": ""
+  },
+  {
+    "id": "1930444463224070245",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 10:00:00",
+    "content": "6月3日，四川成都的一家医院收费处，惊现“丁义珍”同款窗口，由于窗口过矮，老人无奈只能跪着办业务。 https://t.co/1JrttW2EX0",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930444463224070245_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 43,
+    "replies": 14,
+    "retweets": 5,
+    "views": 8318,
+    "originVideos": "https://video.twimg.com/amplify_video/1930311151474110464/vid/avc1/320x568/PpDq3YX6YO4hyLiI.mp4"
   }
 ]
