@@ -232,5 +232,23 @@
     "retweets": 1,
     "views": 6296,
     "originVideos": "https://video.twimg.com/amplify_video/1930627174970568704/vid/avc1/320x568/qNvMZ9KYPi_cNdR7.mp4"
+  },
+  {
+    "id": "1930759538161992001",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 06:52:00",
+    "content": "https://t.co/Rgg6SqmrOX 山西太原 尖草坪一中 学生投稿 https://t.co/kWPRLzy89w",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930759538161992001_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 0,
+    "retweets": 0,
+    "views": 3622,
+    "originVideos": ""
   }
 ]
