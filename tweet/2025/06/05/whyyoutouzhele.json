@@ -1132,5 +1132,41 @@
     "retweets": 3,
     "views": 9109,
     "originVideos": "https://video.twimg.com/amplify_video/1930579940505710592/vid/avc1/320x568/xhvkNwPOTaG239Zi.mp4"
+  },
+  {
+    "id": "1930619770551824687",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 21:36:37",
+    "content": "@jianchiwakuang https://t.co/yEBqdT7ASc",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930619770551824687_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 1,
+    "retweets": 0,
+    "views": 316,
+    "originVideos": ""
+  },
+  {
+    "id": "1930617855118045384",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 21:29:00",
+    "content": "6月5日，韩国游戏管理委员会周四表示，将与“五一八纪念财团”合作，推动下架疑为中国开发者发布的抹黑五一八民主化运动历史的游戏。\n游委会表示，去年九月，扭曲光州民运历史的游戏《Gwangju Running Man》在Steam上线。该游戏以 1980年5月的光州为背景，将市民描述为罪犯和暴徒，同时美化戒严军武力镇压行动及时任总统全斗焕。\n问题游戏并非一款独立游戏，而是对中世纪战争题材游戏《骑马与砍杀：战团》内容进行修改的模组 (MOD)。\n开发者的过往评论记录显示，其疑似是一名中国人。\n该游戏已于三月在韩被封禁，但海外用户仍可正常访问。委员会将向平台运营商 V社直接要求下架问题游戏，并持续就五一八民运历史意义等关切问题表明立场。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930617855118045384_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930617855118045384_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 22,
+    "replies": 8,
+    "retweets": 0,
+    "views": 9212,
+    "originVideos": ""
   }
 ]
