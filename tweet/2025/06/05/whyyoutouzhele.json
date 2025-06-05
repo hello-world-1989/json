@@ -466,5 +466,23 @@
     "retweets": 5,
     "views": 8318,
     "originVideos": "https://video.twimg.com/amplify_video/1930311151474110464/vid/avc1/320x568/PpDq3YX6YO4hyLiI.mp4"
+  },
+  {
+    "id": "1930452013927505927",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 10:30:00",
+    "content": "5月29日，江苏一博主曝光辅导员给班干部施压收集同学们的三方协议，但班级四分之一同学未就业，根本没有三方协议。辅导员称可以帮忙打印空白三方，并盖上假章。辅导员强调就业率达一定数值就有班级奖学金(不超1000)，并说国家就业形势严峻，作为大学毕业生不能不就业。 https://t.co/B5gjj4BQzk",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930452013927505927_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930452013927505927_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 2,
+    "retweets": 2,
+    "views": 5452,
+    "originVideos": ""
   }
 ]
