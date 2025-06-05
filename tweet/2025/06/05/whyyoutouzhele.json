@@ -880,5 +880,23 @@
     "retweets": 9,
     "views": 15122,
     "originVideos": ""
+  },
+  {
+    "id": "1930580367666479259",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 19:00:02",
+    "content": "6月5日，广东省河源市江东新区，政府拖欠农民工工资，引发农民工在当地政府门口讨薪。 https://t.co/dgqxl2P4mQ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930580367666479259_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930580367666479259_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 6,
+    "retweets": 1,
+    "views": 11258,
+    "originVideos": ""
   }
 ]
