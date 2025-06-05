@@ -1240,5 +1240,41 @@
     "retweets": 1,
     "views": 9377,
     "originVideos": "https://video.twimg.com/amplify_video/1930621326621810688/vid/avc1/320x568/aLxeTR9xB9ghfU04.mp4,https://video.twimg.com/amplify_video/1930621326638661633/pl/SiBOg3pROV8AUBhY.m3u8"
+  },
+  {
+    "id": "1930626411511046549",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 22:03:00",
+    "content": "6月5日，河南，驻马店市蔚蓝塑料制品有限公司发生火灾，目前无人员伤亡，周边人员已疏散。高新区消防大队正在现场救援 https://t.co/dVhzo81kPJ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930626411511046549_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 3,
+    "retweets": 0,
+    "views": 6151,
+    "originVideos": "https://video.twimg.com/amplify_video/1930611301669027840/vid/avc1/320x568/zkpfz093aamDOnYp.mp4"
+  },
+  {
+    "id": "1930625657769279702",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 22:00:00",
+    "content": "6月5日，河南。一网友表示，就业寒冬真的杀疯了。招聘会现场卷到室息，硕士学历像不值钱的草芥，博士都扎堆“贱卖”大家眼神里全是迷茫，像被摆在货架的商品，等着被老板们挑挑拣拣。 https://t.co/eFpb8UY9lo",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930625657769279702_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 54,
+    "replies": 16,
+    "retweets": 3,
+    "views": 11503,
+    "originVideos": "https://video.twimg.com/amplify_video/1930615429803683840/vid/avc1/320x568/nLVOzUJCDj7vAVf2.mp4"
   }
 ]
