@@ -736,5 +736,23 @@
     "retweets": 0,
     "views": 5684,
     "originVideos": ""
+  },
+  {
+    "id": "1930530974292758832",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 15:43:46",
+    "content": "6月5日，湖北武汉，中国地质大学未来城校区。上午在湖中捞出一具学生尸体。目前校方已经封锁现场，正在学生群中点名确定身份。\n有学生表示，此次事件可能与该校今年新实行的“考试卷面50分斩杀线”有关。 https://t.co/A40vrdqBJU",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930530974292758832_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930530974292758832_1.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930530974292758832_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930530974292758832_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 11,
+    "retweets": 3,
+    "views": 8449,
+    "originVideos": "https://video.twimg.com/amplify_video/1930530830595891200/vid/avc1/320x564/1p-VPbP7O4QmvMSb.mp4"
   }
 ]
