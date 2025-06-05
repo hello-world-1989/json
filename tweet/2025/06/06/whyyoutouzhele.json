@@ -34,5 +34,23 @@
     "retweets": 3,
     "views": 3785,
     "originVideos": "https://video.twimg.com/amplify_video/1930687572453314561/vid/avc1/480x270/hLr5KKdI1_GHC-4L.mp4"
+  },
+  {
+    "id": "1930694716539953473",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 02:34:25",
+    "content": "刚刚，马斯克呼吁并发起投票：是时候组建一个真正代表80%中间派选民的新政党了吗？ \n这条推文短时间内获得了超过30万人投票，83.8%的人表示支持。 https://t.co/2rTHQeSQvA https://t.co/Y4lI21IWEZ",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930694716539953473_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 12,
+    "retweets": 0,
+    "views": 4558,
+    "originVideos": ""
   }
 ]
