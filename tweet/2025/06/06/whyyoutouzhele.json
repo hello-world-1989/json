@@ -214,5 +214,23 @@
     "retweets": 4,
     "views": 11887,
     "originVideos": ""
+  },
+  {
+    "id": "1930746457193128026",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 06:00:01",
+    "content": "6月5日，陕西，陕建，六建集团欠薪，工人堵门讨薪。 https://t.co/m5dpCp2gdi",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1930746457193128026_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 3,
+    "retweets": 1,
+    "views": 6296,
+    "originVideos": "https://video.twimg.com/amplify_video/1930627174970568704/vid/avc1/320x568/qNvMZ9KYPi_cNdR7.mp4"
   }
 ]
