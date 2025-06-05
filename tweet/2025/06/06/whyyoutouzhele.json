@@ -142,5 +142,23 @@
     "retweets": 2,
     "views": 6437,
     "originVideos": ""
+  },
+  {
+    "id": "1930708344546738233",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 03:28:34",
+    "content": "随着今晚马斯克与特朗普公开决裂隔空互怼\n目前特斯拉股价下跌了16% https://t.co/7wZVNHVMa0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930708344546738233_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 40,
+    "replies": 14,
+    "retweets": 1,
+    "views": 9824,
+    "originVideos": ""
   }
 ]
