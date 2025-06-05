@@ -1042,5 +1042,41 @@
     "retweets": 10,
     "views": 13866,
     "originVideos": "https://video.twimg.com/amplify_video/1930600217130233856/vid/avc1/320x568/g3nHSV0jwK-x36Bv.mp4,https://video.twimg.com/amplify_video/1930600222066884609/vid/avc1/320x568/nIqYy9IdGNH8EQTP.mp4"
+  },
+  {
+    "id": "1930608802539471116",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 20:53:02",
+    "content": "6月5日，山东高密一轮胎厂发生火灾 https://t.co/Fl2INqQgjT",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930608802539471116_0.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930608802539471116_1.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 2,
+    "retweets": 1,
+    "views": 2605,
+    "originVideos": "https://video.twimg.com/amplify_video/1930608734943731712/vid/avc1/320x568/KnR9g0dVBDZD0i1k.mp4,https://video.twimg.com/amplify_video/1930608734906056704/vid/avc1/320x712/OSPN2YQdewj5lnWt.mp4"
+  },
+  {
+    "id": "1930608498653507960",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 20:51:49",
+    "content": "6月5日，有网友透露\n小米手机给热点改名需要联网上报给手机厂商审批。而其他手机厂商也存在类似情况。 https://t.co/IG7Qwbai4D",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930608498653507960_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930608498653507960_1.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930608498653507960_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 23,
+    "replies": 6,
+    "retweets": 2,
+    "views": 7777,
+    "originVideos": ""
   }
 ]
