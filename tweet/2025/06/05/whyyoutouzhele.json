@@ -664,5 +664,41 @@
     "retweets": 0,
     "views": 1561,
     "originVideos": ""
+  },
+  {
+    "id": "1930520845124075541",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 15:03:31",
+    "content": "现场视频补充，视频拍摄者称第二个视频中的伤者已经不动了。 https://t.co/0FYVPNqeAF",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930520845124075541_0.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930520845124075541_1.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1895,
+    "originVideos": "https://video.twimg.com/amplify_video/1930520496011128832/vid/avc1/320x584/KSA22g8tKulS9qeA.mp4,https://video.twimg.com/amplify_video/1930520549329104897/vid/avc1/320x564/HDwOZlFpfAYJFOCg.mp4"
+  },
+  {
+    "id": "1930520435806105884",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 15:01:53",
+    "content": "6月5日早上5点 山东郓城县东门街，一辆白色大众途昂（音译），横跨多个路口撞多人后逃逸。\n视频中至少两个路口有人被撞，分别是东门街和金河路交叉口（视频1彩云超市），以及东门街和临城路交叉口（视频2刘姐手机店及视频4农业银行）。视频3受害者在两个路口间。\n山东郓城亦是彭丽媛老家 https://t.co/tAI8dyVAfb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930520435806105884_0.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930520435806105884_1.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930520435806105884_2.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930520435806105884_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 8,
+    "retweets": 1,
+    "views": 5518,
+    "originVideos": "https://video.twimg.com/amplify_video/1930517138659516417/vid/avc1/320x564/NlhCP1_iWKunmUHq.mp4,https://video.twimg.com/amplify_video/1930517392695980032/vid/avc1/320x564/EN-YsA5xlFCoeS6o.mp4,https://video.twimg.com/amplify_video/1930518163168559104/vid/avc1/320x584/sI5-Zf_H3VVQeYCk.mp4,https://video.twimg.com/amplify_video/1930519649525088256/vid/avc1/320x584/mF8sWj_6fBIXTV50.mp4"
   }
 ]
