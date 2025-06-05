@@ -700,5 +700,41 @@
     "retweets": 1,
     "views": 5518,
     "originVideos": "https://video.twimg.com/amplify_video/1930517138659516417/vid/avc1/320x564/NlhCP1_iWKunmUHq.mp4,https://video.twimg.com/amplify_video/1930517392695980032/vid/avc1/320x564/EN-YsA5xlFCoeS6o.mp4,https://video.twimg.com/amplify_video/1930518163168559104/vid/avc1/320x584/sI5-Zf_H3VVQeYCk.mp4,https://video.twimg.com/amplify_video/1930519649525088256/vid/avc1/320x584/mF8sWj_6fBIXTV50.mp4"
+  },
+  {
+    "id": "1930529614214119859",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 15:38:22",
+    "content": "勘误：此事件发生于6月3日\nhttps://t.co/ViiwYxpBDN",
+    "images": "",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 379,
+    "originVideos": ""
+  },
+  {
+    "id": "1930528040200859965",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 15:32:06",
+    "content": "直播带货公司愿景未来，一员工发烧38度，上了一天班后，傍晚6点想请假提前走，被HR老大骂了两小时。\nHR称该员工太娇气了，面试的时候不是说很抗压，还不到38度就剩1小时就顶不住了？是脑袋烧糊涂了还是姨妈堵着不来了？请了假又不走，呆着也不正常工作，该去看看精神科。\n该贴获得2.5w赞，但随后被删除\n有网友猜测博主可能是被公司hr找了，被迫删帖。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930528040200859965_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930528040200859965_1.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930528040200859965_2.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930528040200859965_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 7,
+    "retweets": 0,
+    "views": 5684,
+    "originVideos": ""
   }
 ]
