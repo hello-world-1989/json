@@ -1006,5 +1006,41 @@
     "retweets": 3,
     "views": 12411,
     "originVideos": ""
+  },
+  {
+    "id": "1930603009358037297",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 20:30:00",
+    "content": "6月5日，上海颛桥科技绿洲新园区内一工厂发生火灾 https://t.co/JhQQ2fn1CD",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930603009358037297_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930603009358037297_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930603009358037297_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 4,
+    "retweets": 3,
+    "views": 7776,
+    "originVideos": "https://video.twimg.com/amplify_video/1930579554747183104/vid/avc1/320x568/FFF51ADAp-SCRwMd.mp4"
+  },
+  {
+    "id": "1930601025741668827",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 20:22:08",
+    "content": "6月5日，广东中山。小榄泰丰路发生持刀砍人事件，一男子持刀砍杀两名女子，一死一伤。\n目前现场已拉起三色布。 https://t.co/DETBuecFq9",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930601025741668827_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930601025741668827_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/05/1930601025741668827_0.jpg,/tweet/video/whyyoutouzhele/2025/06/05/1930601025741668827_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 52,
+    "replies": 9,
+    "retweets": 10,
+    "views": 13866,
+    "originVideos": "https://video.twimg.com/amplify_video/1930600217130233856/vid/avc1/320x568/g3nHSV0jwK-x36Bv.mp4,https://video.twimg.com/amplify_video/1930600222066884609/vid/avc1/320x568/nIqYy9IdGNH8EQTP.mp4"
   }
 ]
