@@ -430,5 +430,23 @@
     "retweets": 4,
     "views": 4540,
     "originVideos": ""
+  },
+  {
+    "id": "1930429362555265342",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-05 09:00:00",
+    "content": "6月3日，文旅部公布数据，端午节全国国内出游1.19亿人次，同比增长5.7%；国内出游总花费427.30亿元，同比增长5.9%。但彭博社据此计算得出，游客人均消费仅为359元，同比下降2.2%。与同样为期三天的4月清明节假期相比，跌幅更为显著，当时的人均消费为457元。 https://t.co/LA4Q9AnERn",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/05/1930429362555265342_0.jpg,/tweet/image/whyyoutouzhele/2025/06/05/1930429362555265342_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 10,
+    "retweets": 1,
+    "views": 6704,
+    "originVideos": ""
   }
 ]
