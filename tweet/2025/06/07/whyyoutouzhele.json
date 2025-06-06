@@ -106,5 +106,23 @@
     "retweets": 1,
     "views": 3593,
     "originVideos": ""
+  },
+  {
+    "id": "1931067706616565760",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 03:16:33",
+    "content": "近日，有网友上传了一段山东沂蒙农村老大娘在田地歌唱《社会主义好》的视频，引发评论区网友嘲讽，随后视频被删除。\n沂蒙是革命老区，在解放战争中被陈毅赞扬为“用小米供养革命，用小车把革命推过长江”。但是沂蒙也一直是山东最贫困的地区，一直到2018年，官方才宣布，“贫困发生率”基本“归零”。 https://t.co/hY1COY4xqg",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931067706616565760_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931067706616565760_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 1,
+    "retweets": 0,
+    "views": 1012,
+    "originVideos": "https://video.twimg.com/amplify_video/1931067391808577536/vid/avc1/320x532/wTrUdytqgyl2Wvjw.mp4"
   }
 ]
