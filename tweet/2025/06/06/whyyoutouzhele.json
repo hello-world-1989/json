@@ -664,5 +664,23 @@
     "retweets": 3,
     "views": 8289,
     "originVideos": "https://video.twimg.com/amplify_video/1930892506301947904/vid/avc1/320x568/iU4GOyNZ5Xf8b937.mp4"
+  },
+  {
+    "id": "1930921333812085177",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 17:34:55",
+    "content": "6月5日，中国客场0-1输给印度尼西亚，提前无缘本届世界杯。 https://t.co/GMlYtX2OXw",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930921333812085177_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 4,
+    "retweets": 1,
+    "views": 1692,
+    "originVideos": ""
   }
 ]
