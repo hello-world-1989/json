@@ -808,5 +808,23 @@
     "retweets": 2,
     "views": 8891,
     "originVideos": ""
+  },
+  {
+    "id": "1930965397332959446",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 20:30:00",
+    "content": "后续：该网友B站账号被封禁30天，期间无法使用投稿，评论，弹幕，私信，投币，标签，关注，收藏等一系列社区功能。 https://t.co/E0UNfA13oH",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930965397332959446_0.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930965397332959446_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2833,
+    "originVideos": ""
   }
 ]
