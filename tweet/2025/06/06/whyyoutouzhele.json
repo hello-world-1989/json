@@ -952,5 +952,41 @@
     "retweets": 1,
     "views": 19306,
     "originVideos": ""
+  },
+  {
+    "id": "1930995597752066176",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 22:30:01",
+    "content": "6月6日，《华尔街日报》报道，在与马斯克反目后，特朗普总统正在考虑出售或赠送他今年早些时候购买的红色特斯拉。\n特朗普购买了这辆Model S，是为了在白宫拍照，宣传埃隆·马斯克的生意。截至周四晚上，这辆车仍然停在白宫西翼外。 https://t.co/ARPttVDvwj https://t.co/MU7SJWUvmi",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930995597752066176_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 17,
+    "retweets": 0,
+    "views": 9048,
+    "originVideos": ""
+  },
+  {
+    "id": "1930994121046380653",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 22:24:09",
+    "content": "https://t.co/4dTLXvEpm0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930994121046380653_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 0,
+    "views": 4987,
+    "originVideos": ""
   }
 ]
