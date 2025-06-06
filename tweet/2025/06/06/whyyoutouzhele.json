@@ -466,5 +466,41 @@
     "retweets": 1,
     "views": 6698,
     "originVideos": "https://video.twimg.com/amplify_video/1930860058973450240/vid/avc1/480x270/jT77MzWAFmuX6G4N.mp4,https://video.twimg.com/amplify_video/1930860089189244928/vid/avc1/360x270/VkkFo-Tv3tQU38yx.mp4,https://video.twimg.com/amplify_video/1930860142511460352/vid/avc1/320x568/vWYZQIbwsDCpK1D9.mp4"
+  },
+  {
+    "id": "1930884205497688239",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 15:07:23",
+    "content": "网友投稿\n新疆某中学计划在暑假开启作业集中营，每周休息一次，住宿四人间。 https://t.co/4MlYQZUZQp",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930884205497688239_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 12,
+    "retweets": 1,
+    "views": 8200,
+    "originVideos": ""
+  },
+  {
+    "id": "1930882355104985576",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 15:00:02",
+    "content": "6月5日中午，北京中国科学院大学。由于校方试图将学生搬迁至离北京市70km且交通非常不便的雁栖湖校区，引发学生们进行了不同程度的抗议。\n当天一名学生爬上玉泉路校区食堂的阳光棚，举起喇叭大喊“不要搬到雁栖湖”“反对投湖”，引起众人的围观和声援。\n最终在警察和学校的压力下，该同学最终下楼，随即被辅导员带走。\n一位接近该同学和校方的人表示，校长周琪已经决定对该同学进行处分。具体处分尚待开会决定。\n在小红书和b站发布的有关照片和视频获得了累计数万的浏览量，但已经全部被删除或限流，同学们的补档也在不断消失。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930882355104985576_0.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930882355104985576_1.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930882355104985576_2.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930882355104985576_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 75,
+    "replies": 11,
+    "retweets": 5,
+    "views": 20555,
+    "originVideos": ""
   }
 ]
