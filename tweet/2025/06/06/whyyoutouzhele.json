@@ -1060,5 +1060,23 @@
     "retweets": 5,
     "views": 8655,
     "originVideos": ""
+  },
+  {
+    "id": "1931017448297292155",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 23:56:50",
+    "content": "近日，有网友发现，江苏苏州常熟市支塘镇蒋巷生态园内的寄语牌上写着：“希望常书记担任书记到80岁”。 https://t.co/4zkhOwXGUy",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1931017448297292155_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 5,
+    "retweets": 1,
+    "views": 2765,
+    "originVideos": "https://video.twimg.com/amplify_video/1931017385797898240/vid/avc1/320x568/K45KnnGMd5DnrfOm.mp4"
   }
 ]
