@@ -988,5 +988,23 @@
     "retweets": 0,
     "views": 4987,
     "originVideos": ""
+  },
+  {
+    "id": "1930998297365237953",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 22:40:44",
+    "content": "6月6日，OpenAI表示，已挫败了多起可能源自中国的利用其AI模型进行网络威胁和秘密影响力活动的企图。\n在其中一个案例中，OpenAI表示已经封禁了部分账户，称这些账户利用OpenAI模型生成社交媒体帖子。\nOpenAI表示，其中一个用户在提示词中声称自己为中国宣传部门工作，但他们无法独立证实这一说法。 https://t.co/WDaq1cL92s https://t.co/HRySyGvPDK",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930998297365237953_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 41,
+    "replies": 8,
+    "retweets": 5,
+    "views": 14334,
+    "originVideos": ""
   }
 ]
