@@ -592,5 +592,23 @@
     "retweets": 4,
     "views": 10934,
     "originVideos": "https://video.twimg.com/amplify_video/1930766388257300480/vid/avc1/320x568/5MSVz374W4soVgne.mp4"
+  },
+  {
+    "id": "1930911368045010998",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 16:55:19",
+    "content": "RT @torontobigface: 6.4活动现场表演，正式版！\n\n6.4青年 VS 坦克驾驶员习近平！\n\n感受人民的力量👊👊👊 https://t.co/UEHxwiDAS6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1930911368045010998_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 16,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1930901087264931841/pl/LZlEMA0JU6aW-zdL.m3u8?v=d46"
   }
 ]
