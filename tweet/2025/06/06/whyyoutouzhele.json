@@ -448,5 +448,23 @@
     "retweets": 3,
     "views": 23880,
     "originVideos": ""
+  },
+  {
+    "id": "1930875552937984450",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 14:33:00",
+    "content": "6月5日 河南省驻马店市驿城区邦基生物化工科技有限公司厂房失火，现场浓烟滚滚。\n当地消防通报称，明火已扑灭，无人员伤亡。 https://t.co/IHZ9us6n4v https://t.co/dN1PUTlHjh",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930875552937984450_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1930875552937984450_0.jpg,/tweet/video/whyyoutouzhele/2025/06/06/1930875552937984450_1.jpg,/tweet/video/whyyoutouzhele/2025/06/06/1930875552937984450_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 7,
+    "retweets": 1,
+    "views": 6698,
+    "originVideos": "https://video.twimg.com/amplify_video/1930860058973450240/vid/avc1/480x270/jT77MzWAFmuX6G4N.mp4,https://video.twimg.com/amplify_video/1930860089189244928/vid/avc1/360x270/VkkFo-Tv3tQU38yx.mp4,https://video.twimg.com/amplify_video/1930860142511460352/vid/avc1/320x568/vWYZQIbwsDCpK1D9.mp4"
   }
 ]
