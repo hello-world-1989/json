@@ -430,5 +430,23 @@
     "retweets": 2,
     "views": 11071,
     "originVideos": ""
+  },
+  {
+    "id": "1930867253605462407",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 14:00:01",
+    "content": "网友投稿\n世界杯预选赛积分榜，其他国家都写的是国家名，只有中国后面加了“男足”两个字。估计是有意把中国男足和中国区分开，不至于垫底太难看。 https://t.co/TjCgbVsXaX",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930867253605462407_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 99,
+    "replies": 30,
+    "retweets": 3,
+    "views": 23880,
+    "originVideos": ""
   }
 ]
