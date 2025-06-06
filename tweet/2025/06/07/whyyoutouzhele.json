@@ -70,5 +70,23 @@
     "retweets": 3,
     "views": 6494,
     "originVideos": ""
+  },
+  {
+    "id": "1931048447660237120",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 02:00:01",
+    "content": "据路透社报道，中国已向通用汽车、福特和Jeep制造商斯特兰蒂斯的供应商发放了为期六个月的稀土出口许可证，暂时缓解了由于今年四月实施出口限制所引发的供应链中断。这些限制措施曾对高度依赖稀土的关键行业造成冲击，包括汽车制造商和国防承包商。由于稀土短缺，福特公司在五月被迫暂停了Explorer SUV的生产。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931048447660237120_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 5,
+    "retweets": 1,
+    "views": 7750,
+    "originVideos": ""
   }
 ]
