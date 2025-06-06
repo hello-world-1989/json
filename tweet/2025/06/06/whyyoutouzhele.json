@@ -772,5 +772,41 @@
     "retweets": 4,
     "views": 6621,
     "originVideos": "https://video.twimg.com/amplify_video/1930954136381476864/vid/avc1/320x568/l2RMPNQO_uglLmQp.mp4,https://video.twimg.com/amplify_video/1930954137694310400/vid/avc1/320x426/mbCjCusvBl-7Uzga.mp4,https://video.twimg.com/amplify_video/1930954136398204928/vid/avc1/320x568/xL9DOCB8d2DNGLRH.mp4,https://video.twimg.com/amplify_video/1930954136377294848/vid/avc1/320x568/tiZbCNIHpzXYx8lR.mp4"
+  },
+  {
+    "id": "1930958474495541724",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 20:02:30",
+    "content": "近日，山东临沂。临沂某技术学校强制所有学生签署知情保密函，录制包含个人身体肖像、造型信息、音频信息、语音声纹在内的视频用于语音大模型训练。 https://t.co/YBYGdLcqhN",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930958474495541724_0.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930958474495541724_1.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930958474495541724_2.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930958474495541724_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 55,
+    "replies": 8,
+    "retweets": 3,
+    "views": 13140,
+    "originVideos": ""
+  },
+  {
+    "id": "1930957845375410258",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 20:00:00",
+    "content": "https://t.co/7M5bdn9jfX 海南省国兴中学保亭学校 学生投稿\n我们很多下面乡镇的住宿生，每周休息也就半天，已经快没有家的概念了。学校有教官，老师打不了你，教官打你。\n本来我们学校时间作息很正常，但这两年被合作办学，被海南省国兴中学代管，海口来了两个校长，为了他们的政绩，来折腾我们这个小学校。他们来之后一切都变了，身边有很多朋友真的受不了这种压力，有的辍学了，有的厌学了，有很多人自残。\n我们学校虽然没有校内自杀现象，但是我们学校特别多抑郁症同学，学弟学妹我也见到过很多，自残，试图自杀。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930957845375410258_0.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930957845375410258_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 5,
+    "retweets": 2,
+    "views": 8891,
+    "originVideos": ""
   }
 ]
