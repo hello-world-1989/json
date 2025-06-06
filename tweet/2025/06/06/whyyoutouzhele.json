@@ -556,5 +556,41 @@
     "retweets": 1,
     "views": 3374,
     "originVideos": "https://video.twimg.com/amplify_video/1930860630124421120/vid/avc1/320x568/Q9BovoKLr5x-ogjB.mp4"
+  },
+  {
+    "id": "1930900970109624818",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 16:14:00",
+    "content": "6月3日 河北省体育局发文展示其“体育赛事经济”成就，声称直接带动消费97.64亿元。\n“5月份这一个月内，河北省面向社会公开举办各类体育赛事1375场。这些赛事吸引了441.07万人次的参赛者与观众涌入赛场及周边区域（其中参赛人员52.26万人，观众388.81万人）。”\n今年前五个月更是举办各类赛事3682场。 https://t.co/HY5evowiZV",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/06/1930900970109624818_0.jpg,/tweet/image/whyyoutouzhele/2025/06/06/1930900970109624818_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 3,
+    "retweets": 0,
+    "views": 3275,
+    "originVideos": ""
+  },
+  {
+    "id": "1930897449876701584",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-06 16:00:01",
+    "content": "6月5日，一名博主采访一位比利时人，询问为什么国外没有十二小时两班倒？ https://t.co/1nvVBNNXWU",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/06/1930897449876701584_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 43,
+    "replies": 15,
+    "retweets": 4,
+    "views": 10934,
+    "originVideos": "https://video.twimg.com/amplify_video/1930766388257300480/vid/avc1/320x568/5MSVz374W4soVgne.mp4"
   }
 ]
