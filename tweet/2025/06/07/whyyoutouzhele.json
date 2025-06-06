@@ -88,5 +88,23 @@
     "retweets": 1,
     "views": 7750,
     "originVideos": ""
+  },
+  {
+    "id": "1931055993674162313",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 02:30:00",
+    "content": "6月6日，新华社报道，习近平接受十一世班禅额尔德尼·确吉杰布的拜见。\n见面时，习近平表示，希望班禅继承藏传佛教爱国爱教光荣传统，坚决维护祖国统一和民族团结。班禅表示，一定牢记习近平总书记谆谆教诲，以十世班禅大师为榜样，坚定拥护中国共产党领导、坚决维护祖国统一和民族团结。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931055993674162313_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 6,
+    "retweets": 1,
+    "views": 3593,
+    "originVideos": ""
   }
 ]
