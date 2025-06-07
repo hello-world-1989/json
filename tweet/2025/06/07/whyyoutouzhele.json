@@ -772,5 +772,23 @@
     "retweets": 10,
     "views": 5673,
     "originVideos": ""
+  },
+  {
+    "id": "1931305132941045812",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 19:00:00",
+    "content": "网友投稿\n上海某天桥上，两名冒雨执勤的守桥员。 https://t.co/lCABSyWffi",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931305132941045812_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 56,
+    "replies": 11,
+    "retweets": 0,
+    "views": 16366,
+    "originVideos": ""
   }
 ]
