@@ -88,5 +88,41 @@
     "retweets": 6,
     "views": 17944,
     "originVideos": ""
+  },
+  {
+    "id": "1931399505057882541",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 01:15:00",
+    "content": "“求求你们把工资给了农民工吧”。6月6日，山西，沈阳永盛建设施工有限公司，阳城县分公司，欠薪。工人们在项目部讨薪。 https://t.co/Z2jPWnCse6",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931399505057882541_0.jpg,/tweet/video/whyyoutouzhele/2025/06/08/1931399505057882541_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 2,
+    "views": 1906,
+    "originVideos": "https://video.twimg.com/amplify_video/1931366123963899905/vid/avc1/320x568/LWx8UI5Etu6rUgRt.mp4,https://video.twimg.com/amplify_video/1931366123980689409/vid/avc1/320x568/MS_k8I2QQCPlF0r6.mp4"
+  },
+  {
+    "id": "1931395735179673793",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 01:00:01",
+    "content": "6月7日，中山比亚迪宿舍楼起火。 https://t.co/UI8fOYuDM3",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931395735179673793_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931395735179673793_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 25,
+    "replies": 5,
+    "retweets": 0,
+    "views": 19835,
+    "originVideos": "https://video.twimg.com/amplify_video/1931365353747034112/vid/avc1/320x568/0EFQR2AAkDpGWSk7.mp4"
   }
 ]
