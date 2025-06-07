@@ -790,5 +790,23 @@
     "retweets": 0,
     "views": 16366,
     "originVideos": ""
+  },
+  {
+    "id": "1931312684672450677",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 19:30:00",
+    "content": "6月7日，在重庆举行的“中国汽车重庆论坛”上，吉利董事长李书福表示，当今世界的汽车工业存在严重的产能过剩，吉利决定不再建设新的汽车生产工厂。\n李书福还表示，说假话难圆其说，做亏心事天理难容....有些企业的竞争方式令人难以启齿。 https://t.co/vqmp38YY4y",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931312684672450677_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 9,
+    "retweets": 6,
+    "views": 5895,
+    "originVideos": "https://video.twimg.com/amplify_video/1931305606582882304/vid/avc1/320x568/EXtEbcb-dYSfIUNH.mp4"
   }
 ]
