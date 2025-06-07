@@ -934,5 +934,23 @@
     "retweets": 3,
     "views": 9255,
     "originVideos": "https://video.twimg.com/amplify_video/1931314048185810944/vid/avc1/480x824/aOlogf7EXlEJpAEv.mp4"
+  },
+  {
+    "id": "1931342882004259086",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 21:30:00",
+    "content": "6月2日，广东江门新会一中 学生投稿 https://t.co/nXca8vRY1M",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931342882004259086_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 8,
+    "retweets": 0,
+    "views": 6302,
+    "originVideos": ""
   }
 ]
