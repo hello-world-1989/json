@@ -808,5 +808,41 @@
     "retweets": 6,
     "views": 5895,
     "originVideos": "https://video.twimg.com/amplify_video/1931305606582882304/vid/avc1/320x568/EXtEbcb-dYSfIUNH.mp4"
+  },
+  {
+    "id": "1931325023358275959",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 20:19:02",
+    "content": "近日，曾参演《非诚勿扰》《蜗居》的演员夏馨雨因在社交媒体发文“感谢大英博物馆为中国保护文物，否则放在我们这里早就被摧毁了”\n“大部分中国人不会通过别人的疾苦看到自己的灾难，只会庆幸自己已有的幸福”\n“奴隶会保持对自由的渴望，奴才乐于迎合压迫者的需求”等言论引发墙内争议，目前其微博被禁言 https://t.co/TyQRwiQhBY",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931325023358275959_0.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931325023358275959_1.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931325023358275959_2.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931325023358275959_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 219,
+    "originVideos": ""
+  },
+  {
+    "id": "1931320233916289338",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 20:00:00",
+    "content": "https://t.co/Rgg6SqmZEv 山西应县第一中学 学生投稿\n“明天高考了，终于能逃离这个魔窟，也不用担心举报被开出了，临走之前填个表。” https://t.co/jADLHKgGoV",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931320233916289338_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 58,
+    "replies": 8,
+    "retweets": 2,
+    "views": 8489,
+    "originVideos": ""
   }
 ]
