@@ -916,5 +916,23 @@
     "retweets": 1,
     "views": 12865,
     "originVideos": ""
+  },
+  {
+    "id": "1931335333884670173",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 21:00:00",
+    "content": "今天早晨，乌克兰第二大城市哈尔科夫被俄罗斯大规模空袭，超过 60 枚滑翔炸弹、导弹和自杀式无人机袭击了这座城市，多处地区浓烟滚滚。\n哈尔科夫市长称，俄罗斯袭击已造成 3 人死亡，22 人受伤，其中包括一名一个半月大的婴儿。 https://t.co/xH0pnOpwbp",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931335333884670173_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931335333884670173_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 54,
+    "replies": 15,
+    "retweets": 3,
+    "views": 9255,
+    "originVideos": "https://video.twimg.com/amplify_video/1931314048185810944/vid/avc1/480x824/aOlogf7EXlEJpAEv.mp4"
   }
 ]
