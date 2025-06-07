@@ -52,5 +52,23 @@
     "retweets": 0,
     "views": 9958,
     "originVideos": "https://video.twimg.com/amplify_video/1931358028122443776/vid/avc1/480x270/HhoPIAeFCq-ZvlFk.mp4"
+  },
+  {
+    "id": "1931388180651221341",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 00:30:00",
+    "content": "近日，一名网友发帖吐槽，我要看看这个社会要烂到什么程度，引来众多网友回复。网友回复，玩不下去会掀桌子的。 https://t.co/tNPCncObmY",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931388180651221341_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931388180651221341_1.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931388180651221341_2.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931388180651221341_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 5,
+    "retweets": 1,
+    "views": 8247,
+    "originVideos": ""
   }
 ]
