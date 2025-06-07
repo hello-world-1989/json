@@ -1078,5 +1078,23 @@
     "retweets": 1,
     "views": 8478,
     "originVideos": "https://video.twimg.com/amplify_video/1931334837232599040/vid/avc1/320x564/O71i-H9xEpeqVSbM.mp4"
+  },
+  {
+    "id": "1931373082910056735",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 23:30:00",
+    "content": "6月7日，河南中牟县一博主在网上反映，其父亲2024年7月2号在中牟县白沙镇农业银行取完钱在银行门口遇到持枪抢劫，其父亲和罪犯在银行门口撕打约30分钟，银行工作人员及安保人员置之不理，期间博主父亲让工作人员和保安报警，他们仍然无动于衷，导致博主父亲面部多处中弹，损伤程度构成重伤二级。事情过去一年多至今无人管。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931373082910056735_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931373082910056735_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 30,
+    "replies": 10,
+    "retweets": 3,
+    "views": 8673,
+    "originVideos": "https://video.twimg.com/amplify_video/1931335484040458240/vid/avc1/320x568/M0q3vME4-vQXlMmf.mp4"
   }
 ]
