@@ -682,5 +682,23 @@
     "retweets": 1,
     "views": 14216,
     "originVideos": ""
+  },
+  {
+    "id": "1931286761889468708",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 17:47:00",
+    "content": "波音飞机对华出口恢复正常\n6月7日 一架厦门航空波音737MAX，从西雅图起飞前往中国交付。这架飞机曾因关税战而在4月22日终止交付流程，返回美国西雅图。 https://t.co/JZTdQcehuF https://t.co/hqftgDZmw1",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931286761889468708_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 8,
+    "retweets": 1,
+    "views": 5362,
+    "originVideos": ""
   }
 ]
