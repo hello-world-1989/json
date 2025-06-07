@@ -286,5 +286,23 @@
     "retweets": 8,
     "views": 6304,
     "originVideos": "https://video.twimg.com/amplify_video/1931429835462553600/vid/avc1/320x568/GTUk4yZxhU0dPWBi.mp4,https://video.twimg.com/amplify_video/1931429835441598464/vid/avc1/320x568/zqhUyUYDykAcByLC.mp4"
+  },
+  {
+    "id": "1931492635027382410",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 07:25:04",
+    "content": "一名滑板少年面对着全副武装的防暴警察跳舞 https://t.co/iuYwbD2PJX https://t.co/X0u8agHqfB",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931492635027382410_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 8,
+    "retweets": 1,
+    "views": 8017,
+    "originVideos": "https://video.twimg.com/amplify_video/1931492488184840192/vid/avc1/480x270/3Q0hmuE5hJ4tUi5a.mp4"
   }
 ]
