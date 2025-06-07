@@ -1042,5 +1042,41 @@
     "retweets": 4,
     "views": 9958,
     "originVideos": "https://video.twimg.com/amplify_video/1931353004231294976/vid/avc1/480x270/MmVbKNBx1TL_e6Dv.mp4"
+  },
+  {
+    "id": "1931369306107117914",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 23:15:00",
+    "content": "网友投稿\n广东佛山，酷狄五金公司表彰6天24小时连轴转的员工，奖励1000元。并表示希望其他员工向该员工学习，把公司利益放在第一位。 https://t.co/pkubL4GQNm",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931369306107117914_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 4,
+    "retweets": 2,
+    "views": 3280,
+    "originVideos": ""
+  },
+  {
+    "id": "1931365533964013771",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 23:00:00",
+    "content": "6月5日，河南洛阳。杰成科技有限公司，拖欠洛阳万达广场项目工人工资，工人工程车开过来堵门讨薪，领导却直接雇佣黑社会殴打工人。 https://t.co/HU08PKkBQp",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931365533964013771_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 6,
+    "retweets": 1,
+    "views": 8478,
+    "originVideos": "https://video.twimg.com/amplify_video/1931334837232599040/vid/avc1/320x564/O71i-H9xEpeqVSbM.mp4"
   }
 ]
