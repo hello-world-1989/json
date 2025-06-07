@@ -610,5 +610,23 @@
     "retweets": 2,
     "views": 5826,
     "originVideos": ""
+  },
+  {
+    "id": "1931231900657745997",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 14:09:00",
+    "content": "近日 抖音一博主在尼泊尔旅游时，未经允许就撕掉了客栈内的中华民国国旗，并将该行为发上抖音。\n博主称：“撕了 被客栈老板女儿追上质问，然后被我撕烂了” https://t.co/pax3weU8Rh",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931231900657745997_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931231900657745997_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 25,
+    "retweets": 2,
+    "views": 8971,
+    "originVideos": "https://video.twimg.com/amplify_video/1931216052043816960/vid/avc1/320x568/p602HFI5oahWdaLo.mp4"
   }
 ]
