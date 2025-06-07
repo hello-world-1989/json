@@ -484,5 +484,41 @@
     "retweets": 0,
     "views": 15914,
     "originVideos": ""
+  },
+  {
+    "id": "1931204349382050173",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 12:19:31",
+    "content": "6月7日 四川成巴云顶山一号隊道一辆货车爆炸起火，现场火光一片，据视频拍摄者称，起火的货车边上还有一辆油罐车。\n视频显示，事故发生后隧道内浓烟越来越大，不少民众下车往隧道外逃跑。 https://t.co/LA6jKylnVX",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931204349382050173_0.jpg,/tweet/video/whyyoutouzhele/2025/06/07/1931204349382050173_1.jpg,/tweet/video/whyyoutouzhele/2025/06/07/1931204349382050173_2.jpg,/tweet/video/whyyoutouzhele/2025/06/07/1931204349382050173_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 1,
+    "retweets": 1,
+    "views": 1,
+    "originVideos": "https://video.twimg.com/amplify_video/1931203184909021184/vid/avc1/320x568/wa00pehYNP3C9hPn.mp4,https://video.twimg.com/amplify_video/1931203319030251520/vid/avc1/360x270/TTaSkNuj3cvgD9g0.mp4,https://video.twimg.com/amplify_video/1931203461577838592/vid/avc1/320x568/W5P0vf_nwcMEGvRv.mp4,https://video.twimg.com/amplify_video/1931203514421972992/vid/avc1/320x568/rySjsWgGkbbsWgGY.mp4"
+  },
+  {
+    "id": "1931199437432631651",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 12:00:00",
+    "content": "6月6日，本地网友拍摄沂蒙农村的现状\n并强调这里不是非洲或巴基斯坦，而是中国最贫穷落后的山东农村。 https://t.co/qVtB7Dgcvc https://t.co/5cQ91WzYPr",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931199437432631651_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 53,
+    "replies": 17,
+    "retweets": 5,
+    "views": 11445,
+    "originVideos": "https://video.twimg.com/amplify_video/1931100726698098688/vid/avc1/320x568/chaZbvrNwiZ-JRSe.mp4"
   }
 ]
