@@ -394,5 +394,41 @@
     "retweets": 0,
     "views": 1466,
     "originVideos": ""
+  },
+  {
+    "id": "1931143207272038624",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 08:16:34",
+    "content": "6月6日，广西来宾后续 污染得到了坚决有效的治理，源头也得到了控制。 https://t.co/Q6xswm0sMZ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931143207272038624_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 0,
+    "replies": 0,
+    "retweets": 0,
+    "views": 645,
+    "originVideos": "https://video.twimg.com/amplify_video/1931143041227554816/vid/avc1/320x568/UPcSI_7wsx10sgV0.mp4"
+  },
+  {
+    "id": "1931139041493500065",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 08:00:00",
+    "content": "为什么需要考编？6月6日，长春朝阳区，不给临聘教师发工资，强行要解散群。博主质问，到底要干啥直说，别偷偷摸摸的，拖啥呢？\n一名IP吉林的网友回复：初中老师过剩最起码还得5-6年，为啥在编发，临聘咋啦，都正规考试来的，就大量放不带编的，好欺负呗。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931139041493500065_0.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931139041493500065_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 5,
+    "retweets": 7,
+    "views": 8890,
+    "originVideos": ""
   }
 ]
