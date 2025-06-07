@@ -628,5 +628,23 @@
     "retweets": 2,
     "views": 8971,
     "originVideos": "https://video.twimg.com/amplify_video/1931216052043816960/vid/avc1/320x568/p602HFI5oahWdaLo.mp4"
+  },
+  {
+    "id": "1931244738231050648",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 15:00:01",
+    "content": "6月6日，网友拍摄到两年前疫情期间，被封在上海的卡车司机自己在路边做的简易炉灶。\n引发评论区怀念感慨 https://t.co/mqIiyaukR5",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931244738231050648_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 14,
+    "retweets": 3,
+    "views": 7497,
+    "originVideos": "https://video.twimg.com/amplify_video/1931118118450982912/vid/avc1/320x586/egQPXXpuNYjVBNjS.mp4"
   }
 ]
