@@ -1024,5 +1024,23 @@
     "retweets": 0,
     "views": 5780,
     "originVideos": "https://video.twimg.com/amplify_video/1931325662268174336/vid/avc1/480x270/UhRhyftM5Wu8GsU4.mp4"
+  },
+  {
+    "id": "1931361756556755440",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 22:45:00",
+    "content": "网友投稿\n他在苹果官网上想买个 airpod 并刻字，发现不能刻8964，其他数字却可以。 https://t.co/sVLwGVLwGn",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/07/1931361756556755440_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 50,
+    "replies": 8,
+    "retweets": 4,
+    "views": 9958,
+    "originVideos": "https://video.twimg.com/amplify_video/1931353004231294976/vid/avc1/480x270/MmVbKNBx1TL_e6Dv.mp4"
   }
 ]
