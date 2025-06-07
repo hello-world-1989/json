@@ -592,5 +592,23 @@
     "retweets": 0,
     "views": 1099,
     "originVideos": "https://video.twimg.com/amplify_video/1931206642114482176/vid/avc1/320x568/DHuK2EPr1pQBqzdt.mp4"
+  },
+  {
+    "id": "1931227119058829509",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-07 13:50:00",
+    "content": "6月6日，央视报道，中国人民解放军信息支援部队工程大学将开设10个信息与智能技术本科专业，涵盖人工智能、无人操作等。\n该校在上个月由国防科技大学信息通信学院(武汉)和陆军工程大学军官学院(重庆)合并而成。参加高考并通过政审的学生本月即可报名。 \n其中，新的数据链工程专业是为 “现代战争中的信息化、智能化和无人化行动 ”而设计的，将涵盖信号与系统、信息融合与处理，以及用于导弹、战舰、战斗机和预警机系统的数据链技术。",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/07/1931227119058829509_0.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931227119058829509_1.jpg,/tweet/image/whyyoutouzhele/2025/06/07/1931227119058829509_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 8,
+    "retweets": 2,
+    "views": 5826,
+    "originVideos": ""
   }
 ]
