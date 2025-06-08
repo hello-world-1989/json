@@ -394,5 +394,23 @@
     "retweets": 2,
     "views": 6250,
     "originVideos": "https://video.twimg.com/amplify_video/1931505083008552961/vid/avc1/320x568/j8HeOX9Njnejf2XU.mp4"
+  },
+  {
+    "id": "1931561824991756697",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 12:00:00",
+    "content": "网友提问：为什么我国这么强大，那么多国家还防着我们的公民滞留呢？ https://t.co/vDHx5LXm8K",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931561824991756697_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931561824991756697_1.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931561824991756697_2.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931561824991756697_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 66,
+    "replies": 16,
+    "retweets": 5,
+    "views": 15651,
+    "originVideos": ""
   }
 ]
