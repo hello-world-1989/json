@@ -610,5 +610,41 @@
     "retweets": 5,
     "views": 14272,
     "originVideos": ""
+  },
+  {
+    "id": "1931661184660382121",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 18:34:49",
+    "content": "网传现场考生描述事情经过 https://t.co/m8TXjzNOJ3",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931661184660382121_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931661184660382121_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 11,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2319,
+    "originVideos": ""
+  },
+  {
+    "id": "1931658773061406984",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 18:25:14",
+    "content": "6月7日，山东济宁邹城一中。\n在当天上午全国高考语文考试上。邹城一中考场上的一名男生突然撕毁了自己的考卷，接着又起身撕了周围其他考生的考卷。\n考生们见状立即起身把考卷保护在身后，随后这名男生被赶来的监考人员架走。 https://t.co/9Qe8t7eiGb",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931658773061406984_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 122,
+    "replies": 25,
+    "retweets": 13,
+    "views": 12787,
+    "originVideos": "https://video.twimg.com/amplify_video/1931657745125552128/vid/avc1/480x270/Is4V1lI9NjaaKoEE.mp4"
   }
 ]
