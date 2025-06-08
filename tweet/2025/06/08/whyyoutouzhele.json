@@ -664,5 +664,23 @@
     "retweets": 0,
     "views": 14478,
     "originVideos": ""
+  },
+  {
+    "id": "1931675073175273646",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 19:30:00",
+    "content": "6月8日，接连有网友投稿称，国内的诸多AI在高考期间都暂停了服务，有学生让AI解读代码，遭到AI以“高考”为由拒绝解读。 https://t.co/J24Fy5n9v0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931675073175273646_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931675073175273646_1.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931675073175273646_2.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931675073175273646_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 4,
+    "retweets": 2,
+    "views": 8233,
+    "originVideos": ""
   }
 ]
