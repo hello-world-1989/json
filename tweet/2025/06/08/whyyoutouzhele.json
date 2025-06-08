@@ -502,5 +502,23 @@
     "retweets": 0,
     "views": 4359,
     "originVideos": "https://video.twimg.com/amplify_video/1931598753129267200/vid/avc1/320x580/QA9JrkvC5UvCOUBE.mp4"
+  },
+  {
+    "id": "1931602089836519726",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 14:40:00",
+    "content": "6月7日 浙江 ，一博主拍摄到工厂内部的“夺命”流水线，流水线传送带速度飞快，工人们根本没有一秒钟能够休息。\n网友评论：奥特曼来了都得亮红灯。\n还有网友调侃：前面那个放那么快，工资一定有一万吧？ https://t.co/A7m6vcCXdI",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931602089836519726_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931602089836519726_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931602089836519726_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 42,
+    "replies": 14,
+    "retweets": 8,
+    "views": 12903,
+    "originVideos": "https://video.twimg.com/amplify_video/1931597974855204864/vid/avc1/320x568/w-w9jwkfZMgW0DKa.mp4"
   }
 ]
