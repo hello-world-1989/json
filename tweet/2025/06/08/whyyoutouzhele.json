@@ -322,5 +322,23 @@
     "retweets": 4,
     "views": 10263,
     "originVideos": ""
+  },
+  {
+    "id": "1931516533194330280",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 09:00:02",
+    "content": "近日，有网友在抖音上上传视频，汇总了多位与国家领导人样貌相仿的素人的照片，这些领导人包括习近平、毛泽东、邓小平、江泽民、李克强。评论区网友直呼“逆天”、“666”。此前，歌唱家刘克清，天津电动哥盛嘉奎等人因长相酷似习近平，一度在网络上引起热议。 https://t.co/WZEYeKRuxt https://t.co/RiYtFtDoA0",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931516533194330280_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931516533194330280_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931516533194330280_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 32,
+    "replies": 3,
+    "retweets": 0,
+    "views": 8931,
+    "originVideos": "https://video.twimg.com/amplify_video/1931428603649994752/vid/avc1/320x488/JbE08sXvi2sG5b7A.mp4"
   }
 ]
