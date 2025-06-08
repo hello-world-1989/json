@@ -682,5 +682,41 @@
     "retweets": 2,
     "views": 8233,
     "originVideos": ""
+  },
+  {
+    "id": "1931680991791260146",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 19:53:31",
+    "content": "6月8日，许其亮遗体在八宝山火化。\n央视画面显示，除何卫东外的全体政治局委员都送了署名花圈。 https://t.co/PzJLGxOZSN https://t.co/5JvNvZjPOs",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/08/1931680991791260146_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 5,
+    "retweets": 1,
+    "views": 4541,
+    "originVideos": "https://video.twimg.com/amplify_video/1931680881581625344/vid/avc1/480x270/Btmww1ZkiPxcCowi.mp4"
+  },
+  {
+    "id": "1931678710849028383",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-06-08 19:44:28",
+    "content": "网友投稿\n6月8日，广东佛山。\n有网友，拍到伦教街道的一处宣传栏上，赫然写着一首打油诗：“莫要惹怒习近平！” https://t.co/A2Vsjh3zED",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/08/1931678710849028383_0.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931678710849028383_1.jpg,/tweet/image/whyyoutouzhele/2025/06/08/1931678710849028383_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 90,
+    "replies": 26,
+    "retweets": 6,
+    "views": 18908,
+    "originVideos": ""
   }
 ]
