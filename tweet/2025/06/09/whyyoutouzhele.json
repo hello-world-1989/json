@@ -178,5 +178,23 @@
     "retweets": 22,
     "views": 57290,
     "originVideos": "https://video.twimg.com/amplify_video/1931785342668980224/vid/avc1/576x1024/zWwz2ZCdzDF0h-Bj.mp4?tag=21,"
+  },
+  {
+    "id": "1931894013298110865",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-06-09 10:00:00",
+    "content": "6月7日，湘省永州荣耀鞋业。员工们抱怨累死累活，早八晚六，月月满勤，工资就发了一千多块。 https://pbs.twimg.com/amplify_video_thumb/1931806071749857280/img/ALcAFpj_T8P2FTuZ.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/09/1931894013298110865_0.jpg,/tweet/video/whyyoutouzhele/2025/06/09/1931894013298110865_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 49,
+    "replies": 18,
+    "retweets": 3,
+    "views": 10666,
+    "originVideos": "https://video.twimg.com/amplify_video/1931806071749857280/vid/avc1/480x852/sLzWzLxCnW3sUSP7.mp4?tag=21,https://video.twimg.com/amplify_video/1931806075315003392/vid/avc1/480x852/CjjMAaUzL8VIM7Ny.mp4?tag=21,"
   }
 ]
