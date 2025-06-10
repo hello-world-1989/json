@@ -340,5 +340,23 @@
     "retweets": 68,
     "views": 124565,
     "originVideos": ""
+  },
+  {
+    "id": "1932357565184418026",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-06-10 16:41:59",
+    "content": "警情通报\n事故造成5人轻伤，2人轻微伤。 https://pbs.twimg.com/media/GtEc3i2WEAAgzN6.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/10/1932357565184418026_0.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 7,
+    "retweets": 1,
+    "views": 10122,
+    "originVideos": ""
   }
 ]
