@@ -52,5 +52,23 @@
     "retweets": 10,
     "views": 78532,
     "originVideos": "https://video.twimg.com/amplify_video/1933194361216356352/vid/avc1/720x1556/X-hfj9BnNNo2zx3m.mp4?tag=21,"
+  },
+  {
+    "id": "1933335396936736891",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-06-13 09:27:32",
+    "content": "突发：\n据BBC报道，以色列开始对伊朗的核计划设施进行打击，伊朗德黑兰传出爆炸声。\n同时以色列宣布进入紧急状态。 https://pbs.twimg.com/media/GtSWQ_TaUAAQ1ft.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/06/13/1933335396936736891_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 84,
+    "replies": 31,
+    "retweets": 2,
+    "views": 18136,
+    "originVideos": ""
   }
 ]
