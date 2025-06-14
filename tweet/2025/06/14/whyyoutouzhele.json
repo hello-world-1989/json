@@ -340,5 +340,23 @@
     "retweets": 15,
     "views": 51627,
     "originVideos": ""
+  },
+  {
+    "id": "1933721063814299880",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-06-14 11:00:03",
+    "content": "罗父称，湘雅二院曾经给他做工作，愿意赔付1500万封口费，被他和罗帅宇的母亲直接拒绝。 https://pbs.twimg.com/amplify_video_thumb/1933552976209068032/img/YwKDVoLvimLcab1g.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/06/14/1933721063814299880_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 194,
+    "replies": 13,
+    "retweets": 13,
+    "views": 30572,
+    "originVideos": "https://video.twimg.com/amplify_video/1933552976209068032/vid/avc1/720x1280/39rTq7SCNxtglMJo.mp4?tag=21,"
   }
 ]
