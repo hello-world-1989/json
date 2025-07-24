@@ -11,10 +11,28 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 26,
-    "replies": 6,
-    "retweets": 1,
-    "views": 5715,
+    "likes": 88,
+    "replies": 26,
+    "retweets": 6,
+    "views": 28693,
     "originVideos": "https://video.twimg.com/amplify_video/1948328247969693696/vid/avc1/720x1280/xi3RXedhh6Iik3Xd.mp4?tag=21,"
+  },
+  {
+    "id": "1948479926954590316",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-07-25 04:26:30",
+    "content": "网友发现，今年以来，内蒙古矿业多次发文强调了安全生产问题，除了员工考核外，还更换了一二系列的平台隔板。\n5月，内蒙古矿业党委书记、董事长张化武在一次安全教育会议上，强调了安全生产的重要性。\n但同时，今年内蒙古矿业亦发文强调了要“降本增效”，加大车间材料成本管控，要“少一分成本，多一分利润”。",
+    "images": "/tweet/image/whyyoutouzhele/2025/07/25/1948479926954590316_0.jpg,/tweet/image/whyyoutouzhele/2025/07/25/1948479926954590316_1.jpg,/tweet/image/whyyoutouzhele/2025/07/25/1948479926954590316_2.jpg,/tweet/image/whyyoutouzhele/2025/07/25/1948479926954590316_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 11,
+    "retweets": 2,
+    "views": 12294,
+    "originVideos": ""
   }
 ]
