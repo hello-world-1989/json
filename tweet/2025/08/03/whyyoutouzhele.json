@@ -11,10 +11,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 17,
-    "replies": 4,
-    "retweets": 2,
-    "views": 5903,
+    "likes": 70,
+    "replies": 10,
+    "retweets": 7,
+    "views": 33590,
     "originVideos": "https://video.twimg.com/amplify_video/1951567571402268672/vid/avc1/1080x1920/DVEwi6ST7hu5sbyj.mp4?tag=21,https://video.twimg.com/amplify_video/1951567602813476864/vid/avc1/1080x1920/D-tf4AE2KItfCJoz.mp4?tag=21,"
   },
   {
@@ -29,10 +29,28 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 45,
-    "replies": 11,
-    "retweets": 2,
-    "views": 27860,
+    "likes": 99,
+    "replies": 21,
+    "retweets": 10,
+    "views": 55365,
     "originVideos": "https://video.twimg.com/amplify_video/1951560829981294592/vid/avc1/720x1280/b0wJPfCItfXrdwBS.mp4?tag=21,"
+  },
+  {
+    "id": "1951704553818042751",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-08-03 02:00:01",
+    "content": "近日，广东茆坡村，网友发视频吐槽：共产党来给退役军人发慰问品了，十来块的陈村广州炒面，网友讽刺道十来块很大方了，这不比以前国民党更大方？ https://pbs.twimg.com/amplify_video_thumb/1951576112594870272/img/LWguN52xORUytpdo.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/08/03/1951704553818042751_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/08/03/1951704553818042751_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 84,
+    "replies": 21,
+    "retweets": 7,
+    "views": 20859,
+    "originVideos": "https://video.twimg.com/amplify_video/1951576112594870272/vid/avc1/720x1280/tAB1lq1HLmRCF5aF.mp4?tag=21,"
   }
 ]
