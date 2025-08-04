@@ -137,10 +137,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1169,
-    "replies": 114,
-    "retweets": 172,
-    "views": 379381,
+    "likes": 1209,
+    "replies": 123,
+    "retweets": 179,
+    "views": 387900,
     "originVideos": ""
   },
   {
@@ -155,10 +155,10 @@
     "isReply": true,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 519,
-    "replies": 29,
-    "retweets": 29,
-    "views": 147271,
+    "likes": 534,
+    "replies": 30,
+    "retweets": 30,
+    "views": 151369,
     "originVideos": ""
   },
   {
@@ -173,10 +173,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1344,
-    "replies": 248,
-    "retweets": 98,
-    "views": 1427192,
+    "likes": 1405,
+    "replies": 254,
+    "retweets": 100,
+    "views": 1494657,
     "originVideos": ""
   },
   {
@@ -191,10 +191,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 340,
+    "likes": 346,
     "replies": 64,
     "retweets": 31,
-    "views": 129440,
+    "views": 131944,
     "originVideos": "https://video.twimg.com/amplify_video/1951762911786934272/vid/avc1/464x848/2kncZr3bBOmWvGBt.mp4?tag=21,https://video.twimg.com/amplify_video/1951762982649708544/vid/avc1/464x848/xkDoTyEFh6oc6f2i.mp4?tag=21,"
   },
   {
@@ -209,10 +209,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 679,
-    "replies": 51,
-    "retweets": 65,
-    "views": 320209,
+    "likes": 689,
+    "replies": 56,
+    "retweets": 67,
+    "views": 328380,
     "originVideos": ""
   },
   {
@@ -227,10 +227,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 293,
-    "replies": 31,
+    "likes": 297,
+    "replies": 32,
     "retweets": 31,
-    "views": 101729,
+    "views": 103557,
     "originVideos": "https://video.twimg.com/amplify_video/1951760109144608768/vid/avc1/720x1280/S5k3Aeh0rzCMiubL.mp4?tag=21,https://video.twimg.com/amplify_video/1951760113808683008/vid/avc1/720x1280/V_EOfg6zBmoWdFG0.mp4?tag=21,https://video.twimg.com/amplify_video/1951760119676436480/vid/avc1/720x1280/x-I82PMlAIOmrfVH.mp4?tag=21,https://video.twimg.com/amplify_video/1951760141423935488/vid/avc1/720x1280/uH5eE1xI-cE_06X1.mp4?tag=21,"
   },
   {
@@ -245,10 +245,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 513,
-    "replies": 50,
+    "likes": 519,
+    "replies": 49,
     "retweets": 27,
-    "views": 124095,
+    "views": 127046,
     "originVideos": ""
   },
   {
@@ -263,10 +263,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 255,
+    "likes": 263,
     "replies": 30,
     "retweets": 19,
-    "views": 78042,
+    "views": 80565,
     "originVideos": "https://video.twimg.com/amplify_video/1951928976861179904/vid/avc1/720x1280/1Ki7imWll_ByDZfA.mp4?tag=21,"
   },
   {
@@ -281,10 +281,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 261,
+    "likes": 268,
     "replies": 26,
     "retweets": 15,
-    "views": 88811,
+    "views": 91433,
     "originVideos": ""
   },
   {
@@ -299,10 +299,10 @@
     "isReply": true,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 312,
+    "likes": 319,
     "replies": 55,
     "retweets": 19,
-    "views": 99431,
+    "views": 102325,
     "originVideos": "https://video.twimg.com/amplify_video/1951916236058804224/vid/avc1/464x848/L9x-aUhTPyhR3t3S.mp4?tag=21,https://video.twimg.com/amplify_video/1951916264030621696/vid/avc1/464x848/N4ec5h3zyV0-e8kp.mp4?tag=21,https://video.twimg.com/amplify_video/1951916278098341888/vid/avc1/464x848/9CUE4KaYZ3eeStvm.mp4?tag=21,"
   },
   {
@@ -317,10 +317,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1099,
-    "replies": 205,
-    "retweets": 137,
-    "views": 179256,
+    "likes": 1122,
+    "replies": 210,
+    "retweets": 139,
+    "views": 184922,
     "originVideos": "https://video.twimg.com/amplify_video/1951914601656045568/vid/avc1/656x848/3_WZMYxX_pb7jyb0.mp4?tag=21,https://video.twimg.com/amplify_video/1951914626146545664/vid/avc1/464x848/2a_mnixgXCyogoAd.mp4?tag=21,"
   },
   {
@@ -335,10 +335,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 2678,
-    "replies": 266,
-    "retweets": 296,
-    "views": 475292,
+    "likes": 2772,
+    "replies": 276,
+    "retweets": 313,
+    "views": 494957,
     "originVideos": ""
   },
   {
@@ -353,10 +353,10 @@
     "isReply": true,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 309,
-    "replies": 28,
+    "likes": 322,
+    "replies": 30,
     "retweets": 14,
-    "views": 95973,
+    "views": 100100,
     "originVideos": ""
   },
   {
@@ -371,10 +371,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1040,
-    "replies": 171,
-    "retweets": 114,
-    "views": 262950,
+    "likes": 1132,
+    "replies": 179,
+    "retweets": 124,
+    "views": 283902,
     "originVideos": "https://video.twimg.com/amplify_video/1951909359522586625/vid/avc1/544x960/gZuy7dEfZTBkz8wN.mp4?tag=21,https://video.twimg.com/amplify_video/1951909410554744832/vid/avc1/720x1280/vaYHg792_BL0he_1.mp4?tag=21,"
   },
   {
@@ -389,10 +389,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 768,
+    "likes": 787,
     "replies": 173,
     "retweets": 80,
-    "views": 265916,
+    "views": 271721,
     "originVideos": "https://video.twimg.com/amplify_video/1951890511842930688/vid/avc1/720x1280/PKbdcEHDZKYW09hK.mp4?tag=21,"
   },
   {
@@ -407,10 +407,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1185,
-    "replies": 80,
-    "retweets": 81,
-    "views": 369447,
+    "likes": 1257,
+    "replies": 81,
+    "retweets": 89,
+    "views": 389546,
     "originVideos": ""
   },
   {
@@ -425,10 +425,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 217,
-    "replies": 16,
-    "retweets": 15,
-    "views": 122195,
+    "likes": 229,
+    "replies": 21,
+    "retweets": 16,
+    "views": 129949,
     "originVideos": ""
   },
   {
@@ -443,10 +443,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1319,
-    "replies": 267,
-    "retweets": 118,
-    "views": 375233,
+    "likes": 1448,
+    "replies": 295,
+    "retweets": 125,
+    "views": 425825,
     "originVideos": ""
   },
   {
@@ -461,10 +461,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 2118,
-    "replies": 202,
-    "retweets": 107,
-    "views": 502530,
+    "likes": 2332,
+    "replies": 257,
+    "retweets": 115,
+    "views": 586993,
     "originVideos": ""
   },
   {
@@ -479,10 +479,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 243,
+    "likes": 251,
     "replies": 25,
-    "retweets": 21,
-    "views": 81724,
+    "retweets": 22,
+    "views": 86086,
     "originVideos": ""
   },
   {
@@ -497,10 +497,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 438,
-    "replies": 32,
-    "retweets": 34,
-    "views": 142475,
+    "likes": 453,
+    "replies": 45,
+    "retweets": 38,
+    "views": 148693,
     "originVideos": "https://video.twimg.com/amplify_video/1951972553947279360/vid/avc1/540x960/FvULp8Pmg5T7Tryl.mp4?tag=21,https://video.twimg.com/amplify_video/1951972560226185216/vid/avc1/720x1280/V00nzg49ND4YkMNn.mp4?tag=21,https://video.twimg.com/amplify_video/1951972721996242944/vid/avc1/720x1280/hS6hAqlFpDSmRGRs.mp4?tag=21,https://video.twimg.com/amplify_video/1951972730112253952/vid/avc1/720x1280/brXZk7ao24hxsSFJ.mp4?tag=21,"
   },
   {
@@ -515,10 +515,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1622,
-    "replies": 231,
-    "retweets": 316,
-    "views": 258140,
+    "likes": 1738,
+    "replies": 254,
+    "retweets": 341,
+    "views": 273617,
     "originVideos": "https://video.twimg.com/amplify_video/1951900718182572032/vid/avc1/1080x1920/HCLo_VfSX_VFHK6J.mp4?tag=21,"
   },
   {
@@ -551,10 +551,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 332,
-    "replies": 125,
+    "likes": 343,
+    "replies": 158,
     "retweets": 36,
-    "views": 86925,
+    "views": 92092,
     "originVideos": "https://video.twimg.com/amplify_video/1951898633525497856/vid/avc1/720x1280/KIiHOL5OO2CwskkN.mp4?tag=21,"
   },
   {
@@ -569,10 +569,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 187,
-    "replies": 17,
+    "likes": 194,
+    "replies": 20,
     "retweets": 12,
-    "views": 71174,
+    "views": 73955,
     "originVideos": "https://video.twimg.com/amplify_video/1951925697423024128/vid/avc1/1080x1920/jRcDYURjTbDz64Le.mp4?tag=21,https://video.twimg.com/amplify_video/1951925763349139456/vid/avc1/576x1024/yfO4CXQGoii9tjjq.mp4?tag=21,"
   },
   {
@@ -587,10 +587,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 584,
-    "replies": 93,
-    "retweets": 54,
-    "views": 388170,
+    "likes": 596,
+    "replies": 94,
+    "retweets": 56,
+    "views": 400407,
     "originVideos": ""
   },
   {
@@ -605,10 +605,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 1812,
-    "replies": 80,
-    "retweets": 126,
-    "views": 194699,
+    "likes": 2030,
+    "replies": 88,
+    "retweets": 134,
+    "views": 221889,
     "originVideos": ""
   },
   {
@@ -623,10 +623,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 194,
-    "replies": 20,
+    "likes": 203,
+    "replies": 38,
     "retweets": 7,
-    "views": 119445,
+    "views": 127460,
     "originVideos": "https://video.twimg.com/amplify_video/1951996901412212736/vid/avc1/1920x1080/bnEtIfgqSIT7j_sa.mp4?tag=21,"
   },
   {
@@ -641,10 +641,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 285,
-    "replies": 45,
-    "retweets": 30,
-    "views": 120933,
+    "likes": 303,
+    "replies": 84,
+    "retweets": 31,
+    "views": 128668,
     "originVideos": "https://video.twimg.com/amplify_video/1952004387523420160/vid/avc1/720x1280/Z20NPs9sYr4OL8qR.mp4?tag=21,https://video.twimg.com/amplify_video/1952004393907150848/vid/avc1/540x960/qaiUe6xwNh8LRRHg.mp4?tag=21,"
   },
   {
@@ -659,10 +659,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 194,
-    "replies": 15,
+    "likes": 203,
+    "replies": 17,
     "retweets": 20,
-    "views": 85658,
+    "views": 91010,
     "originVideos": "https://video.twimg.com/amplify_video/1951981189754961921/vid/avc1/576x1250/nemrJ7CD8nbXNy4W.mp4?tag=21,https://video.twimg.com/amplify_video/1951981196960800768/vid/avc1/1920x1080/-Q_yRqhxIqM88xhy.mp4?tag=21,https://video.twimg.com/amplify_video/1951981215558316032/vid/avc1/1280x720/cHKIC9hPhq9wfzvo.mp4?tag=21,"
   },
   {
@@ -677,10 +677,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 192,
-    "replies": 11,
+    "likes": 202,
+    "replies": 12,
     "retweets": 8,
-    "views": 82193,
+    "views": 86706,
     "originVideos": ""
   },
   {
@@ -695,10 +695,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 976,
-    "replies": 193,
-    "retweets": 124,
-    "views": 286812,
+    "likes": 1081,
+    "replies": 220,
+    "retweets": 147,
+    "views": 316288,
     "originVideos": "https://video.twimg.com/amplify_video/1952000674608402432/vid/avc1/720x1280/1g7hb4OF3hZJ-Ld3.mp4?tag=21,"
   },
   {
@@ -713,10 +713,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 864,
-    "replies": 162,
-    "retweets": 119,
-    "views": 599998,
+    "likes": 894,
+    "replies": 171,
+    "retweets": 122,
+    "views": 639730,
     "originVideos": ""
   },
   {
@@ -731,10 +731,10 @@
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 247,
-    "replies": 41,
+    "likes": 258,
+    "replies": 42,
     "retweets": 19,
-    "views": 308917,
+    "views": 342374,
     "originVideos": "https://video.twimg.com/amplify_video/1951903791311441920/vid/avc1/720x1280/c1el2-h6I3nEY2zZ.mp4?tag=21,https://video.twimg.com/amplify_video/1951903815109906432/vid/avc1/720x1280/6RKTcm8aj77sBHyK.mp4?tag=21,"
   },
   {
