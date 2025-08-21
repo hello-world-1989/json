@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1958572975608766831",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-08-22 00:52:40",
+    "content": "我看不懂，但我大受震撼。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 50,
+    "replies": 16,
+    "retweets": 8,
+    "views": 17516,
+    "originVideos": "",
+    "originImages": ""
+  },
+  {
+    "id": "1958559721301876967",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-08-22 00:00:00",
+    "content": "8月19日，广东一网友拍到外卖员因无暇照顾孩子，将幼子放进保温箱，带其一起送外卖。湿透的裤腿、沉重的保温箱、背上熟睡的孩子，展现了生存的艰辛与坚持。 https://pbs.twimg.com/amplify_video_thumb/1958469392557367296/img/YhVkoWA8oLNHPGBc.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/08/22/1958559721301876967_0.jpg",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 515,
+    "replies": 101,
+    "retweets": 91,
+    "views": 53023,
+    "originVideos": "https://video.twimg.com/amplify_video/1958469392557367296/vid/avc1/720x1280/4Un8_y0k-TVz1CCg.mp4?tag=21",
+    "originImages": ""
+  }
+]
