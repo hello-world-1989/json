@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1963285870662103154",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-09-04 01:00:02",
+    "content": "对于知乎上“我国有没有可能再次实行计划经济？”这一问题，来自上海的一位知友分享了自己的观点。 https://pbs.twimg.com/media/Gz7XgM_WEAE0PB2.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/09/04/1963285870662103154_0.jpg",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 548,
+    "replies": 73,
+    "retweets": 61,
+    "views": 90903,
+    "originVideos": "",
+    "originImages": "https://pbs.twimg.com/media/Gz7XgM_WEAE0PB2.jpg"
+  },
+  {
+    "id": "1963270766390092125",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-09-04 00:00:01",
+    "content": "9月1日，网友拍摄当下外卖小哥艰难的现状。 https://pbs.twimg.com/amplify_video_thumb/1963151790704398336/img/4NrdbZioVQfziCSD.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/09/04/1963270766390092125_0.jpg",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 295,
+    "replies": 47,
+    "retweets": 31,
+    "views": 63999,
+    "originVideos": "https://video.twimg.com/amplify_video/1963151790704398336/vid/avc1/720x1280/p6GRd137j8p9paRe.mp4?tag=21",
+    "originImages": ""
+  }
+]
