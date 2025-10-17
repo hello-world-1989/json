@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1979230934458110022",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-10-18 01:00:01",
+    "content": "近日，华为技术有限公司与浙江大学联合发布了中国首个基于升腾千卡算力平台的DeepSeek-R1-Safe 基础大模型。据华为的发布，测试结果表明，DeepSeek-R1-Safe 针对“有毒有害言论、政治敏感内容、违法行为教唆等14个维度的普通有害问题”整体防御成功率近 100%。 https://pbs.twimg.com/media/G3cfUgAW0AAfSRy.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/10/18/1979230934458110022_0.jpg",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 13,
+    "retweets": 2,
+    "views": 10165,
+    "originVideos": "",
+    "originImages": "https://pbs.twimg.com/media/G3cfUgAW0AAfSRy.jpg"
+  },
+  {
+    "id": "1979215829230121288",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-10-18 00:00:00",
+    "content": "网友投稿：近日，北京卢沟桥景区新设收费门票引发网友集体吐槽：成人票20元、学生票10元，将民族伤疤圈起来售票，违背了历史教育的初衷，网友们调侃道，应该在1937年之前开始收费，这样日本人就吓得不敢进来了。 https://pbs.twimg.com/amplify_video_thumb/1979080995400765440/img/HNXMkT1HyS46yPOH.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/10/18/1979215829230121288_0.jpg",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 241,
+    "replies": 45,
+    "retweets": 14,
+    "views": 40230,
+    "originVideos": "https://video.twimg.com/amplify_video/1979080995400765440/vid/avc1/1080x1920/OYG4L5g8YOWHSTlf.mp4?tag=21",
+    "originImages": ""
+  }
+]
