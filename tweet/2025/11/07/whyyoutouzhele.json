@@ -196,5 +196,41 @@
     "retweets": 41,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1986644785961025551",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-11-07 12:00:00",
+    "content": "11月5日，俄罗斯圣彼得堡，一名中国父亲发视频哽咽求助，寻找失踪多日的女儿张策问。\n张策问20岁，就读于俄罗斯国立师范大学心理教育专业，大一学生，自10月31日起失联，最后一次出现是在学校教学楼附近。她身高约1米76至1米78，体型偏瘦，棕黄色直发，戴棕黑色眼镜，失联时疑穿深色羽绒服。\n父亲在视频中多次哽咽，恳请当地居民及华人社群提供线索，并表示：“如果有人知道她的下落，请务必联系我们，感谢所有愿意伸出援手的人。”",
+    "images": "/tweet/image/whyyoutouzhele/2025/11/07/1986644785961025551_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 75,
+    "replies": 37,
+    "retweets": 3,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "1986637233013555255",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-11-07 11:30:00",
+    "content": "11月6日，台湾陆委会引用国家资通安全研究院（资安院）对中国外泄监控资料的分析报告，提醒民众在国内审慎使用抖音、小红书、微博等中国社群平台。资安院指出，这些中国相关网络与社群系统高概率彼此相互对照，能轻易确认个人身份，使用者恐遭跨境骚扰。\n陆委会进一步强调，企业主应全面盘点跨国业务的资安风险；在与外国合作时，务必将资安纳入核心考量，以避免技术遭不当滥用。",
+    "images": "/tweet/image/whyyoutouzhele/2025/11/07/1986637233013555255_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 111,
+    "replies": 18,
+    "retweets": 9,
+    "views": 0,
+    "originVideos": ""
   }
 ]
