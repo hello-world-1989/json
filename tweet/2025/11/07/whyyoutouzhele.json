@@ -286,5 +286,23 @@
     "retweets": 212,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1986425838871453726",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-11-06 21:30:00",
+    "content": "10月6日，湖南省卫健委发布通报：网传省人民医院祖某某、曾某生活作风问题。经核查，情况基本属实。目前，已对涉事人员暂停职务进行调查，将依规依纪严肃处理 。",
+    "images": "/tweet/image/whyyoutouzhele/2025/11/07/1986425838871453726_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 266,
+    "replies": 42,
+    "retweets": 23,
+    "views": 0,
+    "originVideos": ""
   }
 ]
