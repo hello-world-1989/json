@@ -304,5 +304,23 @@
     "retweets": 23,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1986659879675900315",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-11-07 13:00:00",
+    "content": "继11月4日，河北石家庄外卖员持刀反击站长、副站长后，11月6日，全国多地外卖站点，平日严苛的站长态度突然“180度转弯”，开始为骑手发放早餐、饮料。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/11/07/1986659879675900315_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 68,
+    "replies": 23,
+    "retweets": 9,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1986495620987658240/pl/nJkjjCj5wBrWq83Y.m3u8"
   }
 ]
