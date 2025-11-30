@@ -682,5 +682,23 @@
     "retweets": 50,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1994738886476451840/pl/4yBWG2JdRJnk9YTs.m3u8?v=4aa"
+  },
+  {
+    "id": "1994740273730261146",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-11-29 20:08:00",
+    "content": "维权网: 著名人权捍卫者、北京朝阳区公民、新冠疫苗受害者钱大龙于2025年11月27日被警方传唤至今未归，人已失联 wqw2010.blogspot.com/2025/11…",
+    "images": "/tweet/image/whyyoutouzhele/2025/11/29/1994740273730261146_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 60,
+    "replies": 5,
+    "retweets": 4,
+    "views": 0,
+    "originVideos": ""
   }
 ]
