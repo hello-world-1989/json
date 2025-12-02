@@ -628,5 +628,23 @@
     "retweets": 20,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1995120946189832192/pl/lQbsXjx4etAaN7S7.m3u8?v=88d"
+  },
+  {
+    "id": "1995215617889030213",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-01 03:37:00",
+    "content": "近日，中国人民解放军第38集团军前军长徐勤先受审录像流传到互联网，并在部分平台遭到删除。中国数字时代将该录像完整版（时长6小时3分44秒）予以收藏，并整理成文字稿全文发布。chinadigitaltimes.net/chines…\n\n  #每日一语",
+    "images": "/tweet/image/whyyoutouzhele/2025/12/01/1995215617889030213_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 1186,
+    "replies": 23,
+    "retweets": 183,
+    "views": 0,
+    "originVideos": ""
   }
 ]
