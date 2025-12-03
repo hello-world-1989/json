@@ -790,5 +790,23 @@
     "retweets": 28,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/1993661483511644160/pl/7hExH7HpfttCqfea.m3u8?v=cfc"
+  },
+  {
+    "id": "1995870576049901897",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-02 23:00:00",
+    "content": "12月1日，河南濮阳发生一起交通事故，一辆小米su7撞坏上百米隔离护栏，致使沿途十多辆车受损，肇事司机受伤车辆也严重受损。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/12/02/1995870576049901897_0.jpg,/tweet/video/whyyoutouzhele/2025/12/02/1995870576049901897_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 146,
+    "replies": 24,
+    "retweets": 15,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1995726851449499648/pl/MIGG3Xrjjvkq2Kcn.m3u8?v=cfc,https://video.twimg.com/amplify_video/1992959142789894144/pl/yVBGJJIoAWgrLPCR.m3u8?v=4a5"
   }
 ]
