@@ -538,5 +538,23 @@
     "retweets": 17,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "1997259731623186884",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-06 19:00:00",
+    "content": "根据抖音星图最新报价，陈震账号单条短视频广告价高达35万-100万元，其中：\n1-20秒：35万元\n21-60秒：60万元\n60秒以上：80万元起\n而据央视披露，陈震此次因偷税漏税被封禁，少缴税款仅118.67万元，相当于他随手拍两条60秒以内广告的收入。",
+    "images": "/tweet/image/whyyoutouzhele/2025/12/06/1997259731623186884_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2025/12/06/1997259731623186884_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 323,
+    "replies": 45,
+    "retweets": 15,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/1996757087343595521/pl/gb-VEsB1aMKiPh-0.m3u8?v=4d5"
   }
 ]
