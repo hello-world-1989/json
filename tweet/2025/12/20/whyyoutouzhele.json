@@ -664,5 +664,23 @@
     "retweets": 11,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/2002278910327963648/pl/O77q0PgEquy5123x.m3u8?v=4ee"
+  },
+  {
+    "id": "2002405391443890639",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-20 23:47:00",
+    "content": "更多现场视频：",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/12/20/2002405391443890639_0.jpg,/tweet/video/whyyoutouzhele/2025/12/20/2002405391443890639_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 456,
+    "replies": 20,
+    "retweets": 56,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/2002405291606921216/pl/f8Nd_y2Zs13Wm5gE.m3u8?v=cfc,https://video.twimg.com/amplify_video/2002034226397630464/pl/Wv0WK0DH1chY5ICb.m3u8?v=cfc"
   }
 ]
