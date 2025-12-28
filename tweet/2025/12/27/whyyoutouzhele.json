@@ -646,5 +646,41 @@
     "retweets": 1,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2004930269829009822",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-27 23:00:00",
+    "content": "网友投稿：一名中国留学生因使用中国护照前往台湾，在返回国内时遭机场工作人员严密盘查并被“如临大敌”般对待。工作人员表示，台湾是中国的一部分，不属于“国外”，不能使用护照前往，称护照是用于出国的证件。",
+    "images": "/tweet/image/whyyoutouzhele/2025/12/27/2004930269829009822_0.jpg,/tweet/image/whyyoutouzhele/2025/12/27/2004930269829009822_1.jpg,/tweet/image/whyyoutouzhele/2025/12/27/2004930269829009822_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 826,
+    "replies": 86,
+    "retweets": 50,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2004907620302504106",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2025-12-27 21:30:00",
+    "content": "12月27日，台湾知名网红“馆长”陈之汉在中国抖音平台正式开启带货直播首秀。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/12/27/2004907620302504106_0.jpg,/tweet/video/whyyoutouzhele/2025/12/27/2004907620302504106_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 404,
+    "replies": 88,
+    "retweets": 19,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/2004898936549511168/pl/Qk2lK1b6gZGDqLRv.m3u8,https://video.twimg.com/amplify_video/2000564058437632005/pl/rxQon964XVUxsIQv.m3u8?v=3b8"
   }
 ]
