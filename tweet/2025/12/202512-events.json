@@ -1,0 +1,121 @@
+{
+  "date": "202512",
+  "data": [
+    {
+      "keyword": "委员会",
+      "frequency": 5
+    },
+    {
+      "keyword": "事件",
+      "frequency": 5
+    },
+    {
+      "keyword": "演唱会",
+      "frequency": 3
+    },
+    {
+      "keyword": "会议",
+      "frequency": 3
+    },
+    {
+      "keyword": "和平集会",
+      "frequency": 2
+    },
+    {
+      "keyword": "活动",
+      "frequency": 2
+    },
+    {
+      "keyword": "事故",
+      "frequency": 2
+    },
+    {
+      "keyword": "立法会选举",
+      "frequency": 2
+    },
+    {
+      "keyword": "战",
+      "frequency": 2
+    },
+    {
+      "keyword": "独立调查委员会",
+      "frequency": 1
+    },
+    {
+      "keyword": "独立委员会",
+      "frequency": 1
+    },
+    {
+      "keyword": "交通事故",
+      "frequency": 1
+    },
+    {
+      "keyword": "记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "新闻发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "例行记者会",
+      "frequency": 1
+    },
+    {
+      "keyword": "发布会",
+      "frequency": 1
+    },
+    {
+      "keyword": "招庄会",
+      "frequency": 1
+    },
+    {
+      "keyword": "小区居民事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "公司院内活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "全体会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "中美建交公报",
+      "frequency": 1
+    },
+    {
+      "keyword": "试庄会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "风波",
+      "frequency": 1
+    },
+    {
+      "keyword": "企业派对",
+      "frequency": 1
+    },
+    {
+      "keyword": "男单焦点战",
+      "frequency": 1
+    },
+    {
+      "keyword": "纪念仪式",
+      "frequency": 1
+    },
+    {
+      "keyword": "派对",
+      "frequency": 1
+    },
+    {
+      "keyword": "2025年乒乓球混合团体世界杯",
+      "frequency": 1
+    },
+    {
+      "keyword": "休战锦标赛",
+      "frequency": 1
+    }
+  ]
+}
