@@ -1132,5 +1132,23 @@
     "retweets": 103,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2020861734534132195",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-02-09 22:05:00",
+    "content": "欧易用户杨秀春全网实名曝光：\n欧易平台@okx 以涉嫌“操控BTC市场”为由冻结账户并强制平仓，导致5万多个BTC多头合约爆仓，其中欧易钱包内517.86 BTC至今未返还。\n徐明星@star_okx 请给出不返还517.86个BTC的理由。@justinsuntron @heyibinance @cz_binance @ChandlerGuo @punk8185 @liangxihuigui",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/02/09/2020861734534132195_0.jpg,",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 1373,
+    "replies": 549,
+    "retweets": 492,
+    "views": 0,
+    "originVideos": "https://video.twimg.com/amplify_video/2020859815908777984/pl/EIrypdp0n_S05dcy.m3u8?v=da3"
   }
 ]
