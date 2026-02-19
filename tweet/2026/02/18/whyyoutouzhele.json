@@ -448,5 +448,23 @@
     "retweets": 152,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/2023014708391845888/pl/51sjpRa5WnkdzjVR.m3u8"
+  },
+  {
+    "id": "2024071997865795762",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-02-18 18:42:00",
+    "content": "x.com/i/article/202406882830…",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 500,
+    "replies": 45,
+    "retweets": 82,
+    "views": 0,
+    "originVideos": ""
   }
 ]
