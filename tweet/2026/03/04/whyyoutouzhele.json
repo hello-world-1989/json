@@ -898,5 +898,23 @@
     "retweets": 104,
     "views": 0,
     "originVideos": "https://video.twimg.com/amplify_video/2029000807040090112/pl/0NQWgyiicdtUT3QH.m3u8"
+  },
+  {
+    "id": "2029188188636320025",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-03-04 21:32:00",
+    "content": "3月4日，中山大学附属医院苏士成、宋尔卫实验室学生患癌事件中，受害学生之一黄敏博士去世。\n截止至今，苏宋二人均未受到任何影响，且宋尔卫的儿子过去三年继续发了两篇cell。",
+    "images": "/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_0.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_1.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_2.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_3.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_4.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_5.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_6.jpg,/tweet/image/whyyoutouzhele/2026/03/04/2029188188636320025_7.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1591,
+    "replies": 63,
+    "retweets": 151,
+    "views": 0,
+    "originVideos": ""
   }
 ]
