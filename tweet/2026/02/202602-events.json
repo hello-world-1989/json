@@ -1,0 +1,81 @@
+{
+  "date": "202602",
+  "data": [
+    {
+      "keyword": "事件",
+      "frequency": 11
+    },
+    {
+      "keyword": "事故",
+      "frequency": 2
+    },
+    {
+      "keyword": "党代会",
+      "frequency": 2
+    },
+    {
+      "keyword": "活动",
+      "frequency": 2
+    },
+    {
+      "keyword": "纪念活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "立法会保安事务委员会会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "公共事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "社会热点事件",
+      "frequency": 1
+    },
+    {
+      "keyword": "恒晖公益基金会",
+      "frequency": 1
+    },
+    {
+      "keyword": "宗教活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "董事会",
+      "frequency": 1
+    },
+    {
+      "keyword": "华为鸿蒙智行年会",
+      "frequency": 1
+    },
+    {
+      "keyword": "年会活动",
+      "frequency": 1
+    },
+    {
+      "keyword": "斯坦案",
+      "frequency": 1
+    },
+    {
+      "keyword": "比赛",
+      "frequency": 1
+    },
+    {
+      "keyword": "党内会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "政治局会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "常委会会议",
+      "frequency": 1
+    },
+    {
+      "keyword": "第68届格莱美音乐奖颁奖典礼",
+      "frequency": 1
+    }
+  ]
+}
