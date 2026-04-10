@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "2007293339830571369",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-01-03 11:30:00",
+    "content": "12月30日，一名博主“老王谈治安”分享《完全防止张献忠手册》。内容涉及 社会崩溃的严峻现实，并讨论 普通人在无差别暴力事件中的自保方式。\n该帖发布后不足一天即被全网封杀，该博主也被炸号。",
+    "images": "/tweet/image/whyyoutouzhele/2026/01/03/2007293339830571369_0.jpg,/tweet/image/whyyoutouzhele/2026/01/03/2007293339830571369_1.jpg,/tweet/image/whyyoutouzhele/2026/01/03/2007293339830571369_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 2531,
+    "replies": 99,
+    "retweets": 298,
+    "views": 0,
+    "originVideos": ""
+  }
+]
