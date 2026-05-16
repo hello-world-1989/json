@@ -1006,5 +1006,23 @@
     "retweets": 33,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2055257936218275989",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-05-15 20:04:00",
+    "content": "We are launching our English-language brand, “The Wall.” \nStarting today, we will be publishing a weekly newsletter on X and Substack, bringing you the latest updates from China each week.\nHelping you better understand the real China.",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 1274,
+    "replies": 62,
+    "retweets": 116,
+    "views": 0,
+    "originVideos": ""
   }
 ]
