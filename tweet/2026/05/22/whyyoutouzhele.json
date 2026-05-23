@@ -718,5 +718,23 @@
     "retweets": 6,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2057839254449918064",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-05-22 23:01:00",
+    "content": "5月22日下午，陕西西安雁塔区西影路发生冲撞行人事件，一辆特斯拉在路口接连撞倒多人。",
+    "images": "/tweet/image/whyyoutouzhele/2026/05/22/2057839254449918064_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 842,
+    "replies": 130,
+    "retweets": 94,
+    "views": 0,
+    "originVideos": ""
   }
 ]
