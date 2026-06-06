@@ -1078,5 +1078,23 @@
     "retweets": 10,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2062806639628128277",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-06-05 16:00:00",
+    "content": "6月5日早晨，辽宁省本溪市平山区一处临街商铺发生爆炸事故。\n根据本溪市消防救援局通报，事故疑似由液化气罐泄漏引发。消防部门接警后迅速赶赴现场处置，明火已被扑灭。\n截至目前，事故已造成2人死亡、13人受伤，伤者均已送医救治。现场视频显示，爆炸冲击波波及周边商铺及过往车辆，部分建筑玻璃、招牌受损。",
+    "images": "/tweet/image/whyyoutouzhele/2026/06/05/2062806639628128277_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 248,
+    "replies": 29,
+    "retweets": 14,
+    "views": 0,
+    "originVideos": ""
   }
 ]
