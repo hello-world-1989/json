@@ -1186,5 +1186,41 @@
     "retweets": 13,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2070899707015053743",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-06-27 23:59:00",
+    "content": "【合肥爆发反垃圾站堵路抗议】\n目前，现场聚集了大量市民围观和堵路，大批警力在现场维稳。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 63,
+    "replies": 11,
+    "retweets": 3,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2070896785581871310",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-06-27 23:47:00",
+    "content": "【合肥爆发反垃圾站堵路抗议】\n突发！6月27日，安徽省合肥市北二环昊天园北门附近，疑似因当地规划建设垃圾中转站，引发附近居民聚集抗议。\n\n现场视频显示，上百名居民来到现场堵路抗议，并与维持秩序的警察在道路中央对峙，导致北二环交通受到严重影响。截至发稿时，当地交通已瘫痪两个多小时。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 374,
+    "replies": 52,
+    "retweets": 29,
+    "views": 0,
+    "originVideos": ""
   }
 ]
