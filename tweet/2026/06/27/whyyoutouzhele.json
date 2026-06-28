@@ -1222,5 +1222,23 @@
     "retweets": 29,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2070875547878523141",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-06-27 22:23:00",
+    "content": "最近在北京最高法信访接待处上访排队的纪实影像  #赛博信访局",
+    "images": "/tweet/image/whyyoutouzhele/2026/06/27/2070875547878523141_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 38,
+    "replies": 4,
+    "retweets": 3,
+    "views": 0,
+    "originVideos": ""
   }
 ]
