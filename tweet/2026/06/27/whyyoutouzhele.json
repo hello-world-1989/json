@@ -1240,5 +1240,23 @@
     "retweets": 3,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2070803573299093892",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-06-27 17:37:00",
+    "content": "近日，进京上访的人在北京市西城区永定门西街甲一号附近的河岸边排起了长队  #赛博信访局",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 39,
+    "replies": 4,
+    "retweets": 5,
+    "views": 0,
+    "originVideos": ""
   }
 ]
