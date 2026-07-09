@@ -1096,5 +1096,23 @@
     "retweets": 25,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2075243580151492709",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-09 23:40:00",
+    "content": "7月8日，余承东发布享界G9车顶帐篷照片并配文“晚安，敖鲁古雅”。\n随后，有网友将该照片上传至国家反诈中心App进行AI图片检测。该App给出的检测结果为“AI生成”。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/09/2075243580151492709_0.jpg,/tweet/image/whyyoutouzhele/2026/07/09/2075243580151492709_1.jpg,/tweet/image/whyyoutouzhele/2026/07/09/2075243580151492709_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 358,
+    "replies": 42,
+    "retweets": 17,
+    "views": 0,
+    "originVideos": ""
   }
 ]
