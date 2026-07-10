@@ -1006,5 +1006,41 @@
     "retweets": 4,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2075602884478095635",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-10 23:27:00",
+    "content": "【广西横州洪水】\n7月10日，有一段志愿者群聊记录流出，聊天内容显示，有部分地区民众撤离困难，且水位持续上涨，有六七十岁的老人甚至下跪恳求救援人员提供馒头。\n\n还有网友反映其家人受困，被困三天未进食，而外界救援力量未能进入其所在街区，质疑救援存在“表面功夫”。\n\n计划前往当地的志愿者却说：在与当地对接人沟通时，对方坚称“物资已非常充足”，这与其所见的灾情严重程度形成了鲜明反差，引发了极大疑惑。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/10/2075602884478095635_0.jpg,/tweet/image/whyyoutouzhele/2026/07/10/2075602884478095635_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 324,
+    "replies": 44,
+    "retweets": 25,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2075600934512869767",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-10 23:20:00",
+    "content": "“水来了，抽粪车装的”\n近日，广西贵港，网友发布视频称小区停水两天后，终于有应急供水车到场。\n但有居民仔细查看后发现，该车疑似为疏通吸粪车，网友们调侃：“营养快线”、“去掉中间商”、“让你小子喝上有机水”。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 599,
+    "replies": 126,
+    "retweets": 72,
+    "views": 0,
+    "originVideos": ""
   }
 ]
