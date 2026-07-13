@@ -916,5 +916,41 @@
     "retweets": 49,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2076693131513250178",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-13 23:40:00",
+    "content": "7月13日，浙江金华武义县一处厂房发生火灾。现场视频显示，厂房上方明火猛烈，黑烟不断升起。\n\n另有现场民众拍摄的照片显示，近十名人员聚集在高层窗口等待救援，多名消防员携带救援装备，通过外墙架梯接近被困人员。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/13/2076693131513250178_0.jpg,/tweet/image/whyyoutouzhele/2026/07/13/2076693131513250178_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 75,
+    "replies": 28,
+    "retweets": 6,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2076688098264588506",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-13 23:20:00",
+    "content": "吉林暴雨，部分河流已超警\n\n7月13日5时05分，吉林省气象台发布暴雨橙色预警。预计13日白天至14日白天，辽源、吉林市南部和东部、通化中北部、白山西部和北部、延边州大部将出现暴雨，部分地区有大暴雨。\n\n中央气象台随后将吉林东南部局地累计降雨量预报上调至250至350毫米。由于本轮降雨与此前强降雨区域高度重叠，东辽河、松花江吉林段、鸭绿江吉林段发生洪水风险较高，其中丰满水库以上流域洪水风险极高。\n\n截至目前，吉林省饮马河、蛟河等14条河流已出现涨水过程，部分水文站点水位超过警戒水位\n\n李老师温馨提示：请辽源、吉林、通化、白山及延边地区网友注意防范山洪、泥石流、山体滑坡和城市内涝等灾害，如遇险情，请及时撤离河道、低洼地带、山区等危险区域，确保自身安全。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/13/2076688098264588506_0.jpg,/tweet/image/whyyoutouzhele/2026/07/13/2076688098264588506_1.jpg,/tweet/image/whyyoutouzhele/2026/07/13/2076688098264588506_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 83,
+    "replies": 33,
+    "retweets": 6,
+    "views": 0,
+    "originVideos": ""
   }
 ]
