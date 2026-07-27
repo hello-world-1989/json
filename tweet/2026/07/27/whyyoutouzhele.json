@@ -952,5 +952,41 @@
     "retweets": 16,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2081766561178890685",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-27 23:40:00",
+    "content": "7月26日，广西，据受灾民众发布视频显示，六蓝水库下游因洪水冲刷，房屋尽数被毁、冲走，现场只剩下裸露的地基和一只马桶。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 144,
+    "replies": 28,
+    "retweets": 18,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2081761528207036479",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-27 23:20:00",
+    "content": "“都是良品”\n\n近日，台湾食油大厂中联油脂生产的大豆沙拉油被验出一级致癌物苯并[a]芘（BaP）超标，该事件因涉及众多知名下游食品、餐饮巨头及学校营养午餐，加上厂商瞒报、政府下架政策反覆，引发了台湾社会的食安恐慌与政治风波，中国媒体想借机炒作，被网友嘲讽：遥遥领先。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/27/2081761528207036479_0.jpg,/tweet/image/whyyoutouzhele/2026/07/27/2081761528207036479_1.jpg,/tweet/image/whyyoutouzhele/2026/07/27/2081761528207036479_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 263,
+    "replies": 43,
+    "retweets": 26,
+    "views": 0,
+    "originVideos": ""
   }
 ]
