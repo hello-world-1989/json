@@ -880,5 +880,23 @@
     "retweets": 40,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2081866533483995333",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-28 06:17:00",
+    "content": "#北上纪实 监视器下的人民来访接待室的路牌是北京永定门国信局来访接待司的标志性符号，该图案亦是我们网站 shangfang.icu/ 的设计灵感来源。",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_0.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_1.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_2.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_3.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_4.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_5.jpg,/tweet/image/whyyoutouzhele/2026/07/28/2081866533483995333_6.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 2,
+    "retweets": 4,
+    "views": 0,
+    "originVideos": ""
   }
 ]
