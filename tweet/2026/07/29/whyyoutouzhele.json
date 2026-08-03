@@ -1150,5 +1150,41 @@
     "retweets": 3,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2082482556063146292",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-29 23:05:00",
+    "content": "进京上访的人去哪了？[7/7]\n官方推出“七一新规”，重点是为了打压实体进京上访，与之对应的便是当局钦定推广的网络上访途径。这里夹杂了一些意味深长的恶毒设计，当局特地把国家信访局网站的登录认证过程繁难化，很多上访者的设备在扫码与NFC步骤上被卡住。如果当局如此不待见网络信访，仍然维持这种堵塞言路、刁难人民的作风，那么有冤情的上访者可以选择投稿海外 #赛博信访局",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/29/2082482556063146292_0.jpg,/tweet/image/whyyoutouzhele/2026/07/29/2082482556063146292_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 2,
+    "retweets": 1,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2082477805913198888",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-07-29 22:46:00",
+    "content": "进京上访的人去哪了？[6/7]\n更多的人选择了“进庄”，以这种方式维持对属地施压。所谓“进庄”就是指被久敬庄接济中心收留、通知属地或驻京办来领人以达成“考核扣分”上的压力。那里的居住条件缺乏人道，比战俘营还差：上访者只能睡在地上或金属座椅上，伙食只有馒头、火腿肠和榨菜。具体可以参考我们的过往科普 nitter.net/whyyoutouzhele/status/…",
+    "images": "/tweet/image/whyyoutouzhele/2026/07/29/2082477805913198888_0.jpg,/tweet/image/whyyoutouzhele/2026/07/29/2082477805913198888_1.jpg,/tweet/image/whyyoutouzhele/2026/07/29/2082477805913198888_2.jpg,/tweet/image/whyyoutouzhele/2026/07/29/2082477805913198888_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 1,
+    "retweets": 1,
+    "views": 0,
+    "originVideos": ""
   }
 ]
