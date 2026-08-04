@@ -1042,5 +1042,41 @@
     "retweets": 14,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2084665664271482978",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-04 23:40:00",
+    "content": "8月3日，一网友再次徒手挑战大国工匠钻鸡蛋，一样做到了壳破膜不破。",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/04/2084665664271482978_0.jpg,/tweet/image/whyyoutouzhele/2026/08/04/2084665664271482978_1.jpg,/tweet/image/whyyoutouzhele/2026/08/04/2084665664271482978_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 72,
+    "replies": 11,
+    "retweets": 6,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2084655608750383335",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-04 23:00:00",
+    "content": "8月2日，是西藏独立运动人士洛嘎·让赞在纽约联合国总部外自焚身亡一个月。\n应其家属呼吁，全球多地藏人及支持者当天举行纪念活动，将这一天定为“全球行动日”，以悼念洛嘎·让赞，并延续其生前关于藏人团结与抗争的呼吁。\n\n在美国纽约，数百名藏人从杰克逊高地游行至联合国总部，现场展示超过170具象征历年藏人自焚者的棺木模型。\n\n印度达兰萨拉有超过1000人举行烛光游行，台北有民众在中国银行分行外举行抗议活动，部分参与者身披西藏旗帜，并撕毁中国《民族团结进步促进法》文本；东京则举行和平游行、纪录片放映及座谈会等活动。\n\n此外，伦敦、巴黎、印度金奈和拉达克，以及澳大利亚悉尼、布里斯班、堪培拉等地，也有民众举行游行、祈祷和纪念活动。",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 131,
+    "replies": 21,
+    "retweets": 13,
+    "views": 0,
+    "originVideos": ""
   }
 ]
