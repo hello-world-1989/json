@@ -772,5 +772,23 @@
     "retweets": 20,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2086650000197698037",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-10 11:05:00",
+    "content": "吕梁市贺昌中学学生投稿称，校内教师以“调查学生矛盾”为由，强制检查多名女生手机，翻看微信、抖音私信，甚至查看个人相册!\n\n学校对此回应称，监护人在场时查看手机“确有不妥”。但监护人在场，并不意味着学生的个人隐私可以被随意翻查!\n\n如果你也遇到过学校强制查手机、翻聊天记录或相册等情况，欢迎向611投稿。对于材料翔实、问题严重的案例，我们会进一步核实、公开记录并向有关部门反映。",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/10/2086650000197698037_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 45,
+    "replies": 2,
+    "retweets": 4,
+    "views": 0,
+    "originVideos": ""
   }
 ]
