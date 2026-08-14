@@ -1042,5 +1042,41 @@
     "retweets": 26,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2087678517030887541",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-13 07:12:00",
+    "content": "8月11日\n河南省焦作市武陟县武陟中学（一中）19班；开学后迎来第一课“服从性测试”\n\n学生满脸不高兴",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 96,
+    "replies": 14,
+    "retweets": 10,
+    "views": 0,
+    "originVideos": ""
+  },
+  {
+    "id": "2087752252811579586",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-13 12:05:00",
+    "content": "有学生向611投稿称，盐城外国语学校暑期组织补课，时间为7月22日至8月11日，投稿显示学校默认全员参加，并涉及约7900元收费。\n\n学校存在周日补课、额外收取延时服务费等情况，并对校内管理和校方人员提出多项严重指控。\n\n如果你了解盐城外国语学校的实际情况，欢迎投稿补充。",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/13/2087752252811579586_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": true,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 13,
+    "retweets": 1,
+    "views": 0,
+    "originVideos": ""
   }
 ]
