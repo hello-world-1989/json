@@ -1,19 +1,19 @@
 [
   {
-    "id": "2091948655955812636",
+    "id": "2091918455431626950",
     "accountId": "whyyoutouzhele",
     "sensitive": false,
     "name": "李老师不是你老师",
-    "createdDate": "2026-08-25 02:00:00",
-    "content": "8月20日，一名开发者公布对阿里旗下跨境电商AliExpress网页的技术分析，发现其首页即使没有播放音频或视频，仍会在后台通过collina.js和fireyejs.js两个安全脚本创建WebAudio环境，生成并分析用户听不到的音频信号。\n\n开发者称，在他的Windows设备上，这种“无声音频”会持续占用蓝牙音频通道，导致多点连接耳机无法从电脑切回手机；\n关闭网页或屏蔽两个脚本后，耳机恢复正常。\n\n检查还发现，相关脚本会读取Canvas、WebGL、屏幕尺寸、CPU线程、内存、WebRTC、鼠标及触摸操作、浏览器自动化特征等信息，并将结果加密发送至阿里遥测服务，构成一套综合设备指纹系统。\n\n这种设备指纹比Cookie更难清除。\n如果用户曾在同一浏览器登录账号并留下姓名、手机号、地址和支付信息，其设备特征可能与真实身份建立关联，单纯退出账号、删除Cookie或使用无痕模式未必能切断联系。",
-    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091948655955812636_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091948655955812636_1.jpg,",
+    "createdDate": "2026-08-25 00:00:00",
+    "content": "8月18日，据韩国《每日经济》报道，一名曾在三星工作28年、后参与中国存储芯片制造商长鑫存储（CXMT）创立的全姓工程师，近日在首尔中央地方法院作证称，长鑫存储2016年成立之初，包括CEO、CTO在内的管理层就计划取得三星的DRAM核心工艺资料，而非从零开始自主研发。\n\n全某称，当时公司“没有研究所，也没有设备”，并通过高薪招揽韩国半导体工程师。随后三星18纳米DRAM的“工艺配方计划”（PRP）遭泄露，其中包含约600道制造工序、设备及具体工艺条件。三星为开发相关技术耗时约5年，投入约1.6万亿韩元。\n\n韩国检方指控，长鑫存储取得相关资料后，将三星的工艺信息转换为适用于中国工厂设备的生产参数，从而省去大量研发和试错过程。长鑫存储此后实现DRAM量产，目前已成为全球第四大DRAM厂商。",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_2.jpg,",
     "videos": "",
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 49,
-    "replies": 14,
-    "retweets": 9,
+    "likes": 386,
+    "replies": 58,
+    "retweets": 64,
     "views": 0,
     "originVideos": ""
   },
@@ -36,21 +36,1929 @@
     "originVideos": ""
   },
   {
-    "id": "2091918455431626950",
+    "id": "2091948655955812636",
     "accountId": "whyyoutouzhele",
     "sensitive": false,
     "name": "李老师不是你老师",
-    "createdDate": "2026-08-25 00:00:00",
-    "content": "8月18日，据韩国《每日经济》报道，一名曾在三星工作28年、后参与中国存储芯片制造商长鑫存储（CXMT）创立的全姓工程师，近日在首尔中央地方法院作证称，长鑫存储2016年成立之初，包括CEO、CTO在内的管理层就计划取得三星的DRAM核心工艺资料，而非从零开始自主研发。\n\n全某称，当时公司“没有研究所，也没有设备”，并通过高薪招揽韩国半导体工程师。随后三星18纳米DRAM的“工艺配方计划”（PRP）遭泄露，其中包含约600道制造工序、设备及具体工艺条件。三星为开发相关技术耗时约5年，投入约1.6万亿韩元。\n\n韩国检方指控，长鑫存储取得相关资料后，将三星的工艺信息转换为适用于中国工厂设备的生产参数，从而省去大量研发和试错过程。长鑫存储此后实现DRAM量产，目前已成为全球第四大DRAM厂商。",
-    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091918455431626950_2.jpg,",
+    "createdDate": "2026-08-25 02:00:00",
+    "content": "8月20日，一名开发者公布对阿里旗下跨境电商AliExpress网页的技术分析，发现其首页即使没有播放音频或视频，仍会在后台通过collina.js和fireyejs.js两个安全脚本创建WebAudio环境，生成并分析用户听不到的音频信号。\n\n开发者称，在他的Windows设备上，这种“无声音频”会持续占用蓝牙音频通道，导致多点连接耳机无法从电脑切回手机；\n关闭网页或屏蔽两个脚本后，耳机恢复正常。\n\n检查还发现，相关脚本会读取Canvas、WebGL、屏幕尺寸、CPU线程、内存、WebRTC、鼠标及触摸操作、浏览器自动化特征等信息，并将结果加密发送至阿里遥测服务，构成一套综合设备指纹系统。\n\n这种设备指纹比Cookie更难清除。\n如果用户曾在同一浏览器登录账号并留下姓名、手机号、地址和支付信息，其设备特征可能与真实身份建立关联，单纯退出账号、删除Cookie或使用无痕模式未必能切断联系。",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091948655955812636_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091948655955812636_1.jpg,",
     "videos": "",
     "isReply": false,
     "isRetweet": false,
     "isSelfThread": false,
-    "likes": 386,
-    "replies": 58,
-    "retweets": 64,
+    "likes": 49,
+    "replies": 14,
+    "retweets": 9,
     "views": 0,
     "originVideos": ""
+  },
+  {
+    "id": "2091963754376286642",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 03:00:15",
+    "content": "8月23日，据《联合早报》报道，路易威登（LV）位于贵州的唯一门店——贵阳荔星中心店，将于8月31日停止营业，意味着LV全面撤出贵州。\n\n该店于2022年开业，据报道开业当天销售额曾突破1000万元，如今营业仅四年便宣布关闭。近半年，LV还关闭了昆明金格百货时光店和成都天府国际机场店，持续收缩西南地区门店。\n\n彭博社调查的三家研究机构数据显示，中国市场前25大奢侈品牌7月销售额整体下降超过10%。LV、迪奥、古驰、葆蝶家和巴黎世家均出现两位数下跌，爱马仕也由增长转为下滑。\n\n报道认为，中国中产阶层收缩、年轻人消费偏好改变，以及当局加强跨境资金、境外财富和税收监管，均削弱了奢侈品消费意愿。曾经被视为城市消费升级象征、开业首日销售破千万的LV门店，四年后却悄然撤出贵州。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091963754376286642_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1700,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2091963754376286642",
+    "source": "telegram",
+    "telegramId": "51585",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51585",
+    "reactions": [
+      {
+        "emoji": "👏",
+        "count": 11
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2091978856609558934",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 04:00:48",
+    "content": "8月23日，中国官方宣布，原计划近日在海南文昌发射的嫦娥七号月球探测器“不满足发射条件”，无法在今年预定窗口实施，具体原因及新的发射时间均未公布。\n\n值得注意的是，就在4天前的8月19日，国家航天局还曾通报称，嫦娥七号与长征五号遥十四运载火箭已转运至发射区，发射场“设施设备状态良好”，计划近日择机发射。\n\n嫦娥七号原计划前往月球南极寻找水冰资源，也是中国2030年前实现载人登月计划的重要一环。\n此次任务突然跨年度延期，但官方目前仅以“综合研判”“不满足发射条件”等措辞解释，尚未公布具体出了什么问题。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091978856609558934_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091978856609558934_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 19,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1630,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2091978856609558934",
+    "source": "telegram",
+    "telegramId": "51586",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51586",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 15
+      },
+      {
+        "emoji": "🎉",
+        "count": 3
+      },
+      {
+        "emoji": "🤯",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2091993958087823773",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 05:01:19",
+    "content": "8月23日，云南富宁县第一中学有学生在网上发布多条校规。据学生发布的内容，学校规定每次洗澡时间不得超过5分钟，宿舍内严禁谈论所谓“低级趣味的话题”。\n\n男女学生在校园内不得并肩行走，学生往返教室、宿舍、食堂等地点时，还被统一要求“小跑”。\n\n相关规则引发网友热议。\n“在监狱洗澡都不止五分钟”\n“没有衡水的命，一身衡水的病”\n“现在监狱的人都过得比学生好”\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2091993958087823773_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091993958087823773_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091993958087823773_2.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2091993958087823773_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1580,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2091993958087823773",
+    "source": "telegram",
+    "telegramId": "51588",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51588",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 9
+      },
+      {
+        "emoji": "💊",
+        "count": 4
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092009051681091712",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 06:02:04",
+    "content": "8月22日，美国旧金山湾区动物保护人士在联合广场举行持续约3小时的“为旺旺伸张正义”集会。参与者手持“Justice for Wang Wang”等标语，向路人派发传单，呼吁中国制定反虐待动物法律。\n\n旧金山动物委员会主席Michael Angelo Torres也到场声援。他表示，旺旺遭虐杀事件没有得到足够严肃的对待。\n查看原文\n\n📝 引用推文:\n8月8日，日本大阪举行“Justice for WangWang”游行，为广东揭阳遭虐杀的流浪犬“旺旺”及其幼犬发声。\n\n约200名参与者沿大阪御堂筋游行，要求关注动物虐待问题并推动相关立法。\n查看引用原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092009051681091712_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092009051681091712_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1570,
+    "originVideos": "https://cdn4.telesco.pe/file/de2e5915bb.mp4?token=tZ_kIeDstXf7JveA1ig1BGurub5DxGvEPBbbnR7Ey4EiBd08nTJQlob8bKWtfqcC2DQ_52CVD0hcwzNFxCLryzNFUVObKKZrCFXtkl6CwW345QOIGBNLG8lzp5uEGK0ZEReQmMc6-WmllrD0gutzEf0lGScQlegoJ4jRSpV7TBB244NesyHgtJKo77AYfJ9ja1HDNECzAI-wz40JNZXmA3zXpxVCaIUuwW8aIQW_RPvn8-5EOKUjRnNiJLAGVmrj9YeGOMM2XL7nNnewm4ZK1pXOJhXKhTfCiEmwZaiprg-jzdrjsbUIVTJzuccpqplDS0dw7ftwIBgeKAo62qmxGg,https://cdn4.telesco.pe/file/7da9c0a88d.mp4?token=pPZNKij22N3qWOAKpBH-WZ0XR6gv0eU1wjWSKX1Z5qZJo6M52qqFSq7ToQiXaYWjEepxXU0vCJMUhaSn-tiGZG9-nhf1pgezbOOfqSOjFOQ4qUrSU8FHw_qrgLkzKSiTP-G-jyUDcZwBg7WpIK6sH_ReI_0C18A7MHbZ9j5p7HTj_Vs3-QJ0bSszT2qXx_WCa5wt41RDrr5yifocvM9r5dmJUEwfRX_j_p4SFoi_BC3XCoEQvJrVxYm3L9V0RvpPnhfxkMf-4Dg1E1VeiKFRms3dULV4Rz6epgpVc2qFIJ76kmTYSeI_qnmCjVxY05yLfyecjYpDUrhC9hz1saRmFQ",
+    "link": "https://x.com/whyyoutouzhele/status/2092009051681091712",
+    "source": "telegram",
+    "telegramId": "51592",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51592",
+    "reactions": [
+      {
+        "emoji": "👏",
+        "count": 11
+      },
+      {
+        "emoji": "🔥",
+        "count": 4
+      },
+      {
+        "emoji": "🤡",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092016601361179052",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 06:32:23",
+    "content": "8月24日，黑龙江牡丹江海林市蔬菜村，有网友发视频称，当地“党群服务中心”在工作时间无人值守。\n\n据该网友介绍，当天下午2时至3时，其前往该中心办事，却发现大厅内空无一人，连保安也不在。多次拨打相关电话后，也始终无人接听。对此，该网友质疑：“为人民服务的口号喊得挺响亮，上班人都看不见。”\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092016601361179052_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092016601361179052_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092016601361179052_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1590,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092016601361179052",
+    "source": "telegram",
+    "telegramId": "51594",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51594",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 5
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "😁",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092016605022871793",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 06:32:26",
+    "content": "近日，一位网友因在抖音搜索“饭里有毒，谁吃谁死”，随后接到警察来电，被询问是否购买过涉毒物品，并被要求去派出所做笔录。\n查看原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092016605022871793_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1620,
+    "originVideos": "https://cdn4.telesco.pe/file/e6a7480e82.mp4?token=B_s6g4ZTy9Gz2ZgHcg-N0NVw-RnNF06rZo9bdWDDsHJA819z0IMvwnvh2dg1qMQznqwkMrhmBwNRr7JeiK5Fo849MeEfMWPNEj7GeguYZy7YSgvAZpXAYI1mb0ogRE9vdh0q-DiSOdAyEhJcDkPRzY6XdfP6IthAvNdbCdhV5F266sFlFBti7OO4kN8w9pmXzzDQhbqLwRUlbshAA4pwemSBjQgAce5KkdQrnPHtP8TVhqCu9uHRnjpDmBqWaeeGUtYwaVjoAwpkp7SVCoy51PiW3gAY7YA8f0jh8fNNxPZK28CGStKR1lNQJcMN6wYh7E_D6EuTHEFC-TzG_ngxzg",
+    "link": "https://x.com/whyyoutouzhele/status/2092016605022871793",
+    "source": "telegram",
+    "telegramId": "51598",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51598",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 12
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "😁",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "🤡",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092024154568499462",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 07:02:47",
+    "content": "8月21日，一艘载有20名中国籍船员的巴拿马籍散货船“海洋赢家号”（Ocean Winner）在印度东部孟加拉湾海域沉没。\n\n该船共有24名船员，包括20名中国籍、3名缅甸籍和1名孟加拉国籍。\n\n目前仅有2名中国籍船员获救，其余22人仍然失踪，其中包括18名中国籍船员。\n\n两名获救船员称，货轮发生倾斜后，仅约8分钟便完全沉没，船员被迫弃船。事发时，该船刚从印度帕拉迪普港装载超过7万吨铁矿石，正驶往中国。\n\n印度海岸警卫队和海军已经出动舰艇及P-8I海上巡逻机继续搜救。截至8月24日，尚未传出新增获救人员的消息，事故原因仍在调查中。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092024154568499462_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092024154568499462_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1600,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092024154568499462",
+    "source": "telegram",
+    "telegramId": "51599",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51599",
+    "reactions": [
+      {
+        "emoji": "🕊",
+        "count": 10
+      },
+      {
+        "emoji": "🍾",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092031702759817700",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 07:30:03",
+    "content": "“能让你投票的，票本身就没用”\n\n8月16日，一名安徽网友在小红书以“体制内工作氛围烂成啥样了”为题发帖，引起网友广泛讨论。\n\n来自多地的网友集中吐槽体制内存在人情关系、形式主义、推诿甩锅、分工不均和新人被压榨等问题。\n点赞较多的评论写道：“时时处处都是人情世故，但时时处处都没有人情味儿”“庙小妖风大，水浅王八多”。\n\n有网友总结：“规矩挂墙上，所有事情有人情就不用规矩；大事开小会，小事开大会，能让你投票的，票本身就没用；所有事情流程规范最重要，事情本身并不重要。”\n\n其他网友则称：“忙的忙死，闲的闲死”“没关系就是一辈子底层”“认真做事的被当成耗材”；还有人表示，二十多人的单位有八名领导，年轻人则承担杂活、窗口和值班任务。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092031702759817700_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092031702759817700_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092031702759817700_2.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092031702759817700_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1610,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092031702759817700",
+    "source": "telegram",
+    "telegramId": "51601",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51601",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 5
+      },
+      {
+        "emoji": "🤬",
+        "count": 4
+      },
+      {
+        "emoji": "🤮",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092039257493803514",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 08:00:26",
+    "content": "堪比监狱\n\n8月23日，网友发视频展示湖南衡阳衡东县二中宿舍内部情况，14人一间，上下铺铁架床锈迹斑斑，木板老旧破烂，厕所为双排蹲坑。\n国内有媒体报道后，目前原视频已被删除。\n\n网友评论：公厕都比这宿舍干净整洁。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092039257493803514_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092039257493803514_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092039257493803514_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092039257493803514_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1720,
+    "originVideos": "https://cdn4.telesco.pe/file/c4617bca4a.mp4?token=qmBvI2_XXXlRzhs-qqjNMwQJv0dHhBIHnXTa1AgGZDtucuComTslnTNIamUiZfdDm-hdTpBZTYvvmsrNWClPCCJB2s4ty-9mvYZFyO9Y3nLbo32MQVBz4M-Oj62HXcJfowaxTH5OWD74Qk74bastOrfwHn-im36odqBSRARHVkuERJHleSfQP5bFp6SJ5LH6auba6jrpXpZzqPDrF4UKvUCUD4GStCOhFdEfi2c7tge4TzUilOTC0h7yGxcgLQM8-vT0ai2gE6FcyLcS6eyJBhFYRsAlRu4z5X1iaHyXhUDklCrFjvfZZQN7HlTZlbrpSLWzWuU4VqQILlREgUIfwQ",
+    "link": "https://x.com/whyyoutouzhele/status/2092039257493803514",
+    "source": "telegram",
+    "telegramId": "51605",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51605",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 8
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "💩",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092054353356128361",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 09:01:07",
+    "content": "“我是追鼠记”\n8月22日，一博主讲述了民间反偷拍者“追鼠记”周宁河的故事。\n\n几年前，福建人周宁河因发现姐姐家附近有人遭到偷拍、视频甚至被上传至色情网站，开始关注偷拍产业。\n\n此后，他通过逐帧分析偷拍视频中的酒店标识、房间布局、校牌等细节，反向寻找拍摄地点和偷拍设备。2025年，他辞去工作，全职从事反偷拍调查。\n\n近四年来，他积累了近6万个偷拍证据文件夹，并协助警方端掉19个偷拍犯罪团伙。其中，他曾花费近一年追查山东济南、泰安20多家洗浴中心的系列偷拍事件，最终从镜面反射中锁定偷拍者；也曾凭偷拍视频中模糊的校牌信息，跨省追查到湖南永州一所小学，协助警方抓获偷拍女童的嫌疑人。\n\n与此同时，他也成为偷拍产业链的报复对象。个人身份、联系方式乃至曾经的住址遭到曝光，还有人利用他的照片制作AI色情内容、短信轰炸，甚至在偷拍群中悬赏威胁其人身安全。\n\n面对这些风险，周宁河仍选择继续追查。他将自己取名为“追鼠记”而非“捕鼠记”：因为他并不认为一个人能够消灭所有偷拍者，但只要持续追踪，就至少能让这些躲在暗处的“老鼠”有所忌惮。\n他说：“猫的存在不一定能抓到老鼠，但至少\n能让老鼠不停躲逃，不敢那么器张。”\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092054353356128361_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092054353356128361_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092054353356128361_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1780,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092054353356128361",
+    "source": "telegram",
+    "telegramId": "51610",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51610",
+    "reactions": [
+      {
+        "emoji": "👍",
+        "count": 17
+      },
+      {
+        "emoji": "👎",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092061899856724151",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 09:31:23",
+    "content": "近日，山东菏泽，一名自称华瑞集团副总的男子公开质疑牡丹区校园餐食材招标结果。\n其称，华瑞集团作为米面油肉生产企业，此次报价低于部分中标贸易企业，却因综合评分较低未能中标。\n对此，他质疑评审标准及招标流程，并指出当地招标项目为何选择外地招标公司和专家评审。\n该男子表示，将就此事持续实名反映情况，要求牡丹区教体局给出合理解释。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092061899856724151_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1840,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092061899856724151",
+    "source": "telegram",
+    "telegramId": "51613",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51613",
+    "reactions": [
+      {
+        "emoji": "👍",
+        "count": 4
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      },
+      {
+        "emoji": "👏",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092069452548550985",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 10:01:50",
+    "content": "8月24日，河南新郑市龙湖镇，有网友发视频称到永兴办公楼讨薪时，却遭房东包庇公司将讨薪维权者锁在楼内，限制人身自由，涉嫌非法拘禁。网友表示投诉后也无人处理。\n查看原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092069452548550985_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092069452548550985_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 3,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1850,
+    "originVideos": "https://cdn4.telesco.pe/file/07f65711f9.mp4?token=ouUBIUB7BfvxahCe5QOmc9SlHXnYIwI63gmyGe4JR4FTzkHk3Bavpoc2uayGmBrM3GsYy8uP-5n5s1i_0O4IYXXGjwwyXot1nyGhRimnE6Qxq2gMkaVswWoPShTYhBdO87cZHpHVNokJ7tMHN2aoUfc40CIkL9ND89zQkdroOKhGA8VpKWOTJkBhvZ3S4CQAGgehWWvKg4goizHi4EWBe9veLq2e7BHwv7SucovrzldCw86l4J-7BWix7M32j17wknyTCENbyu49y1ioptAAx_FBlkZ8c8BF-XvHWp0Fi7JsgV98kDNAjtU3jE11uspTkaREC4pYmYLA3R_sv2zrPA,https://cdn4.telesco.pe/file/ac0e542290.mp4?token=Sk3DIAXyIHzf5MSKM6EDQiks50xdfQbh8mNy4SAbKHQEPaT_gezg4PBCA8PPQA5oyQ52Ww9Bn1jT6dXSnDxnj2ZL73dgSxxGhdAz7Lrp6ewRpyZBs2RuJMbG1fm6y6tIzq7d1LdgOnMzeVlnqCXZgDZyp0ZNE9s8ggfcBKmve_lhFQch6qFL5os4Dy682xq-y2HfIPxP3ClYaamB4d6OeoTwIMP__EJJCPLn5guLG5HfNaYzJTUncgewA1dhIPKFh7a5ylKQWKc2rwA4aP4MG06tiyFmWRFwwTSuq-uGNGfcgQM_z41T5OPElCgdjxoct1MllalE-mtNJnUvdqGPMA",
+    "link": "https://x.com/whyyoutouzhele/status/2092069452548550985",
+    "source": "telegram",
+    "telegramId": "51614",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51614",
+    "reactions": [
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092077000530026945",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 10:32:09",
+    "content": "“你报备了吗？”\n\n近日，某地户外一场疑似自发声援“旺旺”的直播活动，被警方以“非法聚集”“未提前报备”以及“12345市民热线举报”为由制止。\n\n现场参与者多次要求警方给出明确的执法依据，但警察始终含糊其辞，未能出示具体政策依据，最终活动被迫终止。\n现场有群众对警方干预表达不满：“这是人民的地方，有你们什么事啊。”\n视频评论区也有网友留言：法无禁止即可为之，虽然我对直播本身并不感冒，但公共空间本应属于所有人，任何人理应享有自由活动的权利。如果说必须提前报备，那街上的广场舞、公园里唱歌练功的群体，是否也应一视同仁？\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092077000530026945_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1890,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092077000530026945",
+    "source": "telegram",
+    "telegramId": "51616",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51616",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 8
+      },
+      {
+        "emoji": "👍",
+        "count": 4
+      },
+      {
+        "emoji": "🤬",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092084550352712024",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 11:02:32",
+    "content": "8月23日，江苏商人薛建兴通过网络公开喊话贵州省委书记徐麟，反映其参与的贵州铜仁市江口县三个绿化工程项目长期拖欠工程款的问题。\n\n据其介绍，涉事项目于2017年2月至2018年8月期间陆续完工并通过验收，包括抹茶广场绿化、莲花大道沿线绿化和太平河沿岸绿化，总造价约2亿元，涉及约400名工人的权益。\n\n薛建兴称，三个项目完工验收后，至今已过去8年，但相关工程款仍未完成审计结算，款项长期被拖欠。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092084550352712024_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092084550352712024_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092084550352712024_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092084550352712024_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1930,
+    "originVideos": "https://cdn4.telesco.pe/file/c496f7adee.mp4?token=h5KRxQ5KCHHcFDk_8aw-Ajawmfbar85e7_hKB5xZs-Vr0FKbaQSuOJSyz2OexHd2gAsFi752qr4L_BYMaeJ2BrFFF2NfPUYauHlYuoTfwX4Pst068Xrd5_QwBOzmjt6aXJ6lsKoiTkAvwXbJM8byIxt-jCkIIGsZSGt9sKOsXzLEWbsUUMQHgSYhaEjFIswEZy5xpzhbhEanzXQQtpdV_PSnNPCgV3A6wmex1NuNr_3GCdHsDphoLNotH5QJMPMcYhcQQUxBv3hA3zxy4xEotuFyBbxIeDX6UlSOSiYE67Pwkj9UcMbf7sllxDQK8kDf5Bd4zULje1diDTLEcUdtWA",
+    "link": "https://x.com/whyyoutouzhele/status/2092084550352712024",
+    "source": "telegram",
+    "telegramId": "51618",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51618",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 6
+      },
+      {
+        "emoji": "🔥",
+        "count": 5
+      },
+      {
+        "emoji": "🤡",
+        "count": 2
+      },
+      {
+        "emoji": "👏",
+        "count": 1
+      },
+      {
+        "emoji": "😱",
+        "count": 1
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092092102121246936",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 11:32:47",
+    "content": "网友投稿:重庆时代峰峻事件持续发酵后，某地政府部门在微信群发布舆情风险提示，称需警惕“境外势力”借此事关联中国其他敏感政治事件，并提及网络上可能出现“文革2.0”“堪比六四”“中国第一次合法游行”等相关言论。\n查看原文\n\n📝 引用推文:\n8月18日，重庆时代峰峻抗议现场\n当晚8点，现场冲突升级。几名女粉丝遭遇现场抗议者围堵挑衅。\n随后女粉丝将手中冰块泼出，旋即遭遇现场抗议者泼水，飞踹。\n警察抓捕带走数人。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092092102121246936_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 27,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2120,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092092102121246936",
+    "source": "telegram",
+    "telegramId": "51622",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51622",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 13
+      },
+      {
+        "emoji": "🤣",
+        "count": 11
+      },
+      {
+        "emoji": "😁",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092107198709047711",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 12:30:24",
+    "content": "8月初，杭州一名女子控诉其在云山郡公寓电梯遭到性骚扰。在一起争执中，一名男子对其使用猥亵动作并将其推倒在地。事后警方未认定男子存在猥亵行为，并将该女子其和同行的朋友留置了一晚。\n事件近日获得网友关注后，该女子的抖音账号遭禁言，只能以修改账号简介等方式更新案件进展。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092107198709047711_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092107198709047711_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092107198709047711_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1940,
+    "originVideos": "https://cdn4.telesco.pe/file/5202f51231.mp4?token=UqSO21O-Nc-NOoqrEXc5U3S-Wk4EHhycinNXL2NvtaZclu_yi514dqBTZjvND05nAvEDOTXqWBoMaOOVjbkFhrm4kZBoXdFBJuwJfsQ7BQgnhjlASji4mR5U-8ACF_66fM9WT3wZCMTi0gQ1y2ts5yWjyOxHzPeZBo2c-5TGYVZ4w6oKIjyxSIh8mQHMNBSb0QkbIkfcGIagE_rTLrXAXWtSrRBj9ZMRO_T2x6-mvcYY_JDqm0vV_AG042knVDCAkyWDAfODRfko_171ngmJMbOtRtU6bgOMt-z1WN2FenZzk9KSYkE4fjiIXYVFqNiUOEFxTTvVc5u2ryXfH7RRiifPlYVFdJX7pmf42OMuKFFSuFy77itt4HvuZkvzT8fnC59kQdV9s9QCpZK9bkBwpBk6_J7QU_CfvAal9WH9urNSOq_vDlwbxOfCPvWp5yh7Xb46ZW9L5cICmc75JEOQlA3_TcPasQjoIOLh_QzYBM2J_bKFcTdBIyZPeZK4qFGpb2aVaA337IeK1-BkGTgTOz_jbSjNq8mWbxESobxHtYjmaEYKcXK4yUhhV3bnfLFRNTjHATif-te0eNnrZEeP8aNXfetqaGlpfgeLMxP6r1BPg7za1XZlxnbc_v47mOyA6vNJMxPiaHXoNKfXkjLxsboHiFpWTFC_8-7sJaaTg-I,https://cdn4.telesco.pe/file/9efb288c9f.mp4?token=PqqSR0ejCKWzda-8All1GvHhdos8NqWY9wDpib4qVe4ANiCBopfFzJeMHuawmiVJQsu2t0MlhKH0t80g7QFaKQ8rs1lScCKxpQd-yXsD-TPGXv_vcniFrnoEQJT69kIDwW9Is4MNkM5LtWVPJ0LyH-Ww7LgZnNp2EF1GpROPGXWT0ZPBjC9s57RYvVXuNdFtKr-NeauuYOG-CMc7aJwKxjPDYERRGYQsMFK7y2-QlS3SkVmMsGCwcct9YMt2DV0sN1pFgMx0gYrMsv0P2UhDbqlM3Yk1qB6vUyzqwNfwuwq7cfMB3rQT-cthPXOJ6ls8-e0tRSTvAD9SsVK4tjQSEg",
+    "link": "https://x.com/whyyoutouzhele/status/2092107198709047711",
+    "source": "telegram",
+    "telegramId": "51623",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51623",
+    "reactions": [
+      {
+        "emoji": "🌚",
+        "count": 8
+      },
+      {
+        "emoji": "🤮",
+        "count": 4
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "👎",
+        "count": 2
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092119781331845613",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 13:21:50",
+    "content": "重庆时代峰峻事件后续:\n多名网友称， 警察陆续打电话，传唤近几日在江边清理栏杆上涂鸦的人。\n查看原文\n\n📝 引用推文:\n8月19日，重庆南岸区长江国际，粉丝留言涂鸦墙已被遮蔽物覆盖，现场附近停靠多辆警车，有多个警察在现场值守。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092119781331845613_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092119781331845613_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1860,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092119781331845613",
+    "source": "telegram",
+    "telegramId": "51627",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51627",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 11
+      },
+      {
+        "emoji": "😁",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092124814349935050",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 13:43:09",
+    "content": "网友投稿：8月24日，河南郑州三环内一处闹市区部分业主聚集维权。\n业主反映，小区附近正在新建墓地。相关官方文件显示，该项目系对原有墓地进行整改升级。\n不过，据知情人透露，该地此前为一处驾校，身边曾在此学车的朋友也证实，附近原本并无墓地。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092124814349935050_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092124814349935050_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092124814349935050_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1860,
+    "originVideos": "https://cdn4.telesco.pe/file/6ae43a8cac.mp4?token=AJmP7shRXOtfKCLFDiJSDp9TRdldQ0g4ZB0MC2g-YyMOAU0AuhG9p-RKwIqyxGDGw4DPFB_7LRvEWSJfOuswJdrf-itKgSZj593Ac4steQ1UOvqQe58dUpv0CTbv8wsvyOBJIMPmWk2XGm2OFRs_-LbVWVwOqnHWI_hZY-vlCtJT6hQknZlhadX_kn-x8ErD95lGre6bFxoiMc2HsN0usq-vgXcaV0wK2k9EoqPn1e-_Ce_OD-lqODkKQ1ma67aN3j9mx6sx_cQD2RQGywmXo31urnep0UhNvZOSMG4_U_TeY2FaaCWzRF58APBhbSSFk7jZfLVwDESVIDz48yC3nQ",
+    "link": "https://x.com/whyyoutouzhele/status/2092124814349935050",
+    "source": "telegram",
+    "telegramId": "51629",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51629",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092129849888407558",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 14:01:31",
+    "content": "8月22日，云南德宏芒市城区及周边遭遇强降雨。城区共有24处区域出现淹积水，部分居民住宅和临街商铺进水。\n\n网传视频显示，城区多条道路变成“河流”，多辆电动车倒伏或被积水淹没，市民被迫涉水上班；有居民不断用水桶向外排水，并将被浸湿的百元钞票摊在桌上晾晒。\n查看原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092129849888407558_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092129849888407558_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 2080,
+    "originVideos": "https://cdn4.telesco.pe/file/fcbeb38e26.mp4?token=FkI1Kr2QS-wkQNmNwb1Znii44LEFG09EgpwBgxwW6kmOA2RoYS9EKf7WtWG4bNxSBpRGI0_IGbw8fsljlgztXErMd-6wkXVjM1MYVJZeW78BkO8mTDijf8c6_bf5f6X0JhjNkk6zynMnmIkNl6968pgBmzlfzNxUI3zNVodDAfGSdDjapI-uies2OmG_jW3jiHRGXmAC8mYq_KY4jFdHTGSXYKNZVAvAoBaXPgJoFwGVumxyS2cIuDVY72uyG8d2bBp6OEnHK_815xgLSn7S2WNmV3YMWyugXk5adaFylpU8hQqeRjEvB0YeCN2Com_EOGUkC70P90a9HWKQ7fW3qw,https://cdn4.telesco.pe/file/a65a225423.mp4?token=R1u-pHtQUvjnDbCx0cvh2BUjjhx9FY5XkfguGGD820n7eYFbLf4WZXmWAZ-wThB-R-fQkeBF83olHbUHoJHmol4yUb5B7RTfqyeIclXsk0Q1bzfxtYqvRQpbpPqIjxzoGAMolw5Vz1ojJzN3gMJ0Dva6l00gfTcDGsBRpTBDjg_TAoQmyXL97Dal7yzKNC4MyWF6VkSekJTs0cexjufsSMVUy-1mIGXVKt4tLNeYdsVJscyKUgV18Uryx9HgOq1wvZwSU6vrbCY07LK57NJPQgf1jgwVrcii1xoOIvgpr5UqXvhyDcvdkfo3JrQDzTP1f2tDFHOqVV7x2ftgAa1KAQ,https://cdn4.telesco.pe/file/57175da496.mp4?token=GO4K0ayzAspzZhZnqG__GIoHZO14s6Bf5VwiCXiohp3b_1l1StmXfHbVgTbIJZjONci_fXmMKjkLkkfP77oFBcxaAAXnXNx5Qie9KgV-b4-mI0zPicCP7ixmHMGzgDKcbFqa-A4F89fDd18LQ538jpz4uH7lEf--8lar_ZjrFGvoXQ2ceKh_3gWBc6zmJbaHNwcMt87Ex_dL8iLJkllAP0-HVG39eJTwpk7kvkSV4qcjIZMUl7Ae6JmlD-RBbMHQf_oSbMu-9JelmQ-EAMWJDRkgu9i7hGHniZtHSI4vAYEU_zvaFosPjJFj8u6Ewl_ItI2t4xYSw1XRni6h5BT1jA",
+    "link": "https://x.com/whyyoutouzhele/status/2092129849888407558",
+    "source": "telegram",
+    "telegramId": "51633",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51633",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 3
+      },
+      {
+        "emoji": "😢",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092134880792461794",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 14:22:49",
+    "content": "“购买力是越来越爆炸，顶级。”\n\n8月8日，一名男子发布视频称，他在上海麦当劳兼职5小时赚了100元，随后拿着这100元前往大润发，测试“五个小时的劳动成果究竟能买到什么”。\n\n视频中，男子购买了约300克五花肉、香蕉、1升牛奶、白菜、鸡蛋、300克辣椒、一盒番茄和5个烧饼。\n展示完商品后，他反讽道：“购买力是越来越爆炸，顶级。”\n\n8月24日，网友发现该账号已显示“禁止发布作品”。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092134880792461794_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1810,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092134880792461794",
+    "source": "telegram",
+    "telegramId": "51636",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51636",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 12
+      },
+      {
+        "emoji": "🔥",
+        "count": 7
+      },
+      {
+        "emoji": "🤬",
+        "count": 4
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092139913802141917",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 14:41:02",
+    "content": "“我自己有妈”\n\n8月24日，天津一名网友借日本茨城县发生地震发帖称：“咱妈三令五申不让去日本不让去日本，就是不听，这下好了吧，受着吧”。\n\n有网友直接回怼：“我自己有妈🙏”。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092139913802141917_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 47,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1890,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092139913802141917",
+    "source": "telegram",
+    "telegramId": "51638",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51638",
+    "reactions": [
+      {
+        "emoji": "🤮",
+        "count": 26
+      },
+      {
+        "emoji": "😁",
+        "count": 12
+      },
+      {
+        "emoji": "👏",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      },
+      {
+        "emoji": "💩",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092144948875280540",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 15:02:15",
+    "content": "重庆时代峰峻事件后续\n8月21日，有人在事发地附近涂鸦：“时代峰峻，恋童癖公司”。\n8月24日，有人将涂鸦覆盖，改为“请允许女孩做自己”。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092144948875280540_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092144948875280540_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 34,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1820,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092144948875280540",
+    "source": "telegram",
+    "telegramId": "51639",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51639",
+    "reactions": [
+      {
+        "emoji": "👎",
+        "count": 22
+      },
+      {
+        "emoji": "👍",
+        "count": 4
+      },
+      {
+        "emoji": "😁",
+        "count": 3
+      },
+      {
+        "emoji": "👏",
+        "count": 2
+      },
+      {
+        "emoji": "🥴",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092149980148449567",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 15:20:26",
+    "content": "“甲醛白菜”风波外溢，韩国加强中国白菜进口检测\n\n8月24日，韩国食品医药品安全处表示，针对河北张家口康保县收购商用甲醛溶液为白菜保鲜一事，正通过大使馆等渠道向中方确认涉事白菜是否曾出口韩国。\n并已加强中国进口白菜的通关检查，按包装场所最多进行3次甲醛检测。\n查看原文\n\n📝 引用推文:\n8月22日，博主“渔猎齐哥”发布视频《揭秘甲醛白菜》，称其前往国内大白菜主要产区河北张家口，调查当地白菜种植、采收及运输情况。\n\n视频显示，白菜种植区域内有多辆运输车辆停靠，大量已采收白菜等待装运。现场装运工人被拍到对部分待运输白菜进行“蘸药”处理，画面中还出现疑似装有甲醛溶液的容器。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092149980148449567_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 35,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1910,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092149980148449567",
+    "source": "telegram",
+    "telegramId": "51641",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51641",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 18
+      },
+      {
+        "emoji": "🔥",
+        "count": 11
+      },
+      {
+        "emoji": "👏",
+        "count": 3
+      },
+      {
+        "emoji": "🤡",
+        "count": 2
+      },
+      {
+        "emoji": "🤯",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092155013501989162",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 15:41:47",
+    "content": "8月24日，北京大学副校长任羽中因涉嫌受贿3195万余元一审被判处有期徒刑八年，罚款260万元。\n\n据央视新闻报道，辽宁省丹东市中级法院当天一审公开宣判任羽中受贿案。\n经审理查明，2006年至2025年，任羽中利用在北大担任多项职务上的便利以及职权、地位形成的便利条件，为相关单位和个人在教育培训、升学就业等事项上提供帮助，非法收受财物共计折合3195万余元。\n\n判决消息出来后，网友纷纷表示3195万判8年，太划算了，有律师表示自己当事人诈骗不到200万就判了12年。\n查看原文\n\n📝 引用推文:\n9月17日，北京大学党委常委、 副校长任羽中涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委纪律审查和监察调查。据公开资料显示，任羽中是1998年四川省高考文科状元。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092155013501989162_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092155013501989162_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092155013501989162_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1810,
+    "originVideos": "https://cdn4.telesco.pe/file/dac7e2ef05.mp4?token=n0aQd-M38IAkYGIP1oMYgkC7lH-VDAIcutcmsRLj4-5W_OAcJ3WtU9D_FhQvTedm7uAfQkw3z8pB-n_w6Lqbnv8TtvKe0lfgRs60BuNAlXDDF8UvVY1OylAwvlQkkkkK01GIjWCzCrR7UY03VLhEgUeZza0T_4KuVHLhcIoF021qmUclf02Q2cwG1H96SDM8voB-ORO1S7FQ7ebwbWq_EsEnieB79bZFu8JWSTMijlA8Zdqa_L4WmGgpKbDNsB-2cDQ1CKy2jb3d98YSdZYBdk-qphZTOW9fwGqm-flRbKQLZdASFk5WtaCmC6MjG80VJXkVJsym6cFux0dvlDXVdw",
+    "link": "https://x.com/whyyoutouzhele/status/2092155013501989162",
+    "source": "telegram",
+    "telegramId": "51642",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51642",
+    "reactions": [
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "😁",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092160055705788565",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 16:03:15",
+    "content": "近日，广东一户渔民家属在网络求助称，7月2日，其父母在汕头南澳县后江一带驾竹筏出海时，被一艘铁船撞翻。肇事船随后驶离现场，家属称当时只看到船尾印有“后江”二字。\n\n事故中父亲获救，母亲失踪，直到7天后遗体才被打捞上岸。\n\n家属称，事发至今仍未找到肇事船只，案件也没有立案。后江码头安装有十余个监控，但家属事发36小时后要求调取监控时，被告知录像只能保存24小时，相关画面已经被覆盖。\n查看原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092160055705788565_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092160055705788565_1.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092160055705788565_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1740,
+    "originVideos": "https://cdn4.telesco.pe/file/3eddfa2427.mp4?token=G8J54c-zobR3XCjMzbEvIyYnBkgnNad3QylSHv8oG2tHBF5mhwVjqnJeYTc0D_3kI9Uhot3Zb-6HNugwjVnYR_40oPEkWj47_N9X_Gi0AqQa1yoQoZaaw043L79jKOLBJFotVBhLcbzGJejTboJmbm7GiKfFM9mL0nTCkUfbs8NwB7RRy0w1Vo30vEzl-8venVHHucWx6HXabvGxtRsFN_MKd41Yd2dwBlTX5964YUj0xqYfHjl7kzBRKgijhe08NKQAKIE1ZYcnES4A5XiOA4QrWnl4tN8MKTT_Fdr9IkFzRXBpDVhpxcF-jmfMbN4HjyhTQFtsMuNjHdshnPWerA,https://cdn4.telesco.pe/file/d748befeda.mp4?token=BH50nek4Z_-orDhTcRJsM9bcfCNnNOVvsuqgt5lUKr3aostHfOZ7QIMZwAxEKOowJPqp07N-C8FvXl7dTd9AdvZCs09wEMcpXm92UjEENMbBnHzwiNOyLeVl8a9Nq0wbIB3UVm8o9keqsre_32LsyzlT2PX8lHT1Y5uKroTIYGJBfo4uNMz7-DClkwczzbqg2V-TH5VRWvdE2CDC2iT4f42yaCs6yhj7Cv6WZgNAhVDhFcXPXEcRrsfLTiHyMX4EgnEfzrBBok-8evCi75REO4xX-kFuCxsxh38kQd7Sxbr2Y-803qVslRV2kjJ0DPfgbS7GZgGAfniDwea6M-5VLg,https://cdn4.telesco.pe/file/617707ec02.mp4?token=dYK3XqLc781DhZoAB6OQ0vJFPjydun0xdLfcQVk3nzNdHwh9MTnGiPoBzz39Y4ZtubsndeEC98W77vSSykVPnYTMXvIdffpOEKvW3E-6d4GYvifHNFwkVxyGlDUnSzci82yKBjJp5kO71_MKc-wKRTvmSLv608d6yOkt-0sNpuRHpk8w6D67nZwjxJD8iI05xuVFEc0dDfXg_JXjiP4gH8F-uhGKQmG7vCShUDTl3DlF3PJz8xPcrp4OvtjhpMuG23fxX5DDU_40GwgbU9o6QupbMJ0bhJJxnYo6lPUMQSfPEBP4HeaFyZ-D2q1lqGPoKfr-yGCCiUOWHPwti0m4ug",
+    "link": "https://x.com/whyyoutouzhele/status/2092160055705788565",
+    "source": "telegram",
+    "telegramId": "51646",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51646",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 9
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092165079957647819",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 16:21:20",
+    "content": "“三个陪钱货身份证，五年一换，变化这么大”\n\n近日，一名疑似使用家中男孩头像的短视频用户，发布了三名女孩前后两版身份证照片，对比她们五年间的外貌变化，却在画面中配文：“三个陪（赔）钱货身份证，五年一换，变化这么大”。\n“赔钱货”是传统重男轻女观念里对女儿的贬称，意思是生女儿就等于赔钱。\n截图显示，该视频仅有180多次点赞，却有200多条评论和2000多次转发。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092165079957647819_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 20,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1740,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092165079957647819",
+    "source": "telegram",
+    "telegramId": "51649",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51649",
+    "reactions": [
+      {
+        "emoji": "🖕",
+        "count": 10
+      },
+      {
+        "emoji": "🤬",
+        "count": 4
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "👍",
+        "count": 1
+      },
+      {
+        "emoji": "😁",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092170113289982449",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 16:43:14",
+    "content": "8月24日，曝光河北康保“甲醛白菜”的环保博主“啄木鸟·环保小帅”发布后续视频称，涉事人员涉嫌销售有毒、有害食品，已被刑事拘留，现场辱骂举报者的另外两人也被行政拘留。\n\n视频中，博主称，他于8月22日上午7时许实名向有关部门举报，随后与执法人员赶赴现场控制相关人员，目前已经收到立案告知书。\n\n此次调查由“啄木鸟·环保小帅”与“渔猎齐哥”合作完成：一人留在康保盯守装车现场，另一人跨省跟踪涉事车辆至安徽阜阳，并联系两地监管部门同步拦截。\n查看原文\n\n📝 引用推文:\n8月22日，博主“渔猎齐哥”发布视频《揭秘甲醛白菜》，称其前往国内大白菜主要产区河北张家口，调查当地白菜种植、采收及运输情况。\n\n视频显示，白菜种植区域内有多辆运输车辆停靠，大量已采收白菜等待装运。现场装运工人被拍到对部分待运输白菜进行“蘸药”处理，画面中还出现疑似装有甲醛溶液的容器。\n查看引用原文",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1710,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092170113289982449",
+    "source": "telegram",
+    "telegramId": "51650",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51650",
+    "reactions": [
+      {
+        "emoji": "🍾",
+        "count": 4
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "🤬",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092175162552586588",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 17:01:14",
+    "content": "“脚疼砍脚，头疼砍头”\n8月24日，深圳一位植物科普博主发布视频称，因基孔肯雅热防控要求，他正在清理自己种植的大量植物，并准备将部分植物低价转让或免费赠送给能上门自提的深圳网友。\n博主表示，自己之后可能停更，甚至不再经营这个科普账号。\n相关帖文下，多名广东网友评论称，部分社区不仅要求处理水培植物和花盆积水，土培植物、多肉、仙人球乃至空花盆也可能被清理，私人天台同样面临上门检查。\n网友讽刺道：“广东养花犯了天条”“脚疼砍脚，头疼砍头。”\n查看原文\n\n📝 引用推文:\n网友投稿\n近日，广东珠海市。社区以防基孔肯雅热疫情为由，将小区内两位阿姨的生活家具装车运走，两位阿姨撕心裂肺地痛哭阻拦。\n查看引用原文",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 17,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1750,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092175162552586588",
+    "source": "telegram",
+    "telegramId": "51651",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51651",
+    "reactions": [
+      {
+        "emoji": "🍾",
+        "count": 8
+      },
+      {
+        "emoji": "🤬",
+        "count": 5
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092180179259101499",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 17:22:25",
+    "content": "“山西铁头”博主王某钢等13人被抓，警方公开征集违法犯罪线索\n\n8月25日，山西省太原市公安局小店分局发布通告，公开征集王某钢等人涉嫌恶意索赔、敲诈勒索等违法犯罪线索。\n通告称，警方近期依法打掉一个以王某钢为首的涉嫌敲诈勒索犯罪团伙，抓获包括王某钢在内的13名犯罪嫌疑人。经查，王某钢系抖音账号“山西铁头”博主。\n目前，警方正进一步调查该团伙涉嫌违法犯罪事实，并呼吁曾受到侵害或掌握相关线索的群众提供证据。\n查看原文\n\n📝 引用推文:\n6月1日，著名打假网红“铁头”发布了自己前往靖国神社，在石柱上撒尿用红漆涂写英文“厕所”的视频。\n据悉，此举是为了兑现他此前“2024年12月31日前，去小日本干他们，干两个地方”的承诺。\n铁头曾因拍摄打假题材视频引发网友关注，但在今年二月，因在直播中自曝嫖娼经历而被国内全平台封禁。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092180179259101499_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 14,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1720,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092180179259101499",
+    "source": "telegram",
+    "telegramId": "51652",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51652",
+    "reactions": [
+      {
+        "emoji": "👏",
+        "count": 9
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "🤬",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092185212512018521",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 17:40:42",
+    "content": "8月24日，武汉工会官方账号发布一条宣传短视频，视频采用卡通形象配合配音，列举了劳动维权中的常见违规现象并配文喊话违法企业。\n视频发布后，并未达到预期的宣传效果，反而招致大量网民质疑与嘲讽：\n“中国工会唯一的作用就是防止劳动人民成立属于自己真正的工会。”\n“工会是帮助打工人的”\n“请问一下你们的作用在哪里”\n“作用堪比比奇堡的消防员”\n目前视频已被删除。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092185212512018521_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092185212512018521_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092185212512018521_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092185212512018521_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1680,
+    "originVideos": "https://cdn4.telesco.pe/file/abb46a6abf.mp4?token=BUGxQkvJCBXWc5cvJYcE0HhOkuBWfBWakJrLc_0RYwOIsOJoUXsFKSycqEVe3PvGFrg81TH60QX27U21IvSN1FC0qlpq0j3NKwiqTOxyR59aoRTKsaqZVCi7IYqRQ-axxKY8qGuICpACVFg9dGyhQaaQmilOVEv-ku5h1IL7uMWmfhnNgDtgDAz856-9Y3iiLEfb4fJsGhoTk-QeQ1y5ae6qevA-r0siqs0uKI1HQwy3S_bfC3YpPbzHzyGlXidWowlZxaZnR1WAMGzpgICEW4IqIBClsafeXMwMKF-dQaQyxVHOz9FbrXtEWMy1UWcPFF94lV4VRrSFBJbTkxDdyg,https://cdn4.telesco.pe/file/96579285ad.mp4?token=s_uBE6RoRYhzau5RZYlNTxV6lY4ZQjXd9csfovQdFaWS-WPqNgcukZXXhEeaGj9xm-lGVYIq2Ww6R5rNtPUKMKpoDp9eKHPi5QhweULVGLK6ed4O6oRNeHP-dwOi7PPqmW7hBk44lPA8qpoiE_fsk0PR0slDlT_zsfw1QCnToy5-5UkKRjAXnVL8IRoBfJ6r1IaofMoBISZdBsrDgJyZwhcV_Hdlamjc9jhJaFXrdlj6-t69f3K1qNbkbRf9cmh0mxDAHb1zuRl3pGIL24fBEK77koVG9TV_Vv0_dx04fUuPGy5iX7USs9NTCaQsh2L-2jKeVt8BAtmz4SwYd_WyVA",
+    "link": "https://x.com/whyyoutouzhele/status/2092185212512018521",
+    "source": "telegram",
+    "telegramId": "51653",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51653",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 7
+      },
+      {
+        "emoji": "🤬",
+        "count": 3
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092190256766570649",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 18:01:54",
+    "content": "8月1日，一名辽宁的网友发帖称，2021年，其父亲在微信群里相信有人可以“办理铁路正式工作”，一次性向对方转账26万元。对方承诺1至3个月上岗，站务员、乘务员、安检员可以随便选择。\n\n此后，对方先后以疫情、巡视组检查、亲属生病等理由不断拖延，承诺的岗位也从普通岗位变成行政岗、技术岗。直到五年后的今天，工作仍未落实，钱也没有退回。发帖者称，自己已于2024年通过专升本继续读书，但父亲至今仍相信对方可以把事情办成。\n\n讽刺的是，在帖子的评论中，除多名网友讲述相似受骗经历外，还有人公开讨论所谓“买铁路工作”的价格，声称\n“9万就能进”\n“16万买的”\n“硬关系得35万以上”\n“调工作要40万”。\n有人问：“26万元得干多少年才能挣回来？”。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092190256766570649_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092190256766570649_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092190256766570649_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1670,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092190256766570649",
+    "source": "telegram",
+    "telegramId": "51657",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51657",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 5
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "😁",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092195278862385604",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 18:20:06",
+    "content": "“治大国如烹小鲜，治微博如翻烙饼”\n8月23日，微博博主发文称，该账号过去曾叫“XXbot”，因微博一度不允许博主使用“bot”作为昵称而被迫改名。 如今微博却又推出“我在微博当bot”计划，鼓励用户通过投稿生产内容。\n该博主讽刺道：“真是精神分裂，病得不轻，杀掉再平反，可不是什么好传统。”\n不少网友没有直接说明联想到什么，只在转发中反复写道： “让人想到一些类似的事情” “time is a flat circle。”\n另有网友用谐音提醒：“你们一个个的不想要浩了是不是。”\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092195278862385604_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092195278862385604_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1690,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092195278862385604",
+    "source": "telegram",
+    "telegramId": "51660",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51660",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "👏",
+        "count": 1
+      },
+      {
+        "emoji": "👾",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092200311872241820",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 18:41:19",
+    "content": "8月25日，上海市新闻出版局就《恋与深空》相关争议作出回应称，叠纸公司已向玩家诚恳道歉，并明确宣布取消新男主“敖尹”的上线及后续开发计划，同时将向受影响玩家发放相应补偿。\n查看原文\n\n📝 引用推文:\n苏联笑话永不过时：从“辱女”上升到“辱华”，《恋与深空》遭大量官媒下场点名\n\n6月30日，此前陷入舆论风波的国产手游《恋与深空》 ，最终因触及政治红线、被指“影射侵华日军731部队的历史惨案”，引发大量官媒下场点名。\n迫于压力，《恋与深空》发布公告以平息事态。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092200311872241820_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1670,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092200311872241820",
+    "source": "telegram",
+    "telegramId": "51662",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51662",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 6
+      },
+      {
+        "emoji": "💩",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092205346446094730",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 19:02:33",
+    "content": "习特会前夕，美国拟以产能过剩为由对华加征7.5%关税\n\n8月24日，据彭博社报道，在习近平与特朗普预定9月24日于华盛顿会面前，美国正考虑以中国制造业产能过剩为由加征7.5%关税。\n\n具体方案或为先宣布更高税率，再暂缓部分实施，使实际有效税率落在7.5%。\n\n今年7月，美国已以强迫劳动问题为由对华加征12.5%，若再叠加此次拟议税率，特朗普第二任期内对华新增关税将恢复至约20%上限，与中方此前确认的承诺一致。中美双方同时寻求延长将于11月到期的贸易休战协议。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092205346446094730_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 16,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1770,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092205346446094730",
+    "source": "telegram",
+    "telegramId": "51663",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51663",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 13
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092210378398732562",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 19:20:54",
+    "content": "8月24日，浙江杭州。\n一男子前往玉皇山南基金小镇人才服务中心找工作\n结果工作人员否认此地为人才服务中心，并谎称这里是酒店。\n后来在男子一再追问下，不耐烦地称这里是管委会。\n查看原文",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 33,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1690,
+    "originVideos": "https://cdn4.telesco.pe/file/1aa4062acb.mp4?token=cnVw6PE73a2676sGYhnGFNc5IvSG_Y9a7odtKoeZvJ8qRI080szBXyPEM9XHO_7feuzZfYm-dYSrtlH9LVF5w9dQbX_hCWWkUaWuxZoOQRNkE5lbuj1S0sNuxxyGJSvmPLR4ct69_UvugODLd5wlbSuemXM6YmQFNZKlVzPqjgX_TPPx0_IC5gMRoEZwNfABG8aXu1iufPET_E1kklFeUCeNDFbfOFLQ-m3uZSwdRjm9F9NzGadxaEhLPWqn6Iv-rOz4p1CYp-SmZu5kq_la19nZCAWLq2zqgPRbhJ1L-3A5ugUCZBKhc9BPp1SKgy9IWNnVTVmvv7PlYEhwUer5XA",
+    "link": "https://x.com/whyyoutouzhele/status/2092210378398732562",
+    "source": "telegram",
+    "telegramId": "51664",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51664",
+    "reactions": [
+      {
+        "emoji": "🤣",
+        "count": 19
+      },
+      {
+        "emoji": "😁",
+        "count": 4
+      },
+      {
+        "emoji": "🤬",
+        "count": 3
+      },
+      {
+        "emoji": "🤡",
+        "count": 3
+      },
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092215411320221840",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 19:42:10",
+    "content": "广西三名流浪儿童靠捡垃圾果腹后续：最初发布视频的网友称，自己疑似受到威胁，相关视频也已被下架。\n\n该网友表示，此前开放的捐款渠道已被停止，账号还出现限流，无法继续发布与两名孩子相关的内容。\n\n对于网友此前寄来的快递和牛奶，网友称，自己会亲自送到几名孩子手中。\n查看原文\n\n📝 引用推文:\n广西：3名流浪儿童，靠捡垃圾果腹\n\n8月22日，广西网友曝光：在广西玉林北流市白马镇街头发现三名没人管的流浪儿童，在垃圾堆里捡垃圾吃，询问后得知已经四天没有吃东西了，平时只能捡垃圾吃。其中一个遭到父亲虐待，腿被打瘸了。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092215411320221840_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092215411320221840_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092215411320221840_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092215411320221840_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 18,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1720,
+    "originVideos": "https://cdn4.telesco.pe/file/1450d1b261.mp4?token=BMRuJd28gyW1gV9DER1n_fMypqGljnPbTSI8kcO0ulfsQybNazX_kBydY1XGFXtm2xWLj0BeuSJT1Eanz7FpWwuLa7Lbawx4R0LHKqwzIPV9DXSk19mcvTpLNLyqA6xqhkCADo9wDiZop-GvGYhfbS5n2nMj-VKJZtxj_IW_TdunXyATUfPN-P1LcW11jOWZVdMjrwY0q1by2jdw58DBMWbOv7b_HPd6ZLWOXfOpxzsx8BbfPJuEN5-S8kIXvSZ9y4ausF9kJgDm_MCFIQs9MLollFDREBvQEmmqzcuknLx3vP1164U3qHYuX2EwJ6o-I4EBddafd-pdR0nexFFjLw",
+    "link": "https://x.com/whyyoutouzhele/status/2092215411320221840",
+    "source": "telegram",
+    "telegramId": "51665",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51665",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 9
+      },
+      {
+        "emoji": "🤬",
+        "count": 5
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "👍",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092220453704339799",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 20:00:25",
+    "content": "“这个世界给我一种学啥都完蛋的感觉”\n\n8月11日，一名会拉小提琴的年轻人转行送外卖后，在抖音发布视频称：“自从跑外卖以后，差点忘记以前是干啥的了。”\n\n视频中，他一边展示自己拉小提琴的画面，一边记录夜间送外卖的生活，巨大的职业反差迅速引发关注，单条视频获赞超过23万。\n\n然而，这条视频近日爆火后，其账号也因该视频被禁止发布作品，目前主页显示“该用户被禁止发布作品”。\n\n有网友评论：“解决问题最快的方法”\n“这个世界给我一种学啥都完蛋的感觉”\n查看原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092220453704339799_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 26,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1720,
+    "originVideos": "https://cdn4.telesco.pe/file/e5e2fdab1f.mp4?token=eZzgfjH0lNIBMsLsYy6HvbfRuocMLXq7Bb4VCDXqu4pbramRU_-nkjFbQ2eFTzPXazrqXiLOvoHCuG8JCYGGdiFt3tqYAebm4Psf_G1KZqitFRsxf18HbmEUNfrfje7ZL0EO4PpWEAdCNgG7mntEPuSbq0xrP8diiXnHKe_6gKLdhPx2xW623wWBxKezLi4cfu5N8RmAoslv6UJ8kNfCza_-msjA1L2AaIfK_mDf6xx8O8ip3TK5oTM2MC7kTyndANCElUqjhkQ_FUdwVQa7ur9ELq8dh8AkOhRg4O_pW2ptRtAKhHZ0ACd9xj-5QWpsSLhsD6wqYXVClNgarnlFSA",
+    "link": "https://x.com/whyyoutouzhele/status/2092220453704339799",
+    "source": "telegram",
+    "telegramId": "51669",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51669",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 13
+      },
+      {
+        "emoji": "🤬",
+        "count": 7
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "😢",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092225478119825601",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 20:21:40",
+    "content": "双台风来袭，浙江福建启动三级应急响应\n\n8月24日，中新社报道，第20号台风”简拉维”以热带风暴级在福建泉州沿海登陆，最大风力8级，带来暴雨，局部24小时雨量可达250毫米。\n与此同时，超强台风\"沙德尔\"正逼近浙江，预计27至29日将给浙江沿海带来明显风雨。两省均启动三级防台防汛应急响应，浙江沿海已有90条客运航线停航，宁波海域在建水上施工项目全部停工，施工人员撤离上岸。\n\n中国天气网消息，北部湾台风“紫檀”将以每小时5-10公里的速度向东偏北方向缓慢移动，强度变化不大，将于25日白天掠过海南岛西北部沿海，今天夜间至26日白天在广西东南部至广东雷州半岛西侧一带沿海登陆，预计将为受影响地区带来降雨。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092225478119825601_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 8,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1740,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092225478119825601",
+    "source": "telegram",
+    "telegramId": "51670",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51670",
+    "reactions": [
+      {
+        "emoji": "🕊",
+        "count": 6
+      },
+      {
+        "emoji": "👏",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092230511330754942",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 20:43:00",
+    "content": "8月24日，河南信阳余店村，疑似因裕丰粮业有限公司非法吸收公众存款，大量村民聚集在“余店村党群服务中心”大楼前维权讨要说法，特警及相关工作人员到场维持秩序。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092230511330754942_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092230511330754942_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092230511330754942_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092230511330754942_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1700,
+    "originVideos": "https://cdn4.telesco.pe/file/6d6bf22bd6.mp4?token=i17Ivids0WPMYXDtWAcnAptnMZrR18Ix-nnhotr0FP02POL2pbGRptqCYQZIs3gtHvi7-JyNPxvqRTmituy-Oz1vmcPpvSMhust403NagwwReQuBIDyaQrCy2FQddN6RyaE0cq1s1hcFJahYnhEfDwQd8KwHsAF2P39PwWDZUhdbsheKvPhNc81SIVbK4k6qzqAj_wHdBdB5cjXNH0tMPUOw0va-2MTDtHIHqROwisw_JD3S9DSOV6NX8hB9-2365rpN-H85lP0XDTaCwDjDwqutzLa8T55uH6lU2zyud-M2qssp3IkOs5qK8-nSnciVhs6hxUdhfc8_Eyr9FA8WAw,https://cdn4.telesco.pe/file/7f5fd1eb2a.mp4?token=vADJNEuyrEEosd6KLegHtZ6x3H5oI3MYm6Vdxn924Shl38fJ1TSgBv33IuNpr5eaJyqWvMKAvLLRd1a_jvJDu7_1f3VArgBQTqbf3Rja9VLzwXIVs68izg1jVxjcZRHTXkYGTZ17ZEwuOkruiiKrNok_8J2ieWTdeJfM1XP2pPqbZfv-KIMv6LcGEBmoaFpELklevq03hcAqQvmBMkGcVDCm8jMxUBO6JHwonaEEUFxDWZ6A3IeUCZuHi3ebvx2Errm-vAGIGov2pTRrHny9RNi3w098gwjPInc3P6UYKhTI1cWDgMlkrfnLEqL9p3ClMMgWhWrNi5S1Wvv8dEfkOw",
+    "link": "https://x.com/whyyoutouzhele/status/2092230511330754942",
+    "source": "telegram",
+    "telegramId": "51671",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51671",
+    "reactions": [
+      {
+        "emoji": "⚡",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092235552523276310",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 21:01:12",
+    "content": "高兟以“侵害英雄烈士名誉罪”被判3年\n\n8月25日，70岁的艺术家高兟被河北省三河市法院以侵害英雄烈士名誉、荣誉相关罪名判处有期徒刑3年。\n查看原文\n\n📝 引用推文:\n8月16日，高兟在河北三河看守所写下一封求救信，寄给老友艾未未。\n去年8月26日，旅美艺术家高兟回国探亲时被捕。罪名为“侵害英雄烈士名誉荣誉罪”，面临三年刑期，比同类案件重得多。依据的是他近二十年前涉嫌影射毛泽东的旧作——《Miss Mao》《枪决》《忏悔》等。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092235552523276310_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 9,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1830,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092235552523276310",
+    "source": "telegram",
+    "telegramId": "51675",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51675",
+    "reactions": [
+      {
+        "emoji": "🤬",
+        "count": 6
+      },
+      {
+        "emoji": "🕊",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092240577417052586",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 21:22:26",
+    "content": "8月24日，一网友发帖称，自己半年前曾前往泰国，仅停留两天看了一场演唱会，如今却被要求前往派出所接受核查。\n\n网友晒出的聊天记录显示，对方称已向“上级部门”请示，并告诉她：“你必须要来所里核查”“周四前没核查的话，可能会影响你出入境限制”，要求她请两个小时假前往处理。\n查看原文\n\n📝 引用推文:\n近日，一名长期在海外工作的网友发帖称，自己回国后多次遭警方核查境外工作及出入境情况，警方还曾联系其母亲。\n\n在得知她即将再次出境后，警方要求她本人前往指定派出所。\n她带去了护照、毕业证、工作offer和合同等材料，但这些“根本没有用上”，真正被检查的是手机。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092240577417052586_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 13,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1730,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092240577417052586",
+    "source": "telegram",
+    "telegramId": "51676",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51676",
+    "reactions": [
+      {
+        "emoji": "🤮",
+        "count": 6
+      },
+      {
+        "emoji": "🫡",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      },
+      {
+        "emoji": "😁",
+        "count": 1
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      },
+      {
+        "emoji": "😢",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092245610380558686",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 21:40:47",
+    "content": "8月24日，河南信阳，裕丰粮业、忠兴粮油维权事件后续。有网友称，疑似有维权群众死亡，死者家属在裕丰粮业有限公司厂区大门前道路旁，一字排开摆放了大量祭奠用的花圈。\n查看原文\n\n📝 引用推文:\n8月24日，河南信阳余店村，疑似因裕丰粮业有限公司非法吸收公众存款，大量村民聚集在“余店村党群服务中心”大楼前维权讨要说法，特警及相关工作人员到场维持秩序。\n查看引用原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092245610380558686_0.jpg,/tweet/video/whyyoutouzhele/2026/08/25/2092245610380558686_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1710,
+    "originVideos": "https://cdn4.telesco.pe/file/2e7ad7a48c.mp4?token=YmxYzp17oZFTHGVbBnV3U8o5l9VsgVBaSXTXbDxBnPhzoF0XAClrvRMxT9sC6ekbPrzA2Oj2hkWUCtQA5fmdBH8r2wNILsiR49wv2y20aVWnj_rj6ThRDkio0A0EIjyVCpDoPy3dpUC1qNPuEbWLrlPmvECjFu5Q32AV1zinfkagt2Gh9yIi6oHZD7LMO48joQy7nA0wCQunsSzfDI-XNBNNRSJXnAuWh6VViI4af0wOkzqzGkQTQ0HKPS4mOK8P1AM6RmSYGprCh5Wa9P6JfrtIcvwTKXSH3jf1PcWoXeMkrhV-yR5_3S-XNoa-dH1FJ0spvTA8iUDJ-6mhTRKNhw,https://cdn4.telesco.pe/file/007a3dec3a.mp4?token=Idl0-lNZnGuX3w_0ez7U--4qyLuEoLNXyrofM4KMBotpE9CmpGsWzz2PCJiO-QBRIG9BbozHV7N_LEa7u3c8ulGFzAss_WjxlfI8GjxU9zXfY567lTHq6ihe6l2TpxmK5d5gScUUIH4xZJUKczB6hIvlVWjeslWW_O_ySnDmg-SCcMt5zBZnClSgdmdKarTbLHPYID55n2jPmfJvmZjVVvxHaJ5KZ1jOdcpVDL_VYL0u4nw0aJd0oy-GFBTxsikLe2x5MDm2OHi7jI2hh2bKL8NVwAhZGS75td1rPLjVwiugCPsSEWD95Hbl6ZmUeUba6pWiYbr4TeHnL3jOQhEuaA",
+    "link": "https://x.com/whyyoutouzhele/status/2092245610380558686",
+    "source": "telegram",
+    "telegramId": "51677",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51677",
+    "reactions": [
+      {
+        "emoji": "🔥",
+        "count": 1
+      },
+      {
+        "emoji": "🤬",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092250645189501329",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 22:02:08",
+    "content": "8月24日，河南信阳裕丰粮业、忠兴粮油维权现场，疑似县长及相关领导在护送下离开现场，大量警察、交警以及身穿黑色便衣的安保人员在现场维持秩序、双臂交叉列成双层人墙以阻挡维权群众。\n查看原文\n\n📝 引用推文:\n8月24日，河南信阳余店村，疑似因裕丰粮业有限公司非法吸收公众存款，大量村民聚集在“余店村党群服务中心”大楼前维权讨要说法，特警及相关工作人员到场维持秩序。\n查看引用原文",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2026/08/25/2092250645189501329_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1820,
+    "originVideos": "https://cdn4.telesco.pe/file/0b3cadc51d.mp4?token=rhRKRshXIAz2_dvLqS9qvpJNZ08_lAsTW12_rKImbkHmMNxunsyp-qjN3NxKuK3n2Jr-JO__LNLssrpNWLCCVWpaFG_m-IoUFUqkLjtZIex4N-0LmDjqqOkadjfXI13mxku-NIKCHizAmddbILnBUFy5_w4fhJdPUjXsCkBp5eoyTj5v8iMSJDkh7sHtf_P05f3M-MNtdqFtDRETvFurPsbUHhpYHBXoS69LBimO3iIDuyPl5bk41FVYD7KZiNg-tRdz-8wJns1k4vN-LOyiPj-EqexQnpCgoVEFsomYwRjOnNKOCyF_S-oQRhnGgzRQo3MH9c_BkB2RGrDTn-zo9Uk75_hSItmTTww_53uDuU1DT23Q-p24wTCOagFnNKDadBD373f-dzr9rSH4Kzg9JA459x36-4W-D9JKMRyF6yZtdU96NbtYhKZCtsYOf-iAMkhhdyQY1JKRHmENfIzGL4UgfU2nQHBU0nh0-u9jiqxavTMM7tpQKRcKMNtaguwaPftLV7FRzcOY9E98lLsH5oBUdZPZ-SkOyirtPtPYTLx7pqZdIdK0n_-b5C7dZbloDw9hlwqIwv8n-UdxnlcGfbggtAU5FiFGtslTTbh2sszYWqvLvRdwoqHcF3KRBG_zvUZ6MBYIuPqP08mVA3lgfP9dhtWYmrKpBy8GoeN0h5w,https://cdn4.telesco.pe/file/ab037c1e9e.mp4?token=eTJxMMwOOAqiZanpg4OChIU-rlGkKXUNgNHV36-Awvpd82EMWYRZuyhKhrHDaJrMsUUryXEO9hlkIsQLvZvxuvZQnI__cGK53TqqMrXY2eztoyJiH4wzx5oA2gOpPIqLE8Tfz6P2P2a2Xl3xaoRovbgg7PXfiqGYUWYBkVD2MQg-5hIobNJFvRaP0KF8Mrv3z9oRF162zwpkG3oeY4ggPYDXDViolzhmiqiBMdHJL3eOrhjq9PLRVd0EjB0LrhcFz0NKAWE2q2be-cGyEqLAfq1NQr4ZvP7e3CjU214nEEgv3hUqj9wWh_ncQW2yVN2vhUlcB8RAGqOWTen5nYh7fQ,https://cdn4.telesco.pe/file/6c2edc0439.mp4?token=lSJ4soLYzWRYAeIw0oOwjZmb4R8eOWUrKe-_H1owO23w6J4MfwTD9koa15r3jgwVj-aD6_twvWxFxMf6mVBQuYr5_csUuIvyWC0RtISjgEzxVL_Oe_ABhB4acImWYMaY7sDwE35EVuSsRMk51SwCGEazjksKLfuiuLnjDvEhC1UDS6hx76nc-ejsdW9AK58_FZEg5sHpyUam7CQ3CnAntVueNOh8EAslrvqh0oLrRb7Sa-c5OhVBEDbTbDk4CikSQnV8Ums7EF2UMGZJgXDRHij7UOOmakZZmlSc-bF15JO-itIMW-hrm7YtzTK_phtnIZ6vPhUI5WCV7g8jABEZVw",
+    "link": "https://x.com/whyyoutouzhele/status/2092250645189501329",
+    "source": "telegram",
+    "telegramId": "51679",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51679",
+    "reactions": [
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "🤮",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092255677364232578",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 22:20:17",
+    "content": "8月24日日，一段“禁止私自使用VPN”的宣传视频引发网友反讽。视频援引《计算机信息网络国际联网管理暂行规定》，提醒网友不得“私自使用VPN”。\n\nIP属地显示为荷兰的网友留言：“已收到，请党放心，请组织放心👏”；\n巴西网友称：“放心吧，不会再用了😭”；\n韩国网友称：“收到。从没用过。请祖国放心”；\n克罗地亚网友则表示：“收到🫡违法的事情坚决不能做”，获得4000余赞。\n还有柬埔寨网友留言：“收到 拒绝vpn 从我做起 请祖国放心🤭”。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092255677364232578_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092255677364232578_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 36,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1730,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092255677364232578",
+    "source": "telegram",
+    "telegramId": "51682",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51682",
+    "reactions": [
+      {
+        "emoji": "🤣",
+        "count": 20
+      },
+      {
+        "emoji": "🤮",
+        "count": 9
+      },
+      {
+        "emoji": "❤",
+        "count": 3
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      },
+      {
+        "emoji": "😈",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092260710273401286",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 22:41:35",
+    "content": "8月22日至25日，《人民日报》连续四天刊发中央财经系统套皮号“钟才文”的文章，唱响中国经济光明论。\n\n四篇文章先后宣称中国经济具有“强大韧性与活力”，是世界经济的“第一引擎”和“强大稳定锚”，并专门为上半年4.7%的GDP增速辩护，要求外界不要纠结于个别季度和月份的数据。\n\n但文章同时承认，中国经济仍存在“供强需弱”矛盾，地方债务、房地产和中小金融机构风险的化解正在对经济产生“收缩效应”，需要付出一定增长代价，投资“止跌回稳”也面临较大压力。\n\n8月25日的第四篇文章进一步承认，一些商品消费已趋于饱和，企业应收账款持续增长、回款周期延长，并要求尽快投放8000亿元政策性金融工具资金、稳定房地产和化解地方债务风险。\n查看原文\n\n📝 引用推文:\n7月15日，中国官方公布，2026年上半年GDP同比增长4.7%，其中二季度增速降至4.3%，单季度不及2026年官方经济增长目标4.5%—5%。\n\n同期社会消费品零售总额仅增长1.3%，固定资产投资下降5.7%，房地产开发投资下降18%。\n查看引用原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092260710273401286_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092260710273401286_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092260710273401286_2.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092260710273401286_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 24,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1770,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092260710273401286",
+    "source": "telegram",
+    "telegramId": "51684",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51684",
+    "reactions": [
+      {
+        "emoji": "🤮",
+        "count": 17
+      },
+      {
+        "emoji": "❤",
+        "count": 3
+      },
+      {
+        "emoji": "😁",
+        "count": 3
+      },
+      {
+        "emoji": "💊",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092265745363153371",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 23:02:50",
+    "content": "“税收高速增长，好日子到了”\n\n8月21日，财新援引财政部数据报道，2026年7月全国一般公共预算收入同比增长11.7%，创2025年以来单月最高增幅；\n其中税收收入增长13.9%，个人所得税同比增长25.9%。\n\n相关消息在微博评论区出现不少质疑和讽刺。有网友直接问：\n“就业率和薪水跟上了这个涨幅吗？”\n“gdp增5%，财政增11%，企业利润和百姓收入增幅多少？”\n“税收高速增长，好日子到了”\n“平台统一管理容易收税”\n“还不是个税APP，各项数据互通了”\n“个税时代”\n“杀鸡取卵式增长”\n“有钱了”\n“遥遥领先”\n“都为了化债啊同志们，你说容易么俺”\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092265745363153371_0.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092265745363153371_1.jpg,/tweet/image/whyyoutouzhele/2026/08/25/2092265745363153371_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 7,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1780,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092265745363153371",
+    "source": "telegram",
+    "telegramId": "51688",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51688",
+    "reactions": [
+      {
+        "emoji": "😈",
+        "count": 7
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092270776913203617",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 23:21:03",
+    "content": "8月25日，格隆汇发布《2020年以来全球主要经济体青年失业率变化》。\n\n2026年7月，中国青年失业率录得17.9%，前值14.9%，较上月提升了3个百分点。\n同期，美国青年失业率为8.5%，较上月下降了0.7个百分点;\n韩国为7.8%，较上月下降了0.2个百分点。\n\n2026年6月，日本青年失业率为4.2%，英国为14.6%，欧盟为15.5%。\n查看原文",
+    "images": "/tweet/image/whyyoutouzhele/2026/08/25/2092270776913203617_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 21,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1800,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2092270776913203617",
+    "source": "telegram",
+    "telegramId": "51691",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51691",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 15
+      },
+      {
+        "emoji": "❤",
+        "count": 5
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2092275809507848214",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-08-25 23:42:27",
+    "content": "网友投稿\n近日，一张华为上海旗舰店与公共厕所路牌的合照在网上爆火，引发众多游客前往现场打卡。\n25日，有网友发现，华为已迅速“派驻”警察在路牌周围驻守，禁止游客拍照打卡。\n查看原文",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 37,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1870,
+    "originVideos": "https://cdn4.telesco.pe/file/c113b0b009.mp4?token=P-ClzTxQ4KQEi0LHNC9bcg8hNVgSxH4IZ3D8ZAot7y8uScWtBJclN0o62zjhD0i9mYFwBdr15ucLYL7DjCYWgfx0fGeta2uo_zDofTH6T0I41bqkPFvZe4SO6mck7-el0KMvTZjsJs73-IXSfik05IEPswEegkA5527ROTccwSDOwtPUXGEIakSylWK9lMjLEb7Wr4aQJlP9CitAYNcF0Sn_3vSpf9Qq93StZWlUqTq3UficG027lWcDzIU74WLblaMRgfBgGOKHZE_qJGoIiUpw2NNzg7AKXmfNO2eR_CLEBnVGYdd8hCe7N0W0eI0nrcbuVdB1RgiOAHV6O0OXjF2rA_ZoAp4xj7oEmBTWaPqirwq78Ti5xWj877sb6sx0pQpiPgUqrs9tR_vVbEmqYq6Lv2ZQPBcIdoQ8RnIdvgm7Z6sotklt4UlwPkiCZTtllPzItrcbWav2yJO5JaaV4BlqB5eSGsVZpqwlGe3DnZ0_k2t_20PjAelyBTP7_70JbZrUjUgWAdya5K27CRBGFKXSuGUcyhOOzGSHxJMtqT10OmCSE97wiAEqFbjMrdYUGErqULNaa6aUFr-TPl5qF1GEs7JaOtsicYk5NpRB-Ksc1IzHe2b-ID7J8CqYFZ42l9GSn4VtkAoKRNsCy5_xUaJVsNDI0fVuQQ73F6pmvLw",
+    "link": "https://x.com/whyyoutouzhele/status/2092275809507848214",
+    "source": "telegram",
+    "telegramId": "51692",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/51692",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 31
+      },
+      {
+        "emoji": "❤",
+        "count": 3
+      },
+      {
+        "emoji": "🔥",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
   }
 ]
