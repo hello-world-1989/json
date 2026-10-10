@@ -647,5 +647,302 @@
     "telegramLink": "https://t.me/lilaoshibushinilaoshi/56918",
     "reactions": [],
     "forwardedFrom": null
+  },
+  {
+    "id": "2108814789762032079",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 15:00:17",
+    "content": "10月9日，网友拍到，云南昆明官渡区小板桥附近，多名青年男女疑似因打架而被警方用手铐“串联”押解“游街”  。\n\n视频显示，十余名青年双手被戴上手铐，依次牵连排成长队，由多名执法人员押送在街头步行过马路，其中一名青年手举喇叭播放“打架、斗殴，一律拘留”的宣传警告音。\n\n评论区网友表示：“都开始游街了吗？”\n[查看原文](https://x.com/whyyoutouzhele/status/2108814789762032079)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108814789762032079_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/10/10/2108814789762032079_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1150,
+    "originVideos": "https://cdn4.telesco.pe/file/394de38df8.mp4?token=flRYJHHyaWALWsfN2UzKktOKOQNj5A_91aUyJQDk-81Ez6ra6NzQEOTQz_4ppmm4iEO7A5XPIenqx79xvvlr6Nz7oqeZcvESpwRqJuYTnP9Udj6RMEjONJBxWmQJE9QabnvLHy7o6JMHKTF5QJteXT_T399W8sWzdqVkBTx2yWjSTUFbXvuEN-bescxx1gQgGmr1yKrJmdirO66ylEQe0DJIhoF74PIOEO3Kr5B96KfYy8oLP98t7MbnqTnZHmr1Kz7CDv7I9oE3ZCMp3ePgxFm7ye8Fx4AX4iNIkOEsHvufLuathzWKOWajbGzv5RGey7Pzm4qdwMXvCMqHiJWmtQ,https://cdn4.telesco.pe/file/35a8fdfefe.mp4?token=m4A1z9n2uISkMGvXimWilVTRLdJ1St-Hf9Xy-7krgo0dWqZkz99Gpveaax4Ib0EZ7NwyExlgXlm_AQgTnkw8L2EXcR6YVe6GjUoSkx-aSWGMukUjCkqMRY-O6qfV0pS9593VC8pwwqLLH2BD8uPunWIgInS63gkMutrrasIU1E4ocNN_ugp1e7YxWsZTf8jsSVylNiLV9uvd7um66if0yl-LD2aoALKsaMpur4HZVddZFoU1y1M5t2cRAmcjQI-8SXDXwDYkRxydMqm0s75sf3VNp1BvsslcL8ZFeQsrNbtV5RNMGl9bUK54iqLFhCaY91NTKAYGOb6loquPxMy5PA",
+    "link": "https://x.com/whyyoutouzhele/status/2108814789762032079",
+    "source": "telegram",
+    "telegramId": "56919",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56919",
+    "reactions": [
+      {
+        "emoji": "🤯",
+        "count": 4
+      },
+      {
+        "emoji": "😁",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108829896864858488",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 16:00:45",
+    "content": "网传华南理工学生用AI攻击韩国多家银行，反被AI“开盒”\n\n近日，网络安全公司CrowdStrike披露的一起针对韩国金融机构的网络攻击事件引发关注，黑客疑似为华南理工大学学生。\n\n10月7日，CrowdStrike发布调查报告称，今年9月底至10月初，韩国多家金融机构遭到网络攻击并发生数据泄露。\n攻击者利用中国开发的自动化渗透测试工具ARTEX，结合DeepSeek、智谱GLM及Grok等AI模型实施攻击，还曾询问Claude如何在韩国数据黑市及Telegram群组出售泄露数据。\n\n调查人员发现，攻击者的服务器意外暴露了Claude Code会话记录，其中一份要求AI撰写简历的提示词包含华南理工大学、住在广东茂名等个人信息。\n而这些会话记录之所以被发现，是因为这名黑客在自己的服务器上开放了目录列表功能，相当于主动把服务器里的文件目录暴露给外界。安全研究人员几乎不费吹灰之力，就找到了他的CLAUDE.md文件、Claude Code历史会话记录、ARTEX配置文件，甚至连Claude的记忆文件也一并暴露。\n不过CrowdStrike强调，目前尚无法确认这些信息是否真实属于攻击者。\n\n网上还流传的一组名为“星辰AI”的QQ群聊天记录显示，有群友发现CrowdStrike报告中提及的DeepSeek中转站疑似属于群主，并将原报告发到群内。\n随后群主宣布“站点先停止运行一下”，而后解散了群聊。\n\n有网友评论：“低智商犯罪。”\n[查看原文](https://x.com/whyyoutouzhele/status/2108829896864858488)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108829896864858488_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108829896864858488_1.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108829896864858488_2.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108829896864858488_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 12,
+    "replies": 0,
+    "retweets": 0,
+    "views": 1060,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108829896864858488",
+    "source": "telegram",
+    "telegramId": "56922",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56922",
+    "reactions": [
+      {
+        "emoji": "🤡",
+        "count": 9
+      },
+      {
+        "emoji": "👏",
+        "count": 2
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108837439037186234",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 16:31:06",
+    "content": "双十节中国网友纪念孙中山，暗中表达对民主自由的向往\n\n10月10日，中国网民通过各种方式纪念孙中山先生，并且通过展示“天下为公”及孙中山的著名观点“国家非一人之天下，非一家之天下，非一党之天下、乃天下人之天下”来表达敬意和对民主自由的向往。\n[查看原文](https://x.com/whyyoutouzhele/status/2108837439037186234)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108837439037186234_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108837439037186234_1.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108837439037186234_2.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108837439037186234_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 15,
+    "replies": 0,
+    "retweets": 0,
+    "views": 923,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108837439037186234",
+    "source": "telegram",
+    "telegramId": "56926",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56926",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 12
+      },
+      {
+        "emoji": "👍",
+        "count": 3
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108844995041997309",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 17:01:27",
+    "content": "网友称买到自己做的线“有点害怕”，评论：“自己做的，用着烧心”\n\n10月6日，一名网友在抖音发布视频，展示车内的线束部件，配文：“买到自己做的线了，真有点害怕。”评论区一句“自己做的，用着烧心”获得2.1万赞，另有人回复：“正是自己做的才知道是什么质量。”\n\n多名网友随后留言，讲述自己参与生产的经历。\n一人称：“我也不敢买自己公司做的笔记本电脑，我知道从生产到出厂的全过程，有太多你糊弄我我糊弄你的地方。”该评论获976赞。\n\n一名网友自称负责极狐车门装配，称不确定车门内是否掉落螺丝、螺丝是否全部拧到位，还提到“有几个卡扣拍断了”，并附上疑似装配现场的照片。另有网友晒出接线照片，留言：“电池线束信号是我们外包插的，你们自求多福。”\n\n视频弹幕中反复出现“问薪无愧”，还有人调侃：\n“难道同事做的就一定好吗，同一锅饭煮不出两个味”\n“没事，你同事做的也差不多”。\n\n目前该视频已下架。\n[查看原文](https://x.com/whyyoutouzhele/status/2108844995041997309)\n\n📝 引用推文:\n百万级尊界号称“稳若泰山”，懂车帝测试称3台V800刹车踏板支架全断\n\n10月8日，懂车帝发布测试视频称，3台尊界V800在100km/h至0连续紧急制动测试中，刹车踏板支架接连断裂，重刹均未撑过4脚。视频中，司机惊呼：“这刹车踏板都没了”“太吓人了”。\n[查看引用原文](https://x.com/whyyoutouzhele/status/2108084980060393492)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108844995041997309_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108844995041997309_1.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108844995041997309_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/10/10/2108844995041997309_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 857,
+    "originVideos": "https://cdn4.telesco.pe/file/8caaf5cbaf.mp4?token=rBkNd91MbIPfESumZ_l72qDAe75pZ00O8NJZjowHmkbLEvz4bSy09ZlEIk1gI7Z_fsLv41DKMS8CjNUSHYAuCJUsfg1v2VmM9sa0sYP5odN1sy0bpg834rgaOTKjWpTqqqd-ZSk8WDvqqKKsUGGG_86uP-RGXtzLvS3JJv6EiPf70aNWkGXE2olZzN3w9bGWGVeXzqmn0Fg4qec0HvAYoAFkCl_MEid-Y45tM2lXjvvz56DnslKiEdrHkzatDzBTLL8HeEJoOsBAc2RyZZum4P9iKHENp1wIOEhhndfy7LQHiOAThRuObQLnukALc13oRndMn_h6QwX4VTfexXgEFQ",
+    "link": "https://x.com/whyyoutouzhele/status/2108844995041997309",
+    "source": "telegram",
+    "telegramId": "56930",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56930",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 3
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108860099246907680",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 18:02:00",
+    "content": "女孩演绎《有的人》，网友：“叔叔没有你那么勇，写了很多却又都删掉了”\n\n10月9日，一段两名女孩玩闹、配上《有的人》诗句的视频在抖音引发讨论。\n视频中，一名女孩背着另一名女孩，并说：“有的人骑在人民身上”“啊我多伟大”“有的人俯下身子”“给人民当牛马”。\n\n一名网友留言：“小姑娘，叔叔没有你那么勇。写了很多却又都删掉了。”\n录屏中，一条弹幕写道：“有的人骑在人民身上说：啊，我在当牛马。”\n\n评论区还有网友留言：\n“小姑娘，你胆子太大了。”\n“这么小说出这么有感悟的话……自愧不如”\n“哪句真来哪句假”。\n\n目前该视频已下架。\n[查看原文](https://x.com/whyyoutouzhele/status/2108860099246907680)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108860099246907680_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108860099246907680_1.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2026/10/10/2108860099246907680_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 4,
+    "replies": 0,
+    "retweets": 0,
+    "views": 735,
+    "originVideos": "https://cdn4.telesco.pe/file/0234a8cb88.mp4?token=keoenf5XhrDcCeLnuLjetcAkpWKPuLlKv9Xi3yFOUZZzc7X7KhEowVX2Zth-DH44zNYpWmJYd8-wIOZUOhSXD2hR9MTVQVwnxiBPUOuUnbjoVkPdjzqYpDWc7HwK3q9-bBDGSNWPO5_O19kLmk6K2lYUtT-IigqJ0f4trevRmocUDqjqk212VQPykAtgN6_mSdHee94P8R7KrmFkud95ArQI4sw43qDzXkIN7bnQrxH_pMZjHeEVsLBbd0vbT5vW66ybDpOWmNlCc4sCSu07qIHnuTZhEYqeNtOP21L_jepyTVvzyAXWN0AXsN-tx7ZubYcuU5rYJciWvKh_nQJotQ",
+    "link": "https://x.com/whyyoutouzhele/status/2108860099246907680",
+    "source": "telegram",
+    "telegramId": "56934",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56934",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 2
+      },
+      {
+        "emoji": "🔥",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108875192936353903",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 19:03:34",
+    "content": "网友将《孤勇者》改编成《智慧者》讽刺华为汽车：“谁说封号捂嘴的不算英雄”\n\n近日，一段名为《智慧者》的网友二创视频引起热议，该视频以《孤勇者》为模板，将华为汽车相关争议与对企业处理负面声音方式的讽刺写进歌词。\n副歌把“看你断轴在街上”“看你法务的出场”接连唱出，随后反复唱道：“谁说封号捂嘴的不算英雄。”\n\n歌词还写有“知了被下架全网”“众多明星营销的才是第一”，并在后段以“你的录播，与众不同”等句子嘲讽品牌宣传，最后唱道：“谁说古法路测的才算造车。”\n[查看原文](https://x.com/whyyoutouzhele/status/2108875192936353903)\n\n📝 引用推文:\n全网疯狂踩刹车\n\n10月8日，华为尊界V800在懂车帝测试视频中连续出现刹车断裂的情况引发全网关注，华为后续在公告中坚称尊界刹车系统高于国家标准，将为已交付用户提供免费升级选择。\n[查看引用原文](https://x.com/whyyoutouzhele/status/2108548031456891185)",
+    "images": "",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 580,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108875192936353903",
+    "source": "telegram",
+    "telegramId": "56937",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56937",
+    "reactions": [
+      {
+        "emoji": "❤",
+        "count": 1
+      },
+      {
+        "emoji": "🔥",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108882739047084225",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 19:30:04",
+    "content": "“避孕套出现，是生育率下降主因，建议厂家故意掺一些会漏的避孕套卖给大家，以此提高生育率”\n\n10月9日，《香港01》报道：统计处数字显示，2025年中至2026年中，出生人数为2.97万人，首度跌穿3万大关，成1960年代有纪录以来的新低。\n\n《am730》创办人施永青9日在报章刊登一篇题为《避孕套的出现是生育率下降主因》的文章，直指“避孕套的出现是生育率下降主因”。\n\n文章称，若人类要提升生育率，不应只顾经济因素，政府若能从避孕套的角度去切入研究，“最简单而有效的方法，莫如规定避孕套公司推出市场的产品，必须有一定比例是不合规格的次货，也就是说，这些避孕套是会漏的，一样会令女性受孕的”。施永青说，政府就可以透过调校避孕套出厂时的次货比例，去调校管辖地区的生育率。\n[查看原文](https://x.com/whyyoutouzhele/status/2108882739047084225)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108882739047084225_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108882739047084225_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 10,
+    "replies": 0,
+    "retweets": 0,
+    "views": 563,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108882739047084225",
+    "source": "telegram",
+    "telegramId": "56938",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56938",
+    "reactions": [
+      {
+        "emoji": "🤮",
+        "count": 9
+      },
+      {
+        "emoji": "🤡",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108890293244428757",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 20:00:23",
+    "content": "“能不能说人话”：官媒要求华为回应产品安全问题\n\n10月10日，新疆维吾尔自治区新闻办公室旗下官方账号“新疆发布”发表文章《回应产品安全问题能不能说人话》，针对近期尊界刹车踏板支架断裂争议，呼吁车企正面回应消费者对产品安全的质疑。\n\n文章发布后，“新疆发布”还在评论区与质疑的网友展开交锋。  不久文章显示“根据作者隐私设置，无法查看内容”。\n[查看原文](https://x.com/whyyoutouzhele/status/2108890293244428757)\n\n📝 引用推文:\n全网疯狂踩刹车\n\n10月8日，华为尊界V800在懂车帝测试视频中连续出现刹车断裂的情况引发全网关注，华为后续在公告中坚称尊界刹车系统高于国家标准，将为已交付用户提供免费升级选择。\n[查看引用原文](https://x.com/whyyoutouzhele/status/2108548031456891185)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108890293244428757_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108890293244428757_1.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108890293244428757_2.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108890293244428757_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 5,
+    "replies": 0,
+    "retweets": 0,
+    "views": 438,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108890293244428757",
+    "source": "telegram",
+    "telegramId": "56940",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56940",
+    "reactions": [
+      {
+        "emoji": "🔥",
+        "count": 4
+      },
+      {
+        "emoji": "❤",
+        "count": 1
+      }
+    ],
+    "forwardedFrom": null
+  },
+  {
+    "id": "2108897839611064744",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "name": "李老师不是你老师",
+    "createdDate": "2026-10-10 20:30:41",
+    "content": "10月10日，微信朋友圈有大量网友用色彩拼图暗示青天白日满地红旗帜，隐晦庆祝中华民国国庆日，后被微信官方限制社交功能。\n[查看原文](https://x.com/whyyoutouzhele/status/2108897839611064744)",
+    "images": "/tweet/image/whyyoutouzhele/2026/10/10/2108897839611064744_0.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108897839611064744_1.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108897839611064744_2.jpg,/tweet/image/whyyoutouzhele/2026/10/10/2108897839611064744_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 2,
+    "replies": 0,
+    "retweets": 0,
+    "views": 300,
+    "originVideos": "",
+    "link": "https://x.com/whyyoutouzhele/status/2108897839611064744",
+    "source": "telegram",
+    "telegramId": "56944",
+    "telegramLink": "https://t.me/lilaoshibushinilaoshi/56944",
+    "reactions": [
+      {
+        "emoji": "😁",
+        "count": 2
+      }
+    ],
+    "forwardedFrom": null
   }
 ]
